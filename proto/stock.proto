@@ -1,0 +1,120 @@
+syntax = "proto2";
+
+package tutorial;
+
+// One day historical data
+message OneDayData {
+  // int32 in the format of '20180409'
+  required int32 date = 1;
+  // open price
+  required float open = 2;
+  // highest price
+  required float high = 3;
+  // lowest price
+  required float low = 4;
+  // close price
+  required float close = 5;
+  // adjusted close price.
+  // An adjusted closing price is a stock's closing price on
+  // any given day of trading that has been amended to include
+  // any distributions and corporate actions that occurred
+  // at any time prior to the next day's open.
+  required float adjclose = 6;
+
+  // daily trade volume
+  required float volume = 7;
+
+  // numerator for a split
+  optional int32 numerator = 8;
+  // denominator for a split
+  optional int32 denominator = 9;
+  // whether it is split or not
+  optional bool is_split = 10 [default = false];
+}
+
+// All the historical data for one stock
+message OneStockHistoryData {
+  message Split {
+    // Split date
+    required int32 date = 1;
+    required int32 numerator = 2;
+    required int32 denominator = 3;
+  }
+  required string name = 1;
+  // Stored in the inversed order
+  repeated OneDayData one_day_data = 2;
+  // map of date to index in 'one_day_data'
+  map<int32, int32> date_index_map = 3;
+  repeated Split splits = 4;
+}
+
+// Data structure to store stock summary data
+message OneStockSummary {
+  required string symbol = 1;
+
+  // which index composite it belongs to. NASDAQ? NYSE? AMEX?
+  required string index = 2;
+
+  // Full company name
+  required string full_name = 3;
+
+  required float market_cap = 4;
+  required string sector = 5;
+  required string industry = 6;
+}
+
+// data structure used for intra-day
+message OneTimeSlotData {
+  // Time in 1312 (13:12)format
+  required int32 time_val = 1;
+  required float open = 2;
+  required float close = 3;
+  required float high = 4;
+  required float low = 5;
+  required int32 volume = 6;
+}
+
+// One intra-day data
+message OneIntraDayData {
+  required string symbol = 1;
+
+  // date in 20180415 format
+  required int32 date = 2;
+
+  // resolution of time, i.e. 1min, 2min, 5min ...
+  required int32 resolution = 3;
+
+  repeated OneTimeSlotData data = 4;
+}
+
+// Data structure to store stock portfolio
+message Portfolio {
+  message OneStockPortfolio {
+    required int32 volume = 1;
+    required float purchase_cost = 2;
+    required float current_price = 3;
+  }
+  // available cash that can be used to buy new stocks
+  required float available_cash = 1;
+  // All the balance of the portfolio,
+  // Equal to available_cash + all the stock asset
+  required float balance = 2;
+  // Map stock name to one stock portfolio data
+  map<string, OneStockPortfolio> data = 3;
+}
+
+message Transaction {
+  enum Type {
+    BUY = 0;
+    SELL = 1;
+  }
+  required Type type = 1;
+  required string symbol = 2;
+  required int32 amount = 3;
+  required float price = 4;
+  required float commission_fee = 5;
+  required int32 date = 6;
+  
+  // for intra-day trading
+  required int32 time = 7;
+}
