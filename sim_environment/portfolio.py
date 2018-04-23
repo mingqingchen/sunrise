@@ -37,6 +37,10 @@ class PortfolioManager:
     """ Get volume of currently holded symbol. """
     return self.portfolio_.data[symbol].volume
   
+  def get_buy_price(self, symbol):
+    one_holding = self.portfolio_.data[symbol]
+    return one_holding.purchase_cost / one_holding.volume
+  
   def buy_stock(self, transaction):
     """ Buy amount of symbol stocks at price
     Return True for successful buy, 
@@ -51,8 +55,10 @@ class PortfolioManager:
     
     purchase_cost = transaction.amount * transaction.price
     required_money = purchase_cost + transaction.commission_fee
+    print('Intended purchase: ', transaction)
     if required_money > self.portfolio_.available_cash:
       print('Failed to buy due to insufficient cash during buy transaction. ')
+      print('Available cash: {0}'.format(self.portfolio_.available_cash))
       return False
     self.portfolio_.available_cash -= required_money
     symbol = transaction.symbol
@@ -62,7 +68,8 @@ class PortfolioManager:
     else:
       self.portfolio_.data[symbol].volume = transaction.amount
       self.portfolio_.data[symbol].purchase_cost = purchase_cost
-    print('Successfully purchase ', transaction)
+    print('Transaction completed succesfully!')
+    print('Available cash: {0}'.format(self.portfolio_.available_cash))
     return True
 
   def sell_stock(self, transaction):
@@ -90,5 +97,7 @@ class PortfolioManager:
     self.portfolio_.data[transaction.symbol].purchase_cost *= ((cur_amount - transaction.amount) / float(cur_amount))
     self.portfolio_.data[transaction.symbol].volume -= transaction.amount
     self.portfolio_.available_cash += (transaction.amount * transaction.price)
+    if self.portfolio_.data[transaction.symbol].volume == 0:
+      del self.portfolio_.data[transaction.symbol]
     print('Successfully sell ', transaction)
     return True

@@ -25,35 +25,48 @@ def main(_):
 
   du = display_util.DisplayUtil()
   
-  stock_list = ['AMZN', 'ISRG']
-  for stock_name in stock_list:
-    sim_name = 'Buy {0} and hold'.format(stock_name)
-    sim = simulation.Simulation(sim_name)
-    sim.set_start_date(start_date)
-    sim.set_end_date(end_date)
-    sim.deposit_fund(initial_fund)
-    strategy = trade_strategy.BuyAndHoldOneStockTradeStrategy(stock_name)
-    sim.set_trade_strategy(strategy)
-    sim.set_data_manager(dp)
+  if False:
+    stock_list = ['AMZN', 'ISRG']
+    for stock_name in stock_list:
+      sim_name = 'Buy {0} and hold'.format(stock_name)
+      sim = simulation.Simulation(sim_name)
+      sim.set_start_date(start_date)
+      sim.set_end_date(end_date)
+      sim.deposit_fund(initial_fund)
+      strategy = trade_strategy.BuyAndHoldOneStockTradeStrategy(stock_name)
+      sim.set_trade_strategy(strategy)
+      sim.set_data_manager(dp)
   
-    sim.run()
-    transactions, datetime_list, balance = sim.get_simulation_run_result()
-    du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
+      sim.run()
+      transactions, datetime_list, balance = sim.get_simulation_run_result()
+      du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
   
-  for stock_name in stock_list:
-    sim_name = 'Buy {0} and sell EOD'.format(stock_name)
-    sim = simulation.Simulation(sim_name)
-    sim.set_start_date(start_date)
-    sim.set_end_date(end_date)
-    sim.deposit_fund(initial_fund)
-    strategy = trade_strategy.BuyAndSellOneStockEODTradeStrategy(stock_name)
-    sim.set_trade_strategy(strategy)
-    sim.set_data_manager(dp)
+    for stock_name in stock_list:
+      sim_name = 'Buy {0} and sell EOD'.format(stock_name)
+      sim = simulation.Simulation(sim_name)
+      sim.set_start_date(start_date)
+      sim.set_end_date(end_date)
+      sim.deposit_fund(initial_fund)
+      strategy = trade_strategy.BuyAndSellOneStockEODTradeStrategy(stock_name)
+      sim.set_trade_strategy(strategy)
+      sim.set_data_manager(dp)
   
-    sim.run()
-    transactions, datetime_list, balance = sim.get_simulation_run_result()
-    du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
+      sim.run()
+      transactions, datetime_list, balance = sim.get_simulation_run_result()
+      du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
 
+  sim_name = 'BuyDropStockTradeStrategy'
+  sim = simulation.Simulation(sim_name)
+  sim.set_start_date(start_date)
+  sim.set_end_date(end_date)
+  sim.deposit_fund(initial_fund)
+  strategy = trade_strategy.BuyDropStockTradeStrategy(watch_time = 30, drop_threshold=-0.02, watch_time_drop_threshold=-0.015, rebound_sell_threshold=0.01, num_slot=10)
+  sim.set_trade_strategy(strategy)
+  sim.set_data_manager(dp)
+  
+  sim.run()
+  transactions, datetime_list, balance = sim.get_simulation_run_result()
+  du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
   du.display()
 
   
