@@ -171,6 +171,10 @@ class BuyDropStockTradeStrategy(TradeStrategy):
     for symbol in self.meet_drop_dict_:
       if self.num_available_slot_ <= 0:
         break
+    
+      # We will not increase holded amount for the same stock, to reduce the risk
+      if symbol in portfolio.get_current_hold_symbol_list():
+        continue
       
       one_time_data = self.meet_drop_dict_[symbol]
       open_price = data_manager.get_one_time_slot_data(symbol, 0).open
