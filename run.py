@@ -11,6 +11,7 @@ import util.display_util as display_util
 import proto.stock_pb2 as stock_pb2
 import util.datetime_util as datetime_util
 import util.data_provider as data_provider
+import util.sim_html_report as html_report
 
 
 FLAGS=None
@@ -19,8 +20,8 @@ k_data_folder = './data/intra_day/'
 def main(_):
   dp = data_provider.DataProvider(FLAGS.data_dir)
   
-  start_date = 20180416
-  end_date = 20180420
+  start_date = 20180423
+  end_date = 20180423
   initial_fund = 200000
 
   du = display_util.DisplayUtil()
@@ -66,8 +67,10 @@ def main(_):
   
   sim.run()
   transactions, datetime_list, balance = sim.get_simulation_run_result()
-  du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
-  du.display()
+  report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance)
+  report.export('./report')
+  #du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
+  #du.display()
 
   
 if __name__=="__main__":

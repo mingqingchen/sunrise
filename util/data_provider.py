@@ -121,19 +121,35 @@ class DataProvider:
       low_list.append(one_slot_data.low)
     return time_list, open_list, close_list, high_list, low_list
 
-  def __prepare_display_one_symbol_one_day(self, symbol, one_stock_data):
+  def __prepare_display_one_symbol_one_day(self, symbol, one_stock_data, transactions):
     time_list, open_list, close_list, high_list, low_list = self.__prepare_one_stock_data_list(one_stock_data)
-    displayutil = display_util.DisplayUtil()
-    displayutil.display_trend(time_list, open_list, close_list, high_list, low_list)
+    
+    k_open_close_line_width = 3
+    k_min_max_line_width = 1
+    for k in range(len(time_list)):
+      plt.vlines(time_list[k], low_list[k], high_list[k], 'k', linewidth = k_min_max_line_width)
+      if open_list[k] <= close_list[k]:
+        plt.vlines(time_list[k], open_list[k], close_list[k], 'g', linewidth = k_open_close_line_width)
+      else:
+        plt.vlines(time_list[k], open_list[k], close_list[k], 'r', linewidth = k_open_close_line_width)
+
+    minimal_val = min(low_list)
+    maximal_val = max(high_list)
+    for transaction in transactions:
+      trans_time = datetime_util.int_to_time(transaction.time)
+      if transaction.type == stock_pb2.Transaction.BUY:
+        plt.vlines(trans_time, minimal_val, maximal_val, 'r')        
+      else:
+        plt.vlines(trans_time, minimal_val, maximal_val, 'b')
     plt.grid()
     plt.title(symbol)
 
-  def diplay_one_symbol_one_day(self, symbol, one_stock_data):
-    self.__prepare_display_one_symbol_one_day(symbol, one_stock_data)
+  def diplay_one_symbol_one_day(self, symbol, one_stock_data, transactions = []):
+    self.__prepare_display_one_symbol_one_day(symbol, one_stock_data, transactions)
     plt.show()
 
-  def export_one_symbol_one_day(self, symbol, one_stock_data, img_path):
-    self.__prepare_display_one_symbol_one_day(symbol, one_stock_data)
+  def export_one_symbol_one_day(self, symbol, one_stock_data, img_path, transactions = []):
+    self.__prepare_display_one_symbol_one_day(symbol, one_stock_data, transactions)
     plt.savefig(img_path)
     plt.clf()
 
