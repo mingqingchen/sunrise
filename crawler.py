@@ -140,6 +140,8 @@ class IntraDayCrawler:
       list_file_path = os.path.join(self.data_folder_, index_name + '.csv')
       symbol_data = pd.read_csv(list_file_path)
       for symbol in symbol_data['Symbol']:
+        if '^' in symbol:
+          continue
         symbol = symbol.replace(' ', '')
         self.crawl_one_symbol(symbol)
 
