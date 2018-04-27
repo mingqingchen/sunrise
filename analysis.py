@@ -48,9 +48,37 @@ def analyze_distribution():
     da3.export_distribution_to_png(img_path)
   return
 
+def compare_two_crawl_result():
+  folder1 = './data/intra_day/'
+  folder2 = './data_test/intra_day/'
+  interested_date = 20180426
+
+  dp1 = data_provider.DataProvider(folder1)
+  dp2 = data_provider.DataProvider(folder2)
+
+  symbol_list1 = dp1.get_symbol_list_for_a_day(interested_date)
+  symbol_list2 = dp2.get_symbol_list_for_a_day(interested_date)
+
+  print ('All symbol number for {0}: {1}, {2}: {3}'.format(folder1, len(symbol_list1), folder2, len(symbol_list2)))
+
+  overlap_symbol = dict()
+  for symbol in symbol_list1:
+    if symbol in symbol_list2:
+      overlap_symbol[symbol] = True
+  print ('Overlapped symbol count: {0}'.format(len(overlap_symbol)))
+
+  dp1.load_one_day_data(interested_date)
+  dp2.load_one_day_data(interested_date)
+  for symbol in overlap_symbol:
+    one_data1 = dp1.get_one_symbol_data(symbol)
+    one_data2 = dp2.get_one_symbol_data(symbol)
+    print('Compare {0}: length1: {1}, length2: {2}'.format(symbol, len(one_data1.data), len(one_data2.data)))
+
+  
+
 def run_through_analysis_functions(_):
   # export_some_intra_day_data_to_pngs()
-  analyze_distribution()
+  compare_two_crawl_result()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
