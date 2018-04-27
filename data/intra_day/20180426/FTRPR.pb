@@ -1,0 +1,4 @@
+
+FTRPRйшо	"≈\▐NAffNA%\▐NA-ffNA0П" ┘OA┘OA%┘OA-┘OA0╟"⌡╝OAgDOA%╝OA-gDOA0х"╛┘OA┘OA%┘OA-┘OA0d"┘млPAмлPA%млPA-млPA0d"┼АzPAАzPA%АzPA-АzPA0d"░АzPAАzPA%АzPA-АzPA0d"▒АzPAАzPA%АzPA-АzPA0╨"⌠АzPAАzPA%АzPA-АzPA0d"ёАzPAАzPA%АzPA-АzPA0╛"рАzPAАzPA%АzPA-АzPA0Т"уU0PAU0PA%U0PA-U0PA0╦"в┘OA>yOA%
+вOA-)\OA0Т,"ГЛQPAЛQPA%ZPA-ЛQPA0Х"ЛL7QAL7QA%L7QA-L7QA0©"В╓pQA ≥QA% ≥QA-╓pQA0к("│	d;SAd;SA%d;SA-d;SA0б"╨	▐бQA{RA%а╗RA- ≥QA0╓"╫	{RA▐бQA%{RA-▐бQA0░"д	q=RAЧeRA%ЧeRA-)МQA0╓"м	 ≥QA ≥QA% ≥QA- ≥QA0╛"Б	ЛQPA╓pQA%╓pQA-ЛQPA0х"Ц	цУPAБPA%цУPA-вёPA0ь"К	вёPAмлPA%млPA-вёPA0═"■
+млPA╓pQA%┘КQA-млPA0ъh

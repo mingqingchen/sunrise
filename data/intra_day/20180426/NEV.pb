@@ -1,0 +1,3 @@
+
+NEVйшо	"▒Ж(TAЖ(TA%Ж(TA-Ж(TA0d"°Ж(TAЖ(TA%Ж(TA-Ж(TA0Ч"╪Ж(TAЖ(TA%Ж(TA-Ж(TA0d"Й&TAЖ(TA%Ж(TA-щ$TA0Ю"█КsTAКsTA%КsTA-КsTA0╛"ё├ZTA├ZTA%├ZTA-├ZTA0э"жЛQTAЛQTA%ЛQTA-ЛQTA0d"НЛQTAиvTA%иvTA-ЛQTA0х"ТЛQTA>yTA%>yTA-ЛQTA0▄"╡	Ж(TAЖ(TA%Ж(TA-Ж(TA0╛"х	АzTAR╦TA%R╦TA-АzTA0ц"и	млTA╦UA%╦UA-млTA0е0"э	вёTAЛQTA%вёTA-ЛQTA0┌"А	4╒TA4╒TA%4╒TA-4╒TA0Х"Й	ЛQTAЛQTA%ЛQTA-ЛQTA0d"■
+АzTAАzTA%АzTA-АzTA0d

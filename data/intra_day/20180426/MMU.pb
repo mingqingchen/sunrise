@@ -1,0 +1,3 @@
+
+MMUйшо	"▄вёLAвёLA%вёLA-З~LA0ы"▐вёLAмлLA%млLA-З~LA0╓&"≈вёLAёLA%вёLA-ёLA0▄"°I²LAI²LA%I²LA-I²LA0р"╙вёLAвёLA%вёLA-вёLA0d"ьцУLAZУLA%цУLA-ZУLA0ь"шмлLAвёLA%млLA-вёLA0└ "щвёLAАzLA%@╓LA-АzLA0≤*"АмлLAмлLA%млLA-млLA0√"ЦмлLAмлLA%млLA-млLA0х"ЯвёLAвёLA%вёLA-вёLA0d"ЫвёLA'бLA%'бLA-вёLA0д,"╢	вёLAвёLA%вёLA-вёLA0d"╨	млLAмлLA%млLA-млLA0d"м	цУLAцУLA%цУLA-цУLA0║,"ж	вёLAвёLA%вёLA-вёLA0d"э	вёLAвёLA%вёLA-вёLA0╛"ч	вёLAмлLA%млLA-вёLA0х"ъ	млLAмлLA%млLA-млLA0d"К	млLAмлLA%млLA-млLA0d"■
+вёLAвёLA%вёLA-вёLA0d

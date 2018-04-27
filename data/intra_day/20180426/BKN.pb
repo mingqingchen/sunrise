@@ -1,0 +1,2 @@
+
+BKNйшо	"┤к║XA\▐XA%к║XA-\▐XA0К"═вёXAАzXA%╢хXA-АzXA0э"╒вёXAвёXA%вёXA-вёXA0х"█млXAмлXA%млXA-млXA0d"√млXAмлXA%млXA-млXA0d"°вёXAЛQXA%!╟XA-ЛQXA0╒"ЮdлXAцУXA%цУXA-R╦XA0░"ЭмлXAмлXA%млXA-млXA0╒"к	@╓XAвёXA%цУXA-вёXA0╓"н	вёXA╦YA%╦YA-вёXA0√
