@@ -1,0 +1,20 @@
+1. go to https://auth.tdameritrade.com/auth?response_type=code&redirect_uri=sunrsie&client_id=mingqing8@AMER.OAUTHAP
+
+2. get code after code=
+
+3. decode this code
+
+4. https://developer.tdameritrade.com/authentication/apis/post/token-0
+  grant_type:authorization_code
+  access_type:offline
+  code: ***this code***
+  client_id: mingqing8@AMER.OAUTHAP
+  redirect_uri: sunrise
+
+5. then you will get access token and refresh token. This seems only 1 time effective. Otherwise you need to repeat from step 1.
+
+6. now you have access_token and refresh_token. refresh_token expires in 90 days, 
+access_token expires in 30min.
+
+
+
