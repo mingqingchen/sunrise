@@ -22,6 +22,10 @@ def convert_day_to_int(input):
 def get_today():
   return date_to_int(datetime.date.today())
 
+def get_cur_time_int():
+  cur_time = datetime.datetime.now()
+  return cur_time.hour * 100 + cur_time.minute
+
 def get_today_timestamp():
   return convert_day_to_int(get_today())
 

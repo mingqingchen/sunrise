@@ -111,6 +111,18 @@ class IntraDayCrawler:
     else:
       print('Crawled content is not useful.')
 
+  def get_crawl_list_from_three_indices(self):
+    symbol_list = []
+    for index_name in k_index_list:
+      list_file_path = os.path.join(self.data_folder_, index_name + '.csv')
+      symbol_data = pd.read_csv(list_file_path)
+      for symbol in symbol_data['Symbol']:
+        if '^' in symbol:
+          continue
+        symbol = symbol.replace(' ', '')
+        symbol_list.append(symbol)
+    return symbol_list
+
   def daily_crawl(self):
     # Make data folder
     if not os.path.exists(self.data_folder_):
@@ -138,14 +150,9 @@ class IntraDayCrawler:
       shutil.move(temp_filename, local_filename)
 
     # Then download intra day price for each symbol
-    for index_name in k_index_list:
-      list_file_path = os.path.join(self.data_folder_, index_name + '.csv')
-      symbol_data = pd.read_csv(list_file_path)
-      for symbol in symbol_data['Symbol']:
-        if '^' in symbol:
-          continue
-        symbol = symbol.replace(' ', '')
-        self.crawl_and_export_one_symbol(symbol)
+    symbol_list = self.get_crawl_list_from_three_indices()
+    for symbol in symbol_list:
+      self.crawl_and_export_one_symbol(symbol)
 
 class IntraDayCrawlerTD(IntraDayCrawler):
   def __init__(self, data_folder):
