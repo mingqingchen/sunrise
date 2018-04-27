@@ -117,7 +117,7 @@ class IntraDayCrawler:
       list_file_path = os.path.join(self.data_folder_, index_name + '.csv')
       symbol_data = pd.read_csv(list_file_path)
       for symbol in symbol_data['Symbol']:
-        if '^' in symbol:
+        if '^' in symbol or '.' in symbol:
           continue
         symbol = symbol.replace(' ', '')
         symbol_list.append(symbol)
@@ -163,6 +163,7 @@ class IntraDayCrawlerTD(IntraDayCrawler):
     
     self.temp_file_location_ = 'temp.txt'
     self.refresh_token_file_ = './refresh_token.txt'
+    self.access_token_file_ = './access_token.txt'
     self.__get_refresh_token()
     self.get_new_access_token()
   
@@ -176,7 +177,6 @@ class IntraDayCrawlerTD(IntraDayCrawler):
   def get_new_access_token(self):
     get_access_token_command = self.get_access_token_template_.format(self.refresh_token_, self.temp_file_location_)
     os.system(get_access_token_command)
-    print get_access_token_command
     response = json.load(open(self.temp_file_location_))
     if 'error' in response:
       print ('Could not get access token. Something is wrong !!!')
@@ -186,6 +186,9 @@ class IntraDayCrawlerTD(IntraDayCrawler):
       self.access_token_ = response['access_token']
       fid = open(self.refresh_token_file_, 'w')
       fid.write(self.refresh_token_)
+      fid.close()
+      fid = open(self.access_token_file_, 'w')
+      fid.write(self.access_token_)
       fid.close()
       print('Successfully Update Refresh and Access Token!')
       return True

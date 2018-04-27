@@ -17,4 +17,5 @@
 access_token expires in 30min.
 
 
-
+Example of get multiple quotes:
+curl -X GET --header "Authorization: " "https://api.tdameritrade.com/v1/marketdata/quotes?apikey=mingqing8%40AMER.OAUTHAP&symbol=ISRG%2CAMZN%2CMSFT%2CGOOGL%2CETSY"
