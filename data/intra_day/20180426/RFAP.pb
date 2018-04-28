@@ -1,2 +1,2 @@
 
-RFAPйшо	"▐╦·oB╦·oB%╦·oB-╦·oB0d"╚w╬oBw╬oB%w╬oB-w╬oB0╙"²млoBмлoB%млoB-млoB0d"Ч╝гoBмлoB%млoB-╝гoB0А
+RFAPкшо	"г)\oB)\oB%)\oB-)\oB0y"рмлoBмлoB%млoB-млoB0q"жмлoBмлoB%млoB-млoB0q"▌╦·oB╦·oB%╦·oB-╦·oB0d"╙w╬oBw╬oB%w╬oB-w╬oB0╙"°млoBмлoB%млoB-млoB0d"Щ╝гoBмлoB%млoB-╝гoB0А

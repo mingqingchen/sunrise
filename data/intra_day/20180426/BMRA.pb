@@ -1,3 +1,3 @@
 
-BMRAйшо	"├fff@╦e@%fff@-╦e@0х"╬жеe@жеe@%жеe@-жеe@0d"Нfff@fff@%fff@-fff@0d"ш	╦e@╦e@%╦e@-╦e@0З#"ч	╦e@╦e@%╦e@-╦e@0╓&"ъ	fff@fff@%fff@-fff@0░"Х	▐бe@▐бe@%▐бe@-▐бe@0d"Й	fff@fff@%fff@-fff@0d"■
-╦e@╦e@%╦e@-╦e@0ъ
+BMRAкшо	"ЖАzd@Аzd@%Аzd@-Аzd@0т"▄P█g@Тlf@%P█g@-fff@0Х"ыfff@fff@%fff@-fff@0d"Бfff@╦e@%fff@-╦e@0░"Ц╦e@╦e@%╦e@-╦e@0d"К╦e@╦e@%╦e@-╦e@0░"Оfff@fff@%fff@-fff@0d"┘fff@╦e@%fff@-╦e@0х"╫жеe@жеe@%жеe@-жеe@0d"Мfff@fff@%fff@-fff@0d"з	╦e@╦e@%╦e@-╦e@0З#"щ	╦e@╦e@%╦e@-╦e@0╓&"ч	fff@fff@%fff@-fff@0░"Г	▐бe@▐бe@%▐бe@-▐бe@0d"И	fff@fff@%fff@-fff@0d"К	╦e@╦e@%╦e@-╦e@0х"■
+╦e@╦e@%╦e@-╦e@0≈

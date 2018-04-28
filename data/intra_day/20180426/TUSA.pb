@@ -1,3 +1,2 @@
 
-TUSAйшо	"ЗffBffB%ffB-ffB0d"■
-ЛQBЛQB%ЛQB-ЛQB0d
+TUSAкшо	"ЖвёBвёB%вёB-вёB0┌"├вёBвёB%вёB-вёB0d"ВЖ(BЖ(B%Ж(B-Ж(B0d"ЫffBffB%ffB-ffB0d"К	ЛQBЛQB%ЛQB-ЛQB0d

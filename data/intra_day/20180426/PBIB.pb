@@ -1,3 +1,2 @@
 
-PBIBสÛฯ	"เพTAเพTA%เพTA-เพTA0Þ"ม	ร๕TATRTA%ร๕TA-TRTA0ย"”
-์QTA์QTA%์QTA-์QTA0<
+PBIBหÛฯ	"เพTAเพTA%เพTA-เพTA0Þ"ภ	ร๕TATRTA%ร๕TA-TRTA0ย

@@ -1,2 +1,2 @@
 
-EGIFÊÛÏ	"áÀ[sAÀ[sA%À[sA-®GsA0Ð"å®GsA®GsA%®GsA-®GsA0d"×	L7sAL7sA%L7sA-L7sA0ô
+EGIFËÛÏ	"ö…sA…sA%…sA-…sA0d"Þ…sA…sA%…sA-…sA0d"êÇKsAÇKsA%ÇKsA-ÇKsA0¯"Â)\sA)\sA%)\sA-)\sA0d"àÀ[sAÀ[sA%À[sA-®GsA0Ð"ä®GsA®GsA%®GsA-®GsA0d"Ö	L7sAL7sA%L7sA-L7sA0ô
