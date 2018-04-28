@@ -1,0 +1,3 @@
+
+SLDлшо	"▓33gA33gA%33gA-33gA0╛"ТfffA[╠fA%[╠fA-fffA0Т"▒*╘fA*╘fA%*╘fA-*╘fA0d"╩млfAмлfA%млfA-млfA0}"©млfAмлfA%млfA-млfA0d"Э\▐fAfffA%\▐fA-fffA0ь"├33gAмлfA%33gA-млfA0х"пмлfAвgA%вgA-млfA0─"жБfAмлfA%БfA-млfA0╛"з33gA33gA%33gA-33gA0d"ХмлfAмлfA%млfA-млfA0d"О33gA33gA%33gA-33gA0d"м	fffAfffA%fffA-fffA0р"ж	33gA33gA%33gA-33gA0d"ы	fffAfffA%fffA-fffA0d"э	33gA33gA%33gA-33gA0d"Д	33gA33gA%33gA-33gA0d"Г	33gAмлfA%33gA-млfA0я"И	33gA33gA%33gA-33gA0d"Й	33gA33gA%33gA-33gA0d"К	33gAfffA%33gA-fffA0ш"√
+33gA33gA%33gA-33gA0╘
