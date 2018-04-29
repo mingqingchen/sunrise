@@ -5,7 +5,7 @@ import tensorflow as tf
 import util.data_provider as data_provider
 import util.distribution_analyzer as distribution_analyzer
 
-k_data_folder = './data/intra_day/'
+k_data_folder = './data_test/intra_day/'
 k_png_temp_folder = 'temppng/'
 k_distribution_bin_size = 0.001
 k_price_drop_watch_time = 30
@@ -14,7 +14,7 @@ k_drop_threshold = -0.02
 
 def export_some_intra_day_data_to_pngs():
   dp = data_provider.DataProvider(FLAGS.data_dir)
-  dp.batch_output_one_day_data_to_png(20180416, k_png_temp_folder)
+  dp.batch_output_one_day_data_to_png(20180427, k_png_temp_folder)
 
 def analyze_distribution():
   if not os.path.isdir(k_png_temp_folder):
@@ -77,8 +77,8 @@ def compare_two_crawl_result():
   
 
 def run_through_analysis_functions(_):
-  # export_some_intra_day_data_to_pngs()
-  compare_two_crawl_result()
+  export_some_intra_day_data_to_pngs()
+  # compare_two_crawl_result()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

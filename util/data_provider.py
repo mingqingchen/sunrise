@@ -25,6 +25,7 @@ class DataProvider:
     self.subfolder_list_.sort()
     self.cur_date_val_ = 0
     self.one_day_data_ = dict()
+    self.symbol_timeslot_index_ = dict()
 
   def __get_day_folder(self, date_int_val):
     return os.path.join(self.root_folder_, str(date_int_val) + '/')
@@ -66,22 +67,29 @@ class DataProvider:
   def has_symbol(self, symbol):
     return symbol in self.one_day_data_
 
-  def symbol_minute_index(self, symbol, time_int_val, start_index = 0):
-    """ Returns the index of a minute. If not existing returns -1
-        Assume has_symbol already returns true.
+  def clear_symbol_index(self):
+    self.symbol_timeslot_index_.clear()
+  
+  def get_symbol_minute_data(self, symbol, time_int_val):
+    """ Get symbol minute data.
+        Returns:
+          result: 0 for exact match time_int_val, 1 for time_int_val larger than this, 2 for never reaches
+          one time slot data
     """
-    index = start_index
+    index = 0
+    if symbol in self.symbol_timeslot_index_:
+      index = self.symbol_timeslot_index_[symbol]
     while (index < len(self.one_day_data_[symbol].data)):
       cur_time_val = self.one_day_data_[symbol].data[index].time_val
       if cur_time_val == time_int_val:
-        return index
+        self.symbol_timeslot_index_[symbol] = index
+        return 0, self.one_day_data_[symbol].data[index]
       elif cur_time_val > time_int_val:
-        return -1
+        # this means the required time_int_val has missing value
+        return 1, self.one_day_data_[symbol].data[index]
       index += 1
-    return -1
-    
-  def get_one_time_slot_data(self, symbol, index):
-    return self.one_day_data_[symbol].data[index]
+    # this means that the required time_int_val never reaches
+    return 2, self.one_day_data_[symbol].data[index - 1]
 
   def deserialize_one_symbol(self, date_int_val, symbol):
     intra_day_folder = self.__get_day_folder(date_int_val)
@@ -123,15 +131,17 @@ class DataProvider:
 
   def __prepare_display_one_symbol_one_day(self, symbol, one_stock_data, transactions):
     time_list, open_list, close_list, high_list, low_list = self.__prepare_one_stock_data_list(one_stock_data)
-    
     k_open_close_line_width = 3
     k_min_max_line_width = 1
+    k_epsilon = 0.01
     for k in range(len(time_list)):
       plt.vlines(time_list[k], low_list[k], high_list[k], 'k', linewidth = k_min_max_line_width)
-      if open_list[k] <= close_list[k]:
+      if open_list[k] < close_list[k]:
         plt.vlines(time_list[k], open_list[k], close_list[k], 'g', linewidth = k_open_close_line_width)
-      else:
+      elif open_list[k] > close_list[k]:
         plt.vlines(time_list[k], open_list[k], close_list[k], 'r', linewidth = k_open_close_line_width)
+      else:
+        plt.vlines(time_list[k], open_list[k], open_list[k] + k_epsilon, 'g', linewidth = k_open_close_line_width)
 
     minimal_val = min(low_list)
     maximal_val = max(high_list)
@@ -159,8 +169,7 @@ class DataProvider:
 
     symbol_list = self.get_symbol_list_for_a_day(day_int_val)
     # use the following one to get quick look on major stocks:
-    symbol_list = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY']
-    symbol_list = ['ARII']
+    symbol_list = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'ARII']
     for symbol in symbol_list:
       print('Processing {0}'.format(symbol))
       result, one_stock_data = self.deserialize_one_symbol(day_int_val, symbol)

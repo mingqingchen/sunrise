@@ -1,0 +1,32 @@
+syntax = "proto2";
+
+package tutorial;
+
+message BuyDropTradeStrategyParam {
+  // When to watch for a stock
+  required int32 watch_time = 1 [default = 30];
+
+  // The drop criteria for one stock
+  required float drop_threshold = 2 [default = -0.02];
+
+  // The drop critieria to buy a stock at watch time
+  required float watch_time_drop_threshold = 3 [default = -0.015];
+
+  // The rebound trigger to sell a stock
+  required float rebound_sell_threshold = 4 [default = 0.01];
+
+  // The stop lost limit to sell a stock
+  required float stop_loss_sell_threshold = 5 [default = -0.01];
+
+  // Number of slot for allocation
+  required int32 num_slot = 6 [default = 10];
+
+  // Number of limit of time buying same stock
+  required int32 num_buy_time = 7 [default = 1];
+
+  // The minimal price requirement for a stock
+  required float minimal_price = 8 [default = 5.0];
+
+  // The minimal available time points for a stock
+  required int32 minimal_timepoint = 9 [default = 50];
+}

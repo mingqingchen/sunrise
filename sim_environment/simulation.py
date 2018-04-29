@@ -22,8 +22,6 @@ class Simulation():
     # end_date is included during simulation
     self.end_date_ = 20180420
     self.portfolio_ = portfolio.PortfolioManager()
-  
-    self.symbol_last_index_ = dict()
 
   def set_start_date(self, start_date):
     self.start_date_ = start_date
@@ -43,13 +41,9 @@ class Simulation():
   def __update_portfolio(self, time_int_val):
     symbol_timeslot_map = dict()
     for symbol in self.portfolio_.get_current_hold_symbol_list():
-      if symbol not in self.symbol_last_index_:
-        self.symbol_last_index_[symbol] = 0
-      index = self.data_manager_.symbol_minute_index(symbol, time_int_val, self.symbol_last_index_[symbol])
-      if index < 0:
+      result, one_slot_data = self.data_manager_.get_symbol_minute_data(symbol, time_int_val)
+      if result != 0:
         continue
-      self.symbol_last_index_[symbol] = index
-      one_slot_data = self.data_manager_.get_one_time_slot_data(symbol, index)
       symbol_timeslot_map[symbol] = one_slot_data
     self.portfolio_.update_balance(symbol_timeslot_map)
 
@@ -62,8 +56,8 @@ class Simulation():
     self.balances_ = []
     
     while cur_day <= self.end_date_:
-      self.symbol_last_index_.clear()
       self.trade_strategy_.update_date(cur_day, self.data_manager_)
+      self.data_manager_.clear_symbol_index()
       cur_time = k_open_time
       while cur_time <= k_close_time:
         # run_minute_trade_strategy should look at historical price before cur_time, and use the open price at cur_time to trade
