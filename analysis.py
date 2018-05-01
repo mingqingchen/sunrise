@@ -2,6 +2,8 @@ import argparse
 import os, sys
 import tensorflow as tf
 
+import matplotlib.pyplot as plt
+
 import util.data_provider as data_provider
 import util.distribution_analyzer as distribution_analyzer
 
@@ -49,6 +51,7 @@ def analyze_distribution():
   return
 
 def compare_two_crawl_result():
+  """ Compare two crawled folder and print number of timepoints for each stock. """
   folder1 = './data/intra_day/'
   folder2 = './data_test/intra_day/'
   interested_date = 20180426
@@ -74,11 +77,32 @@ def compare_two_crawl_result():
     one_data2 = dp2.get_one_symbol_data(symbol)
     print('Compare {0}: length1: {1}, length2: {2}'.format(symbol, len(one_data1.data), len(one_data2.data)))
 
+def analyze_volume_timepoint():
+  """Analyze the distribution of volume and relationship to timepoint available. """
+  dp =  data_provider.DataProvider('./data/intra_day/')
+  day_int_val = 20180430
+  symbol_list = dp.get_symbol_list_for_a_day(day_int_val)
+  dp.load_one_day_data(day_int_val)
   
+  volume_list, timepoint_list = [], []
+  for symbol in symbol_list:
+    one_symbol_data = dp.get_one_symbol_data(symbol)
+    total_volume = 0
+    for one_time_data in one_symbol_data.data:
+      total_volume += one_time_data.volume
+    volume_list.append(total_volume)
+    timepoint_list.append(len(one_symbol_data.data))
+
+  plt.plot(timepoint_list, volume_list, '.')
+  plt.xlim(0, max(timepoint_list))
+  plt.ylim(0, max(volume_list))
+  plt.grid()
+  plt.show()
 
 def run_through_analysis_functions(_):
-  export_some_intra_day_data_to_pngs()
+  # export_some_intra_day_data_to_pngs()
   # compare_two_crawl_result()
+  analyze_volume_timepoint()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

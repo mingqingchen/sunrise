@@ -23,7 +23,7 @@ import proto.stock_pb2 as stock_pb2
 import pdb
 
 k_intra_day_folder = 'intra_day/'
-k_data_folder = './data_test/'
+k_data_folder = './data/'
 k_index_list = {'NASDAQ', 'NYSE', 'AMEX'}
 
 class IntraDayCrawler:
@@ -99,7 +99,7 @@ class IntraDayCrawler:
     output_file_path = os.path.join(self.today_folder_, symbol + '.pb')
     if (not self.overwrite_) and os.path.isfile(output_file_path):
       print('Symbol {0} already crawled. Skip.'.format(symbol))
-      return
+      return True
     print('Crawling: {0}'.format(symbol))
     result, one_day_data = self.crawl_one_symbol(symbol)
     
@@ -108,8 +108,10 @@ class IntraDayCrawler:
       fid.write(one_day_data.SerializeToString())
       fid.close()
       print('Export succesfully!')
+      return True
     else:
       print('Crawled content is not useful.')
+      return False
 
   def get_crawl_list_from_three_indices(self):
     symbol_list = []
@@ -152,7 +154,8 @@ class IntraDayCrawler:
     # Then download intra day price for each symbol
     symbol_list = self.get_crawl_list_from_three_indices()
     for symbol in symbol_list:
-      self.crawl_and_export_one_symbol(symbol)
+      if not self.crawl_and_export_one_symbol(symbol):
+        break
 
 class IntraDayCrawlerTD(IntraDayCrawler):
   def __init__(self, data_folder):
@@ -191,6 +194,7 @@ class IntraDayCrawlerTD(IntraDayCrawler):
       fid.write(self.access_token_)
       fid.close()
       print('Successfully Update Refresh and Access Token!')
+      self.refresh_token_ = urllib.quote_plus(self.refresh_token_)
       return True
 
   def __query_once(self, symbol):
@@ -249,7 +253,8 @@ class IntraDayCrawlerTD(IntraDayCrawler):
         one_time_data.time_val = cl_time.hour * 100 + cl_time.minute
     if len(one_symbol_data.data) < self.min_num_time_slot_threshold_:
       print('Crawled time slot is too few. Data is considered not useful.')
-      return False, one_symbol_data
+      # For too few timeslot, we still consider a successful crawl.
+      return True, one_symbol_data
     else:
       return True, one_symbol_data
 
