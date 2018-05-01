@@ -19,8 +19,9 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='stock.proto',
   package='tutorial',
   syntax='proto2',
-  serialized_pb=_b('\n\x0bstock.proto\x12\x08tutorial\"\xb5\x01\n\nOneDayData\x12\x0c\n\x04\x64\x61te\x18\x01 \x02(\x05\x12\x0c\n\x04open\x18\x02 \x02(\x02\x12\x0c\n\x04high\x18\x03 \x02(\x02\x12\x0b\n\x03low\x18\x04 \x02(\x02\x12\r\n\x05\x63lose\x18\x05 \x02(\x02\x12\x10\n\x08\x61\x64jclose\x18\x06 \x02(\x02\x12\x0e\n\x06volume\x18\x07 \x02(\x02\x12\x11\n\tnumerator\x18\x08 \x01(\x05\x12\x13\n\x0b\x64\x65nominator\x18\t \x01(\x05\x12\x17\n\x08is_split\x18\n \x01(\x08:\x05\x66\x61lse\"\xc1\x02\n\x13OneStockHistoryData\x12\x0c\n\x04name\x18\x01 \x02(\t\x12*\n\x0cone_day_data\x18\x02 \x03(\x0b\x32\x14.tutorial.OneDayData\x12G\n\x0e\x64\x61te_index_map\x18\x03 \x03(\x0b\x32/.tutorial.OneStockHistoryData.DateIndexMapEntry\x12\x33\n\x06splits\x18\x04 \x03(\x0b\x32#.tutorial.OneStockHistoryData.Split\x1a=\n\x05Split\x12\x0c\n\x04\x64\x61te\x18\x01 \x02(\x05\x12\x11\n\tnumerator\x18\x02 \x02(\x05\x12\x13\n\x0b\x64\x65nominator\x18\x03 \x02(\x05\x1a\x33\n\x11\x44\x61teIndexMapEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\"y\n\x0fOneStockSummary\x12\x0e\n\x06symbol\x18\x01 \x02(\t\x12\r\n\x05index\x18\x02 \x02(\t\x12\x11\n\tfull_name\x18\x03 \x02(\t\x12\x12\n\nmarket_cap\x18\x04 \x02(\x02\x12\x0e\n\x06sector\x18\x05 \x02(\t\x12\x10\n\x08industry\x18\x06 \x02(\t\"k\n\x0fOneTimeSlotData\x12\x10\n\x08time_val\x18\x01 \x02(\x05\x12\x0c\n\x04open\x18\x02 \x02(\x02\x12\r\n\x05\x63lose\x18\x03 \x02(\x02\x12\x0c\n\x04high\x18\x04 \x02(\x02\x12\x0b\n\x03low\x18\x05 \x02(\x02\x12\x0e\n\x06volume\x18\x06 \x02(\x05\"l\n\x0fOneIntraDayData\x12\x0e\n\x06symbol\x18\x01 \x02(\t\x12\x0c\n\x04\x64\x61te\x18\x02 \x02(\x05\x12\x12\n\nresolution\x18\x03 \x02(\x05\x12\'\n\x04\x64\x61ta\x18\x04 \x03(\x0b\x32\x19.tutorial.OneTimeSlotData\"\x88\x02\n\tPortfolio\x12\x16\n\x0e\x61vailable_cash\x18\x01 \x02(\x02\x12\x0f\n\x07\x62\x61lance\x18\x02 \x02(\x02\x12+\n\x04\x64\x61ta\x18\x03 \x03(\x0b\x32\x1d.tutorial.Portfolio.DataEntry\x1aQ\n\x11OneStockPortfolio\x12\x0e\n\x06volume\x18\x01 \x02(\x05\x12\x15\n\rpurchase_cost\x18\x02 \x02(\x02\x12\x15\n\rcurrent_price\x18\x03 \x02(\x02\x1aR\n\tDataEntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\x34\n\x05value\x18\x02 \x01(\x0b\x32%.tutorial.Portfolio.OneStockPortfolio:\x02\x38\x01\"\xb5\x01\n\x0bTransaction\x12(\n\x04type\x18\x01 \x02(\x0e\x32\x1a.tutorial.Transaction.Type\x12\x0e\n\x06symbol\x18\x02 \x02(\t\x12\x0e\n\x06\x61mount\x18\x03 \x02(\x05\x12\r\n\x05price\x18\x04 \x02(\x02\x12\x16\n\x0e\x63ommission_fee\x18\x05 \x02(\x02\x12\x0c\n\x04\x64\x61te\x18\x06 \x02(\x05\x12\x0c\n\x04time\x18\x07 \x02(\x05\"\x19\n\x04Type\x12\x07\n\x03\x42UY\x10\x00\x12\x08\n\x04SELL\x10\x01')
+  serialized_pb=_b('\n\x0bstock.proto\x12\x08tutorial\"\xb5\x01\n\nOneDayData\x12\x0c\n\x04\x64\x61te\x18\x01 \x02(\x05\x12\x0c\n\x04open\x18\x02 \x02(\x02\x12\x0c\n\x04high\x18\x03 \x02(\x02\x12\x0b\n\x03low\x18\x04 \x02(\x02\x12\r\n\x05\x63lose\x18\x05 \x02(\x02\x12\x10\n\x08\x61\x64jclose\x18\x06 \x02(\x02\x12\x0e\n\x06volume\x18\x07 \x02(\x02\x12\x11\n\tnumerator\x18\x08 \x01(\x05\x12\x13\n\x0b\x64\x65nominator\x18\t \x01(\x05\x12\x17\n\x08is_split\x18\n \x01(\x08:\x05\x66\x61lse\"\xc1\x02\n\x13OneStockHistoryData\x12\x0c\n\x04name\x18\x01 \x02(\t\x12*\n\x0cone_day_data\x18\x02 \x03(\x0b\x32\x14.tutorial.OneDayData\x12G\n\x0e\x64\x61te_index_map\x18\x03 \x03(\x0b\x32/.tutorial.OneStockHistoryData.DateIndexMapEntry\x12\x33\n\x06splits\x18\x04 \x03(\x0b\x32#.tutorial.OneStockHistoryData.Split\x1a=\n\x05Split\x12\x0c\n\x04\x64\x61te\x18\x01 \x02(\x05\x12\x11\n\tnumerator\x18\x02 \x02(\x05\x12\x13\n\x0b\x64\x65nominator\x18\x03 \x02(\x05\x1a\x33\n\x11\x44\x61teIndexMapEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\"y\n\x0fOneStockSummary\x12\x0e\n\x06symbol\x18\x01 \x02(\t\x12\r\n\x05index\x18\x02 \x02(\t\x12\x11\n\tfull_name\x18\x03 \x02(\t\x12\x12\n\nmarket_cap\x18\x04 \x02(\x02\x12\x0e\n\x06sector\x18\x05 \x02(\t\x12\x10\n\x08industry\x18\x06 \x02(\t\"k\n\x0fOneTimeSlotData\x12\x10\n\x08time_val\x18\x01 \x02(\x05\x12\x0c\n\x04open\x18\x02 \x02(\x02\x12\r\n\x05\x63lose\x18\x03 \x02(\x02\x12\x0c\n\x04high\x18\x04 \x02(\x02\x12\x0b\n\x03low\x18\x05 \x02(\x02\x12\x0e\n\x06volume\x18\x06 \x02(\x05\"l\n\x0fOneIntraDayData\x12\x0e\n\x06symbol\x18\x01 \x02(\t\x12\x0c\n\x04\x64\x61te\x18\x02 \x02(\x05\x12\x12\n\nresolution\x18\x03 \x02(\x05\x12\'\n\x04\x64\x61ta\x18\x04 \x03(\x0b\x32\x19.tutorial.OneTimeSlotData\"\x88\x02\n\tPortfolio\x12\x16\n\x0e\x61vailable_cash\x18\x01 \x02(\x02\x12\x0f\n\x07\x62\x61lance\x18\x02 \x02(\x02\x12+\n\x04\x64\x61ta\x18\x03 \x03(\x0b\x32\x1d.tutorial.Portfolio.DataEntry\x1aQ\n\x11OneStockPortfolio\x12\x0e\n\x06volume\x18\x01 \x02(\x05\x12\x15\n\rpurchase_cost\x18\x02 \x02(\x02\x12\x15\n\rcurrent_price\x18\x03 \x02(\x02\x1aR\n\tDataEntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\x34\n\x05value\x18\x02 \x01(\x0b\x32%.tutorial.Portfolio.OneStockPortfolio:\x02\x38\x01\"\xb5\x01\n\x0bTransaction\x12(\n\x04type\x18\x01 \x02(\x0e\x32\x1a.tutorial.Transaction.Type\x12\x0e\n\x06symbol\x18\x02 \x02(\t\x12\x0e\n\x06\x61mount\x18\x03 \x02(\x05\x12\r\n\x05price\x18\x04 \x02(\x02\x12\x16\n\x0e\x63ommission_fee\x18\x05 \x02(\x02\x12\x0c\n\x04\x64\x61te\x18\x06 \x02(\x05\x12\x0c\n\x04time\x18\x07 \x02(\x05\"\x19\n\x04Type\x12\x07\n\x03\x42UY\x10\x00\x12\x08\n\x04SELL\x10\x01\"\xac\x01\n\x12ServingCrawledData\x12\x0e\n\x06symbol\x18\x01 \x02(\t\x12\x39\n\x04\x64\x61ta\x18\x02 \x03(\x0b\x32+.tutorial.ServingCrawledData.OneCrawledData\x1aK\n\x0eOneCrawledData\x12\x10\n\x08time_val\x18\x01 \x02(\x05\x12\x14\n\x0cmarket_price\x18\x02 \x02(\x02\x12\x11\n\tbid_price\x18\x03 \x02(\x02')
 )
+_sym_db.RegisterFileDescriptor(DESCRIPTOR)
 
 
 
@@ -60,70 +61,70 @@ _ONEDAYDATA = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='open', full_name='tutorial.OneDayData.open', index=1,
       number=2, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='high', full_name='tutorial.OneDayData.high', index=2,
       number=3, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='low', full_name='tutorial.OneDayData.low', index=3,
       number=4, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='close', full_name='tutorial.OneDayData.close', index=4,
       number=5, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='adjclose', full_name='tutorial.OneDayData.adjclose', index=5,
       number=6, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='volume', full_name='tutorial.OneDayData.volume', index=6,
       number=7, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='numerator', full_name='tutorial.OneDayData.numerator', index=7,
       number=8, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='denominator', full_name='tutorial.OneDayData.denominator', index=8,
       number=9, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='is_split', full_name='tutorial.OneDayData.is_split', index=9,
       number=10, type=8, cpp_type=7, label=1,
       has_default_value=True, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -154,21 +155,21 @@ _ONESTOCKHISTORYDATA_SPLIT = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='numerator', full_name='tutorial.OneStockHistoryData.Split.numerator', index=1,
       number=2, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='denominator', full_name='tutorial.OneStockHistoryData.Split.denominator', index=2,
       number=3, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -198,14 +199,14 @@ _ONESTOCKHISTORYDATA_DATEINDEXMAPENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='value', full_name='tutorial.OneStockHistoryData.DateIndexMapEntry.value', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -235,28 +236,28 @@ _ONESTOCKHISTORYDATA = _descriptor.Descriptor(
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='one_day_data', full_name='tutorial.OneStockHistoryData.one_day_data', index=1,
       number=2, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='date_index_map', full_name='tutorial.OneStockHistoryData.date_index_map', index=2,
       number=3, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='splits', full_name='tutorial.OneStockHistoryData.splits', index=3,
       number=4, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -287,42 +288,42 @@ _ONESTOCKSUMMARY = _descriptor.Descriptor(
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='index', full_name='tutorial.OneStockSummary.index', index=1,
       number=2, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='full_name', full_name='tutorial.OneStockSummary.full_name', index=2,
       number=3, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='market_cap', full_name='tutorial.OneStockSummary.market_cap', index=3,
       number=4, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='sector', full_name='tutorial.OneStockSummary.sector', index=4,
       number=5, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='industry', full_name='tutorial.OneStockSummary.industry', index=5,
       number=6, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -353,42 +354,42 @@ _ONETIMESLOTDATA = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='open', full_name='tutorial.OneTimeSlotData.open', index=1,
       number=2, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='close', full_name='tutorial.OneTimeSlotData.close', index=2,
       number=3, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='high', full_name='tutorial.OneTimeSlotData.high', index=3,
       number=4, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='low', full_name='tutorial.OneTimeSlotData.low', index=4,
       number=5, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='volume', full_name='tutorial.OneTimeSlotData.volume', index=5,
       number=6, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -419,28 +420,28 @@ _ONEINTRADAYDATA = _descriptor.Descriptor(
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='date', full_name='tutorial.OneIntraDayData.date', index=1,
       number=2, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='resolution', full_name='tutorial.OneIntraDayData.resolution', index=2,
       number=3, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='data', full_name='tutorial.OneIntraDayData.data', index=3,
       number=4, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -471,21 +472,21 @@ _PORTFOLIO_ONESTOCKPORTFOLIO = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='purchase_cost', full_name='tutorial.Portfolio.OneStockPortfolio.purchase_cost', index=1,
       number=2, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='current_price', full_name='tutorial.Portfolio.OneStockPortfolio.current_price', index=2,
       number=3, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -515,14 +516,14 @@ _PORTFOLIO_DATAENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='value', full_name='tutorial.Portfolio.DataEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -552,21 +553,21 @@ _PORTFOLIO = _descriptor.Descriptor(
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='balance', full_name='tutorial.Portfolio.balance', index=1,
       number=2, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='data', full_name='tutorial.Portfolio.data', index=2,
       number=3, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -597,49 +598,49 @@ _TRANSACTION = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='symbol', full_name='tutorial.Transaction.symbol', index=1,
       number=2, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='amount', full_name='tutorial.Transaction.amount', index=2,
       number=3, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='price', full_name='tutorial.Transaction.price', index=3,
       number=4, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='commission_fee', full_name='tutorial.Transaction.commission_fee', index=4,
       number=5, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='date', full_name='tutorial.Transaction.date', index=5,
       number=6, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
     _descriptor.FieldDescriptor(
       name='time', full_name='tutorial.Transaction.time', index=6,
       number=7, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None, file=DESCRIPTOR),
+      options=None),
   ],
   extensions=[
   ],
@@ -657,6 +658,88 @@ _TRANSACTION = _descriptor.Descriptor(
   serialized_end=1324,
 )
 
+
+_SERVINGCRAWLEDDATA_ONECRAWLEDDATA = _descriptor.Descriptor(
+  name='OneCrawledData',
+  full_name='tutorial.ServingCrawledData.OneCrawledData',
+  filename=None,
+  file=DESCRIPTOR,
+  containing_type=None,
+  fields=[
+    _descriptor.FieldDescriptor(
+      name='time_val', full_name='tutorial.ServingCrawledData.OneCrawledData.time_val', index=0,
+      number=1, type=5, cpp_type=1, label=2,
+      has_default_value=False, default_value=0,
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None),
+    _descriptor.FieldDescriptor(
+      name='market_price', full_name='tutorial.ServingCrawledData.OneCrawledData.market_price', index=1,
+      number=2, type=2, cpp_type=6, label=2,
+      has_default_value=False, default_value=float(0),
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None),
+    _descriptor.FieldDescriptor(
+      name='bid_price', full_name='tutorial.ServingCrawledData.OneCrawledData.bid_price', index=2,
+      number=3, type=2, cpp_type=6, label=2,
+      has_default_value=False, default_value=float(0),
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None),
+  ],
+  extensions=[
+  ],
+  nested_types=[],
+  enum_types=[
+  ],
+  options=None,
+  is_extendable=False,
+  syntax='proto2',
+  extension_ranges=[],
+  oneofs=[
+  ],
+  serialized_start=1424,
+  serialized_end=1499,
+)
+
+_SERVINGCRAWLEDDATA = _descriptor.Descriptor(
+  name='ServingCrawledData',
+  full_name='tutorial.ServingCrawledData',
+  filename=None,
+  file=DESCRIPTOR,
+  containing_type=None,
+  fields=[
+    _descriptor.FieldDescriptor(
+      name='symbol', full_name='tutorial.ServingCrawledData.symbol', index=0,
+      number=1, type=9, cpp_type=9, label=2,
+      has_default_value=False, default_value=_b("").decode('utf-8'),
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None),
+    _descriptor.FieldDescriptor(
+      name='data', full_name='tutorial.ServingCrawledData.data', index=1,
+      number=2, type=11, cpp_type=10, label=3,
+      has_default_value=False, default_value=[],
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None),
+  ],
+  extensions=[
+  ],
+  nested_types=[_SERVINGCRAWLEDDATA_ONECRAWLEDDATA, ],
+  enum_types=[
+  ],
+  options=None,
+  is_extendable=False,
+  syntax='proto2',
+  extension_ranges=[],
+  oneofs=[
+  ],
+  serialized_start=1327,
+  serialized_end=1499,
+)
+
 _ONESTOCKHISTORYDATA_SPLIT.containing_type = _ONESTOCKHISTORYDATA
 _ONESTOCKHISTORYDATA_DATEINDEXMAPENTRY.containing_type = _ONESTOCKHISTORYDATA
 _ONESTOCKHISTORYDATA.fields_by_name['one_day_data'].message_type = _ONEDAYDATA
@@ -669,6 +752,8 @@ _PORTFOLIO_DATAENTRY.containing_type = _PORTFOLIO
 _PORTFOLIO.fields_by_name['data'].message_type = _PORTFOLIO_DATAENTRY
 _TRANSACTION.fields_by_name['type'].enum_type = _TRANSACTION_TYPE
 _TRANSACTION_TYPE.containing_type = _TRANSACTION
+_SERVINGCRAWLEDDATA_ONECRAWLEDDATA.containing_type = _SERVINGCRAWLEDDATA
+_SERVINGCRAWLEDDATA.fields_by_name['data'].message_type = _SERVINGCRAWLEDDATA_ONECRAWLEDDATA
 DESCRIPTOR.message_types_by_name['OneDayData'] = _ONEDAYDATA
 DESCRIPTOR.message_types_by_name['OneStockHistoryData'] = _ONESTOCKHISTORYDATA
 DESCRIPTOR.message_types_by_name['OneStockSummary'] = _ONESTOCKSUMMARY
@@ -676,7 +761,7 @@ DESCRIPTOR.message_types_by_name['OneTimeSlotData'] = _ONETIMESLOTDATA
 DESCRIPTOR.message_types_by_name['OneIntraDayData'] = _ONEINTRADAYDATA
 DESCRIPTOR.message_types_by_name['Portfolio'] = _PORTFOLIO
 DESCRIPTOR.message_types_by_name['Transaction'] = _TRANSACTION
-_sym_db.RegisterFileDescriptor(DESCRIPTOR)
+DESCRIPTOR.message_types_by_name['ServingCrawledData'] = _SERVINGCRAWLEDDATA
 
 OneDayData = _reflection.GeneratedProtocolMessageType('OneDayData', (_message.Message,), dict(
   DESCRIPTOR = _ONEDAYDATA,
@@ -758,6 +843,21 @@ Transaction = _reflection.GeneratedProtocolMessageType('Transaction', (_message.
   # @@protoc_insertion_point(class_scope:tutorial.Transaction)
   ))
 _sym_db.RegisterMessage(Transaction)
+
+ServingCrawledData = _reflection.GeneratedProtocolMessageType('ServingCrawledData', (_message.Message,), dict(
+
+  OneCrawledData = _reflection.GeneratedProtocolMessageType('OneCrawledData', (_message.Message,), dict(
+    DESCRIPTOR = _SERVINGCRAWLEDDATA_ONECRAWLEDDATA,
+    __module__ = 'stock_pb2'
+    # @@protoc_insertion_point(class_scope:tutorial.ServingCrawledData.OneCrawledData)
+    ))
+  ,
+  DESCRIPTOR = _SERVINGCRAWLEDDATA,
+  __module__ = 'stock_pb2'
+  # @@protoc_insertion_point(class_scope:tutorial.ServingCrawledData)
+  ))
+_sym_db.RegisterMessage(ServingCrawledData)
+_sym_db.RegisterMessage(ServingCrawledData.OneCrawledData)
 
 
 _ONESTOCKHISTORYDATA_DATEINDEXMAPENTRY.has_options = True
