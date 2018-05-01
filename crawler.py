@@ -19,8 +19,7 @@ import os, sys
 import json
 import util.datetime_util as datetime_util
 import proto.stock_pb2 as stock_pb2
-
-import pdb
+import live_trade.trade_api as trade_api
 
 k_intra_day_folder = 'intra_day/'
 k_data_folder = './data/'
@@ -160,61 +159,17 @@ class IntraDayCrawler:
 class IntraDayCrawlerTD(IntraDayCrawler):
   def __init__(self, data_folder):
     IntraDayCrawler.__init__(self, data_folder)
-    
-    self.get_access_token_template_ = 'curl -X POST --header "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token={0}&access_type=offline&code=&client_id=mingqing8%40AMER.OAUTHAP&redirect_uri=sunrsie" "https://api.tdameritrade.com/v1/oauth2/token" > {1}'
-    self.get_history_price_template_ = 'curl -X GET --header "Authorization: " --header "Authorization: Bearer {0}" "https://api.tdameritrade.com/v1/marketdata/{1}/pricehistory?period=1&frequencyType=minute&frequency=1" > {2}'
-    
-    self.temp_file_location_ = 'temp.txt'
-    self.refresh_token_file_ = './refresh_token.txt'
-    self.access_token_file_ = './access_token.txt'
-    self.__get_refresh_token()
-    self.get_new_access_token()
-  
-
-  def __get_refresh_token(self):
-    fid = open(self.refresh_token_file_)
-    lines = fid.readlines()
-    fid.close()
-    self.refresh_token_ = urllib.quote_plus(lines[0].replace('\n', ''))
-
-  def get_new_access_token(self):
-    get_access_token_command = self.get_access_token_template_.format(self.refresh_token_, self.temp_file_location_)
-    os.system(get_access_token_command)
-    response = json.load(open(self.temp_file_location_))
-    if 'error' in response:
-      print ('Could not get access token. Something is wrong !!!')
-      return False
-    else:
-      self.refresh_token_ = response['refresh_token']
-      self.access_token_ = response['access_token']
-      fid = open(self.refresh_token_file_, 'w')
-      fid.write(self.refresh_token_)
-      fid.close()
-      fid = open(self.access_token_file_, 'w')
-      fid.write(self.access_token_)
-      fid.close()
-      print('Successfully Update Refresh and Access Token!')
-      self.refresh_token_ = urllib.quote_plus(self.refresh_token_)
-      return True
-
-  def __query_once(self, symbol):
-    query_string = self.get_history_price_template_.format(self.access_token_, symbol, self.temp_file_location_)
-    os.system(query_string)
-    response = dict()
-    try:
-      response = json.load(open(self.temp_file_location_))
-    except ValueError:
-      print('Error decoding json.')
-      return False, response
-    return True, response
+    self.live_trade_api_ = trade_api.TradeAPI()
+    self.live_trade_api_.get_refresh_token()
+    self.live_trade_api_.get_new_access_token()
   
   def crawl_one_symbol(self, symbol):
-    result, response = self.__query_once(symbol)
+    result, response = self.live_trade_api_.query_historical_price(symbol)
     
     # For the first time, it could be due to expired access token.
     if 'error' in response or (not result):
-      self.get_new_access_token()
-      result, response = self.__query_once(symbol)
+      self.live_trade_api_.get_new_access_token()
+      result, response = self.live_trade_api_.query_historical_price(symbol)
     
     one_symbol_data = stock_pb2.OneIntraDayData()
     if 'error' in response or (not result):
