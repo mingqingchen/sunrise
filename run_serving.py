@@ -6,8 +6,12 @@ import json
 
 import crawler
 import util.datetime_util as datetime_util
-import util.data_provider as data_provider
 import proto.stock_pb2 as stock_pb2
+
+import urllib3
+import time
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 FLAGS=None
 k_data_folder = './data/'
@@ -17,7 +21,7 @@ k_temp_query_file = './temp_query.txt'
 
 class LiveTrading:
   def __init__(self):
-    self.query_template_ = 'curl -X GET --header "Authorization: " "https://api.tdameritrade.com/v1/marketdata/quotes?apikey={0}&symbol={1}" > {2}'
+    self.url_template = 'https://api.tdameritrade.com/v1/marketdata/quotes?apikey={0}&symbol={1}'
     self.num_symbol_per_request_ = 20
     
     cr = crawler.IntraDayCrawlerTD(FLAGS.data_folder)
@@ -35,15 +39,18 @@ class LiveTrading:
     self.all_serving_crawled_data_ = dict()
     self.__import_previous_query()
 
+    self.http = urllib3.PoolManager()
+
   def __query_once(self, temp_symbol_list):
     symbol_str = ''
     for symbol in temp_symbol_list:
       if symbol_str!='':
         symbol_str += '%2C'
       symbol_str += symbol
-    query_message = self.query_template_.format(k_client_id, symbol_str, k_temp_query_file)
-    os.system(query_message)
-    query_content = json.load(open(k_temp_query_file))
+
+    query_request = self.url_template.format(k_client_id, symbol_str)
+    query_response = self.http.request('GET', query_request)
+    query_content = json.loads(query_response.data.decode('utf-8'))
 
     for symbol in temp_symbol_list:
       if symbol not in query_content:
@@ -90,6 +97,11 @@ class LiveTrading:
       self.__crawl_one_round()
       self.__export_current_query()
 
+  def crawl_once(self):
+      start = time.time()
+      print("start time is: ", start)
+      self.__crawl_one_round()
+      print("finished, time used is: ", (time.time() - start))
 
 
 def test_update_refresh_time():
