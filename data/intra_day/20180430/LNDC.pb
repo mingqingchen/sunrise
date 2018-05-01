@@ -1,0 +1,3 @@
+
+LNDCншо	"Ж33[A33[A%33[A-33[A0ю"Ч ≥YA ≥YA% ≥YA- ≥YA0d"┌ ≥YA33[A%33[A- ≥YA0░"┐33[A33[A%33[A-33[A0d"┤ffZAffZA%ffZA-ffZA0d"╬ffZAffZA%ffZA-ffZA0d"Е ≥YAмлXA% ≥YA-млXA0й"╩ ≥YA ≥YA% ≥YA- ≥YA0Т"Й ≥YA ≥YA% ≥YA- ≥YA0d"З ≥YA ≥YA% ≥YA- ≥YA0х"┐млXAмлXA%млXA-млXA0d"∙млXAмлXA%млXA-млXA0d"жмлXAмлXA%млXA-млXA0d"┐	ffZAffZA%ffZA-ffZA0d"я	 ≥YA ≥YA% ≥YA- ≥YA0╛"р	 ≥YA ≥YA% ≥YA- ≥YA0d"ч	ffZAffZA%ffZA-ffZA0d"И	млXAмлXA%млXA-млXA0d"Й	 ≥YA ≥YA% ≥YA- ≥YA0х"К	млXAмлXA% ≥YA-млXA0╪"■
+млXAмлXA%млXA-млXA0Л	
