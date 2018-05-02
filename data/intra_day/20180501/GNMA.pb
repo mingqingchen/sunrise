@@ -1,0 +1,2 @@
+
+GNMA•ÜÏ	"öffABffAB%ffAB-ffAB0…"Â33AB33AB%33AB-33AB0d"Ï33AB33AB%33AB-33AB0d"Ð33AB33AB%33AB-33AB0d"ÑffAB–ƒAB%–ƒAB-ffAB0Ï"Òš™ABš™AB%š™AB-š™AB0d"Þš™ABš™AB%š™AB-š™AB0ª"ñq=ABq=AB%q=AB-q=AB0¬"ô33AB33AB%33AB-33AB0d"¬ô=ABô=AB%ô=AB-ô=AB0»"±™AB™AB%™AB-™AB0”"‡ZuABZuAB%ZuAB-ZuAB0Û"ý¥}AB¥}AB%¥}AB-¥}AB0n"„	baABbaAB%baAB-baAB0Î"À	Ÿ+ABŸ+AB%Ÿ+AB-Ÿ+AB0¦"É	ÙABÙAB%ÙAB-ÙAB0¥"Ò	¤pABËPAB%¤pAB-ËPAB0¼"×	Û9ABö(AB%Û9AB-ö(AB0á"ë	{AB…ë@B%{AB-…ë@B0Ü

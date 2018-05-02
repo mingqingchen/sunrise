@@ -1,0 +1,2 @@
+
+BSE∙эо	"ЖвёDAвёDA%вёDA-вёDA0▓"ЫвёDAвёDA%вёDA-вёDA0╣"ЭвёDAвёDA%вёDA-вёDA0х"┌вёDAвёDA%вёDA-вёDA0х"┬АzDAАzDA%АzDA-АzDA0d"⌠АzDAвёDA%вёDA-АzDA0╛"фвёDAвёDA%вёDA-вёDA0х"л÷мDA÷мDA%÷мDA-÷мDA0┤"мвёDAвёDA%вёDA-вёDA0d"ъвёDAвёDA%вёDA-вёDA0d"ДвёDAвёDA%вёDA-вёDA0o"╖млDAмлDA%млDA-млDA0d"╫R╦DAR╦DA%R╦DA-R╦DA0d"ъмлDA6мDA%6мDA-млDA0╪"└	млDAмлDA%млDA-вёDA0╪"К	цУDAцУDA%цУDA-цУDA0d

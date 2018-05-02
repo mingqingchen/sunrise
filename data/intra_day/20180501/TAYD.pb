@@ -1,0 +1,2 @@
+
+TAYD•ЬП	"цff"Aff"A%ff"A-ff"A0e"шff"Aff"A%ff"A-ff"A0±"Хq="Aq="A%q="A-q="A0¬"ЦJ{!A>y!A%J{!A->y!A0ђ"ЧJ{!A>y!A%J{!A->y!A0ђ"Њ:#!A:#!A%:#!A-:#!A0ф"ымQ AмQ A%мQ A-мQ A0d"ї	q="Aq="A%q="A-q="A0ј"А	q="Aq="A%q="A-q="A0d"В	q="Aq="A%q="A-q="A0d"Й	…л!A…л!A%…л!A-…л!A0d"К	33!A33!A%33!A-33!A0d"О	J"AJ"A%J"A-J"A0И"П	Є`!AJ"A%J"A-Є`!A0¬"Т	Мо!AМо!A%Мо!A-Мо!A0d"У	®G!Aq="A%q="A-®G!A0"Ф	q="A®!A%ff"A-Гх A0Ш"л	бz AмQ A%бz A-мQ A0ф

@@ -1,0 +1,3 @@
+
+MCI•ÜÏ	"ÒorAorA%orA-orA0‡"è)\sASsA%)\sA-SsA0¶"¢33sA)\sA%)\sA-33sA0 "¶)\sA)\sA%)\sA-)\sA0d"Â33sA33sA%33sA-33sA0Ç"„<½rA)\sA%)\sA-<½rA0æ"¡yéqA*:rA%*:rA-yéqA0˜"ºffrAffrA%ffrA-ffrA0d"êffrAffrA%ffrA-ffrA0è"ìffrAffrA%ffrA-ffrA0¬"ðffrAffrA%ffrA-ffrA0¹"ö9´rA9´rA%9´rA-9´rA0¬"ˆ¸sA¸sA%¸sA-¸sA0o"‹\rAÎªsA%ÎªsA-\rA0È"Œ®sAÀ[sA%®sA-SsA0 
+"‘ÃÓsAÃÓsA%ÃÓsA-ÃÓsA0d"šffrA{rA%ÏfrA-{rA0¬"†	{rA{rA%{rA-{rA0ô"Ú	þÔrAþÔrA%þÔrA-þÔrA0Õ"Þ	œsAœsA%œsA-œsA0„"à	œsAœsA%œsA-œsA0¬"á	®sA®sA%®sA-)\sA0è"ä	®GsA®GsA%®GsA-®GsA0¬"ê	œ¢sAœ¢sA%œ¢sA-œ¢sA0

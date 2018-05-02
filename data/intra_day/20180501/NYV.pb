@@ -1,0 +1,2 @@
+
+NYV∙эо	"МцУTAцУTA%цУTA-цУTA0d"⌡млTAмлTA%млTA-млTA0d"щмлTAмлTA%млTA-млTA0d"ЖмлTAмлTA%млTA-млTA0d"╣	млTAмлTA%млTA-млTA0d"х	млTAмлTA%млTA-млTA0d"у	млTAмлTA%млTA-млTA0d"ж	цУTAцУTA%цУTA-цУTA0d"з	q=VAq=VA%q=VA-q=VA0d"Ф	млTAмлTA%млTA-млTA0d"И	млTAмлTA%млTA-млTA0d
