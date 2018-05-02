@@ -1,3 +1,5 @@
 .idea/*
 *.pyc
 temp_query.txt
+refresh_token.txt
+access_token.txt
