@@ -1,6 +1,12 @@
 import urllib
 import os
 import json
+import urllib3
+import time
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+k_client_id = 'mingqing8%40AMER.OAUTHAP'
 
 class TradeAPI:
   def __init__(self):
@@ -10,6 +16,9 @@ class TradeAPI:
 
     self.get_access_token_template_ = 'curl -X POST --header "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token={0}&access_type=offline&code=&client_id=mingqing8%40AMER.OAUTHAP&redirect_uri=sunrsie" "https://api.tdameritrade.com/v1/oauth2/token" > {1}'
     self.get_history_price_template_ = 'curl -X GET --header "Authorization: " --header "Authorization: Bearer {0}" "https://api.tdameritrade.com/v1/marketdata/{1}/pricehistory?period=1&frequencyType=minute&frequency=1" > {2}'
+    self.real_time_quotes_template_ = 'https://api.tdameritrade.com/v1/marketdata/quotes?apikey={0}&symbol={1}'
+    
+    self.http = urllib3.PoolManager()
 
   def get_refresh_token(self):
     fid = open(self.refresh_token_file_)
@@ -38,6 +47,7 @@ class TradeAPI:
       return True
 
   def query_historical_price(self, symbol):
+    """ Get historical price of a symbol. Large time delay. Typically only able to query after market close for a day. """
     query_string = self.get_history_price_template_.format(self.access_token_, symbol, self.temp_file_location_)
     os.system(query_string)
     response = dict()
@@ -47,3 +57,17 @@ class TradeAPI:
       print('Error decoding json.')
       return False, response
     return True, response
+
+  def query_updated_quotes(self, symbol_list):
+    """ Given a symbol_list, get the real time updated quotes. """
+    symbol_str = ''
+    for symbol in symbol_list:
+      if symbol_str!='':
+        symbol_str += '%2C'
+      symbol_str += symbol
+
+    query_request = self.real_time_quotes_template_.format(k_client_id, symbol_str)
+    query_response = self.http.request('GET', query_request)
+    query_content = json.loads(query_response.data.decode('utf-8'))
+    return True, query_content
+
