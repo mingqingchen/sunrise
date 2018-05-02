@@ -27,7 +27,7 @@ class LiveTrading:
     self.all_serving_crawled_data_ = dict()
     self.__import_previous_query()
     
-    self.instance_ = trade_api.TradeAPI()
+    self.instance_ = trade_api.TradeAPI()    
 
   def __query_once(self, temp_symbol_list):
     result, query_content = self.instance_.query_updated_quotes(temp_symbol_list)
