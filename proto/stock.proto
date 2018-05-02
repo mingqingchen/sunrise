@@ -125,6 +125,7 @@ message ServingCrawledData {
     required int32 time_val = 1;
     required float market_price = 2;
     required float bid_price = 3;
+    required float open_price = 4;
   }
   required string symbol = 1;
   repeated OneCrawledData data = 2; 

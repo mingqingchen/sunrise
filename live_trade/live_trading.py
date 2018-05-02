@@ -44,6 +44,8 @@ class LiveTrading:
       """
       one_time_data.market_price = query_content[symbol]['regularMarketLastPrice']
       one_time_data.bid_price = query_content[symbol]['bidPrice']
+      one_time_data.open = query_content[symbol]['openPrice']
+
 
   def __import_previous_query(self):
     all_files = [f for f in os.listdir(self.sub_folder_) if os.path.isfile(os.path.join(self.sub_folder_, f)) and f.endswith('.pb')]
