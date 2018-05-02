@@ -1,8 +1,8 @@
 import argparse
-import os
 import sys
 import tensorflow as tf
-
+import schedule
+import time
 import live_trade.live_trading as live_trading
 
 FLAGS=None
@@ -22,10 +22,17 @@ def test_update_refresh_time():
       print('Current time: {0}, crawled most updated time: {1}'.format(datetime_util.get_cur_time_int(), one_symbol_data.data[-1].time_val))
       print('Timepoint crawled so far: {0}'.format(len(one_symbol_data.data)))
 
-def main(_):
+def start_live_trading():
   trader = live_trading.LiveTrading()
   trader.crawl_forever()
-  
+
+def main(_):
+  schedule.every().day.at("6:01").do(start_live_trading)
+
+  while True:
+    schedule.run_pending()
+    time.sleep(10)
+
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
   FLAGS, unparsed = parser.parse_known_args()
