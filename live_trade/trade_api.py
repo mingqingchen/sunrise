@@ -16,6 +16,9 @@ class TradeAPI:
 
     self.get_access_token_template_ = 'curl -X POST --header "Content-Type: application/x-www-form-urlencoded" -d "grant_type=refresh_token&refresh_token={0}&access_type=offline&code=&client_id=mingqing8%40AMER.OAUTHAP&redirect_uri=sunrsie" "https://api.tdameritrade.com/v1/oauth2/token" > {1}'
     self.get_history_price_template_ = 'curl -X GET --header "Authorization: " --header "Authorization: Bearer {0}" "https://api.tdameritrade.com/v1/marketdata/{1}/pricehistory?period=1&frequencyType=minute&frequency=1" > {2}'
+    
+    self.get_account_template_ = 'curl -X GET --header "Authorization: " --header "Authorization: Bearer {0}" "https://api.tdameritrade.com/v1/accounts" > {1}'
+    
     self.real_time_quotes_template_ = 'https://api.tdameritrade.com/v1/marketdata/quotes?apikey={0}&symbol={1}'
     
     self.http = urllib3.PoolManager()
@@ -45,6 +48,17 @@ class TradeAPI:
       print('Successfully Update Refresh and Access Token!')
       self.refresh_token_ = urllib.quote_plus(self.refresh_token_)
       return True
+
+  def get_account_info(self):
+    get_account_info_command = self.get_account_template_.format(self.access_token_, self.temp_file_location_)
+    response = json.load(open(self.temp_file_location_))
+    if 'error' in response:
+      print('Failed to get account info. Something is wrong!!!')
+      return False
+    self.account_id_ = response['securitesAccount']['accountId']
+    self.is_day_trader_ = response['secruitiesAccount']['isDayTrader']
+    self.cash_available_for_trading_ = response['secruitiesAccount']['currentBalances']['cashAvailableForTrading']
+    return True
 
   def query_historical_price(self, symbol):
     """ Get historical price of a symbol. Large time delay. Typically only able to query after market close for a day. """
