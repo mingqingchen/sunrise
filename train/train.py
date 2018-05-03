@@ -19,7 +19,7 @@ import tensorflow as tf
 
 FLAGS = None
 
-def shallownn(x):
+def SimpleFn(x):
   with tf.name_scope('fc1'):
     W_fc1 = weight_variable([100, 128])
     b_fc1 = bias_variable([128])
@@ -31,6 +31,34 @@ def shallownn(x):
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   return h_fc2
+
+def SimpleCnn(x):
+  # padding could be 'SAME' or 'VALID'
+  x_reshape = tf.reshape(x, [-1, 100, 1])
+  with tf.name_scope('cnn1'):
+    W_conv1 = weight_variable([5, 1, 4])
+    b_conv1 = bias_variable([4])
+    h_conv1 = tf.nn.relu(tf.nn.conv1d(x_reshape, W_conv1, stride = 2, padding = 'VALID') + b_conv1)
+  with tf.name_scope('cnn2'):
+    W_conv2 = weight_variable([5, 4, 8])
+    b_conv2 = bias_variable([8])
+    h_conv2 = tf.nn.relu(tf.nn.conv1d(h_conv1, W_conv2, stride = 2, padding = 'VALID') + b_conv2)
+  with tf.name_scope('cnn3'):
+    W_conv3 = weight_variable([5, 8, 4])
+    b_conv3 = bias_variable([4])
+    h_conv3 = tf.nn.relu(tf.nn.conv1d(h_conv2, W_conv3, stride = 2, padding = 'VALID') + b_conv3)
+  with tf.name_scope('fc1'):
+    W_fc1 = weight_variable([36, 16])
+    b_fc1 = bias_variable([16])
+    h_conv3_flat = tf.reshape(h_conv3, [-1, 36])
+    h_fc1 = tf.nn.relu(tf.matmul(h_conv3_flat, W_fc1) + b_fc1)
+  with tf.name_scope('fc2'):
+    W_fc2 = weight_variable([16, 1])
+    b_fc2 = bias_variable([1])
+    h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
+
+  return h_fc2
+
 
 def deepnn(x):
   """deepnn builds the graph for a deep net for classifying digits.
@@ -150,7 +178,8 @@ def train_dummy():
   y_label = tf.placeholder(tf.float32, [None, 1])
 
   # Build the graph for the deep net
-  y_prediction = shallownn(x)
+  # y_prediction = SimpleFn(x)
+  y_prediction = SimpleCnn(x)
 
   with tf.name_scope('loss'):
     squared_loss = tf.losses.mean_squared_error(
