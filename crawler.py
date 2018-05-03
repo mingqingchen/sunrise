@@ -22,7 +22,7 @@ import proto.stock_pb2 as stock_pb2
 import live_trade.trade_api as trade_api
 
 k_intra_day_folder = 'intra_day/'
-k_data_folder = './data_test/'
+k_data_folder = './data/'
 k_index_list = {'NASDAQ', 'NYSE', 'AMEX'}
 
 class IntraDayCrawler:
@@ -161,7 +161,7 @@ class IntraDayCrawlerTD(IntraDayCrawler):
     IntraDayCrawler.__init__(self, data_folder)
     self.live_trade_api_ = trade_api.TradeAPI()
     self.live_trade_api_.get_refresh_token()
-    self.live_trade_api_.get_new_access_token()    
+    self.live_trade_api_.get_new_access_token()
   
   def crawl_one_symbol(self, symbol):
     result, response = self.live_trade_api_.query_historical_price(symbol)

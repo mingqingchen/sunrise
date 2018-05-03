@@ -44,7 +44,8 @@ class LiveTrading:
       """
       one_time_data.market_price = query_content[symbol]['regularMarketLastPrice']
       one_time_data.bid_price = query_content[symbol]['bidPrice']
-      one_time_data.open = query_content[symbol]['openPrice']
+      one_time_data.open_price = query_content[symbol]['openPrice']
+      one_time_data.total_volume = query_content[symbol]['totalVolume']
 
 
   def __import_previous_query(self):
