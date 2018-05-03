@@ -78,26 +78,51 @@ def compare_two_crawl_result():
     print('Compare {0}: length1: {1}, length2: {2}'.format(symbol, len(one_data1.data), len(one_data2.data)))
 
 def analyze_volume_timepoint():
-  """Analyze the distribution of volume and relationship to timepoint available. """
+  """Analyze the distribution of volume, number of available timepoints, and cash flow. """
   dp =  data_provider.DataProvider('./data/intra_day/')
-  day_int_val = 20180430
+  day_int_val = 20180502
   symbol_list = dp.get_symbol_list_for_a_day(day_int_val)
   dp.load_one_day_data(day_int_val)
+  dp.generate_eligible_list()
   
-  volume_list, timepoint_list = [], []
+  volume_list, timepoint_list, trade_cash_list = [], [], []
+
+  # we assume that for large symbols, at least $20K should be traded within one minute.
+  large_symbol_threshold = 20000 * 60 * 6.5
+
+  num_small_symbol = 0
+
   for symbol in symbol_list:
     one_symbol_data = dp.get_one_symbol_data(symbol)
-    total_volume = 0
+    total_volume, total_trade_cash_flow = 0, 0
     for one_time_data in one_symbol_data.data:
       total_volume += one_time_data.volume
+      total_trade_cash_flow += one_time_data.volume * one_time_data.open
     volume_list.append(total_volume)
+
+    if total_trade_cash_flow > 1e8:
+      print('Symbol: {0}, total trade cash flow: ${1}M'.format(symbol, total_trade_cash_flow/1e6))
+    else:
+      trade_cash_list.append(total_trade_cash_flow)
+
+    if total_trade_cash_flow < large_symbol_threshold:
+        num_small_symbol += 1
     timepoint_list.append(len(one_symbol_data.data))
 
+  print('Total number of small symbols: {0}'.format(num_small_symbol))
   plt.plot(timepoint_list, volume_list, '.')
   plt.xlim(0, max(timepoint_list))
+  plt.xlabel('Number of time points')
   plt.ylim(0, max(volume_list))
+  plt.ylabel('Daily traded volume')
   plt.grid()
   plt.show()
+  plt.clf()
+  #plt.plot(trade_cash_list)
+  plt.hist(trade_cash_list, bins = 50)
+  plt.grid()
+  plt.show()
+
 
 def run_through_analysis_functions(_):
   # export_some_intra_day_data_to_pngs()

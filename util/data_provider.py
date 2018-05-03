@@ -10,9 +10,10 @@ import util.display_util as display_util
 import proto.stock_pb2 as stock_pb2
 import util.datetime_util as datetime_util
 
+k_eligible_file_name = 'eligible_list.txt'
 
 class DataProvider:
-  def __init__(self, root_folder):
+  def __init__(self, root_folder, use_eligible_list = True):
     self.root_folder_ = root_folder
     all_folders = [f for f in os.listdir(self.root_folder_) if os.path.isdir(os.path.join(self.root_folder_, f))]
     self.subfolder_list_ = []
@@ -26,9 +27,56 @@ class DataProvider:
     self.cur_date_val_ = 0
     self.one_day_data_ = dict()
     self.symbol_timeslot_index_ = dict()
+    self.use_eligible_list_ = use_eligible_list
+    if use_eligible_list:
+      if self.import_eligible_list():
+        print('Successfully loaded eligible list. Number of eligible symbols: {0}'.format(len(self.eligible_list_)))
+      else:
+        print('Failed to load eligible list. Something is wrong!!!')
 
   def __get_day_folder(self, date_int_val):
     return os.path.join(self.root_folder_, str(date_int_val) + '/')
+
+  def import_eligible_list(self):
+    try:
+      list_file = os.path.join(self.root_folder_, k_eligible_file_name)
+      fid = open(list_file)
+      lines = fid.readlines()
+      fid.close()
+      self.eligible_list_ = dict()
+      for line in lines:
+        line = line.replace('\n', '')
+        if line!='':
+          self.eligible_list_[line] = True
+    except ValueError:
+      return False
+    return True
+
+  def __is_eligible(self, symbol):
+    if symbol not in self.one_day_data_:
+      return False
+    total_daily_cash_flow_threshold = 20000 * 6.5 * 60
+    min_price_threshold = 5.0
+
+    total_cash_flow = 0
+    for one_time_data in self.one_day_data_[symbol].data:
+      if one_time_data.low < min_price_threshold:
+        return False
+      total_cash_flow += one_time_data.volume * one_time_data.open
+    if total_cash_flow < total_daily_cash_flow_threshold:
+      return False
+    return True
+
+  def generate_eligible_list(self):
+    self.eligible_list_.clear()
+    for symbol in self.one_day_data_:
+      if self.__is_eligible(symbol):
+        self.eligible_list_[symbol] = True
+    list_file = os.path.join(self.root_folder_, k_eligible_file_name)
+    fid = open(list_file, 'w')
+    for symbol in self.eligible_list_:
+      fid.write('{0}\n'.format(symbol))
+    fid.close()
 
   def next_record_day(self, input_day_val):
     num_days = len(self.subfolder_list_)
@@ -53,7 +101,14 @@ class DataProvider:
     return True
 
   def get_available_symbol_list(self):
-    return self.one_day_data_.keys()
+    if self.use_eligible_list_:
+      available_list = []
+      for symbol in self.one_day_data_.keys():
+        if symbol in self.eligible_list_:
+          available_list.append(symbol)
+      return available_list
+    else:
+      return self.one_day_data_.keys()
 
   def get_one_symbol_data(self, symbol):
     return self.one_day_data_[symbol]
@@ -62,10 +117,17 @@ class DataProvider:
     self.symbol_list_ = self.get_symbol_list_for_a_day(date_int_val)
     self.one_day_data_.clear()
     for symbol in self.symbol_list_:
-      self.load_one_symbol(date_int_val, symbol)
+      if self.use_eligible_list_:
+        if symbol in self.eligible_list_:
+          self.load_one_symbol(date_int_val, symbol)
+      else:
+        self.load_one_symbol(date_int_val, symbol)
       
   def has_symbol(self, symbol):
-    return symbol in self.one_day_data_
+    if self.use_eligible_list_:
+      return (symbol in self.one_day_data_) and (symbol in self.eligible_list_)
+    else:
+      return symbol in self.one_day_data_
 
   def clear_symbol_index(self):
     self.symbol_timeslot_index_.clear()

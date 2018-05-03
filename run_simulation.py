@@ -19,9 +19,9 @@ FLAGS=None
 
 k_data_folder = './data/intra_day/'
 def main(_):
-  dp = data_provider.DataProvider(FLAGS.data_dir)
+  dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
   
-  start_date = 20180502
+  start_date = 20180501
   end_date = 20180502
   initial_fund = 200000
 
@@ -67,6 +67,13 @@ if __name__=="__main__":
     type=str,
     default=k_data_folder,
     help='Root for historical data'
+  )
+
+  parser.add_argument(
+    '--use_eligible_list',
+    type=bool,
+    default=True,
+    help='Whether use eligible list or not'
   )
   FLAGS, unparsed = parser.parse_known_args()
   tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
