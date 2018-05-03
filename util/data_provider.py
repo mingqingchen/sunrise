@@ -68,7 +68,7 @@ class DataProvider:
     return True
 
   def generate_eligible_list(self):
-    self.eligible_list_.clear()
+    self.eligible_list_ = dict()
     for symbol in self.one_day_data_:
       if self.__is_eligible(symbol):
         self.eligible_list_[symbol] = True
@@ -178,7 +178,11 @@ class DataProvider:
     for filename in all_files:
       filename = filename.replace(' ', '')
       filename = filename.replace('.pb', '')
-      symbol_list.append(filename)
+      if self.use_eligible_list_:
+        if filename in self.eligible_list_:
+          symbol_list.append(filename)
+      else:
+        symbol_list.append(filename)
     return symbol_list
 
   def __prepare_one_stock_data_list(self, one_stock_data):

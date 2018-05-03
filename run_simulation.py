@@ -21,7 +21,7 @@ k_data_folder = './data/intra_day/'
 def main(_):
   dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
   
-  start_date = 20180501
+  start_date = 20180417
   end_date = 20180502
   initial_fund = 200000
 

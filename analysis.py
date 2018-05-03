@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 
 import util.data_provider as data_provider
 import util.distribution_analyzer as distribution_analyzer
+import proto.stock_pb2 as stock_pb2
 
 k_data_folder = './data_test/intra_day/'
 k_png_temp_folder = 'temppng/'
@@ -79,11 +80,12 @@ def compare_two_crawl_result():
 
 def analyze_volume_timepoint():
   """Analyze the distribution of volume, number of available timepoints, and cash flow. """
-  dp =  data_provider.DataProvider('./data/intra_day/')
+  dp =  data_provider.DataProvider('./data/intra_day/', False)
   day_int_val = 20180502
   symbol_list = dp.get_symbol_list_for_a_day(day_int_val)
   dp.load_one_day_data(day_int_val)
   dp.generate_eligible_list()
+  live_trade_folder = os.path.join('./live_trade/', str(day_int_val) + '/')
   
   volume_list, timepoint_list, trade_cash_list = [], [], []
 
@@ -99,6 +101,18 @@ def analyze_volume_timepoint():
       total_volume += one_time_data.volume
       total_trade_cash_flow += one_time_data.volume * one_time_data.open
     volume_list.append(total_volume)
+
+    # load from live trade folder as well
+    live_crawl_file = os.path.join(live_trade_folder, symbol + '.pb')
+    if os.path.isfile(live_crawl_file):
+      fid = open(live_crawl_file)
+      content = fid.read()
+      fid.close()
+      one_stock_data = stock_pb2.ServingCrawledData()
+      one_stock_data.ParseFromString(content)
+      total_volume_live = one_stock_data.data[-1].total_volume
+      print('Symbol: {0}'.format(symbol))
+      print('Total volume from historical price: {0}, from live crawl: {1}'.format(total_volume, total_volume_live))
 
     if total_trade_cash_flow > 1e8:
       print('Symbol: {0}, total trade cash flow: ${1}M'.format(symbol, total_trade_cash_flow/1e6))

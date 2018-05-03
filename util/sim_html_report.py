@@ -81,7 +81,7 @@ class SimulationHtmlReport:
       day_symbol_transaction_index_dict[transaction.date][transaction.symbol].append(transaction)
 
     # export figures
-    dp = data_provider.DataProvider(k_data_folder)
+    dp = data_provider.DataProvider(k_data_folder, False)
     for date_val in day_symbol_transaction_index_dict.keys():
       for symbol in day_symbol_transaction_index_dict[date_val].keys():
         img_path = os.path.join(img_folder, '{0}_{1}.png'.format(date_val, symbol))
