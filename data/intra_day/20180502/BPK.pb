@@ -1,0 +1,3 @@
+
+BPK–ЬП	"ц…oA…oA%…oA-…oA0ц"‡’\oA)\oA%’\oA-)\oA0Ш"А)\oAjoA%‚soA-)\oA0•."ОZdoAZdoA%ZdoA-ZdoA0«"П)\oA)\oA%)\oA-)\oA0ђ"ЩА[oA)\oA%)\oA-А[oA0ё"Ы)\oA)\oA%)\oA-)\oA0р
+"р)\oA)\oA%)\oA-)\oA0€"Ф)\oA)\oA%)\oA-)\oA0€'"Ы33oAДBoA%ДBoA-33oA0ђ"тА[oA)\oA%)\oA-А[oA0р"у33oA=oA%=oA-33oA0Ђ"э33oA=oA%=oA-33oA0°""ю33oA?5oA%?5oA-33oA0р."њ3oAњ3oA%њ3oA-њ3oA0а"Ј®GoAА[oA%А[oA-®GoA0ф"М)\oA)\oA%)\oA-)\oA0и"Я)\oAА[oA%)\oA-А[oA0а"а)\oA…oA%…oA-)\oA0и"ѓ	33oA33oA%33oA-33oA0и"†	33oAлвnA%4oA-лвnA0иX"в	XoA)\oA%)\oA-XoA0ф"г	)\oA)\oA%)\oA-)\oA0ф"д	)\oA)\oA%)\oA-А[oA0Ь"е	)\oA)\oA%…oA-)\oA0Ь
