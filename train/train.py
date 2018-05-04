@@ -21,12 +21,12 @@ FLAGS = None
 
 def SimpleFn(x):
   with tf.name_scope('fc1'):
-    W_fc1 = weight_variable([100, 128])
-    b_fc1 = bias_variable([128])
+    W_fc1 = weight_variable([100, 256])
+    b_fc1 = bias_variable([256])
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
   with tf.name_scope('fc2'):
-    W_fc2 = weight_variable([128, 1])
+    W_fc2 = weight_variable([256, 1])
     b_fc2 = bias_variable([1])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
@@ -137,13 +137,13 @@ def max_pool_2x2(x):
 def weight_variable(shape):
   """weight_variable generates a weight variable of a given shape."""
   initial = tf.truncated_normal(shape, stddev=0.1)
-  return tf.Variable(initial)
+  return tf.Variable(initial, tf.float32)
 
 
 def bias_variable(shape):
   """bias_variable generates a bias variable of a given shape."""
   initial = tf.constant(0.1, shape=shape)
-  return tf.Variable(initial)
+  return tf.Variable(initial, tf.float32)
 
 def generate_dummy_data():
   num_train_sample = 10000
@@ -178,8 +178,8 @@ def train_dummy():
   y_label = tf.placeholder(tf.float32, [None, 1])
 
   # Build the graph for the deep net
-  # y_prediction = SimpleFn(x)
-  y_prediction = SimpleCnn(x)
+  y_prediction = SimpleFn(x)
+  #y_prediction = SimpleCnn(x)
 
   with tf.name_scope('loss'):
     squared_loss = tf.losses.mean_squared_error(
@@ -196,16 +196,25 @@ def train_dummy():
 
   index = 0
   batch_size = 50
+
+  use_pre_trained = True
+  k_model_path = './model2.ckpt'
   with tf.Session() as sess:
-    sess.run(tf.global_variables_initializer())
-    for i in range(2000):
-      batch = (train_x[index: index+batch_size, ], train_y[index: index+batch_size, ])
-      if i % 10 == 0:
-        train_accuracy = squared_loss.eval(feed_dict={
-            x: batch[0], y_label: batch[1]})
-        print('step %d, training error %g' % (i, train_accuracy))
-      train_step.run(feed_dict={x: batch[0], y_label: batch[1]})
-      index += batch_size
+    saver = tf.train.Saver()
+    if use_pre_trained:
+      saver.restore(sess, k_model_path)
+    else:
+      sess.run(tf.global_variables_initializer())
+      for i in range(2000):
+        batch = (train_x[index: index+batch_size, ], train_y[index: index+batch_size, ])
+        if i % 10 == 0:
+          train_accuracy = squared_loss.eval(feed_dict={
+             x: batch[0], y_label: batch[1]})
+          print('step %d, training error %g' % (i, train_accuracy))
+        train_step.run(feed_dict={x: batch[0], y_label: batch[1]})
+        index += batch_size
+      save_path = saver.save(sess, k_model_path)
+      print('Model saved in path: {0}'.format(save_path))
 
     print('test accuracy %g' % squared_loss.eval(feed_dict={
         x: test_x, y_label: test_y}))
