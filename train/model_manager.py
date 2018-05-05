@@ -7,7 +7,7 @@ import logging
 import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 
-def SimpleFn(x, input_dimension, hidden_dimension = 32):
+def SimpleFn(x, input_dimension, hidden_dimension = [128, 1]):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
@@ -18,13 +18,13 @@ def SimpleFn(x, input_dimension, hidden_dimension = 32):
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
   with tf.name_scope('fc2'):
-    W_fc2 = weight_variable([hidden_dimension, 1])
-    b_fc2 = bias_variable([1])
+    W_fc2 = weight_variable([hidden_dimension[0], hidden_dimension[1]])
+    b_fc2 = bias_variable([hidden_dimension[1]])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   return tf.squeeze(h_fc2)
 
-def SimpleFn2(x, input_dimension, hidden_dimension = [128, 16]):
+def SimpleFn2(x, input_dimension, hidden_dimension = [32, 16, 1]):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
@@ -40,8 +40,8 @@ def SimpleFn2(x, input_dimension, hidden_dimension = [128, 16]):
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   with tf.name_scope('fc3'):
-    W_fc3 = weight_variable([hidden_dimension[1], 1])
-    b_fc3 = bias_variable([1])
+    W_fc3 = weight_variable([hidden_dimension[1], hidden_dimension[2]])
+    b_fc3 = bias_variable([hidden_dimension[2]])
     h_fc3 = tf.nn.relu(tf.matmul(h_fc2, W_fc3) + b_fc3)
 
   return tf.squeeze(h_fc3)
@@ -115,15 +115,20 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.latest_time_ = 1100
 
     # Timepoint interval to step to prepare training data
-    self.sample_interval_ = 2
+    self.sample_step_training_ = 2
+    self.sample_step_testing_ = 10
 
     # Parameters related to deep learning
     self.batch_size_ = 50
-    self.learning_rate_ = 1e-5
+    self.learning_rate_ = 1e-4
     self.num_epochs_ = 50
 
-    # Parameters of simple FN
-    self.hidden_nodes_ = 32
+    # Parameters of the network
+    self.architecture_ = [32, 32]
+
+    # Is classification or regression model
+    self.is_classification_model_ = True
+    self.classifify_threshold_ = 0.005
 
     # whether the training uses previous model as a starter
     self.load_previous_model_ = False
@@ -146,9 +151,14 @@ class FixedNumTimePointsModelManager(ModelManager):
       if one_symbol_data.data[i].open > divider:
         val = (one_symbol_data.data[i].open - divider) / divider
         one_data_y = max(one_data_y, val)
+    if self.is_classification_model_:
+      if one_data_y > self.classifify_threshold_:
+        one_data_y = 1.0
+      else:
+        one_data_y = 0.0
     return one_data_x, one_data_y
 
-  def __prepare_data(self, start_date, end_date):
+  def __prepare_data(self, start_date, end_date, sample_step):
     available_dates = self.dm_.get_all_available_subfolder()
     data_x, data_y = [], []
     current_day = start_date
@@ -182,43 +192,74 @@ class FixedNumTimePointsModelManager(ModelManager):
           one_data_x, one_data_y = self.__prepare_one_data(one_symbol_data, start_index)
           data_x.append(one_data_x)
           data_y.append(one_data_y)
-          start_index += self.sample_interval_
+          start_index += sample_step
       current_day = datetime_util.increment_day(current_day, 1)
     return np.asarray(data_x), np.asarray(data_y)
 
   def __prepare_training_data(self):
     print ('Preparing training data ...')
-    return self.__prepare_data(self.train_start_date_, self.train_end_date_)
+    return self.__prepare_data(self.train_start_date_, self.train_end_date_, self.sample_step_training_)
 
   def __prepare_test_data(self):
     print ('Preparing testing data ...')
-    return self.__prepare_data(self.test_start_date_, self.test_end_date_)
+    return self.__prepare_data(self.test_start_date_, self.test_end_date_, self.sample_step_testing_)
 
   def __create_network(self):
     x = tf.placeholder(tf.float32, [None, self.num_time_points_])
 
     # Define loss and optimizer
-    y_regress_label = tf.placeholder(tf.float32, [None,])
+    if self.is_classification_model_:
+      y_label = tf.placeholder(tf.int64, [None,])
+    else:
+      y_label = tf.placeholder(tf.float32, [None,])
 
     # Build the graph for the deep net
-    y_regress_prediction = SimpleFn2(x, self.num_time_points_)
-    #y_regress_prediction = SimpleCnn(x)
+    if self.is_classification_model_:
+      self.architecture_.append(2)
+    else:
+      self.architecture_.append(1)
+
+    y_prediction = SimpleFn2(x, self.num_time_points_, self.architecture_)
 
     with tf.name_scope('loss'):
-      squared_loss = tf.losses.mean_squared_error(
-        labels=y_regress_label, predictions=y_regress_prediction)
+      if self.is_classification_model_:
+        onehot_labels = tf.one_hot(indices=tf.cast(y_label, tf.int32), depth=2)
+        loss = tf.losses.softmax_cross_entropy(
+          onehot_labels=onehot_labels, logits=y_prediction)
+      else:
+        loss = tf.losses.mean_squared_error(
+          labels=y_label, predictions=y_prediction)
 
-      squared_loss = tf.reduce_mean(squared_loss)
+      loss = tf.reduce_mean(loss)
+
+    with tf.name_scope('accuracy'):
+      correct_prediction = tf.equal(tf.argmax(y_prediction, 1), y_label)
+      correct_prediction = tf.cast(correct_prediction, tf.float32)
+      y_label_cast = tf.cast(y_label, tf.float32)
+      tp = correct_prediction * y_label_cast
+      fn = (1 - correct_prediction) * y_label_cast
+      fp = (1 - correct_prediction) * (1 - y_label_cast)
+      tn = correct_prediction * (1 - y_label_cast)
+      accuracy = tf.reduce_mean(correct_prediction)
+      tp = tf.reduce_mean(tp)
+      fn = tf.reduce_mean(fn)
+      fp = tf.reduce_mean(fp)
+      tn = tf.reduce_mean(tn)
 
     with tf.name_scope('adam_optimizer'):
-      train_step = tf.train.AdamOptimizer(self.learning_rate_).minimize(squared_loss)
+      train_step = tf.train.AdamOptimizer(self.learning_rate_).minimize(loss)
 
-    return x, y_regress_label, y_regress_prediction, squared_loss, train_step
+    return x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn
 
   def __prepare_export_file(self):
     if not os.path.isdir(self.model_folder_):
       os.mkdir(self.model_folder_)
     model_index = 0
+    model_name = self.output_model_name_prefix_
+    if self.is_classification_model_:
+      model_name += '_classification_'
+    else:
+      model_name += '_regression_'
     while True:
       model_path = os.path.join(self.model_folder_, self.output_model_name_prefix_ + str(model_index) + '.ckpt')
       if not os.path.isfile(model_path + '.index'):
@@ -228,23 +269,31 @@ class FixedNumTimePointsModelManager(ModelManager):
 
   def train_and_test(self):
     logging.basicConfig(filename = self.log_file_, level = logging.DEBUG)
-    message = 'New session of training starts at {0} on {1}'.format(datetime_util.get_cur_time_int(), datetime_util.get_today())
+    str_type = 'regression'
+    if self.is_classification_model_:
+      str_type = 'classification'
+    message = 'New session of training {0} starts at {1} on {2}'.format(str_type, datetime_util.get_cur_time_int(),
+                                                                        datetime_util.get_today())
     print (message)
     logging.info(message)
     train_x, train_y = self.__prepare_training_data()
     test_x, test_y = self.__prepare_test_data()
-    num_samples = len(train_y)
 
     message = 'Total number of samples: train: {0}, test: {1}'.format(len(train_y), len(test_y))
     print(message)
     logging.info(message)
+    if self.is_classification_model_:
+      message = 'Number of positive in training: {0}, in testing: {1}'.format(np.sum(train_y == 1), np.sum(test_y == 1))
+      print(message)
+      logging.info(message)
 
+    num_samples = len(train_y)
     sample_index = range(num_samples)
 
-    x, y_regress_label, y_regress_prediction, squared_loss, train_step = self.__create_network()
+    x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
 
     model_path = self.__prepare_export_file()   
-    train_writer = tf.summary.FileWriter(self.log_file_)
+    train_writer = tf.summary.FileWriter(self.model_folder_)
     train_writer.add_graph(tf.get_default_graph()) 
   
     with tf.Session() as sess:
@@ -266,18 +315,38 @@ class FixedNumTimePointsModelManager(ModelManager):
           batch_x = train_x[sample_index[index : last_index]]
           batch_y = train_y[sample_index[index : last_index]]          
 
-          train_step.run(feed_dict={x: batch_x, y_regress_label: batch_y})
+          train_step.run(feed_dict={x: batch_x, y_label: batch_y})
           index += self.batch_size_
-        train_regress_error = squared_loss.eval(feed_dict={
-             x: train_x, y_regress_label: train_y})
-        test_regress_error = squared_loss.eval(feed_dict={
-             x: test_x, y_regress_label: test_y})
-        message = 'Epoch {0}, train RMSE: {1}, test RMSE: {2}'.format(i, np.sqrt(train_regress_error), np.sqrt(test_regress_error))
+        if self.is_classification_model_:
+          train_error = accuracy.eval(feed_dict={x: train_x, y_label: train_y})
+          test_error = accuracy.eval(feed_dict={x: test_x, y_label: test_y})
+          true_positive_train = tp.eval(feed_dict={x: train_x, y_label: train_y})
+          false_negative_train = fn.eval(feed_dict={x: train_x, y_label: train_y})
+          false_positive_train = fp.eval(feed_dict={x: train_x, y_label: train_y})
+          true_negative_train = tn.eval(feed_dict={x: train_x, y_label: train_y})
+          true_positive_test = tp.eval(feed_dict={x: test_x, y_label: test_y})
+          false_negative_test = fn.eval(feed_dict={x: test_x, y_label: test_y})
+          false_positive_test = fp.eval(feed_dict={x: test_x, y_label: test_y})
+          true_negative_test = tn.eval(feed_dict={x: test_x, y_label: test_y})
+        else:
+          train_error = loss.eval(feed_dict={x: train_x, y_label: train_y})
+          test_error = loss.eval(feed_dict={x: test_x, y_label: test_y})
+        if self.is_classification_model_:
+          message = 'Epoch {0}, train accuracy: {1}, test accuracy: {2}'.format(i, train_error, test_error)
+        else:
+          message = 'Epoch {0}, train RMSE: {1}, test RMSE: {2}'.format(i, np.sqrt(train_error), np.sqrt(test_error))
         print(message)
         logging.info(message)
 
+        if self.is_classification_model_:
+          message = 'Train: TP: {0:.3f}, FP: {1:.3f}; Test: TP: {2:.3f}, FP: {3:.3f}'.format(
+            true_positive_train, false_positive_train, true_positive_test, false_positive_test)
+          print(message)
+          logging.info(message)
+          message = 'Train: FN: {0:.3f}, TN: {1:.3f}; Test: FN: {2:.3f}, TN: {3:.3f}'.format(
+            false_negative_train, true_negative_train, false_negative_test, true_negative_test)
+          print(message)
+          logging.info(message)
+
         save_path = saver.save(sess, model_path) # to restore, run saver.restore(sess, model_path)
-        message = 'Model saved in path: {0}'.format(save_path)
-        print(message)
-        logging.info(message)
 
