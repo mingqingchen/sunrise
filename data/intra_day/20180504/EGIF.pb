@@ -1,0 +1,2 @@
+
+EGIF≤эо	"ЖАzpAАzpA%АzpA-АzpA0d"бмлpAмлpA%млpA-млpA0э"двёpAвёpA%вёpA-вёpA0╪"евёpAвёpA%вёpA-вёpA0х"пмлpAмлpA%млpA-млpA0х"твёpAвёpA%вёpA-вёpA0╛"ЙвёpAвёpA%вёpA-вёpA0°"█╝GqA╝GqA%╝GqA-╝GqA0d"ё╓pqA╓pqA%╓pqA-╓pqA0╞"Ы╓pqA╦qA%qqA-╦qA0ж"п	 ≥qA ≥qA% ≥qA- ≥qA0ч
