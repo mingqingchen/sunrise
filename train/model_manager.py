@@ -7,7 +7,7 @@ import logging
 import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 
-def SimpleFn(x, input_dimension, hidden_dimension):
+def SimpleFn(x, input_dimension, hidden_dimension = 32):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
@@ -23,6 +23,28 @@ def SimpleFn(x, input_dimension, hidden_dimension):
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   return tf.squeeze(h_fc2)
+
+def SimpleFn2(x, input_dimension, hidden_dimension = [128, 16]):
+  """ A simple fully connected network with regression output
+  :param x: input tensor
+  :return: h_fc2: output tensor of regression
+  """
+  with tf.name_scope('fc1'):
+    W_fc1 = weight_variable([input_dimension, hidden_dimension[0]])
+    b_fc1 = bias_variable([hidden_dimension[0]])
+    h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
+
+  with tf.name_scope('fc2'):
+    W_fc2 = weight_variable([hidden_dimension[0], hidden_dimension[1]])
+    b_fc2 = bias_variable([hidden_dimension[1]])
+    h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
+
+  with tf.name_scope('fc3'):
+    W_fc3 = weight_variable([hidden_dimension[1], 1])
+    b_fc3 = bias_variable([1])
+    h_fc3 = tf.nn.relu(tf.matmul(h_fc2, W_fc3) + b_fc3)
+
+  return tf.squeeze(h_fc3)
 
 def SimpleCnn(x, hidden_dimension = 32):
   # padding could be 'SAME' or 'VALID'
@@ -93,19 +115,19 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.latest_time_ = 1100
 
     # Timepoint interval to step to prepare training data
-    self.sample_interval_ = 1
+    self.sample_interval_ = 2
 
     # Parameters related to deep learning
     self.batch_size_ = 50
-    self.learning_rate_ = 3e-5
-    self.num_epochs_ = 100
+    self.learning_rate_ = 1e-5
+    self.num_epochs_ = 50
 
     # Parameters of simple FN
     self.hidden_nodes_ = 32
 
     # whether the training uses previous model as a starter
     self.load_previous_model_ = False
-    self.previous_model_ = 'model'
+    self.previous_model_ = 'model1'
 
     # place to save the model
     self.model_folder_ = './model/'
@@ -179,8 +201,8 @@ class FixedNumTimePointsModelManager(ModelManager):
     y_regress_label = tf.placeholder(tf.float32, [None,])
 
     # Build the graph for the deep net
-    # y_regress_prediction = SimpleFn(x, self.num_time_points_, self.hidden_nodes_)
-    y_regress_prediction = SimpleCnn(x)
+    y_regress_prediction = SimpleFn2(x, self.num_time_points_)
+    #y_regress_prediction = SimpleCnn(x)
 
     with tf.name_scope('loss'):
       squared_loss = tf.losses.mean_squared_error(
@@ -199,7 +221,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     model_index = 0
     while True:
       model_path = os.path.join(self.model_folder_, self.output_model_name_prefix_ + str(model_index) + '.ckpt')
-      if not os.path.isfile(model_path):
+      if not os.path.isfile(model_path + '.index'):
         break
       model_index += 1
     return model_path
@@ -228,7 +250,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     with tf.Session() as sess:
       saver = tf.train.Saver()
       if self.load_previous_model_:
-        prev_model_path = os.path.join(self.model_folder_, self.previous_model_)
+        prev_model_path = os.path.join(self.model_folder_, self.previous_model_ + '.ckpt')
         saver.restore(sess, prev_model_path)
         message = 'Load from previous model {0}'.format(prev_model_path)
         print(message)
@@ -254,8 +276,8 @@ class FixedNumTimePointsModelManager(ModelManager):
         print(message)
         logging.info(message)
 
-      save_path = saver.save(sess, model_path) # to restore, run saver.restore(sess, model_path)
-      message = 'Model saved in path: {0}'.format(save_path)
-      print(message)
-      logging.info(message)
+        save_path = saver.save(sess, model_path) # to restore, run saver.restore(sess, model_path)
+        message = 'Model saved in path: {0}'.format(save_path)
+        print(message)
+        logging.info(message)
 
