@@ -130,7 +130,7 @@ class FixedNumTimePointsModelManager(ModelManager):
 
     # Is classification or regression model
     self.is_classification_model_ = True
-    self.classifify_threshold_ = 0.01
+    self.classifify_threshold_ = 0.005
 
     # whether the training uses previous model as a starter
     self.load_previous_model_ = False
@@ -140,6 +140,9 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.model_folder_ = './model/'
     self.output_model_name_prefix_ = 'model'
     self.log_file_ = './training_log.txt'
+
+  def get_num_time_points(self):
+    return self.num_time_points_
 
   def __prepare_one_data(self, one_symbol_data, start_index):
     one_data_x = np.zeros(self.num_time_points_ + 1) # additional feature is time
@@ -164,6 +167,26 @@ class FixedNumTimePointsModelManager(ModelManager):
         one_data_y = 0.0
     return one_data_x, one_data_y
 
+  def is_eligible_to_be_fed_into_network(self, one_symbol_data, current_index):
+    """ Given current_index of time slot, return whether this current time on one symbol can be fed into NN
+    :param one_symbol_data: one symbol stock data
+    :param current_index: index of the current time point you want to check
+    :return: True/False whether the data can be fed into NN
+    """
+    if len(one_symbol_data.data) < self.num_time_points_:
+      return False
+
+    if current_index < self.num_time_points_ - 1:
+      return False
+
+    if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
+      return False
+
+    if one_symbol_data.data[current_index].time_val > self.latest_time_:
+      return False
+
+    return True
+
   def __prepare_data(self, start_date, end_date, sample_step):
     available_dates = self.dm_.get_all_available_subfolder()
     data_x, data_y = [], []
@@ -181,21 +204,14 @@ class FixedNumTimePointsModelManager(ModelManager):
       symbol_list = self.dm_.get_symbol_list_for_a_day(current_day)
       for symbol in symbol_list:
         one_symbol_data = self.dm_.get_one_symbol_data(symbol)
-        start_index = 0
+        start_index = self.num_time_points_ - 1
         while True:
-          while True:
-            if start_index > len(one_symbol_data.data):
-              break
-            if (one_symbol_data.data[start_index].time_val >= self.open_time_):
-              break
-            start_index += 1
-
-          if len(one_symbol_data.data) < start_index + self.num_time_points_:
+          if start_index >= len(one_symbol_data.data):
             break
-
-          if one_symbol_data.data[start_index + self.num_time_points_ - 1].time_val > self.latest_time_:
-            break
-          one_data_x, one_data_y = self.__prepare_one_data(one_symbol_data, start_index)
+          if not self.is_eligible_to_be_fed_into_network(one_symbol_data, start_index):
+            start_index += sample_step
+            continue
+          one_data_x, one_data_y = self.__prepare_one_data(one_symbol_data, start_index - self.num_time_points_ + 1)
           data_x.append(one_data_x)
           data_y.append(one_data_y)
           start_index += sample_step
@@ -209,6 +225,28 @@ class FixedNumTimePointsModelManager(ModelManager):
   def __prepare_test_data(self):
     print ('Preparing testing data ...')
     return self.__prepare_data(self.test_start_date_, self.test_end_date_, self.sample_step_testing_)
+
+  def init_for_serving(self):
+    """ Initialize network and load saved model for serving
+    :param model_path: file path of model
+    :return:
+    """
+    self.input_feed_, y_label, self.prediction_, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
+    self.prediction_ = tf.nn.softmax(self.prediction_)
+
+  def compute_prob(self, one_symbol_data, current_index):
+    """ Compute buying probability for one symbol data at current timepoint index. This function is supposed to be used
+    in serving. TF session should be called outside for efficiency
+    :param one_symbol_data: one stock symbol
+    :param current_index: current timepoint index
+    :return: the score for buying a stock
+    """
+    data_x = []
+    one_data_x, one_data_y = self.__prepare_one_data(one_symbol_data, current_index - self.num_time_points_ + 1)
+    data_x.append(one_data_x)
+    data_x = np.asarray(data_x)
+    predict_value = self.prediction_.eval(feed_dict={self.input_feed_: data_x})
+    return predict_value[1]
 
   def __create_network(self):
     x = tf.placeholder(tf.float32, [None, self.architecture_[0]])

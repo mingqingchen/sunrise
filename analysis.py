@@ -5,10 +5,13 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 
 import util.data_provider as data_provider
+import util.datetime_util as datetime_util
 import util.distribution_analyzer as distribution_analyzer
 import proto.stock_pb2 as stock_pb2
 
-k_data_folder = './data_test/intra_day/'
+import train.model_manager as model_manager
+
+k_data_folder = './data/intra_day/'
 k_png_temp_folder = 'temppng/'
 k_distribution_bin_size = 0.001
 k_price_drop_watch_time = 30
@@ -137,11 +140,53 @@ def analyze_volume_timepoint():
   plt.grid()
   plt.show()
 
+def run_and_display_classifier_prob():
+  """ Run NN through some symbols and display their buy probability. """
+  use_eligible_list = True
+  day_int_val = 20180427
+  model_path = './model/threshold_0.005/model_classification_3.ckpt'
+
+  dp =  data_provider.DataProvider(k_data_folder, use_eligible_list)
+  symbol_list = dp.get_symbol_list_for_a_day(day_int_val)
+  dp.load_one_day_data(day_int_val)
+
+  mm = model_manager.FixedNumTimePointsModelManager(k_data_folder, use_eligible_list)
+  mm.init_for_serving()
+
+  num_symbol_to_show = 5
+
+  with tf.Session() as sess:
+    saver = tf.train.Saver()
+    saver.restore(sess, model_path)
+    for symbol in symbol_list:
+      one_symbol_data = dp.get_one_symbol_data(symbol)
+      time_val_list, price_list, prob_list = [], [], []
+      for index in range(0, len(one_symbol_data.data)):
+        time_val_list.append(datetime_util.int_to_time(one_symbol_data.data[index].time_val))
+        price_list.append(one_symbol_data.data[index].open)
+        if mm.is_eligible_to_be_fed_into_network(one_symbol_data, index):
+          prob_score = mm.compute_prob(one_symbol_data, index)
+          prob_list.append(prob_score)
+        else:
+          prob_list.append(0.5)
+      num_symbol_to_show -= 1
+      if num_symbol_to_show < 0:
+        break
+
+      plt.subplot(2,1,1)
+      plt.plot(time_val_list, price_list)
+      plt.grid()
+      plt.title(symbol)
+      plt.subplot(2,1,2)
+      plt.plot(time_val_list, prob_list)
+      plt.grid()
+      plt.show()
+      plt.clf()
 
 def run_through_analysis_functions(_):
   # export_some_intra_day_data_to_pngs()
   # compare_two_crawl_result()
-  analyze_volume_timepoint()
+  run_and_display_classifier_prob()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
