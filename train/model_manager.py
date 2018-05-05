@@ -130,7 +130,7 @@ class FixedNumTimePointsModelManager(ModelManager):
 
     # Is classification or regression model
     self.is_classification_model_ = True
-    self.classifify_threshold_ = 0.005
+    self.classifify_threshold_ = 0.01
 
     # whether the training uses previous model as a starter
     self.load_previous_model_ = False
@@ -292,22 +292,6 @@ class FixedNumTimePointsModelManager(ModelManager):
     test_x, test_y = self.__prepare_test_data()
 
     num_samples = len(train_y)
-
-    # the following operations try to balance the positive and negative
-    if self.is_classification_model_:
-      num_positive = np.sum(train_y > 0)
-      num_negative = num_samples - num_positive
-      if (num_negative > num_positive):
-        positive_index = np.where(train_y > 0)[0]
-        negative_index = np.where(train_y == 0)[0]
-        shuffle(negative_index)
-        negative_index = negative_index[0 : num_positive]
-        index = np.concatenate((positive_index, negative_index))
-        shuffle(index)
-        train_x = train_x[index, :]
-        train_y = train_y[index]
-        num_samples = len(train_y)
-
     sample_index = range(num_samples)
 
     message = 'Total number of samples: train: {0}, test: {1}'.format(len(train_y), len(test_y))
