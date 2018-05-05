@@ -13,8 +13,8 @@ def SimpleFn(x, input_dimension, hidden_dimension = [128, 1]):
   :return: h_fc2: output tensor of regression
   """
   with tf.name_scope('fc1'):
-    W_fc1 = weight_variable([input_dimension, hidden_dimension])
-    b_fc1 = bias_variable([hidden_dimension])
+    W_fc1 = weight_variable([input_dimension, hidden_dimension[0]])
+    b_fc1 = bias_variable([hidden_dimension[0]])
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
   with tf.name_scope('fc2'):
@@ -115,23 +115,23 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.latest_time_ = 1100
 
     # Timepoint interval to step to prepare training data
-    self.sample_step_training_ = 2
+    self.sample_step_training_ = 1
     self.sample_step_testing_ = 10
 
     # Parameters related to deep learning
-    self.batch_size_ = 50
-    self.learning_rate_ = 1e-4
-    self.num_epochs_ = 50
+    self.learning_rate_ = 3e-5
+    self.num_epochs_ = 250
+    self.batch_size_ = 32
 
-    # Parameters of the network
+    # Parameters of the network.
     self.architecture_ = [32, 32]
 
     # Is classification or regression model
     self.is_classification_model_ = True
-    self.classifify_threshold_ = 0.005
+    self.classifify_threshold_ = 0.01
 
     # whether the training uses previous model as a starter
-    self.load_previous_model_ = True
+    self.load_previous_model_ = False
     self.previous_model_ = 'model_classification_0'
 
     # place to save the model
@@ -218,8 +218,10 @@ class FixedNumTimePointsModelManager(ModelManager):
       self.architecture_.append(2)
     else:
       self.architecture_.append(1)
-
-    y_prediction = SimpleFn2(x, self.num_time_points_, self.architecture_)
+    if self.is_classification_model_:
+      y_prediction = SimpleFn2(x, self.num_time_points_, self.architecture_)
+    else:
+      y_prediction = SimpleFn(x, self.num_time_points_, [128, 1])
 
     with tf.name_scope('loss'):
       if self.is_classification_model_:
@@ -232,24 +234,28 @@ class FixedNumTimePointsModelManager(ModelManager):
 
       loss = tf.reduce_mean(loss)
 
-    with tf.name_scope('accuracy'):
-      correct_prediction = tf.equal(tf.argmax(y_prediction, 1), y_label)
-      correct_prediction = tf.cast(correct_prediction, tf.float32)
-      y_label_cast = tf.cast(y_label, tf.float32)
-      tp = correct_prediction * y_label_cast
-      fn = (1 - correct_prediction) * y_label_cast
-      fp = (1 - correct_prediction) * (1 - y_label_cast)
-      tn = correct_prediction * (1 - y_label_cast)
-      accuracy = tf.reduce_mean(correct_prediction)
-      tp = tf.reduce_mean(tp)
-      fn = tf.reduce_mean(fn)
-      fp = tf.reduce_mean(fp)
-      tn = tf.reduce_mean(tn)
+    if self.is_classification_model_:
+      with tf.name_scope('accuracy'):
+        correct_prediction = tf.equal(tf.argmax(y_prediction, 1), y_label)
+        correct_prediction = tf.cast(correct_prediction, tf.float32)
+        y_label_cast = tf.cast(y_label, tf.float32)
+        tp = correct_prediction * y_label_cast
+        fn = (1 - correct_prediction) * y_label_cast
+        fp = (1 - correct_prediction) * (1 - y_label_cast)
+        tn = correct_prediction * (1 - y_label_cast)
+        accuracy = tf.reduce_mean(correct_prediction)
+        tp = tf.reduce_mean(tp)
+        fn = tf.reduce_mean(fn)
+        fp = tf.reduce_mean(fp)
+        tn = tf.reduce_mean(tn)
 
     with tf.name_scope('adam_optimizer'):
       train_step = tf.train.AdamOptimizer(self.learning_rate_).minimize(loss)
 
-    return x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn
+    if self.is_classification_model_:
+      return x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn
+    else:
+      return x, y_label, y_prediction, loss, train_step
 
   def __prepare_export_file(self):
     if not os.path.isdir(self.model_folder_):
@@ -290,7 +296,10 @@ class FixedNumTimePointsModelManager(ModelManager):
     num_samples = len(train_y)
     sample_index = range(num_samples)
 
-    x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
+    if self.is_classification_model_:
+      x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
+    else:
+      x, y_label, y_prediction, loss, train_step = self.__create_network()
 
     model_path = self.__prepare_export_file()   
     train_writer = tf.summary.FileWriter(self.model_folder_)
