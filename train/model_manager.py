@@ -131,8 +131,8 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.classifify_threshold_ = 0.005
 
     # whether the training uses previous model as a starter
-    self.load_previous_model_ = False
-    self.previous_model_ = 'model1'
+    self.load_previous_model_ = True
+    self.previous_model_ = 'model_classification_0'
 
     # place to save the model
     self.model_folder_ = './model/'
@@ -261,7 +261,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       model_name += '_regression_'
     while True:
-      model_path = os.path.join(self.model_folder_, self.output_model_name_prefix_ + str(model_index) + '.ckpt')
+      model_path = os.path.join(self.model_folder_, model_name + str(model_index) + '.ckpt')
       if not os.path.isfile(model_path + '.index'):
         break
       model_index += 1
@@ -296,7 +296,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     train_writer = tf.summary.FileWriter(self.model_folder_)
     train_writer.add_graph(tf.get_default_graph()) 
   
-    with tf.Session() as sess:
+    with tf.Session(config=tf.ConfigProto(log_device_placement=True)) as sess:
       saver = tf.train.Saver()
       if self.load_previous_model_:
         prev_model_path = os.path.join(self.model_folder_, self.previous_model_ + '.ckpt')
