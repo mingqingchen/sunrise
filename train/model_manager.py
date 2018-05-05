@@ -24,24 +24,24 @@ def SimpleFn(x, input_dimension, hidden_dimension = [128, 1]):
 
   return tf.squeeze(h_fc2)
 
-def SimpleFn2(x, input_dimension, hidden_dimension = [32, 16, 1]):
+def SimpleFn2(x, architecture = [101, 32, 32, 1]):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
   """
   with tf.name_scope('fc1'):
-    W_fc1 = weight_variable([input_dimension, hidden_dimension[0]])
-    b_fc1 = bias_variable([hidden_dimension[0]])
+    W_fc1 = weight_variable([architecture[0], architecture[1]])
+    b_fc1 = bias_variable([architecture[1]])
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
   with tf.name_scope('fc2'):
-    W_fc2 = weight_variable([hidden_dimension[0], hidden_dimension[1]])
-    b_fc2 = bias_variable([hidden_dimension[1]])
+    W_fc2 = weight_variable([architecture[1], architecture[2]])
+    b_fc2 = bias_variable([architecture[2]])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   with tf.name_scope('fc3'):
-    W_fc3 = weight_variable([hidden_dimension[1], hidden_dimension[2]])
-    b_fc3 = bias_variable([hidden_dimension[2]])
+    W_fc3 = weight_variable([architecture[2], architecture[3]])
+    b_fc3 = bias_variable([architecture[3]])
     h_fc3 = tf.nn.relu(tf.matmul(h_fc2, W_fc3) + b_fc3)
 
   return tf.squeeze(h_fc3)
@@ -110,6 +110,8 @@ class FixedNumTimePointsModelManager(ModelManager):
 
     # We should only select data after market open
     self.open_time_ = 630
+    self.close_time_ = 1300
+    self.total_minutes_normalizer_ = 390
 
     # After this time, we won't consider buying stocks. I.e. no data will be used for training
     self.latest_time_ = 1100
@@ -124,11 +126,11 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.batch_size_ = 32
 
     # Parameters of the network.
-    self.architecture_ = [32, 32]
+    self.architecture_ = [101, 32, 32]
 
     # Is classification or regression model
     self.is_classification_model_ = True
-    self.classifify_threshold_ = 0.01
+    self.classifify_threshold_ = 0.005
 
     # whether the training uses previous model as a starter
     self.load_previous_model_ = False
@@ -140,14 +142,18 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.log_file_ = './training_log.txt'
 
   def __prepare_one_data(self, one_symbol_data, start_index):
-    one_data_x = np.zeros(self.num_time_points_)
+    one_data_x = np.zeros(self.num_time_points_ + 1) # additional feature is time
     last_index = start_index + self.num_time_points_ - 1
     divider = one_symbol_data.data[last_index].open
     for i in range(start_index, last_index + 1):
       one_data_x[i - start_index] = (one_symbol_data.data[i].open - divider) / divider
+    one_data_x[-1] = datetime_util.minute_diff(
+      one_symbol_data.data[last_index].time_val, self.open_time_) / self.total_minutes_normalizer_
 
     one_data_y = 0
     for i in range(last_index + 1, len(one_symbol_data.data)):
+      if one_symbol_data.data[i].time_val > self.close_time_:
+        break
       if one_symbol_data.data[i].open > divider:
         val = (one_symbol_data.data[i].open - divider) / divider
         one_data_y = max(one_data_y, val)
@@ -205,7 +211,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     return self.__prepare_data(self.test_start_date_, self.test_end_date_, self.sample_step_testing_)
 
   def __create_network(self):
-    x = tf.placeholder(tf.float32, [None, self.num_time_points_])
+    x = tf.placeholder(tf.float32, [None, self.architecture_[0]])
 
     # Define loss and optimizer
     if self.is_classification_model_:
@@ -219,7 +225,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       self.architecture_.append(1)
     if self.is_classification_model_:
-      y_prediction = SimpleFn2(x, self.num_time_points_, self.architecture_)
+      y_prediction = SimpleFn2(x, self.architecture_)
     else:
       y_prediction = SimpleFn(x, self.num_time_points_, [128, 1])
 
@@ -285,6 +291,25 @@ class FixedNumTimePointsModelManager(ModelManager):
     train_x, train_y = self.__prepare_training_data()
     test_x, test_y = self.__prepare_test_data()
 
+    num_samples = len(train_y)
+
+    # the following operations try to balance the positive and negative
+    if self.is_classification_model_:
+      num_positive = np.sum(train_y > 0)
+      num_negative = num_samples - num_positive
+      if (num_negative > num_positive):
+        positive_index = np.where(train_y > 0)[0]
+        negative_index = np.where(train_y == 0)[0]
+        shuffle(negative_index)
+        negative_index = negative_index[0 : num_positive]
+        index = np.concatenate((positive_index, negative_index))
+        shuffle(index)
+        train_x = train_x[index, :]
+        train_y = train_y[index]
+        num_samples = len(train_y)
+
+    sample_index = range(num_samples)
+
     message = 'Total number of samples: train: {0}, test: {1}'.format(len(train_y), len(test_y))
     print(message)
     logging.info(message)
@@ -292,9 +317,6 @@ class FixedNumTimePointsModelManager(ModelManager):
       message = 'Number of positive in training: {0}, in testing: {1}'.format(np.sum(train_y == 1), np.sum(test_y == 1))
       print(message)
       logging.info(message)
-
-    num_samples = len(train_y)
-    sample_index = range(num_samples)
 
     if self.is_classification_model_:
       x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
@@ -305,7 +327,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     train_writer = tf.summary.FileWriter(self.model_folder_)
     train_writer.add_graph(tf.get_default_graph()) 
   
-    with tf.Session(config=tf.ConfigProto(log_device_placement=True)) as sess:
+    with tf.Session() as sess:
       saver = tf.train.Saver()
       if self.load_previous_model_:
         prev_model_path = os.path.join(self.model_folder_, self.previous_model_ + '.ckpt')
