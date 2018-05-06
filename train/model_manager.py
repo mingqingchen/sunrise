@@ -113,9 +113,6 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.close_time_ = 1300
     self.total_minutes_normalizer_ = 390
 
-    # After this time, we won't consider buying stocks. I.e. no data will be used for training
-    self.latest_time_ = 1100
-
     # Timepoint interval to step to prepare training data
     self.sample_step_training_ = 1
     self.sample_step_testing_ = 10
@@ -182,7 +179,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
       return False
 
-    if one_symbol_data.data[current_index].time_val > self.latest_time_:
+    if one_symbol_data.data[current_index].time_val >= self.close_time_:
       return False
 
     return True

@@ -153,7 +153,7 @@ def run_and_display_classifier_prob():
   mm = model_manager.FixedNumTimePointsModelManager(k_data_folder, use_eligible_list)
   mm.init_for_serving()
 
-  num_symbol_to_show = 5
+  num_symbol_to_show = 50
 
   with tf.Session() as sess:
     saver = tf.train.Saver()
