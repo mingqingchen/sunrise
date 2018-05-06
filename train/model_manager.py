@@ -212,8 +212,8 @@ class FixedNumTimePointsModelManager(ModelManager):
           if start_index >= len(one_symbol_data.data):
             break
 
-          #if start_index >= self.upper_time_point_limit_:
-          #  break
+          if start_index >= self.upper_time_point_limit_:
+            break
 
           if not self.is_eligible_to_be_fed_into_network(one_symbol_data, start_index):
             start_index += sample_step
