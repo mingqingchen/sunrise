@@ -346,9 +346,11 @@ class FixedNumTimePointsModelManager(ModelManager):
     if self.is_classification_model_:
       num_positive_train = np.sum(train_y == 1)
       num_positive_test = np.sum(test_y == 1)
-      positive_ratio_train = num_positive_train / len(train_y)
-      positive_ratio_test = num_positive_test / len(test_y)
+      positive_ratio_train = float(num_positive_train) / len(train_y)
+      positive_ratio_test = float(num_positive_test) / len(test_y)
       message = 'Number of positive in training: {0}, in testing: {1}'.format(num_positive_train, num_positive_test)
+      print(message)
+      logging.info(message)
       message = 'Ratio of positive in training: {0}, in testing: {1}'.format(positive_ratio_train, positive_ratio_test)
       print(message)
       logging.info(message)
