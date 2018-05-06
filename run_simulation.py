@@ -18,7 +18,7 @@ import util.sim_html_report as html_report
 FLAGS=None
 
 k_data_folder = './data/intra_day/'
-def main(_):
+def run_buy_drop_stock_trade_strategy():
   dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
   
   start_date = 20180417
@@ -56,9 +56,37 @@ def main(_):
   transactions, datetime_list, balance = sim.get_simulation_run_result()
   report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance)
   report.export('./report')
-  #du.add_one_simulation_result(sim_name, transactions, datetime_list, balance)
-  #du.display()
 
+def run_ai_trade_strategy():
+  dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
+
+  start_date = 20180423
+  end_date = 20180430
+  initial_fund = 100000
+
+  du = display_util.DisplayUtil()
+
+  sim_name = 'BuyDropStockTradeStrategy'
+  sim = simulation.Simulation(sim_name)
+  sim.set_start_date(start_date)
+  sim.set_end_date(end_date)
+  sim.deposit_fund(initial_fund)
+
+  model_path = './model/threshold_0.005/model_classification_1.ckpt'
+  with tf.Session() as sess:
+    strategy = trade_strategy.BuyBestAIRankedTradeStrategy(sess, model_path)
+
+    sim.set_trade_strategy(strategy)
+    sim.set_data_manager(dp)
+
+    sim.run()
+    transactions, datetime_list, balance = sim.get_simulation_run_result()
+    report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance)
+    report.export('./report')
+
+
+def main(_):
+  run_ai_trade_strategy()
   
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

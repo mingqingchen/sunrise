@@ -131,12 +131,12 @@ class DataProvider:
 
   def clear_symbol_index(self):
     self.symbol_timeslot_index_.clear()
-  
-  def get_symbol_minute_data(self, symbol, time_int_val):
-    """ Get symbol minute data.
-        Returns:
-          result: 0 for exact match time_int_val, 1 for time_int_val larger than this, 2 for never reaches
-          one time slot data
+
+  def get_symbol_minute_index(self, symbol, time_int_val):
+    """ Given a symbol and its time_int_val, return the index
+    :param symbol: symbol name
+    :param time_int_val: time int value
+    :return: result, index
     """
     index = 0
     if symbol in self.symbol_timeslot_index_:
@@ -145,13 +145,23 @@ class DataProvider:
       cur_time_val = self.one_day_data_[symbol].data[index].time_val
       if cur_time_val == time_int_val:
         self.symbol_timeslot_index_[symbol] = index
-        return 0, self.one_day_data_[symbol].data[index]
+        return 0, index
       elif cur_time_val > time_int_val:
         # this means the required time_int_val has missing value
-        return 1, self.one_day_data_[symbol].data[index]
+        return 1, index - 1
       index += 1
     # this means that the required time_int_val never reaches
-    return 2, self.one_day_data_[symbol].data[index - 1]
+    return 2, index - 1
+
+
+  def get_symbol_minute_data(self, symbol, time_int_val):
+    """ Get symbol minute data.
+        Returns:
+          result: 0 for exact match time_int_val, 1 for time_int_val larger than this, 2 for never reaches
+          one time slot data
+    """
+    result, index = self.get_symbol_minute_index(symbol, time_int_val)
+    return result, self.one_day_data_[symbol].data[index]
 
   def deserialize_one_symbol(self, date_int_val, symbol):
     intra_day_folder = self.__get_day_folder(date_int_val)

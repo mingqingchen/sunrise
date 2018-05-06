@@ -28,11 +28,13 @@ class PortfolioManager:
         self.portfolio_.data[stock_name].current_price = daily_all_stock_data[stock_name].close
       updated_balance += self.portfolio_.data[stock_name].current_price * self.portfolio_.data[stock_name].volume
     self.portfolio_.balance = updated_balance
-    return True
   
   def get_current_hold_symbol_list(self):
     return self.portfolio_.data.keys()
-  
+
+  def if_symbol_is_in_holding(self, symbol):
+    return symbol in self.portfolio_.data
+
   def get_num_holding(self, symbol):
     """ Get volume of currently holded symbol. """
     return self.portfolio_.data[symbol].volume

@@ -90,8 +90,11 @@ def bias_variable(shape):
 
 
 class ModelManager:
-  def __init__(self, data_folder, use_eligible_list):
-    self.dm_ = data_provider.DataProvider(data_folder, use_eligible_list)
+  def set_training_data_folder(self, data_folder):
+    self.data_folder_ = data_folder
+
+  def set_training_use_eligible_list(self, use_eligible_list):
+    self.use_eligible_list_ = use_eligible_list
 
   def set_training_dates(self, start_date, end_date):
     self.train_start_date_ = start_date
@@ -102,15 +105,15 @@ class ModelManager:
     self.test_end_date_ = end_date
 
 class FixedNumTimePointsModelManager(ModelManager):
-  def __init__(self, data_folder, use_eligible_list):
-    ModelManager.__init__(self, data_folder, use_eligible_list)
-
+  def __init__(self):
     # Fixed length of input vector
     self.num_time_points_ = 100
 
+    self.upper_time_point_limit_ = 149
+
     # We should only select data after market open
     self.open_time_ = 630
-    self.close_time_ = 1300
+    self.close_time_ = 1255
     self.total_minutes_normalizer_ = 390
 
     # Timepoint interval to step to prepare training data
@@ -123,7 +126,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.batch_size_ = 32
 
     # Parameters of the network.
-    self.architecture_ = [101, 32, 32]
+    self.architecture_ = [self.num_time_points_ + 1, 32, 32]
 
     # Is classification or regression model
     self.is_classification_model_ = True
@@ -173,6 +176,9 @@ class FixedNumTimePointsModelManager(ModelManager):
     if len(one_symbol_data.data) < self.num_time_points_:
       return False
 
+    # if current_index >= self.upper_time_point_limit_:
+    #  return False
+
     if current_index < self.num_time_points_ - 1:
       return False
 
@@ -205,6 +211,10 @@ class FixedNumTimePointsModelManager(ModelManager):
         while True:
           if start_index >= len(one_symbol_data.data):
             break
+
+          #if start_index >= self.upper_time_point_limit_:
+          #  break
+
           if not self.is_eligible_to_be_fed_into_network(one_symbol_data, start_index):
             start_index += sample_step
             continue
@@ -315,6 +325,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     return model_path
 
   def train_and_test(self):
+    self.dm_ = data_provider.DataProvider(self.data_folder_, self.use_eligible_list_)
     logging.basicConfig(filename = self.log_file_, level = logging.DEBUG)
     str_type = 'regression'
     if self.is_classification_model_:

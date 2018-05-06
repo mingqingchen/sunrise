@@ -150,7 +150,7 @@ def run_and_display_classifier_prob():
   symbol_list = dp.get_symbol_list_for_a_day(day_int_val)
   dp.load_one_day_data(day_int_val)
 
-  mm = model_manager.FixedNumTimePointsModelManager(k_data_folder, use_eligible_list)
+  mm = model_manager.FixedNumTimePointsModelManager()
   mm.init_for_serving()
 
   num_symbol_to_show = 50

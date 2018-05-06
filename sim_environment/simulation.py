@@ -1,8 +1,3 @@
-import matplotlib.pyplot as plt
-import os, sys
-
-import sim_environment.trade_strategy as trade_strategy
-import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 import sim_environment.portfolio as portfolio
 
@@ -42,7 +37,7 @@ class Simulation():
     symbol_timeslot_map = dict()
     for symbol in self.portfolio_.get_current_hold_symbol_list():
       result, one_slot_data = self.data_manager_.get_symbol_minute_data(symbol, time_int_val)
-      if result != 0:
+      if result == 2:
         continue
       symbol_timeslot_map[symbol] = one_slot_data
     self.portfolio_.update_balance(symbol_timeslot_map)
@@ -54,7 +49,7 @@ class Simulation():
     
     self.date_time_list_ = []
     self.balances_ = []
-    
+
     while cur_day <= self.end_date_:
       self.trade_strategy_.update_date(cur_day, self.data_manager_)
       self.data_manager_.clear_symbol_index()
