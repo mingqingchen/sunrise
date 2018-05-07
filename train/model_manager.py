@@ -117,7 +117,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.total_minutes_normalizer_ = 390
 
     # Timepoint interval to step to prepare training data
-    self.sample_step_training_ = 10
+    self.sample_step_training_ = 1
     self.sample_step_testing_ = 10
 
     # Parameters related to deep learning
