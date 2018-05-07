@@ -58,14 +58,23 @@ class DataProvider:
     total_daily_cash_flow_threshold = 20000 * 6.5 * 60
     min_price_threshold = 5.0
 
+    start_time = 630
+    finish_time = 1300
+    total_time_point = 390
+    fill_in_ratio = 0.8
+
     total_cash_flow = 0
+    num_valid_time_points = 0
     for one_time_data in self.one_day_data_[symbol].data:
       if one_time_data.low < min_price_threshold:
         return False
+      if one_time_data.time_val >= start_time and one_time_data.time_val <= finish_time:
+        num_valid_time_points += 1
       total_cash_flow += one_time_data.volume * one_time_data.open
     if total_cash_flow < total_daily_cash_flow_threshold:
       return False
-    return True
+
+    return num_valid_time_points > fill_in_ratio * total_time_point
 
   def generate_eligible_list(self):
     self.eligible_list_ = dict()

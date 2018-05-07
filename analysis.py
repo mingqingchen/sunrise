@@ -81,6 +81,12 @@ def compare_two_crawl_result():
     one_data2 = dp2.get_one_symbol_data(symbol)
     print('Compare {0}: length1: {1}, length2: {2}'.format(symbol, len(one_data1.data), len(one_data2.data)))
 
+def update_eligible_list():
+  dp = data_provider.DataProvider('./data/intra_day/', False)
+  day_int_val = 20180417
+  dp.load_one_day_data(day_int_val)
+  dp.generate_eligible_list()
+
 def analyze_volume_timepoint():
   """Analyze the distribution of volume, number of available timepoints, and cash flow. """
   dp =  data_provider.DataProvider('./data/intra_day/', False)
@@ -186,7 +192,8 @@ def run_and_display_classifier_prob():
 def run_through_analysis_functions(_):
   # export_some_intra_day_data_to_pngs()
   # compare_two_crawl_result()
-  run_and_display_classifier_prob()
+  # run_and_display_classifier_prob()
+  update_eligible_list()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
