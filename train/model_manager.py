@@ -109,7 +109,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     # Fixed length of input vector
     self.num_time_points_ = 100
 
-    self.upper_time_point_limit_ = 149
+    self.upper_time_point_limit_ = 10000
 
     # We should only select data after market open
     self.open_time_ = 630
@@ -117,7 +117,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.total_minutes_normalizer_ = 390
 
     # Timepoint interval to step to prepare training data
-    self.sample_step_training_ = 1
+    self.sample_step_training_ = 10
     self.sample_step_testing_ = 10
 
     # Parameters related to deep learning
@@ -145,6 +145,10 @@ class FixedNumTimePointsModelManager(ModelManager):
     return self.num_time_points_
 
   def __prepare_one_data(self, one_symbol_data, start_index):
+    """ Prepare one data that can be fed into NN from symbol data and start index
+    Note that one_data_y is positive only when the future first hits classify_threshold_
+    If the future first hits -classify_threshold_, one_data_y will be 0.
+    """
     one_data_x = np.zeros(self.num_time_points_ + 1) # additional feature is time
     last_index = start_index + self.num_time_points_ - 1
     divider = one_symbol_data.data[last_index].open
@@ -157,14 +161,13 @@ class FixedNumTimePointsModelManager(ModelManager):
     for i in range(last_index + 1, len(one_symbol_data.data)):
       if one_symbol_data.data[i].time_val > self.close_time_:
         break
-      if one_symbol_data.data[i].open > divider:
-        val = (one_symbol_data.data[i].open - divider) / divider
-        one_data_y = max(one_data_y, val)
-    if self.is_classification_model_:
-      if one_data_y > self.classifify_threshold_:
+      val = (one_symbol_data.data[i].open - divider) / divider
+      if val > self.classifify_threshold_:
         one_data_y = 1.0
-      else:
+        break
+      elif val < -self.classifify_threshold_:
         one_data_y = 0.0
+        break
     return one_data_x, one_data_y
 
   def is_eligible_to_be_fed_into_network(self, one_symbol_data, current_index):
