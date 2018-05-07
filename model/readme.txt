@@ -18,3 +18,12 @@ threshold_0.005
     Epoch 249, train accuracy: 0.664924263954, test accuracy: 0.597992837429
       Train: TP: 0.133, FP: 0.088; Test: TP: 0.173, FP: 0.133
       Train: FN: 0.247, TN: 0.532; Test: FN: 0.269, TN: 0.425
+  model_classification_4: Model trained from 20180416 to 20180420,
+    Number of timepoints range from 150 to 199
+    Total number of samples: train: 394320, test: 45467
+      Number of positive in training: 140848, in testing: 17837
+      Ratio of positive in training: 0.357192128221, in testing: 0.392306508017
+
+    train accuracy: 0.676876664162, test accuracy: 0.620208084583
+      Train: TP: 0.113, FP: 0.079; Test: TP: 0.142, FP: 0.130
+      Train: FN: 0.244, TN: 0.564; Test: FN: 0.250, TN: 0.478
