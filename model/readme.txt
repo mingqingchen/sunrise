@@ -39,3 +39,14 @@ threshold_0.005
     train accuracy: 0.663979232311, test accuracy: 0.580608248711
     Train: TP: 0.158, FP: 0.097; Test: TP: 0.183, FP: 0.137
     Train: FN: 0.239, TN: 0.506; Test: FN: 0.282, TN: 0.397
+
+  model_classification_12: Model trained from 20180416 to 20180420, with updated
+  eligible list that requires dense time points and number of available timepoints
+  range from 100 to 149.
+    Total number of samples: train: 278950, test: 31467
+    Number of positive in training: 110881, in testing: 14647
+    Ratio of positive in training: 0.397494174583, in testing: 0.46547176407
+    Train accuracy: 0.659946203232, test accuracy: 0.577557444572
+    Train: TP: 0.144, FP: 0.086; Test: TP: 0.168, FP: 0.125
+    Train: FN: 0.254, TN: 0.516; Test: FN: 0.298, TN: 0.410
+
