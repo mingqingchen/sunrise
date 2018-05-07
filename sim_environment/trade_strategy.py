@@ -241,10 +241,10 @@ class BuyBestAIRankedTradeStrategy(TradeStrategy):
     saver.restore(sess, model_path)
 
     self.buy_score_dict_ = dict()
+    self.sell_price_dict_ = dict()
 
     self.num_eligible_list_requirement_ = 100
     self.increase_check_threshold_ = 0.005
-    self.drop_check_threshold_ = -0.005
 
     self.buy_stock_prob_threshold_ = 0.65
 
@@ -256,6 +256,7 @@ class BuyBestAIRankedTradeStrategy(TradeStrategy):
     print('Loading all data for day {0}'.format(date_int_val))
     data_manager.load_one_day_data(date_int_val)
     self.buy_score_dict_.clear()
+    self.sell_price_dict_.clear()
     return
 
   def __sell_one_symbol_completely(self, symbol, cur_time, sell_price, portfolio):
@@ -299,19 +300,17 @@ class BuyBestAIRankedTradeStrategy(TradeStrategy):
       buy_price = portfolio.get_buy_price(symbol)
       increase_ratio = (one_symbol_minute_data.open - buy_price) / buy_price
 
-      if increase_ratio > self.increase_check_threshold_ or increase_ratio < self.drop_check_threshold_:
-        result, index = data_manager.get_symbol_minute_index(symbol, cur_time)
-        one_symbol_data = data_manager.get_one_symbol_data(symbol)
-        if not self.mm_.is_eligible_to_be_fed_into_network(one_symbol_data, index):
-          continue
-        prob_score = self.mm_.compute_prob(one_symbol_data, index)
-        if prob_score < 0.5:
-          result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open,
+      if increase_ratio > self.increase_check_threshold_:
+        result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open,
                                                                   portfolio)
-          if result:
-            transactions.append(transaction)
+        if result:
+          transactions.append(transaction)
+          self.sell_price_dict_[symbol] = transaction.price
 
     if cur_time > k_sell_all_time:
+      return transactions
+
+    if self.num_available_slot_ == 0:
       return transactions
 
     # Then let's see whether there is any stock that has highest score to buy
@@ -334,22 +333,26 @@ class BuyBestAIRankedTradeStrategy(TradeStrategy):
       prob_score = self.mm_.compute_prob(one_symbol_data, index)
       self.buy_score_dict_[symbol] = prob_score
 
-    if self.num_available_slot_ > 0 and len(self.buy_score_dict_) > self.num_eligible_list_requirement_:
+    if len(self.buy_score_dict_) > self.num_eligible_list_requirement_:
       added_symbols = []
-      for key, value in sorted(self.buy_score_dict_.iteritems(), key=lambda (k,v): (v,k), reverse=True):
-        if value < self.buy_stock_prob_threshold_:
-          break
-        added_symbols.append(key)
-        if len(added_symbols) == self.num_available_slot_:
+      for symbol, score in sorted(self.buy_score_dict_.iteritems(), key=lambda (k,v): (v,k), reverse=True):
+        if self.num_available_slot_ == 0:
           break
 
-      for symbol in added_symbols:
+        if score < self.buy_stock_prob_threshold_:
+          break
+
         if portfolio.if_symbol_is_in_holding(symbol):
           continue
 
         result, one_symbol_minute_data = data_manager.get_symbol_minute_data(symbol, cur_time)
         if result == 2:
           continue
+
+        if symbol in self.sell_price_dict_:
+          if one_symbol_minute_data.open > self.sell_price_dict_[symbol] - self.increase_check_threshold_:
+            continue
+
         buy_amount = int((portfolio.get_available_cash() - k_commission_fee) /
                          self.num_available_slot_ / one_symbol_minute_data.open)
         transaction = stock_pb2.Transaction()
@@ -364,6 +367,5 @@ class BuyBestAIRankedTradeStrategy(TradeStrategy):
         if portfolio.buy_stock(transaction):
           transactions.append(transaction)
           self.num_available_slot_ -= 1
-          del self.buy_score_dict_[symbol]
 
     return transactions
