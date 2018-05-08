@@ -1,0 +1,53 @@
+syntax = "proto2";
+
+package tutorial;
+
+// parameters used for NN training
+message TrainingParams {
+  enum Type {
+    CLASSIFY_FUTURE_HIGHEST_PRICE = 0;
+    REGRESS_FUTURE_HIGHEST_PRICE = 1;
+    CLASSIFY_BUY_SELL_TIME = 2;
+  }
+  // number of timepoints used
+  required int32 num_time_points = 1;
+
+  // upper limit (inclusive) of number of points used
+  required int32 upper_time_point_limit = 2;
+
+  // market open time
+  required int32 open_time = 3 [default = 630];
+
+  // market close time
+  required int32 close_time = 4 [default = 1255];
+
+  // total minutes for market open time
+  required int32 total_minutes_normalizer = 5 [default = 390];
+
+  // Sample step for training
+  required int32 sample_step_training = 6;
+
+  // sample step for testing
+  required int32 sample_step_testing = 7;
+
+  // parameters related to DL
+  required float learning_rate = 8;
+  required int32 num_epochs = 9;
+  required int32 batch_size = 10;
+
+  // Number of hidden nodes for each layer
+  repeated int32 architecture = 11;
+  
+  required Type type = 12;
+
+  required bool load_previous_model = 13;
+
+  required string previous_model = 14;
+
+  required string model_folder = 15;
+  required string output_model_name_prefix = 16;
+  required string log_file = 17;
+
+  // Classify threshold for type CLASSIFY_FUTURE_HIGHEST_PRICE
+  required float classify_threshold = 18;
+}

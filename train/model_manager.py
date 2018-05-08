@@ -6,6 +6,7 @@ import logging
 
 import util.data_provider as data_provider
 import util.datetime_util as datetime_util
+import proto.nn_train_param_pb2 as nn_train_param_pb2
 
 def SimpleFn(x, input_dimension, hidden_dimension = [128, 1]):
   """ A simple fully connected network with regression output
@@ -105,46 +106,38 @@ class ModelManager:
     self.test_end_date_ = end_date
 
 class FixedNumTimePointsModelManager(ModelManager):
-  def __init__(self):
-    # Fixed length of input vector
-    self.num_time_points_ = 100
+  def __init__(self, params):
+    self.num_time_points_ = params.num_time_points
+    self.upper_time_point_limit_ = params.upper_time_point_limit
+    self.open_time_ = params.open_time
+    self.close_time_ = params.close_time
+    self.total_minutes_normalizer_ = params.total_minutes_normalizer
 
-    self.upper_time_point_limit_ = 149
+    self.sample_step_training_ = params.sample_step_training
+    self.sample_step_testing_ = params.sample_step_testing
 
-    # We should only select data after market open
-    self.open_time_ = 630
-    self.close_time_ = 1255
-    self.total_minutes_normalizer_ = 390
+    self.learning_rate_ = params.learning_rate
+    self.num_epochs_ = params.num_epochs
+    self.batch_size_ = params.batch_size
 
-    # Timepoint interval to step to prepare training data
-    self.sample_step_training_ = 1
-    self.sample_step_testing_ = 10
+    self.architecture_ = [self.num_time_points_ + 1]
+    for num_hidden_nodes in params.architecture:
+      self.architecture_.append(num_hidden_nodes)
 
-    # Parameters related to deep learning
-    self.learning_rate_ = 3e-5
-    self.num_epochs_ = 250
-    self.batch_size_ = 32
+    self.type_ = params.type
+    self.classifify_threshold_ = params.classify_threshold
 
-    # Parameters of the network.
-    self.architecture_ = [self.num_time_points_ + 1, 32, 32]
+    self.load_previous_model_ = params.load_previous_model
+    self.previous_model_ = params.previous_model
 
-    # Is classification or regression model
-    self.is_classification_model_ = True
-    self.classifify_threshold_ = 0.005
-
-    # whether the training uses previous model as a starter
-    self.load_previous_model_ = False
-    self.previous_model_ = 'model_classification_0'
-
-    # place to save the model
-    self.model_folder_ = './model/'
-    self.output_model_name_prefix_ = 'model'
-    self.log_file_ = './training_log.txt'
+    self.model_folder_ = params.model_folder
+    self.output_model_name_prefix_ = params.output_model_name_prefix
+    self.log_file_ = params.log_file
 
   def get_num_time_points(self):
     return self.num_time_points_
 
-  def __prepare_one_data(self, one_symbol_data, start_index):
+  def __prepare_one_data_x(self, one_symbol_data, start_index):
     one_data_x = np.zeros(self.num_time_points_ + 1) # additional feature is time
     last_index = start_index + self.num_time_points_ - 1
     divider = one_symbol_data.data[last_index].open
@@ -152,19 +145,28 @@ class FixedNumTimePointsModelManager(ModelManager):
       one_data_x[i - start_index] = (one_symbol_data.data[i].open - divider) / divider
     one_data_x[-1] = datetime_util.minute_diff(
       one_symbol_data.data[last_index].time_val, self.open_time_) / self.total_minutes_normalizer_
+    return one_data_x
 
-    one_data_y = 0
-    for i in range(last_index + 1, len(one_symbol_data.data)):
-      if one_symbol_data.data[i].time_val > self.close_time_:
-        break
-      if one_symbol_data.data[i].open > divider:
-        val = (one_symbol_data.data[i].open - divider) / divider
-        one_data_y = max(one_data_y, val)
-    if self.is_classification_model_:
+  def __prepare_one_data_y(self, one_symbol_data, start_index):
+    last_index = start_index + self.num_time_points_ - 1
+    divider = one_symbol_data.data[last_index].open
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+      one_data_y = 0
+      for i in range(last_index + 1, len(one_symbol_data.data)):
+        if one_symbol_data.data[i].time_val > self.close_time_:
+          break
+        if one_symbol_data.data[i].open > divider:
+          val = (one_symbol_data.data[i].open - divider) / divider
+          one_data_y = max(one_data_y, val)
       if one_data_y > self.classifify_threshold_:
         one_data_y = 1.0
       else:
         one_data_y = 0.0
+    return one_data_y
+
+  def __prepare_one_data(self, one_symbol_data, start_index):
+    one_data_x = self.__prepare_one_data_x(one_symbol_data, start_index)
+    one_data_y = self.__prepare_one_data_y(one_symbol_data, start_index)
     return one_data_x, one_data_y
 
   def is_eligible_to_be_fed_into_network(self, one_symbol_data, current_index):
@@ -259,23 +261,23 @@ class FixedNumTimePointsModelManager(ModelManager):
     x = tf.placeholder(tf.float32, [None, self.architecture_[0]])
 
     # Define loss and optimizer
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       y_label = tf.placeholder(tf.int64, [None,])
     else:
       y_label = tf.placeholder(tf.float32, [None,])
 
     # Build the graph for the deep net
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       self.architecture_.append(2)
     else:
       self.architecture_.append(1)
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       y_prediction = SimpleFn2(x, self.architecture_)
     else:
       y_prediction = SimpleFn(x, self.num_time_points_, [128, 1])
 
     with tf.name_scope('loss'):
-      if self.is_classification_model_:
+      if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
         onehot_labels = tf.one_hot(indices=tf.cast(y_label, tf.int32), depth=2)
         loss = tf.losses.softmax_cross_entropy(
           onehot_labels=onehot_labels, logits=y_prediction)
@@ -285,7 +287,7 @@ class FixedNumTimePointsModelManager(ModelManager):
 
       loss = tf.reduce_mean(loss)
 
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       with tf.name_scope('accuracy'):
         correct_prediction = tf.equal(tf.argmax(y_prediction, 1), y_label)
         correct_prediction = tf.cast(correct_prediction, tf.float32)
@@ -303,7 +305,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     with tf.name_scope('adam_optimizer'):
       train_step = tf.train.AdamOptimizer(self.learning_rate_).minimize(loss)
 
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       return x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn
     else:
       return x, y_label, y_prediction, loss, train_step
@@ -313,7 +315,7 @@ class FixedNumTimePointsModelManager(ModelManager):
       os.mkdir(self.model_folder_)
     model_index = 0
     model_name = self.output_model_name_prefix_
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       model_name += '_classification_'
     else:
       model_name += '_regression_'
@@ -328,7 +330,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.dm_ = data_provider.DataProvider(self.data_folder_, self.use_eligible_list_)
     logging.basicConfig(filename = self.log_file_, level = logging.DEBUG)
     str_type = 'regression'
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       str_type = 'classification'
     message = 'New session of training {0} starts at {1} on {2}'.format(str_type, datetime_util.get_cur_time_int(),
                                                                         datetime_util.get_today())
@@ -343,7 +345,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     message = 'Total number of samples: train: {0}, test: {1}'.format(len(train_y), len(test_y))
     print(message)
     logging.info(message)
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       num_positive_train = np.sum(train_y == 1)
       num_positive_test = np.sum(test_y == 1)
       positive_ratio_train = float(num_positive_train) / len(train_y)
@@ -355,7 +357,7 @@ class FixedNumTimePointsModelManager(ModelManager):
       print(message)
       logging.info(message)
 
-    if self.is_classification_model_:
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
       x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
     else:
       x, y_label, y_prediction, loss, train_step = self.__create_network()
@@ -385,7 +387,7 @@ class FixedNumTimePointsModelManager(ModelManager):
 
           train_step.run(feed_dict={x: batch_x, y_label: batch_y})
           index += self.batch_size_
-        if self.is_classification_model_:
+        if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
           train_error = accuracy.eval(feed_dict={x: train_x, y_label: train_y})
           test_error = accuracy.eval(feed_dict={x: test_x, y_label: test_y})
           true_positive_train = tp.eval(feed_dict={x: train_x, y_label: train_y})
@@ -399,14 +401,14 @@ class FixedNumTimePointsModelManager(ModelManager):
         else:
           train_error = loss.eval(feed_dict={x: train_x, y_label: train_y})
           test_error = loss.eval(feed_dict={x: test_x, y_label: test_y})
-        if self.is_classification_model_:
+        if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
           message = 'Epoch {0}, train accuracy: {1}, test accuracy: {2}'.format(i, train_error, test_error)
         else:
           message = 'Epoch {0}, train RMSE: {1}, test RMSE: {2}'.format(i, np.sqrt(train_error), np.sqrt(test_error))
         print(message)
         logging.info(message)
 
-        if self.is_classification_model_:
+        if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
           message = 'Train: TP: {0:.3f}, FP: {1:.3f}; Test: TP: {2:.3f}, FP: {3:.3f}'.format(
             true_positive_train, false_positive_train, true_positive_test, false_positive_test)
           print(message)
