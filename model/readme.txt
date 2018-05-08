@@ -50,3 +50,14 @@ threshold_0.005
     Train: TP: 0.144, FP: 0.086; Test: TP: 0.168, FP: 0.125
     Train: FN: 0.254, TN: 0.516; Test: FN: 0.298, TN: 0.410
 
+sell_classifier
+  model_classification_17: Model trained from 20180416 to 20180420, with updated
+  eligible list that requires dense time points. No restriction on number of time points.
+  Total number of samples: train: 1443131, test: 1732727
+    Number of positive in training: 335914, in testing: 350405
+    Ratio of positive in training: 0.232767503435, in testing: 0.202227471494
+    train accuracy: 0.817744910717, test accuracy: 0.822485029697
+    Train: TP: 0.145, FP: 0.095; Test: TP: 0.113, FP: 0.088
+    Train: FN: 0.087, TN: 0.672; Test: FN: 0.089, TN: 0.710
+
+

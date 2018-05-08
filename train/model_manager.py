@@ -134,6 +134,9 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.output_model_name_prefix_ = params.output_model_name_prefix
     self.log_file_ = params.log_file
 
+    self.local_maximal_window_size_ = params.local_maximal_window_size;
+    self.local_maximal_margin_ = params.local_maximal_margin;
+
   def get_num_time_points(self):
     return self.num_time_points_
 
@@ -162,6 +165,20 @@ class FixedNumTimePointsModelManager(ModelManager):
         one_data_y = 1.0
       else:
         one_data_y = 0.0
+    elif self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME:
+      half_window_size = (self.local_maximal_window_size_ - 1) / 2
+      i_start = max(0, last_index - half_window_size * 2)
+      i_end = min(len(one_symbol_data.data), last_index + self.local_maximal_window_size_)
+      this_price = one_symbol_data.data[last_index].open
+      maximal_price, maximal_index = this_price, last_index
+      one_data_y = 0
+      for i in range(i_start, i_end):
+        if one_symbol_data.data[i].open > maximal_price:
+          maximal_price = one_symbol_data.data[i].open
+          maximal_index = last_index
+      if abs(maximal_index - last_index) <= half_window_size:
+        if this_price > maximal_price * (1 - self.local_maximal_margin_):
+          one_data_y = 1.0
     return one_data_y
 
   def __prepare_one_data(self, one_symbol_data, start_index):
@@ -261,33 +278,31 @@ class FixedNumTimePointsModelManager(ModelManager):
     x = tf.placeholder(tf.float32, [None, self.architecture_[0]])
 
     # Define loss and optimizer
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       y_label = tf.placeholder(tf.int64, [None,])
     else:
       y_label = tf.placeholder(tf.float32, [None,])
 
     # Build the graph for the deep net
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       self.architecture_.append(2)
     else:
       self.architecture_.append(1)
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
-      y_prediction = SimpleFn2(x, self.architecture_)
-    else:
-      y_prediction = SimpleFn(x, self.num_time_points_, [128, 1])
 
+    y_prediction = SimpleFn2(x, self.architecture_)
+    
     with tf.name_scope('loss'):
-      if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+      if self.type_ == nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
+        loss = tf.losses.mean_squared_error(
+          labels=y_label, predictions=y_prediction)      
+      else:
         onehot_labels = tf.one_hot(indices=tf.cast(y_label, tf.int32), depth=2)
         loss = tf.losses.softmax_cross_entropy(
           onehot_labels=onehot_labels, logits=y_prediction)
-      else:
-        loss = tf.losses.mean_squared_error(
-          labels=y_label, predictions=y_prediction)
 
       loss = tf.reduce_mean(loss)
 
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       with tf.name_scope('accuracy'):
         correct_prediction = tf.equal(tf.argmax(y_prediction, 1), y_label)
         correct_prediction = tf.cast(correct_prediction, tf.float32)
@@ -305,7 +320,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     with tf.name_scope('adam_optimizer'):
       train_step = tf.train.AdamOptimizer(self.learning_rate_).minimize(loss)
 
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       return x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn
     else:
       return x, y_label, y_prediction, loss, train_step
@@ -315,7 +330,7 @@ class FixedNumTimePointsModelManager(ModelManager):
       os.mkdir(self.model_folder_)
     model_index = 0
     model_name = self.output_model_name_prefix_
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       model_name += '_classification_'
     else:
       model_name += '_regression_'
@@ -330,7 +345,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.dm_ = data_provider.DataProvider(self.data_folder_, self.use_eligible_list_)
     logging.basicConfig(filename = self.log_file_, level = logging.DEBUG)
     str_type = 'regression'
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       str_type = 'classification'
     message = 'New session of training {0} starts at {1} on {2}'.format(str_type, datetime_util.get_cur_time_int(),
                                                                         datetime_util.get_today())
@@ -345,7 +360,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     message = 'Total number of samples: train: {0}, test: {1}'.format(len(train_y), len(test_y))
     print(message)
     logging.info(message)
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       num_positive_train = np.sum(train_y == 1)
       num_positive_test = np.sum(test_y == 1)
       positive_ratio_train = float(num_positive_train) / len(train_y)
@@ -357,7 +372,7 @@ class FixedNumTimePointsModelManager(ModelManager):
       print(message)
       logging.info(message)
 
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+    if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
       x, y_label, y_prediction, loss, train_step, accuracy, tp, fn, fp, tn = self.__create_network()
     else:
       x, y_label, y_prediction, loss, train_step = self.__create_network()
@@ -387,7 +402,7 @@ class FixedNumTimePointsModelManager(ModelManager):
 
           train_step.run(feed_dict={x: batch_x, y_label: batch_y})
           index += self.batch_size_
-        if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+        if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
           train_error = accuracy.eval(feed_dict={x: train_x, y_label: train_y})
           test_error = accuracy.eval(feed_dict={x: test_x, y_label: test_y})
           true_positive_train = tp.eval(feed_dict={x: train_x, y_label: train_y})
@@ -401,14 +416,14 @@ class FixedNumTimePointsModelManager(ModelManager):
         else:
           train_error = loss.eval(feed_dict={x: train_x, y_label: train_y})
           test_error = loss.eval(feed_dict={x: test_x, y_label: test_y})
-        if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+        if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
           message = 'Epoch {0}, train accuracy: {1}, test accuracy: {2}'.format(i, train_error, test_error)
         else:
           message = 'Epoch {0}, train RMSE: {1}, test RMSE: {2}'.format(i, np.sqrt(train_error), np.sqrt(test_error))
         print(message)
         logging.info(message)
 
-        if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE:
+        if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
           message = 'Train: TP: {0:.3f}, FP: {1:.3f}; Test: TP: {2:.3f}, FP: {3:.3f}'.format(
             true_positive_train, false_positive_train, true_positive_test, false_positive_test)
           print(message)

@@ -12,7 +12,7 @@ k_data_folder = './data/intra_day/'
 def main(_):
   params = nn_train_param_pb2.TrainingParams()
   params.num_time_points = 100
-  params.upper_time_point_limit = 149
+  params.upper_time_point_limit = 10000
   params.open_time = 630
   params.close_time = 1255
   params.total_minutes_normalizer = 390
@@ -25,7 +25,8 @@ def main(_):
   params.batch_size = 32
 
   params.architecture.extend([32, 32])
-  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
+  #  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
+  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
   params.classify_threshold = 0.005
 
   params.load_previous_model = False
@@ -34,6 +35,9 @@ def main(_):
   params.model_folder = './model/'
   params.output_model_name_prefix = 'model'
   params.log_file = './training_log.txt'
+
+  params.local_maximal_window_size = 21;
+  params.local_maximal_margin = 0.001;
 
   mm = model_manager.FixedNumTimePointsModelManager(params)
   mm.set_training_dates(20180416, 20180420)

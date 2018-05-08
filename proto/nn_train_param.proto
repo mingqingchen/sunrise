@@ -50,4 +50,9 @@ message TrainingParams {
 
   // Classify threshold for type CLASSIFY_FUTURE_HIGHEST_PRICE
   required float classify_threshold = 18;
+
+  // window size to determine if it is a local maxima for CLASSIFY_BUY_SELL_TIME
+  required int32 local_maximal_window_size = 19;
+  // neighbor points may be not that high, but may also be considered as local maximal if its price is higher than this margin
+  required float local_maximal_margin = 20;
 }
