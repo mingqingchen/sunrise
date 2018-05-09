@@ -1,0 +1,2 @@
+
+BGCA°эо	"ЖffнAffнA%ffнA-ffнA0х"ЧffнAffнA%ffнA-ffнA0х"╬╦@нA╦@нA%╦@нA-╦@нA0х"УBомABомA%BомA-BомA0═"╒ЛQнAЛQнA%ЛQнA-ЛQнA0Т"Ы'1нA'1нA%'1нA-'1нA0╪"щЛQнAЛQнA%ЛQнA-ЛQнA0х"ДTcнATcнA%TcнA-TcнA0░"СffнAffнA%ffнA-ffнA0²"┤	├ZнA├ZнA%├ZнA-├ZнA0d"╟	НZнAНZнA%НZнA-НZнA0╞"╠	АzнAffнA%АzнA-ffнA0Х"╡	НZнAНZнA%НZнA-НZнA0х

@@ -1,0 +1,2 @@
+
+WSTG°эо	"Ж33gAfffA%33gA-fffA0х"╜33cA33cA%33cA-33cA0d"÷млdAмлdA%млdA-млdA0д"КмлdAмлdA%млdA-млdA0▄"О ≥eA ≥eA% ≥eA- ≥eA0d"ПмлdAмлdA%млdA-млdA0┤"│ ≥eA ≥eA% ≥eA- ≥eA0╛"┌ ≥eA ≥eA% ≥eA- ≥eA0d"ШмлdAмлdA%млdA-млdA0d"А	fffAfffA%fffA- ≥eA0и"Х	33gA33gA%33gA-33gA0х"К	fffAfffA%fffA-fffA0d

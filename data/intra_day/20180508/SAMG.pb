@@ -1,0 +1,3 @@
+
+SAMG°эо	"ЖмлxAмлxA%млxA-млxA0л"вVwAVwA%VwA-VwA0d"шffvAffvA%ffvA-ffvA0х"УмлxAмлxA%млxA-млxA0d"└млxAмлxA%млxA-млxA0░"÷млxAмлxA%млxA-млxA0d"╡млxAмлxA%млxA-млxA0d"╬млxAмлxA%млxA-млxA0d"ОмлxAмлxA%млxA-млxA0d"ЭмлxAмлxA%млxA-млxA0d"└млxAмлxA%млxA-млxA0d"▒млxAмлxA%млxA-млxA0d"²млxAмлxA%млxA-млxA0d"·млxAмлxA%млxA-млxA0d"ГмлxAмлxA%млxA-млxA0d"╤	млxAмлxA%млxA-млxA0х"╨	млxAмлxA% ≥yA-млxA0≤"н	млxAмлxA%млxA-млxA0d"т	млxAмлxA%млxA-млxA0d"в	млxAмлxA%млxA-млxA0d"Б	млxAмлxA%млxA-млxA0d"Д	млxAмлxA%млxA-млxA0╛"■
+ ≥yA ≥yA% ≥yA- ≥yA0ю
