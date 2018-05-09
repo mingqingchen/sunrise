@@ -195,8 +195,8 @@ class FixedNumTimePointsModelManager(ModelManager):
     if len(one_symbol_data.data) < self.num_time_points_:
       return False
 
-    # if current_index >= self.upper_time_point_limit_:
-    #  return False
+    if current_index >= self.upper_time_point_limit_:
+      return False
 
     if current_index < self.num_time_points_ - 1:
       return False

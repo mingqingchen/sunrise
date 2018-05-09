@@ -1,19 +1,16 @@
 import argparse
-import os
 import sys
 import tensorflow as tf
 
-
 import sim_environment.simulation as simulation
 import sim_environment.trade_strategy as trade_strategy
+import sim_environment.trade_strategy_ai as trade_strategy_ai
 import util.display_util as display_util
 
-import proto.stock_pb2 as stock_pb2
 import proto.trade_strategy_param_pb2 as trade_strategy_param_pb2
-import util.datetime_util as datetime_util
+import proto.nn_train_param_pb2 as nn_train_param_pb2
 import util.data_provider as data_provider
 import util.sim_html_report as html_report
-
 
 FLAGS=None
 
@@ -72,9 +69,20 @@ def run_ai_trade_strategy():
   sim.set_end_date(end_date)
   sim.deposit_fund(initial_fund)
 
-  model_path = './model/threshold_0.005/model_classification_1.ckpt'
+  param_buy = nn_train_param_pb2.TrainingParams()
+  param_buy.architecture.extend([32, 32])
+  param_buy.previous_model = './model/threshold_0.005/model_classification_12.ckpt'
+  param_buy.num_time_points = 100
+  param_buy.upper_time_point_limit = 149
+
+  param_sell = nn_train_param_pb2.TrainingParams()
+  param_sell.architecture.extend([32, 32])
+  param_sell.previous_model = './model/sell_classifier/model_classification_17.ckpt'
+  param_sell.num_time_points = 100
+  param_sell.upper_time_point_limit = 10000
+
   with tf.Session() as sess:
-    strategy = trade_strategy.BuyBestAIRankedTradeStrategy(sess, model_path)
+    strategy = trade_strategy_ai.BuyBestAIRankedTradeStrategy(sess, param_buy, param_sell)
 
     sim.set_trade_strategy(strategy)
     sim.set_data_manager(dp)
