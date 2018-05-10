@@ -56,8 +56,8 @@ sell_classifier
   Total number of samples: train: 1443131, test: 1732727
     Number of positive in training: 335914, in testing: 350405
     Ratio of positive in training: 0.232767503435, in testing: 0.202227471494
-    train accuracy: 0.817744910717, test accuracy: 0.822485029697
-    Train: TP: 0.145, FP: 0.095; Test: TP: 0.113, FP: 0.088
-    Train: FN: 0.087, TN: 0.672; Test: FN: 0.089, TN: 0.710
+    train accuracy: 0.821592748165, test accuracy: 0.824496328831
+      TP: 0.157, FP: 0.102; Test: TP: 0.122, FP: 0.095
+      FN: 0.076, TN: 0.665; Test: FN: 0.080, TN: 0.702
 
 
