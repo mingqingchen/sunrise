@@ -51,7 +51,7 @@ threshold_0.005
     Train: FN: 0.254, TN: 0.516; Test: FN: 0.298, TN: 0.410
 
 sell_classifier
-  model_classification_17: Model trained from 20180416 to 20180420, with updated
+  model_classification_25: Model trained from 20180416 to 20180420, with updated
   eligible list that requires dense time points. No restriction on number of time points.
   Total number of samples: train: 1443131, test: 1732727
     Number of positive in training: 335914, in testing: 350405
