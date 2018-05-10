@@ -1,0 +1,2 @@
+
+MENÜÏ	"öìQ(A×£(A%×£(A-ìQ(A0›"Œ€(Aáz(A%€(A-áz(A0Ì"áz(A×£(A%×£(A-áz(A0 "‘•(A•(A%•(A-•(A0d"åV(ATR(A%V(A-ìQ(A0¥"¯)\(Aáz(A%áz(A-ìQ(A0ì"Ìáz(Aáz(A%áz(A-áz(A0d"Î•e(A•e(A%•e(A-•e(A0d"†áz(Aáz(A%áz(A-áz(A0¬"áz(Aáz(A%áz(A-áz(A0d"›TR(ATR(A%TR(A-TR(A0¼"´áz(Aáz(A%áz(A-áz(A0È"áz(Aáz(A%áz(A-áz(A0È"þáz(Aáz(A%áz(A-áz(A0¬"È	V(Aáz(A%áz(A-ö((A05"å	ìQ(AìQ(A%ìQ(A-ìQ(A0ô"é	ìQ(AìQ(A%ìQ(A-ìQ(A0È"ë	×£(A×£(A%×£(A-×£(A0á

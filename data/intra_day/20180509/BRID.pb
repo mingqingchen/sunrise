@@ -1,0 +1,2 @@
+
+BRIDÜÏ	"†	×£|A×£|A%×£|A-×£|A0d"°	×£|A×£|A%×£|A-×£|A0d"²	À[zAÀ[zA%À[zA-À[zA0½"µ	q=~Aq=~A%q=~A-q=~A0d"¶	33wAq=~A%q=~A-33wA0¬"·	ìQ|AìQ|A%ìQ|A-ìQ|A0d"º	q=~Aff~A%ff~A-q=~A0Š"¿	ff~Aåa~A%ff~A-åa~A0È"Ê	š™}Aš™}A%š™}A-š™}A0d"Ë	ff~Aff~A%ff~A-ff~A0d"Ý	¤pzA¤pzA%¤pzA-¤pzA0¬"á	ffvAffvA%ffvA-ffvA0d
