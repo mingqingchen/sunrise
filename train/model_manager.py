@@ -390,6 +390,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     train_writer.add_graph(tf.get_default_graph()) 
   
     with tf.Session() as sess:
+      sess.run(tf.global_variables_initializer())
       saver = tf.train.Saver(var_list=tf.trainable_variables())
       if self.load_previous_model_:
         prev_model_path = os.path.join(self.model_folder_, self.previous_model_ + '.ckpt')
@@ -397,8 +398,6 @@ class FixedNumTimePointsModelManager(ModelManager):
         message = 'Load from previous model {0}'.format(prev_model_path)
         print(message)
         logging.info(message)
-      else:
-        sess.run(tf.global_variables_initializer())
 
       for i in range(self.num_epochs_):
         shuffle(sample_index)
