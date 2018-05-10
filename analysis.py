@@ -8,6 +8,7 @@ import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 import util.distribution_analyzer as distribution_analyzer
 import proto.stock_pb2 as stock_pb2
+import proto.nn_train_param_pb2 as nn_train_param_pb2
 
 import train.model_manager as model_manager
 
@@ -189,11 +190,31 @@ def run_and_display_classifier_prob():
       plt.show()
       plt.clf()
 
+def load_model():
+  param = nn_train_param_pb2.TrainingParams()
+  param.architecture.extend([32, 32])
+  param.previous_model = './model/model_classification_2.ckpt'
+  param.num_time_points = 100
+  param.upper_time_point_limit = 149
+  param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
+  with tf.Session() as sess:
+    mm = model_manager.FixedNumTimePointsModelManager(param)
+    mm.init_for_serving()
+    saver = tf.train.Saver(var_list=tf.trainable_variables())
+    saver.restore(sess, param.previous_model)
+    message = 'Load from previous model {0}'.format(param.previous_model)
+    print message
+
+    for variable in tf.trainable_variables():
+      print variable
+
+
 def run_through_analysis_functions(_):
   # export_some_intra_day_data_to_pngs()
   # compare_two_crawl_result()
   # run_and_display_classifier_prob()
-  update_eligible_list()
+  # update_eligible_list()
+  load_model()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

@@ -8,66 +8,66 @@ import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 import proto.nn_train_param_pb2 as nn_train_param_pb2
 
-def SimpleFn(x, input_dimension, hidden_dimension = [128, 1]):
+def SimpleFn(x, input_dimension, hidden_dimension = [128, 1], context = 'buy_'):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
   """
-  with tf.name_scope('fc1'):
+  with tf.name_scope(context + 'fc1'):
     W_fc1 = weight_variable([input_dimension, hidden_dimension[0]])
     b_fc1 = bias_variable([hidden_dimension[0]])
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
-  with tf.name_scope('fc2'):
+  with tf.name_scope(context + 'fc2'):
     W_fc2 = weight_variable([hidden_dimension[0], hidden_dimension[1]])
     b_fc2 = bias_variable([hidden_dimension[1]])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   return tf.squeeze(h_fc2)
 
-def SimpleFn2(x, architecture = [101, 32, 32, 1]):
+def SimpleFn2(x, architecture = [101, 32, 32, 1], context = 'buy_'):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
   """
-  with tf.name_scope('fc1'):
+  with tf.name_scope(context + 'fc1'):
     W_fc1 = weight_variable([architecture[0], architecture[1]])
     b_fc1 = bias_variable([architecture[1]])
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
-  with tf.name_scope('fc2'):
+  with tf.name_scope(context + 'fc2'):
     W_fc2 = weight_variable([architecture[1], architecture[2]])
     b_fc2 = bias_variable([architecture[2]])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
-  with tf.name_scope('fc3'):
+  with tf.name_scope(context + 'fc3'):
     W_fc3 = weight_variable([architecture[2], architecture[3]])
     b_fc3 = bias_variable([architecture[3]])
     h_fc3 = tf.nn.relu(tf.matmul(h_fc2, W_fc3) + b_fc3)
 
   return tf.squeeze(h_fc3)
 
-def SimpleCnn(x, hidden_dimension = 32):
+def SimpleCnn(x, hidden_dimension = 32, context = 'buy_'):
   # padding could be 'SAME' or 'VALID'
   x_reshape = tf.reshape(x, [-1, 100, 1])
-  with tf.name_scope('cnn1'):
+  with tf.name_scope(context + 'cnn1'):
     W_conv1 = weight_variable([5, 1, 4])
     b_conv1 = bias_variable([4])
     h_conv1 = tf.nn.relu(tf.nn.conv1d(x_reshape, W_conv1, stride = 2, padding = 'VALID') + b_conv1)
-  with tf.name_scope('cnn2'):
+  with tf.name_scope(context + 'cnn2'):
     W_conv2 = weight_variable([5, 4, 8])
     b_conv2 = bias_variable([8])
     h_conv2 = tf.nn.relu(tf.nn.conv1d(h_conv1, W_conv2, stride = 2, padding = 'VALID') + b_conv2)
-  with tf.name_scope('cnn3'):
+  with tf.name_scope(context + 'cnn3'):
     W_conv3 = weight_variable([5, 8, 4])
     b_conv3 = bias_variable([4])
     h_conv3 = tf.nn.relu(tf.nn.conv1d(h_conv2, W_conv3, stride = 2, padding = 'VALID') + b_conv3)
-  with tf.name_scope('fc1'):
+  with tf.name_scope(context + 'fc1'):
     W_fc1 = weight_variable([36, hidden_dimension])
     b_fc1 = bias_variable([hidden_dimension])
     h_conv3_flat = tf.reshape(h_conv3, [-1, 36])
     h_fc1 = tf.nn.relu(tf.matmul(h_conv3_flat, W_fc1) + b_fc1)
-  with tf.name_scope('fc2'):
+  with tf.name_scope(context + 'fc2'):
     W_fc2 = weight_variable([hidden_dimension, 1])
     b_fc2 = bias_variable([1])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
@@ -289,7 +289,12 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       self.architecture_.append(1)
 
-    y_prediction = SimpleFn2(x, self.architecture_)
+    if self.type_ != nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME:
+      context = 'buy_'
+    else:
+      context = 'sell_'
+
+    y_prediction = SimpleFn2(x, self.architecture_, context = context)
     
     with tf.name_scope('loss'):
       if self.type_ == nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
@@ -377,12 +382,15 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       x, y_label, y_prediction, loss, train_step = self.__create_network()
 
+    for variable in tf.trainable_variables():
+      print variable
+
     model_path = self.__prepare_export_file()   
     train_writer = tf.summary.FileWriter(self.model_folder_)
     train_writer.add_graph(tf.get_default_graph()) 
   
     with tf.Session() as sess:
-      saver = tf.train.Saver()
+      saver = tf.train.Saver(var_list=tf.trainable_variables())
       if self.load_previous_model_:
         prev_model_path = os.path.join(self.model_folder_, self.previous_model_ + '.ckpt')
         saver.restore(sess, prev_model_path)
@@ -433,5 +441,5 @@ class FixedNumTimePointsModelManager(ModelManager):
           print(message)
           logging.info(message)
 
-        save_path = saver.save(sess, model_path) # to restore, run saver.restore(sess, model_path)
+        saver.save(sess, model_path) # to restore, run saver.restore(sess, model_path)
 
