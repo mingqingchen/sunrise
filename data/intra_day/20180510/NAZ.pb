@@ -1,0 +1,3 @@
+
+NAZ·эо	"Ш╦MAвёLA%СMA-вёLA0╞%"▒вёLAвёLA%вёLA-вёLA0╞"▓вёLAвёLA%вёLA-вёLA0└"╪вёLAвёLA%вёLA-вёLA0═"©вёLAвёLA%вёLA-вёLA0Х"авёLAвёLA%вёLA-вёLA0d"хмлLAмлLA%млLA-млLA0d"имлLAмлLA%млLA-млLA0╙"оKЙLAKЙLA%KЙLA-KЙLA0З"И%MA%MA%%MA-%MA0┼"КЭMA╦MA%╦MA-ЭMA0х"СмлLAвёLA%млLA-вёLA0П"лцУLAцУLA%цУLA-цУLA0d"о╖LA╖LA%╖LA-╖LA0┬"я╖LA╖LA%╖LA-╖LA0╪"змлLAмлLA%млLA-млLA0Х"ОмлLA┐LA%ЕпLA-┐LA0я
+"Ф	вёLAвёLA%вёLA-вёLA0─"Г	АzLAАzLA%АzLA-АzLA0└"К	вёLAвёLA%вёLA-ЛQLA0ь

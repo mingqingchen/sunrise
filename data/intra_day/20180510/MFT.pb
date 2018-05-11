@@ -1,0 +1,3 @@
+
+MFT·эо	"Ж╦QA╦QA%╦QA-╦QA0╨"┼цУPA╦QA%╦QA-цУPA0У"░┴рPA┴рPA%┴рPA-┴рPA0ь"▓OQA╦QA%╦QA-HАPA0д"змлPAмлPA%млPA-млPA0d"шмлPAмлPA%млPA-млPA0я"╕АzPAАzPA%АzPA-АzPA0Т"╗АzPAАzPA%АzPA-АzPA0░"╚АzPAАzPA%АzPA-АzPA0╛"╤ffPAffPA%АzPA-ffPA0Б"ивёPAвёPA%вёPA-вёPA0d"·ЛQPAЛQPA%ЛQPA-ЛQPA0≥"═ЛQPAЛQPA%ЛQPA-ЛQPA0└"ёq=PAЛQPA%ЛQPA-q=PA0┬"╜АzPAАzPA%АzPA-АzPA0х"░ЛQPAАzPA%АzPA-ЛQPA0╪"°ЛQPAЛQPA%ЛQPA-ЛQPA0╛"ЖЖ(PAЖ(PA%Ж(PA-Ж(PA0Т"ю	Ж(PAЖ(PA%Ж(PA-Ж(PA0Т"б	АzPAАzPA%АzPA-АzPA0d"ь	Ж(PAЖ(PA%Ж(PA-Ж(PA0Й"Е	Ж(PAЖ(PA%Ж(PA-Ж(PA0d"Ф	Ж(PAЖ(PA%Ж(PA-Ж(PA0х"И	Ж(PAЖ(PA%Ж(PA-Ж(PA0d"Й	АzPAАzPA%АzPA-АzPA0d"√
+Ж(PAЖ(PA%Ж(PA-Ж(PA0х
