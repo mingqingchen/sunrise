@@ -193,7 +193,7 @@ def run_and_display_classifier_prob():
 def load_model():
   param = nn_train_param_pb2.TrainingParams()
   param.architecture.extend([32, 32])
-  param.previous_model = './model/model_classification_2.ckpt'
+  param.previous_model = './model/sell_classifier/model_classification_25.ckpt'
   param.num_time_points = 100
   param.upper_time_point_limit = 149
   param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
