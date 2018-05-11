@@ -9,14 +9,26 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
   def __init__(self, sess, buy_model_param, sell_model_param):
     self.num_available_slot_ = 5
 
+    buy_variables, sell_variables = [], []
+
     self.mm_buy_ = model_manager.FixedNumTimePointsModelManager(buy_model_param)
     self.mm_buy_.init_for_serving()
-    saver = tf.train.Saver()
-    saver.restore(sess, buy_model_param.previous_model)
+    self.mm_sell_ = model_manager.FixedNumTimePointsModelManager(sell_model_param)
+    self.mm_sell_.init_for_serving()
 
-    #self.mm_sell_ = model_manager.FixedNumTimePointsModelManager(sell_model_param)
-    #self.mm_sell_.init_for_serving()
-    #saver.restore(sess, sell_model_param.previous_model)
+    # Please be cautious here, that sell model should have different name scope.
+    # Otherwise it will overwrite what buy model has loaded.
+    for var in tf.trainable_variables():
+      if 'buy_' in var.name:
+        buy_variables.append(var)
+      elif 'sell_' in var.name:
+        sell_variables.append(var)
+
+    saver_buy = tf.train.Saver(var_list = buy_variables)
+    saver_buy.restore(sess, buy_model_param.previous_model)
+
+    saver_sell = tf.train.Saver(var_list = sell_variables)
+    saver_sell.restore(sess, sell_model_param.previous_model)
 
     self.buy_score_dict_ = dict()
     self.sell_price_dict_ = dict()

@@ -294,6 +294,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       context = 'sell_'
 
+    print context
     y_prediction = SimpleFn2(x, self.architecture_, context = context)
     
     with tf.name_scope('loss'):
