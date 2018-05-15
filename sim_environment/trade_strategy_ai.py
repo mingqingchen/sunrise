@@ -34,7 +34,8 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
     self.sell_price_dict_ = dict()
 
     self.num_eligible_list_requirement_ = 100
-    self.increase_check_threshold_ = 0.005
+    self.increase_check_threshold_ = 0.01
+    self.decrease_check_threshold = -0.005
 
     self.buy_stock_prob_threshold_ = 0.65
 
@@ -97,12 +98,13 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
         continue
 
       sell_score = self.mm_sell_.compute_prob(one_symbol_data, index)
-      if sell_score * increase_ratio > 0.5 * self.increase_check_threshold_:
-        result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open,
+      if sell_score > 0.5:
+        if increase_ratio > self.increase_check_threshold_ or increase_ratio < self.decrease_check_threshold:
+          result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open,
                                                                   portfolio)
-        if result:
-          transactions.append(transaction)
-          self.sell_price_dict_[symbol] = transaction.price
+          if result:
+            transactions.append(transaction)
+            self.sell_price_dict_[symbol] = transaction.price
 
     if cur_time > k_sell_all_time:
       return transactions

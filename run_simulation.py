@@ -57,8 +57,8 @@ def run_buy_drop_stock_trade_strategy():
 def run_ai_trade_strategy():
   dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
 
-  start_date = 20180423
-  end_date = 20180430
+  start_date = 20180507
+  end_date = 20180514
   initial_fund = 100000
 
   du = display_util.DisplayUtil()
@@ -71,14 +71,14 @@ def run_ai_trade_strategy():
 
   param_buy = nn_train_param_pb2.TrainingParams()
   param_buy.architecture.extend([32, 32])
-  param_buy.previous_model = './model/threshold_0.005/model_classification_25.ckpt'
+  param_buy.previous_model = './model/threshold_0.005/model_classification_35.ckpt'
   param_buy.num_time_points = 100
   param_buy.upper_time_point_limit = 149
   param_buy.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
 
   param_sell = nn_train_param_pb2.TrainingParams()
   param_sell.architecture.extend([32, 32])
-  param_sell.previous_model = './model/sell_classifier/model_classification_25.ckpt'
+  param_sell.previous_model = './model/sell_classifier/model_classification_34.ckpt'
   param_sell.num_time_points = 100
   param_sell.upper_time_point_limit = 10000
   param_sell.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
