@@ -40,8 +40,8 @@ def main(_):
   params.local_maximal_margin = 0.001;
 
   mm = model_manager.FixedNumTimePointsModelManager(params)
-  mm.set_training_dates(20180416, 20180420)
-  mm.set_test_dates(20180423, 20180427)
+  mm.set_training_dates(20180426, 20180504)
+  mm.set_test_dates(20180507, 20180511)
   mm.set_training_data_folder(k_data_folder)
   mm.set_training_use_eligible_list(True)
   mm.train_and_test()

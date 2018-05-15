@@ -74,11 +74,14 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
 
     transactions = []
 
-    # First, sell all symbols that trigger the checking price threshold and NN thinks it is time to sell
+    # First, sell all symbols that NN thinks it is time to sell
     for symbol in portfolio.get_current_hold_symbol_list():
-      result, one_symbol_minute_data = data_manager.get_symbol_minute_data(symbol, cur_time)
+      result, index = data_manager.get_symbol_minute_index(symbol, cur_time)
       if result == 2:
         continue
+
+      one_symbol_data = data_manager.get_one_symbol_data(symbol)
+      one_symbol_minute_data = one_symbol_data.data[index]
 
       if cur_time > k_sell_all_time:
         result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open, portfolio)
@@ -90,7 +93,11 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
       buy_price = portfolio.get_buy_price(symbol)
       increase_ratio = (one_symbol_minute_data.open - buy_price) / buy_price
 
-      if increase_ratio > self.increase_check_threshold_:
+      if not self.mm_sell_.is_eligible_to_be_fed_into_network(one_symbol_data, index):
+        continue
+
+      sell_score = self.mm_sell_.compute_prob(one_symbol_data, index)
+      if sell_score * increase_ratio > 0.5 * self.increase_check_threshold_:
         result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open,
                                                                   portfolio)
         if result:
@@ -108,7 +115,6 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
       if self.num_available_slot_ == 0:
         break
 
-      one_symbol_data = data_manager.get_one_symbol_data(symbol)
       result, index = data_manager.get_symbol_minute_index(symbol, cur_time)
       if result == 2:
         continue
@@ -124,7 +130,6 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
       self.buy_score_dict_[symbol] = prob_score
 
     if len(self.buy_score_dict_) > self.num_eligible_list_requirement_:
-      added_symbols = []
       for symbol, score in sorted(self.buy_score_dict_.iteritems(), key=lambda (k,v): (v,k), reverse=True):
         if self.num_available_slot_ == 0:
           break

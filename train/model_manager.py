@@ -201,8 +201,9 @@ class FixedNumTimePointsModelManager(ModelManager):
     if current_index < self.num_time_points_ - 1:
       return False
 
-    if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
-      return False
+    # For now we allow pre-market data to be in for training and testing
+    # if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
+    #   return False
 
     if one_symbol_data.data[current_index].time_val >= self.close_time_:
       return False
@@ -294,7 +295,6 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       context = 'sell_'
 
-    print context
     y_prediction = SimpleFn2(x, self.architecture_, context = context)
     
     with tf.name_scope('loss'):
