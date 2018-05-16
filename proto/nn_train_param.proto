@@ -55,4 +55,9 @@ message TrainingParams {
   required int32 local_maximal_window_size = 19;
   // neighbor points may be not that high, but may also be considered as local maximal if its price is higher than this margin
   required float local_maximal_margin = 20;
+
+  // The following two parameters are related to whether to use relative price position to filter the buy time.
+  // Only apply to CLASSIFY_FUTURE_HIGHEST_PRICE
+  required bool use_relative_price_percentage_to_buy = 21 [default = true];
+  required float relative_price_percentage = 22 [default = 0.5];
 }

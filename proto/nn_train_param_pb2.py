@@ -19,9 +19,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='nn_train_param.proto',
   package='tutorial',
   syntax='proto2',
-  serialized_pb=_b('\n\x14nn_train_param.proto\x12\x08tutorial\"\xa4\x05\n\x0eTrainingParams\x12\x17\n\x0fnum_time_points\x18\x01 \x02(\x05\x12\x1e\n\x16upper_time_point_limit\x18\x02 \x02(\x05\x12\x16\n\topen_time\x18\x03 \x02(\x05:\x03\x36\x33\x30\x12\x18\n\nclose_time\x18\x04 \x02(\x05:\x04\x31\x32\x35\x35\x12%\n\x18total_minutes_normalizer\x18\x05 \x02(\x05:\x03\x33\x39\x30\x12\x1c\n\x14sample_step_training\x18\x06 \x02(\x05\x12\x1b\n\x13sample_step_testing\x18\x07 \x02(\x05\x12\x15\n\rlearning_rate\x18\x08 \x02(\x02\x12\x12\n\nnum_epochs\x18\t \x02(\x05\x12\x12\n\nbatch_size\x18\n \x02(\x05\x12\x14\n\x0c\x61rchitecture\x18\x0b \x03(\x05\x12+\n\x04type\x18\x0c \x02(\x0e\x32\x1d.tutorial.TrainingParams.Type\x12\x1b\n\x13load_previous_model\x18\r \x02(\x08\x12\x16\n\x0eprevious_model\x18\x0e \x02(\t\x12\x14\n\x0cmodel_folder\x18\x0f \x02(\t\x12 \n\x18output_model_name_prefix\x18\x10 \x02(\t\x12\x10\n\x08log_file\x18\x11 \x02(\t\x12\x1a\n\x12\x63lassify_threshold\x18\x12 \x02(\x02\x12!\n\x19local_maximal_window_size\x18\x13 \x02(\x05\x12\x1c\n\x14local_maximal_margin\x18\x14 \x02(\x02\"g\n\x04Type\x12!\n\x1d\x43LASSIFY_FUTURE_HIGHEST_PRICE\x10\x00\x12 \n\x1cREGRESS_FUTURE_HIGHEST_PRICE\x10\x01\x12\x1a\n\x16\x43LASSIFY_BUY_SELL_TIME\x10\x02')
+  serialized_pb=_b('\n\x14nn_train_param.proto\x12\x08tutorial\"\x80\x06\n\x0eTrainingParams\x12\x17\n\x0fnum_time_points\x18\x01 \x02(\x05\x12\x1e\n\x16upper_time_point_limit\x18\x02 \x02(\x05\x12\x16\n\topen_time\x18\x03 \x02(\x05:\x03\x36\x33\x30\x12\x18\n\nclose_time\x18\x04 \x02(\x05:\x04\x31\x32\x35\x35\x12%\n\x18total_minutes_normalizer\x18\x05 \x02(\x05:\x03\x33\x39\x30\x12\x1c\n\x14sample_step_training\x18\x06 \x02(\x05\x12\x1b\n\x13sample_step_testing\x18\x07 \x02(\x05\x12\x15\n\rlearning_rate\x18\x08 \x02(\x02\x12\x12\n\nnum_epochs\x18\t \x02(\x05\x12\x12\n\nbatch_size\x18\n \x02(\x05\x12\x14\n\x0c\x61rchitecture\x18\x0b \x03(\x05\x12+\n\x04type\x18\x0c \x02(\x0e\x32\x1d.tutorial.TrainingParams.Type\x12\x1b\n\x13load_previous_model\x18\r \x02(\x08\x12\x16\n\x0eprevious_model\x18\x0e \x02(\t\x12\x14\n\x0cmodel_folder\x18\x0f \x02(\t\x12 \n\x18output_model_name_prefix\x18\x10 \x02(\t\x12\x10\n\x08log_file\x18\x11 \x02(\t\x12\x1a\n\x12\x63lassify_threshold\x18\x12 \x02(\x02\x12!\n\x19local_maximal_window_size\x18\x13 \x02(\x05\x12\x1c\n\x14local_maximal_margin\x18\x14 \x02(\x02\x12\x32\n$use_relative_price_percentage_to_buy\x18\x15 \x02(\x08:\x04true\x12&\n\x19relative_price_percentage\x18\x16 \x02(\x02:\x03\x30.5\"g\n\x04Type\x12!\n\x1d\x43LASSIFY_FUTURE_HIGHEST_PRICE\x10\x00\x12 \n\x1cREGRESS_FUTURE_HIGHEST_PRICE\x10\x01\x12\x1a\n\x16\x43LASSIFY_BUY_SELL_TIME\x10\x02')
 )
-_sym_db.RegisterFileDescriptor(DESCRIPTOR)
 
 
 
@@ -46,8 +45,8 @@ _TRAININGPARAMS_TYPE = _descriptor.EnumDescriptor(
   ],
   containing_type=None,
   options=None,
-  serialized_start=608,
-  serialized_end=711,
+  serialized_start=700,
+  serialized_end=803,
 )
 _sym_db.RegisterEnumDescriptor(_TRAININGPARAMS_TYPE)
 
@@ -65,140 +64,154 @@ _TRAININGPARAMS = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='upper_time_point_limit', full_name='tutorial.TrainingParams.upper_time_point_limit', index=1,
       number=2, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='open_time', full_name='tutorial.TrainingParams.open_time', index=2,
       number=3, type=5, cpp_type=1, label=2,
       has_default_value=True, default_value=630,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='close_time', full_name='tutorial.TrainingParams.close_time', index=3,
       number=4, type=5, cpp_type=1, label=2,
       has_default_value=True, default_value=1255,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='total_minutes_normalizer', full_name='tutorial.TrainingParams.total_minutes_normalizer', index=4,
       number=5, type=5, cpp_type=1, label=2,
       has_default_value=True, default_value=390,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='sample_step_training', full_name='tutorial.TrainingParams.sample_step_training', index=5,
       number=6, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='sample_step_testing', full_name='tutorial.TrainingParams.sample_step_testing', index=6,
       number=7, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='learning_rate', full_name='tutorial.TrainingParams.learning_rate', index=7,
       number=8, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='num_epochs', full_name='tutorial.TrainingParams.num_epochs', index=8,
       number=9, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='batch_size', full_name='tutorial.TrainingParams.batch_size', index=9,
       number=10, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='architecture', full_name='tutorial.TrainingParams.architecture', index=10,
       number=11, type=5, cpp_type=1, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='type', full_name='tutorial.TrainingParams.type', index=11,
       number=12, type=14, cpp_type=8, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='load_previous_model', full_name='tutorial.TrainingParams.load_previous_model', index=12,
       number=13, type=8, cpp_type=7, label=2,
       has_default_value=False, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='previous_model', full_name='tutorial.TrainingParams.previous_model', index=13,
       number=14, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='model_folder', full_name='tutorial.TrainingParams.model_folder', index=14,
       number=15, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='output_model_name_prefix', full_name='tutorial.TrainingParams.output_model_name_prefix', index=15,
       number=16, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='log_file', full_name='tutorial.TrainingParams.log_file', index=16,
       number=17, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='classify_threshold', full_name='tutorial.TrainingParams.classify_threshold', index=17,
       number=18, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='local_maximal_window_size', full_name='tutorial.TrainingParams.local_maximal_window_size', index=18,
       number=19, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='local_maximal_margin', full_name='tutorial.TrainingParams.local_maximal_margin', index=19,
       number=20, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      options=None),
+      options=None, file=DESCRIPTOR),
+    _descriptor.FieldDescriptor(
+      name='use_relative_price_percentage_to_buy', full_name='tutorial.TrainingParams.use_relative_price_percentage_to_buy', index=20,
+      number=21, type=8, cpp_type=7, label=2,
+      has_default_value=True, default_value=True,
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None, file=DESCRIPTOR),
+    _descriptor.FieldDescriptor(
+      name='relative_price_percentage', full_name='tutorial.TrainingParams.relative_price_percentage', index=21,
+      number=22, type=2, cpp_type=6, label=2,
+      has_default_value=True, default_value=float(0.5),
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None, file=DESCRIPTOR),
   ],
   extensions=[
   ],
@@ -213,12 +226,13 @@ _TRAININGPARAMS = _descriptor.Descriptor(
   oneofs=[
   ],
   serialized_start=35,
-  serialized_end=711,
+  serialized_end=803,
 )
 
 _TRAININGPARAMS.fields_by_name['type'].enum_type = _TRAININGPARAMS_TYPE
 _TRAININGPARAMS_TYPE.containing_type = _TRAININGPARAMS
 DESCRIPTOR.message_types_by_name['TrainingParams'] = _TRAININGPARAMS
+_sym_db.RegisterFileDescriptor(DESCRIPTOR)
 
 TrainingParams = _reflection.GeneratedProtocolMessageType('TrainingParams', (_message.Message,), dict(
   DESCRIPTOR = _TRAININGPARAMS,

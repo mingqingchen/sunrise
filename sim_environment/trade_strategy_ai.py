@@ -142,8 +142,14 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
         if portfolio.if_symbol_is_in_holding(symbol):
           continue
 
-        result, one_symbol_minute_data = data_manager.get_symbol_minute_data(symbol, cur_time)
+        result, index = data_manager.get_symbol_minute_index(symbol, cur_time)
         if result == 2:
+          continue
+
+        one_symbol_data = data_manager.get_one_symbol_data(symbol)
+        one_symbol_minute_data = one_symbol_data.data[index]
+
+        if not self.mm_buy_.is_eligible_to_be_fed_into_network(one_symbol_data, index):
           continue
 
         if symbol in self.sell_price_dict_:

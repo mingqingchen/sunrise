@@ -39,6 +39,10 @@ def main(_):
   params.local_maximal_window_size = 21;
   params.local_maximal_margin = 0.001;
 
+  // The following two only applies to CLASSIFY_FUTURE_HIGHEST_PRICE
+  params.use_relative_price_percentage_to_buy = True
+  params.relative_price_percentage = 0.5
+
   mm = model_manager.FixedNumTimePointsModelManager(params)
   mm.set_training_dates(20180426, 20180504)
   mm.set_test_dates(20180507, 20180511)

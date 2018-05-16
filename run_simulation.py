@@ -58,7 +58,7 @@ def run_ai_trade_strategy():
   dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
 
   start_date = 20180507
-  end_date = 20180514
+  end_date = 20180515
   initial_fund = 100000
 
   du = display_util.DisplayUtil()
@@ -75,6 +75,8 @@ def run_ai_trade_strategy():
   param_buy.num_time_points = 100
   param_buy.upper_time_point_limit = 149
   param_buy.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
+  param_buy.use_relative_price_percentage_to_buy = True
+  param_buy.relative_price_percentage = 0.5
 
   param_sell = nn_train_param_pb2.TrainingParams()
   param_sell.architecture.extend([32, 32])

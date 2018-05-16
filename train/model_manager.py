@@ -137,6 +137,9 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.local_maximal_window_size_ = params.local_maximal_window_size;
     self.local_maximal_margin_ = params.local_maximal_margin;
 
+    self.use_relative_price_percentage_to_buy_ = params.use_relative_price_percentage_to_buy
+    self.relative_price_percentage_ = params.relative_price_percentage
+
   def get_num_time_points(self):
     return self.num_time_points_
 
@@ -200,6 +203,15 @@ class FixedNumTimePointsModelManager(ModelManager):
 
     if current_index < self.num_time_points_ - 1:
       return False
+
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE and self.use_relative_price_percentage_to_buy_:
+      max_price, min_price = one_symbol_data.data[0].open, one_symbol_data.data[0].open
+      for i in range(0, current_index):
+        max_price = max(max_price, one_symbol_data.data[i].open)
+        min_price = min(min_price, one_symbol_data.data[i].open)
+      threshold = (max_price - min_price) * self.relative_price_percentage_ + min_price
+      if one_symbol_data.data[current_index].open > threshold:
+        return False
 
     # For now we allow pre-market data to be in for training and testing
     # if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
