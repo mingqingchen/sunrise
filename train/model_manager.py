@@ -140,6 +140,8 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.use_relative_price_percentage_to_buy_ = params.use_relative_price_percentage_to_buy
     self.relative_price_percentage_ = params.relative_price_percentage
 
+    self.use_pre_market_data_ = params.use_pre_market_data
+
   def get_num_time_points(self):
     return self.num_time_points_
 
@@ -213,9 +215,9 @@ class FixedNumTimePointsModelManager(ModelManager):
       if one_symbol_data.data[current_index].open > threshold:
         return False
 
-    # For now we allow pre-market data to be in for training and testing
-    # if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
-    #   return False
+    if not self.use_pre_market_data_:
+      if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
+        return False
 
     if one_symbol_data.data[current_index].time_val >= self.close_time_:
       return False

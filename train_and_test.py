@@ -43,6 +43,8 @@ def main(_):
   params.use_relative_price_percentage_to_buy = True
   params.relative_price_percentage = 0.5
 
+  params.use_pre_market_data = True
+
   mm = model_manager.FixedNumTimePointsModelManager(params)
   mm.set_training_dates(20180426, 20180504)
   mm.set_test_dates(20180507, 20180511)

@@ -60,4 +60,6 @@ message TrainingParams {
   // Only apply to CLASSIFY_FUTURE_HIGHEST_PRICE
   required bool use_relative_price_percentage_to_buy = 21 [default = true];
   required float relative_price_percentage = 22 [default = 0.5];
+
+  required bool use_pre_market_data = 23 [default = true];
 }
