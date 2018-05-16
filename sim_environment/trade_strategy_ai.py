@@ -71,6 +71,7 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
   def run_minute_trade_strategy(self, data_manager, cur_time, portfolio):
     k_market_start_time = 630
     k_sell_all_time = 1255
+    k_close_time = 1300
 
     if cur_time % 10 == 0:
       print('Running simulation at time {0}'.format(cur_time))
@@ -110,6 +111,9 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
             self.sell_price_dict_[symbol] = transaction.price
 
     if self.sell_within_day_ and cur_time > k_sell_all_time:
+      return transactions
+
+    if cur_time > k_close_time:
       return transactions
 
     if self.num_available_slot_ == 0:
