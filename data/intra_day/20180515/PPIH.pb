@@ -1,0 +1,2 @@
+
+PPIHёэо	"ЖffAffA%ffA-ffA0в"⌠33A33A%33A-33A0Н"щ33A33A%33A-33A0э"Я33A33A%33A-33A0d"ЖffAffA%ffA-ffA0│"═ffAffA%ffA-ffA0d"╔ffAffA%ffA-ffA0d"╥ffAffA%ffA-ffA0d"█33A33A%33A-33A0d"╟ffAffA%ffA-ffA0∙	"│	jAjA%jA-jA0Т"К	млAмлA%млA-млA0d

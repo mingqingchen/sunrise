@@ -1,0 +1,2 @@
+
+NYVёэо	"ЖмлTAмлTA%млTA-млTA0Л"ф╝GUA╝GUA%╝GUA-╝GUA0х"й╝GUA╝GUA%╓pUA-╝GUA0╓"л╦UA╦UA%╦UA-╦UA0d"т1≥UA1≥UA%1≥UA-1≥UA0х"Ё ≥UA ≥UA% ≥UA- ≥UA0┌"©ъOUAъOUA%ъOUA-ъOUA0Х"К	млTAмлTA%млTA-млTA0d
