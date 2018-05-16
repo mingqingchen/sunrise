@@ -39,6 +39,8 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
 
     self.buy_stock_prob_threshold_ = 0.65
 
+    self.sell_within_day_ = False
+
   def update_date(self, date_int_val, data_manager):
     """ This provides needed operations when a new day is updated.
         For BuyBestAIRankedTradeStrategy, we need to deserialize all stocks
@@ -84,12 +86,13 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
       one_symbol_data = data_manager.get_one_symbol_data(symbol)
       one_symbol_minute_data = one_symbol_data.data[index]
 
-      if cur_time > k_sell_all_time:
-        result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open, portfolio)
-        if result:
-          print transaction
-          transactions.append(transaction)
-          continue
+      if self.sell_within_day_:
+        if cur_time > k_sell_all_time:
+          result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open, portfolio)
+          if result:
+            print transaction
+            transactions.append(transaction)
+            continue
 
       buy_price = portfolio.get_buy_price(symbol)
       increase_ratio = (one_symbol_minute_data.open - buy_price) / buy_price
@@ -106,7 +109,7 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
             transactions.append(transaction)
             self.sell_price_dict_[symbol] = transaction.price
 
-    if cur_time > k_sell_all_time:
+    if self.sell_within_day_ and cur_time > k_sell_all_time:
       return transactions
 
     if self.num_available_slot_ == 0:
