@@ -1,4 +1,14 @@
 threshold_0.005
+  model_classification_37: Model trained from 20180426 to 20180504,
+    allow data before 6:30 to come,
+    use 0.5% as positive threshold,
+    Use 0.5 as relative price position filtering.
+    Total number of samples: train: 257561, test: 107311
+    Number of positive in training: 162353, in testing: 64104
+    Ratio of positive in training: 0.630347762278, in testing: 0.597366532788
+    train accuracy: 0.67526525259, test accuracy: 0.615155935287
+    Train: TP: 0.558, FP: 0.253; Test: TP: 0.461, FP: 0.248
+    Train: FN: 0.072, TN: 0.117; Test: FN: 0.137, TN: 0.154
   model_classification_36: Model trained from 20180426 to 20180504,
     allow data before 6:30 to coming in,
     Fine tuned on model_classification_25,

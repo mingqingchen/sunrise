@@ -12,7 +12,7 @@ k_data_folder = './data/intra_day/'
 def main(_):
   params = nn_train_param_pb2.TrainingParams()
   params.num_time_points = 100
-  params.upper_time_point_limit = 10000
+  params.upper_time_point_limit = 149
   params.open_time = 630
   params.close_time = 1255
   params.total_minutes_normalizer = 390
@@ -25,8 +25,8 @@ def main(_):
   params.batch_size = 32
 
   params.architecture.extend([32, 32])
-  #  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
-  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
+  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
+  # params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
   params.classify_threshold = 0.005
 
   params.load_previous_model = False
@@ -39,7 +39,7 @@ def main(_):
   params.local_maximal_window_size = 21;
   params.local_maximal_margin = 0.001;
 
-  // The following two only applies to CLASSIFY_FUTURE_HIGHEST_PRICE
+  # The following two only applies to CLASSIFY_FUTURE_HIGHEST_PRICE
   params.use_relative_price_percentage_to_buy = True
   params.relative_price_percentage = 0.5
 
