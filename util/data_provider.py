@@ -170,7 +170,10 @@ class DataProvider:
           one time slot data
     """
     result, index = self.get_symbol_minute_index(symbol, time_int_val)
-    return result, self.one_day_data_[symbol].data[index]
+    if index < 0:
+      return 2, stock_pb2.OneTimeSlotData()
+    else:
+      return result, self.one_day_data_[symbol].data[index]
 
   def deserialize_one_symbol(self, date_int_val, symbol):
     intra_day_folder = self.__get_day_folder(date_int_val)
