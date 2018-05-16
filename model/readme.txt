@@ -1,4 +1,14 @@
 threshold_0.005
+  model_classification_36: Model trained from 20180426 to 20180504,
+    allow data before 6:30 to coming in,
+    Fine tuned on model_classification_25,
+    use 1% as positive threshold.
+    Total number of samples: train: 232299, test: 143666
+    Number of positive in training: 78420, in testing: 45281
+    Ratio of positive in training: 0.33758216781, in testing: 0.315182437041
+    train accuracy: 0.701311647892, test accuracy: 0.705239951611
+    Train: TP: 0.128, FP: 0.089; Test: TP: 0.083, FP: 0.063
+    Train: FN: 0.209, TN: 0.573; Test: FN: 0.232, TN: 0.622
   model_classification_35: Model trained from 20180426 to 20180504,
     allow data before 6:30 coming in.
     Fine tuned on model_classification_25.
