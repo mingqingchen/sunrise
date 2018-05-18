@@ -24,6 +24,7 @@ def main(_):
   params.num_epochs = 250
   params.batch_size = 32
 
+  params.architecture = [[100, 1]]
   params.architecture.extend([32, 32])
   params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
   # params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
@@ -46,8 +47,8 @@ def main(_):
   params.use_pre_market_data = True
 
   mm = model_manager.FixedNumTimePointsModelManager(params)
-  mm.set_training_dates(20180426, 20180504)
-  mm.set_test_dates(20180507, 20180511)
+  mm.set_training_dates(20180417, 20180425)
+  mm.set_test_dates(20180426, 20180511)
   mm.set_training_data_folder(k_data_folder)
   mm.set_training_use_eligible_list(True)
   mm.train_and_test()
