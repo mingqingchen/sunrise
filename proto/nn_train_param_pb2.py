@@ -19,7 +19,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='nn_train_param.proto',
   package='tutorial',
   syntax='proto2',
-  serialized_pb=_b('\n\x14nn_train_param.proto\x12\x08tutorial\"\xa3\x06\n\x0eTrainingParams\x12\x17\n\x0fnum_time_points\x18\x01 \x02(\x05\x12\x1e\n\x16upper_time_point_limit\x18\x02 \x02(\x05\x12\x16\n\topen_time\x18\x03 \x02(\x05:\x03\x36\x33\x30\x12\x18\n\nclose_time\x18\x04 \x02(\x05:\x04\x31\x32\x35\x35\x12%\n\x18total_minutes_normalizer\x18\x05 \x02(\x05:\x03\x33\x39\x30\x12\x1c\n\x14sample_step_training\x18\x06 \x02(\x05\x12\x1b\n\x13sample_step_testing\x18\x07 \x02(\x05\x12\x15\n\rlearning_rate\x18\x08 \x02(\x02\x12\x12\n\nnum_epochs\x18\t \x02(\x05\x12\x12\n\nbatch_size\x18\n \x02(\x05\x12\x14\n\x0c\x61rchitecture\x18\x0b \x03(\x05\x12+\n\x04type\x18\x0c \x02(\x0e\x32\x1d.tutorial.TrainingParams.Type\x12\x1b\n\x13load_previous_model\x18\r \x02(\x08\x12\x16\n\x0eprevious_model\x18\x0e \x02(\t\x12\x14\n\x0cmodel_folder\x18\x0f \x02(\t\x12 \n\x18output_model_name_prefix\x18\x10 \x02(\t\x12\x10\n\x08log_file\x18\x11 \x02(\t\x12\x1a\n\x12\x63lassify_threshold\x18\x12 \x02(\x02\x12!\n\x19local_maximal_window_size\x18\x13 \x02(\x05\x12\x1c\n\x14local_maximal_margin\x18\x14 \x02(\x02\x12\x32\n$use_relative_price_percentage_to_buy\x18\x15 \x02(\x08:\x04true\x12&\n\x19relative_price_percentage\x18\x16 \x02(\x02:\x03\x30.5\x12!\n\x13use_pre_market_data\x18\x17 \x02(\x08:\x04true\"g\n\x04Type\x12!\n\x1d\x43LASSIFY_FUTURE_HIGHEST_PRICE\x10\x00\x12 \n\x1cREGRESS_FUTURE_HIGHEST_PRICE\x10\x01\x12\x1a\n\x16\x43LASSIFY_BUY_SELL_TIME\x10\x02\"\xaf\x02\n\x0cTradeParamAI\x12+\n\tbuy_param\x18\x01 \x02(\x0b\x32\x18.tutorial.TrainingParams\x12,\n\nsell_param\x18\x02 \x02(\x0b\x32\x18.tutorial.TrainingParams\x12*\n\x1dnum_eligible_list_requirement\x18\x03 \x02(\x05:\x03\x31\x30\x30\x12&\n\x18increase_check_threshold\x18\x04 \x02(\x02:\x04\x30.01\x12(\n\x18\x64\x65\x63rease_check_threshold\x18\x05 \x02(\x02:\x06-0.005\x12&\n\x18\x62uy_stock_prob_threshold\x18\x06 \x02(\x02:\x04\x30.65\x12\x1e\n\x0fsell_within_day\x18\x07 \x02(\x08:\x05\x66\x61lse')
+  serialized_pb=_b('\n\x14nn_train_param.proto\x12\x08tutorial\"\xb4\x06\n\x0eTrainingParams\x12\x17\n\x0fnum_time_points\x18\x01 \x02(\x05\x12\x1e\n\x16upper_time_point_limit\x18\x02 \x02(\x05\x12\x16\n\topen_time\x18\x03 \x02(\x05:\x03\x36\x33\x30\x12\x18\n\nclose_time\x18\x04 \x02(\x05:\x04\x31\x32\x35\x35\x12%\n\x18total_minutes_normalizer\x18\x05 \x02(\x05:\x03\x33\x39\x30\x12\x1c\n\x14sample_step_training\x18\x06 \x02(\x05\x12\x1b\n\x13sample_step_testing\x18\x07 \x02(\x05\x12\x15\n\rlearning_rate\x18\x08 \x02(\x02\x12\x12\n\nnum_epochs\x18\t \x02(\x05\x12\x12\n\nbatch_size\x18\n \x02(\x05\x12\x14\n\x0c\x61rchitecture\x18\x0b \x03(\x05\x12\x0f\n\x07use_cnn\x18\x18 \x02(\x08\x12+\n\x04type\x18\x0c \x02(\x0e\x32\x1d.tutorial.TrainingParams.Type\x12\x1b\n\x13load_previous_model\x18\r \x02(\x08\x12\x16\n\x0eprevious_model\x18\x0e \x02(\t\x12\x14\n\x0cmodel_folder\x18\x0f \x02(\t\x12 \n\x18output_model_name_prefix\x18\x10 \x02(\t\x12\x10\n\x08log_file\x18\x11 \x02(\t\x12\x1a\n\x12\x63lassify_threshold\x18\x12 \x02(\x02\x12!\n\x19local_maximal_window_size\x18\x13 \x02(\x05\x12\x1c\n\x14local_maximal_margin\x18\x14 \x02(\x02\x12\x32\n$use_relative_price_percentage_to_buy\x18\x15 \x02(\x08:\x04true\x12&\n\x19relative_price_percentage\x18\x16 \x02(\x02:\x03\x30.5\x12!\n\x13use_pre_market_data\x18\x17 \x02(\x08:\x04true\"g\n\x04Type\x12!\n\x1d\x43LASSIFY_FUTURE_HIGHEST_PRICE\x10\x00\x12 \n\x1cREGRESS_FUTURE_HIGHEST_PRICE\x10\x01\x12\x1a\n\x16\x43LASSIFY_BUY_SELL_TIME\x10\x02\"\xaf\x02\n\x0cTradeParamAI\x12+\n\tbuy_param\x18\x01 \x02(\x0b\x32\x18.tutorial.TrainingParams\x12,\n\nsell_param\x18\x02 \x02(\x0b\x32\x18.tutorial.TrainingParams\x12*\n\x1dnum_eligible_list_requirement\x18\x03 \x02(\x05:\x03\x31\x30\x30\x12&\n\x18increase_check_threshold\x18\x04 \x02(\x02:\x04\x30.01\x12(\n\x18\x64\x65\x63rease_check_threshold\x18\x05 \x02(\x02:\x06-0.005\x12&\n\x18\x62uy_stock_prob_threshold\x18\x06 \x02(\x02:\x04\x30.65\x12\x1e\n\x0fsell_within_day\x18\x07 \x02(\x08:\x05\x66\x61lse')
 )
 _sym_db.RegisterFileDescriptor(DESCRIPTOR)
 
@@ -46,8 +46,8 @@ _TRAININGPARAMS_TYPE = _descriptor.EnumDescriptor(
   ],
   containing_type=None,
   options=None,
-  serialized_start=735,
-  serialized_end=838,
+  serialized_start=752,
+  serialized_end=855,
 )
 _sym_db.RegisterEnumDescriptor(_TRAININGPARAMS_TYPE)
 
@@ -137,84 +137,91 @@ _TRAININGPARAMS = _descriptor.Descriptor(
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='type', full_name='tutorial.TrainingParams.type', index=11,
+      name='use_cnn', full_name='tutorial.TrainingParams.use_cnn', index=11,
+      number=24, type=8, cpp_type=7, label=2,
+      has_default_value=False, default_value=False,
+      message_type=None, enum_type=None, containing_type=None,
+      is_extension=False, extension_scope=None,
+      options=None),
+    _descriptor.FieldDescriptor(
+      name='type', full_name='tutorial.TrainingParams.type', index=12,
       number=12, type=14, cpp_type=8, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='load_previous_model', full_name='tutorial.TrainingParams.load_previous_model', index=12,
+      name='load_previous_model', full_name='tutorial.TrainingParams.load_previous_model', index=13,
       number=13, type=8, cpp_type=7, label=2,
       has_default_value=False, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='previous_model', full_name='tutorial.TrainingParams.previous_model', index=13,
+      name='previous_model', full_name='tutorial.TrainingParams.previous_model', index=14,
       number=14, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='model_folder', full_name='tutorial.TrainingParams.model_folder', index=14,
+      name='model_folder', full_name='tutorial.TrainingParams.model_folder', index=15,
       number=15, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='output_model_name_prefix', full_name='tutorial.TrainingParams.output_model_name_prefix', index=15,
+      name='output_model_name_prefix', full_name='tutorial.TrainingParams.output_model_name_prefix', index=16,
       number=16, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='log_file', full_name='tutorial.TrainingParams.log_file', index=16,
+      name='log_file', full_name='tutorial.TrainingParams.log_file', index=17,
       number=17, type=9, cpp_type=9, label=2,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='classify_threshold', full_name='tutorial.TrainingParams.classify_threshold', index=17,
+      name='classify_threshold', full_name='tutorial.TrainingParams.classify_threshold', index=18,
       number=18, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='local_maximal_window_size', full_name='tutorial.TrainingParams.local_maximal_window_size', index=18,
+      name='local_maximal_window_size', full_name='tutorial.TrainingParams.local_maximal_window_size', index=19,
       number=19, type=5, cpp_type=1, label=2,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='local_maximal_margin', full_name='tutorial.TrainingParams.local_maximal_margin', index=19,
+      name='local_maximal_margin', full_name='tutorial.TrainingParams.local_maximal_margin', index=20,
       number=20, type=2, cpp_type=6, label=2,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='use_relative_price_percentage_to_buy', full_name='tutorial.TrainingParams.use_relative_price_percentage_to_buy', index=20,
+      name='use_relative_price_percentage_to_buy', full_name='tutorial.TrainingParams.use_relative_price_percentage_to_buy', index=21,
       number=21, type=8, cpp_type=7, label=2,
       has_default_value=True, default_value=True,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='relative_price_percentage', full_name='tutorial.TrainingParams.relative_price_percentage', index=21,
+      name='relative_price_percentage', full_name='tutorial.TrainingParams.relative_price_percentage', index=22,
       number=22, type=2, cpp_type=6, label=2,
       has_default_value=True, default_value=float(0.5),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       options=None),
     _descriptor.FieldDescriptor(
-      name='use_pre_market_data', full_name='tutorial.TrainingParams.use_pre_market_data', index=22,
+      name='use_pre_market_data', full_name='tutorial.TrainingParams.use_pre_market_data', index=23,
       number=23, type=8, cpp_type=7, label=2,
       has_default_value=True, default_value=True,
       message_type=None, enum_type=None, containing_type=None,
@@ -234,7 +241,7 @@ _TRAININGPARAMS = _descriptor.Descriptor(
   oneofs=[
   ],
   serialized_start=35,
-  serialized_end=838,
+  serialized_end=855,
 )
 
 
@@ -306,8 +313,8 @@ _TRADEPARAMAI = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=841,
-  serialized_end=1144,
+  serialized_start=858,
+  serialized_end=1161,
 )
 
 _TRAININGPARAMS.fields_by_name['type'].enum_type = _TRAININGPARAMS_TYPE

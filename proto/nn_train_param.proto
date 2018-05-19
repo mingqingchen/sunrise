@@ -38,6 +38,9 @@ message TrainingParams {
   // Number of hidden nodes for each layer
   repeated int32 architecture = 11;
   
+  // Use CNN or fully connected network.
+  required bool use_cnn = 24;
+
   required Type type = 12;
 
   required bool load_previous_model = 13;
