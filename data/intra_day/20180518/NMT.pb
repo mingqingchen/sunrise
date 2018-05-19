@@ -1,0 +1,2 @@
+
+NMT¦Üֿ	"‎₪pIA®GIA%₪pIA-®GIA0ֻ"ÿֳץHAֳץHA%ֳץHA-ֳץHA0פ"‚ּֽHAּֽHA%ּֽHA-ּֽHA0ם"ƒּֽHAּֽHA%ּֽHA-ןֹHA0ÿ"½ֲIAֲIA%ֲIA-ֲIA0d"¾ֲIAֲIA%ֲIA-ֲIA0ץ"ח{JAq=JA%q=JA-{JA0״"ל{JA{JA%{JA-{JA0–"Ê{JA{JA%{JA-{JA0ß"‡ֹוIAֹוIA%ֹוIA-ֹוIA0ָ"ד	ֲIAֲIA%ֲIA-ֲIA0d"כ	כIAכIA%כIA-כIA0¬
