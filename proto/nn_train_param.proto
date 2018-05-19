@@ -3,6 +3,7 @@ syntax = "proto2";
 package tutorial;
 
 // parameters used for NN training
+// Next field id: 27
 message TrainingParams {
   enum Type {
     CLASSIFY_FUTURE_HIGHEST_PRICE = 0;
@@ -65,6 +66,10 @@ message TrainingParams {
   required float relative_price_percentage = 22 [default = 0.5];
 
   required bool use_pre_market_data = 23 [default = true];
+
+  // the following two controls the eligibility of current time point
+  required float dense_ratio = 25 [default = 0.8];
+  required float average_cash_flow_per_min = 26 [default = 20000];
 }
 
 message TradeParamAI {

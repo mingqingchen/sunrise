@@ -131,6 +131,9 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.use_relative_price_percentage_to_buy_ = params.use_relative_price_percentage_to_buy
     self.relative_price_percentage_ = params.relative_price_percentage
 
+    self.dense_ratio_ = params.dense_ratio
+    self.average_cash_flow_per_min_ = params.average_cash_flow_per_min
+
     self.use_pre_market_data_ = params.use_pre_market_data
 
   def get_num_time_points(self):
@@ -198,21 +201,37 @@ class FixedNumTimePointsModelManager(ModelManager):
     if current_index < self.num_time_points_ - 1:
       return False
 
-    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE and self.use_relative_price_percentage_to_buy_:
-      max_price, min_price = one_symbol_data.data[0].open, one_symbol_data.data[0].open
-      for i in range(0, current_index):
-        max_price = max(max_price, one_symbol_data.data[i].open)
-        min_price = min(min_price, one_symbol_data.data[i].open)
-      threshold = (max_price - min_price) * self.relative_price_percentage_ + min_price
-      if one_symbol_data.data[current_index].open > threshold:
-        return False
-
     if not self.use_pre_market_data_:
       if one_symbol_data.data[current_index - self.num_time_points_ + 1].time_val < self.open_time_:
         return False
 
     if one_symbol_data.data[current_index].time_val >= self.close_time_:
       return False
+
+    max_price, min_price = one_symbol_data.data[0].open, one_symbol_data.data[0].open
+    cash_flow = 0.0
+    num_timepoint_after_open = 0
+    for i in range(0, current_index):
+      if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE and self.use_relative_price_percentage_to_buy_:
+        max_price = max(max_price, one_symbol_data.data[i].open)
+        min_price = min(min_price, one_symbol_data.data[i].open)
+      if one_symbol_data.data[i].time_val > self.open_time_:
+        cash_flow += one_symbol_data.data[i].open * one_symbol_data.data[i].volume
+        num_timepoint_after_open += 1
+
+    num_min = datetime_util.minute_diff(self.open_time_, one_symbol_data.data[current_index].time_val)
+    if num_min * self.dense_ratio_ > num_timepoint_after_open:
+      return False
+
+    if num_timepoint_after_open * self.average_cash_flow_per_min_ > cash_flow:
+      return False
+
+    if self.type_ == nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE and self.use_relative_price_percentage_to_buy_:
+      threshold = (max_price - min_price) * self.relative_price_percentage_ + min_price
+      if one_symbol_data.data[current_index].open > threshold:
+        return False
+
+
 
     return True
 

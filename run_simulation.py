@@ -72,7 +72,11 @@ def run_ai_trade_strategy():
 
   trade_param = nn_train_param_pb2.TradeParamAI()
   trade_param.buy_param = nn_train_param_pb2.TrainingParams()
-  trade_param.buy_param.architecture.extend([32, 32])
+  trade_param.buy_param.use_cnn = True
+  if trade_param.buy_param.use_cnn:
+    trade_param.buy_param.architecture.extend([8, 16, 8, 16])
+  else:
+    trade_param.buy_param.architecture.extend([32, 32])
   trade_param.buy_param.previous_model = './model/threshold_0.005/model_classification_25.ckpt'
   trade_param.buy_param.num_time_points = 100
   trade_param.buy_param.upper_time_point_limit = 149
@@ -80,14 +84,22 @@ def run_ai_trade_strategy():
   trade_param.buy_param.use_relative_price_percentage_to_buy = False
   trade_param.buy_param.relative_price_percentage = 0.5
   trade_param.buy_param.use_pre_market_data = False
+  trade_param.buy_param.dense_ratio = 0.8
+  trade_param.buy_param.average_cash_flow_per_min = 20000.0
 
   trade_param.sell_param = nn_train_param_pb2.TrainingParams()
-  trade_param.sell_param.architecture.extend([32, 32])
+  trade_param.sell_param.use_cnn = True
+  if trade_param.sell_param.use_cnn:
+    trade_param.sell_param.architecture.extend([8, 16, 8, 16])
+  else:
+    trade_param.sell_param.architecture.extend([32, 32])
   trade_param.sell_param.previous_model = './model/sell_classifier/model_classification_25.ckpt'
   trade_param.sell_param.num_time_points = 100
   trade_param.sell_param.upper_time_point_limit = 10000
   trade_param.sell_param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
   trade_param.sell_param.use_pre_market_data = False
+  trade_param.sell_param.dense_ratio = 0.8
+  trade_param.sell_param.average_cash_flow_per_min = 20000.0
 
   with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())

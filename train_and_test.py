@@ -50,6 +50,9 @@ def main(_):
 
   params.use_pre_market_data = True
 
+  params.dense_ratio = 0.8
+  params.average_cash_flow_per_min = 20000.0
+
   mm = model_manager.FixedNumTimePointsModelManager(params)
   mm.set_training_dates(20180416, 20180420)
   mm.set_test_dates(20180423, 20180430)
