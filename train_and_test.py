@@ -20,12 +20,16 @@ def main(_):
   params.sample_step_training = 1
   params.sample_step_testing = 1
 
-  params.learning_rate = 3e-5
+  params.learning_rate = 1e-3
   params.num_epochs = 250
   params.batch_size = 32
 
-  params.architecture = [[100, 1]]
-  params.architecture.extend([32, 32])
+  params.use_cnn = True
+
+  if params.use_cnn:
+    params.architecture.extend([8, 16, 8, 16])
+  else:
+    params.architecture.extend([32, 32])
   params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
   # params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
   params.classify_threshold = 0.005
@@ -47,8 +51,8 @@ def main(_):
   params.use_pre_market_data = True
 
   mm = model_manager.FixedNumTimePointsModelManager(params)
-  mm.set_training_dates(20180417, 20180425)
-  mm.set_test_dates(20180426, 20180511)
+  mm.set_training_dates(20180416, 20180420)
+  mm.set_test_dates(20180423, 20180430)
   mm.set_training_data_folder(k_data_folder)
   mm.set_training_use_eligible_list(True)
   mm.train_and_test()

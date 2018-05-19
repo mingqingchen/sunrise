@@ -6,14 +6,14 @@ import proto.stock_pb2 as stock_pb2
 
 class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
   """ Trade strategy of buying top ranked symbols recommended by NN. """
-  def __init__(self, sess, buy_model_param, sell_model_param):
+  def __init__(self, sess, trade_param):
     self.num_available_slot_ = 5
 
     buy_variables, sell_variables = [], []
 
-    self.mm_buy_ = model_manager.FixedNumTimePointsModelManager(buy_model_param)
+    self.mm_buy_ = model_manager.FixedNumTimePointsModelManager(trade_param.buy_param)
     self.mm_buy_.init_for_serving()
-    self.mm_sell_ = model_manager.FixedNumTimePointsModelManager(sell_model_param)
+    self.mm_sell_ = model_manager.FixedNumTimePointsModelManager(trade_param.sell_param)
     self.mm_sell_.init_for_serving()
 
     # Please be cautious here, that sell model should have different name scope.
@@ -33,13 +33,13 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
     self.buy_score_dict_ = dict()
     self.sell_price_dict_ = dict()
 
-    self.num_eligible_list_requirement_ = 100
-    self.increase_check_threshold_ = 0.01
-    self.decrease_check_threshold = -0.005
+    self.num_eligible_list_requirement_ = trade_param.num_eligible_list_requirement
+    self.increase_check_threshold_ = trade_param.increase_check_threshold
+    self.decrease_check_threshold = trade_param.decrease_check_threshold
 
-    self.buy_stock_prob_threshold_ = 0.65
+    self.buy_stock_prob_threshold_ = trade_param.buy_stock_prob_threshold
 
-    self.sell_within_day_ = False
+    self.sell_within_day_ = trade_param.sell_within_day
 
   def update_date(self, date_int_val, data_manager):
     """ This provides needed operations when a new day is updated.

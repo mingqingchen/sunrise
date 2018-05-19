@@ -69,23 +69,25 @@ def run_ai_trade_strategy():
   sim.set_end_date(end_date)
   sim.deposit_fund(initial_fund)
 
-  param_buy = nn_train_param_pb2.TrainingParams()
-  param_buy.architecture.extend([32, 32])
-  param_buy.previous_model = './model/threshold_0.005/model_classification_25.ckpt'
-  param_buy.num_time_points = 100
-  param_buy.upper_time_point_limit = 149
-  param_buy.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
-  param_buy.use_relative_price_percentage_to_buy = False
-  param_buy.relative_price_percentage = 0.5
-  param_buy.use_pre_market_data = False
 
-  param_sell = nn_train_param_pb2.TrainingParams()
-  param_sell.architecture.extend([32, 32])
-  param_sell.previous_model = './model/sell_classifier/model_classification_25.ckpt'
-  param_sell.num_time_points = 100
-  param_sell.upper_time_point_limit = 10000
-  param_sell.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
-  param_sell.use_pre_market_data = False
+  trade_param = nn_train_param_pb2.TradeParamAI()
+  trade_param.buy_param = nn_train_param_pb2.TrainingParams()
+  trade_param.buy_param.architecture.extend([32, 32])
+  trade_param.buy_param.previous_model = './model/threshold_0.005/model_classification_25.ckpt'
+  trade_param.buy_param.num_time_points = 100
+  trade_param.buy_param.upper_time_point_limit = 149
+  trade_param.buy_param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
+  trade_param.buy_param.use_relative_price_percentage_to_buy = False
+  trade_param.buy_param.relative_price_percentage = 0.5
+  trade_param.buy_param.use_pre_market_data = False
+
+  trade_param.sell_param = nn_train_param_pb2.TrainingParams()
+  trade_param.sell_param.architecture.extend([32, 32])
+  trade_param.sell_param.previous_model = './model/sell_classifier/model_classification_25.ckpt'
+  trade_param.sell_param.num_time_points = 100
+  trade_param.sell_param.upper_time_point_limit = 10000
+  trade_param.sell_param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
+  trade_param.sell_param.use_pre_market_data = False
 
   with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())

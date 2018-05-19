@@ -8,56 +8,58 @@ import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 import proto.nn_train_param_pb2 as nn_train_param_pb2
 
-def SimpleFn(x, x_additional, architecture = [[100, 1], 32, 32, 1], context = 'buy_'):
+def SimpleFn(x, x_additional, architecture = [100, 1, 32, 32, 1], context = 'buy_'):
   """ A simple fully connected network with regression output
   :param x: input tensor
   :return: h_fc2: output tensor of regression
   """
   with tf.name_scope(context + 'fc1'):
-    W_fc1 = weight_variable([architecture[0][0], architecture[1]])
-    b_fc1 = bias_variable([architecture[1]])
+    W_fc1 = weight_variable([architecture[0], architecture[2]])
+    b_fc1 = bias_variable([architecture[2]])
     h_fc1 = tf.nn.relu(tf.matmul(x, W_fc1) + b_fc1)
 
   with tf.name_scope(context + 'fc2'):
-    W_fc2 = weight_variable([architecture[1] + 1, architecture[2]])    
-    b_fc2 = bias_variable([architecture[2]])
-    h_fc1_concat = tf.concat([h_fc1, x_additional], 0)
+    W_fc2 = weight_variable([architecture[2] + architecture[1], architecture[3]])
+    b_fc2 = bias_variable([architecture[3]])
+    h_fc1_concat = tf.concat([h_fc1, x_additional], 1)
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1_concat, W_fc2) + b_fc2)
 
   with tf.name_scope(context + 'fc3'):
-    W_fc3 = weight_variable([architecture[2], architecture[3]])
-    b_fc3 = bias_variable([architecture[3]])
+    W_fc3 = weight_variable([architecture[3], architecture[4]])
+    b_fc3 = bias_variable([architecture[4]])
     h_fc3 = tf.nn.relu(tf.matmul(h_fc2, W_fc3) + b_fc3)
 
   return tf.squeeze(h_fc3)
 
-def SimpleCnn(x, x_additional, architecture = [[100, 1], 16, 32, 16, 8, 1], context = 'buy_'):
+# default number of parameters:
+# 5 * 1 * 16+ 16 + 5 * 16 * 32 + 32 + 5 * 32 * 16 + 16 + 145 * 8 + 8 + 8 * 2 + 2
+def SimpleCnn(x, x_additional, architecture = [100, 1, 16, 32, 16, 8, 1], context = 'buy_'):
   # padding could be 'SAME' or 'VALID'
-  x_reshape = tf.reshape(x, [-1, architecture[0][0], 1])
-  x_additional_reshape = tf.reshape(x_additional, [-1, architecture[0][1], 1]) 
+  x_reshape = tf.reshape(x, [-1, architecture[0], 1])
+  x_additional_reshape = tf.reshape(x_additional, [-1, architecture[1]])
   conv_size = 5
   with tf.name_scope(context + 'cnn1'):
-    W_conv1 = weight_variable([conv_size, 1, architecture[1]])
-    b_conv1 = bias_variable([architecture[1]])
+    W_conv1 = weight_variable([conv_size, 1, architecture[2]])
+    b_conv1 = bias_variable([architecture[2]])
     h_conv1 = tf.nn.relu(tf.nn.conv1d(x_reshape, W_conv1, stride = 2, padding = 'VALID') + b_conv1)
   with tf.name_scope(context + 'cnn2'):
-    W_conv2 = weight_variable([conv_size, architecture[1], architecture[2]])
-    b_conv2 = bias_variable([architecture[2]])
+    W_conv2 = weight_variable([conv_size, architecture[2], architecture[3]])
+    b_conv2 = bias_variable([architecture[3]])
     h_conv2 = tf.nn.relu(tf.nn.conv1d(h_conv1, W_conv2, stride = 2, padding = 'VALID') + b_conv2)
   with tf.name_scope(context + 'cnn3'):
-    W_conv3 = weight_variable([conv_size, architecture[2], architecture[3]])
-    b_conv3 = bias_variable([architecture[3]])
+    W_conv3 = weight_variable([conv_size, architecture[3], architecture[4]])
+    b_conv3 = bias_variable([architecture[4]])
     h_conv3 = tf.nn.relu(tf.nn.conv1d(h_conv2, W_conv3, stride = 2, padding = 'VALID') + b_conv3)
   with tf.name_scope(context + 'fc1'):
-    fc_input_dim = 36
-    W_fc1 = weight_variable([fc_input_dim + architecture[0][1], architecture[4]])
-    b_fc1 = bias_variable([hidden_dimension])    
+    fc_input_dim = np.prod(h_conv3.get_shape().as_list()[1:])
+    W_fc1 = weight_variable([fc_input_dim + architecture[1], architecture[5]])
+    b_fc1 = bias_variable([architecture[5]])
     h_conv3_flat = tf.reshape(h_conv3, [-1, fc_input_dim])
-    h_conv3_concat = tf.concat([h_conv3_flat, x_additional_reshape], 0)
+    h_conv3_concat = tf.concat([h_conv3_flat, x_additional_reshape], 1)
     h_fc1 = tf.nn.relu(tf.matmul(h_conv3_concat, W_fc1) + b_fc1)
   with tf.name_scope(context + 'fc2'):
-    W_fc2 = weight_variable([hidden_dimension, architecture[5]])
-    b_fc2 = bias_variable(architecture[5])
+    W_fc2 = weight_variable([architecture[5], architecture[6]])
+    b_fc2 = bias_variable([architecture[6]])
     h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
   return tf.squeeze(h_fc2)
@@ -108,7 +110,8 @@ class FixedNumTimePointsModelManager(ModelManager):
     self.num_epochs_ = params.num_epochs
     self.batch_size_ = params.batch_size
 
-    self.architecture_ = [[self.num_time_points_, 1]]
+    self.use_cnn_ = params.use_cnn
+    self.architecture_ = [self.num_time_points_, 1]
     for num_hidden_nodes in params.architecture:
       self.architecture_.append(num_hidden_nodes)
 
@@ -282,8 +285,8 @@ class FixedNumTimePointsModelManager(ModelManager):
     return predict_value[1]
 
   def __create_network(self):
-    x = tf.placeholder(tf.float32, [None, self.architecture_[0][0]])
-    x_additional = tf.placeholder(tf.float32, [None, self.architecture[0][1]])
+    x = tf.placeholder(tf.float32, [None, self.architecture_[0]])
+    x_additional = tf.placeholder(tf.float32, [None, self.architecture_[1]])
 
     # Define loss and optimizer
     if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
@@ -302,7 +305,10 @@ class FixedNumTimePointsModelManager(ModelManager):
     else:
       context = 'sell_'
 
-    y_prediction = SimpleFn(x, x_additional, self.architecture_, context = context)
+    if self.use_cnn_:
+      y_prediction = SimpleCnn(x, x_additional, self.architecture_, context=context)
+    else:
+      y_prediction = SimpleFn(x, x_additional, self.architecture_, context = context)
     
     with tf.name_scope('loss'):
       if self.type_ == nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
@@ -364,8 +370,8 @@ class FixedNumTimePointsModelManager(ModelManager):
                                                                         datetime_util.get_today())
     print (message)
     logging.info(message)
-    train_x, train_y = self.__prepare_training_data()
-    test_x, test_y = self.__prepare_test_data()
+    train_x, train_x_extra, train_y = self.__prepare_training_data()
+    test_x, test_x_extra, test_y = self.__prepare_test_data()
 
     num_samples = len(train_y)
     sample_index = range(num_samples)
@@ -410,27 +416,33 @@ class FixedNumTimePointsModelManager(ModelManager):
       for i in range(self.num_epochs_):
         shuffle(sample_index)
         index = 0
+
         while index < num_samples:
           last_index = min(num_samples, index + self.batch_size_)
           batch_x = train_x[sample_index[index : last_index]]
+          batch_x_extra = train_x_extra[sample_index[index : last_index]]
           batch_y = train_y[sample_index[index : last_index]]          
 
-          train_step.run(feed_dict={x: batch_x, y_label: batch_y})
+          train_step.run(feed_dict={x: batch_x, x_additional: batch_x_extra, y_label: batch_y})
           index += self.batch_size_
+
+        feed_dict_train = {x: train_x, x_additional: train_x_extra, y_label: train_y}
+        feed_dict_test = {x: test_x, x_additional: test_x_extra, y_label: test_y}
+
         if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
-          train_error = accuracy.eval(feed_dict={x: train_x, y_label: train_y})
-          test_error = accuracy.eval(feed_dict={x: test_x, y_label: test_y})
-          true_positive_train = tp.eval(feed_dict={x: train_x, y_label: train_y})
-          false_negative_train = fn.eval(feed_dict={x: train_x, y_label: train_y})
-          false_positive_train = fp.eval(feed_dict={x: train_x, y_label: train_y})
-          true_negative_train = tn.eval(feed_dict={x: train_x, y_label: train_y})
-          true_positive_test = tp.eval(feed_dict={x: test_x, y_label: test_y})
-          false_negative_test = fn.eval(feed_dict={x: test_x, y_label: test_y})
-          false_positive_test = fp.eval(feed_dict={x: test_x, y_label: test_y})
-          true_negative_test = tn.eval(feed_dict={x: test_x, y_label: test_y})
+          train_error = accuracy.eval(feed_dict = feed_dict_train)
+          test_error = accuracy.eval(feed_dict = feed_dict_test)
+          true_positive_train = tp.eval(feed_dict = feed_dict_train)
+          false_negative_train = fn.eval(feed_dict = feed_dict_train)
+          false_positive_train = fp.eval(feed_dict = feed_dict_train)
+          true_negative_train = tn.eval(feed_dict = feed_dict_train)
+          true_positive_test = tp.eval(feed_dict = feed_dict_test)
+          false_negative_test = fn.eval(feed_dict = feed_dict_test)
+          false_positive_test = fp.eval(feed_dict = feed_dict_test)
+          true_negative_test = tn.eval(feed_dict = feed_dict_test)
         else:
-          train_error = loss.eval(feed_dict={x: train_x, y_label: train_y})
-          test_error = loss.eval(feed_dict={x: test_x, y_label: test_y})
+          train_error = loss.eval(feed_dict = feed_dict_train)
+          test_error = loss.eval(feed_dict = feed_dict_test)
         if self.type_ != nn_train_param_pb2.TrainingParams.REGRESS_FUTURE_HIGHEST_PRICE:
           message = 'Epoch {0}, train accuracy: {1}, test accuracy: {2}'.format(i, train_error, test_error)
         else:
