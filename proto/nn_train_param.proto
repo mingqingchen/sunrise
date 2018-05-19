@@ -69,7 +69,7 @@ message TradeParamAI {
   required TrainingParams sell_param = 2;
   required int32 num_eligible_list_requirement = 3 [default = 100];
   required float increase_check_threshold = 4 [default = 0.01];
-  required float decrease_check_threshold = 5 [default = -0,005];
+  required float decrease_check_threshold = 5 [default = -0.005];
   required float buy_stock_prob_threshold = 6 [default = 0.65];
   required bool sell_within_day = 7 [default = false];
 }
