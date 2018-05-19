@@ -25,10 +25,10 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
         sell_variables.append(var)
 
     saver_buy = tf.train.Saver(var_list = buy_variables)
-    saver_buy.restore(sess, buy_model_param.previous_model)
+    saver_buy.restore(sess, trade_param.buy_param.previous_model)
 
     saver_sell = tf.train.Saver(var_list = sell_variables)
-    saver_sell.restore(sess, sell_model_param.previous_model)
+    saver_sell.restore(sess, trade_param.sell_param.previous_model)
 
     self.buy_score_dict_ = dict()
     self.sell_price_dict_ = dict()
