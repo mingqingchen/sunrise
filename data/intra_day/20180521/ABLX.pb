@@ -1,0 +1,3 @@
+
+ABLX©Üֿ	"הfזSBfזSB%fזSB-fזSB0~"’\SB\SB%\SB-\SB0d"°₪pSB)\SB%₪pSB-)\SB0¬"€	לQSBלQSB%לQSB-לQSB0d"…	לQSBלQSB%לQSB-לQSB0d"µ	לQSBבתSB%בתSB-לQSB0"ױ	33SB33SB%ּֽSB-33SB0"ײ	33SB33SB%33SB-33SB0"׳	q=SB33SB%q=SB-33SB0ָ"״	q=SB33SB%q=SB-33SB0"Ù	׳£SB33SB%׳£SB-33SB0פ"Ú	33SB33SB%R¸SB-33SB0¼"Û	33SB33SB%33SB-33SB0"Ü	33SB33SB%33SB-33SB0d"ß	צ(SBצ(SB%צ(SB-צ(SB0d"ה	33SB33SB%33SB-33SB0d"כ	צ(SBצ(SB%צ(SB-צ(SB0“"”
+33SB33SB%33SB-33SB0ָ
