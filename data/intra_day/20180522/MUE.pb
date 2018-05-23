@@ -1,0 +1,4 @@
+
+MUE×Üֿ	"צֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0"‏₪pAA₪pAA%₪pAA-₪pAA0"ֱ–CAA®GAA%®GAA-33AA0װ"ֳ33AA®GAA%®GAA-33AA0ר
+"ב®GAA®GAA%®GAA-®GAA0"ג®GAA¸AA%®GAA-¸AA0ּ!"יd;AAd;AA%d;AA-d;AA0"מ¸AA¸AA%¸AA-¸AA0d"µֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0ָ"¸'1AA'1AA%'1AA-'1AA0׀"ֲֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0d"ֳֳץ@Aֳץ@A%ֳץ@A-Ù@A0ֱ"ֶHב@AHב@A%Hב@A-Hב@A0d"ֻּֽ@Aּֽ@A%6ֽ@A-ּֽ@A0²"ֿvא@Avא@A%vא@A-vא@A0ם"װוע@Aֳץ@A%ֳץ@A-וע@A0ו
+"@AAOAA%¸AA-ֳץ@A0„ "AAAA%AA-AA0ל"­ֳץ@AךAA%ךAA-ֳץ@A0ץ"²û@Aû@A%û@A-û@A0¯"לֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0¬"ע0*AA0*AA%0*AA-0*AA0Ü"ü9EAA®GAA%®GAA-9EAA0ג	"™ֱ9AAֱ9AA%ֱ9AA-ֱ9AA0פ"ּ33AA33AA%33AA-!AA0¬"י¸AA¸AA%¸AA-¸AA0d"ש¸AA¸AA%¸AA-¸AA0d"†	¸AA¸AA%¸AA-¸AA0d"°	®GAA®GAA%®GAA-33AA0ר"ַ	₪pAA₪pAA%₪pAA-₪pAA0"Ê	)\AA)\AA%)\AA-)\AA0d"א	®GAA®GAA%®GAA-®GAA0"ה	®GAA®GAA%®GAA-®GAA0«"ט	¸AA¸AA%¸AA-¸AA0d"י	¸AA¸AA%¸AA-¸AA0d
