@@ -1,0 +1,3 @@
+
+TMCXUซÜฯ	"๖ืฃ Aืฃ A%ืฃ A-ืฃ A0ซ"แz Alx A%แz A-lx A0ฌ"…์Q A์Q A%์Q A-์Q A0"มff Aff A%ff A-์Q A0๘
+"ุff Aff A%ff A-์Q A0ค?"ูff A์Q A%ff A-์Q A0€"์Q Aff A%ff A-์Q A0€"ง2U A์Q A%2U A-์Q A0๔"฿ff Aff A%ff A-ff A0๐"เff Aff A%ff A-ff A0ผ"๔a Aa A%a A-a A0–"ด	ff Aff A%ff A-ff A0d"ป	ff A์Q A%ff A-์Q A0 "ๆ	แz Aแz A%แz A-แz A0จร

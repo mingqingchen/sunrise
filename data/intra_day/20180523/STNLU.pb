@@ -1,0 +1,2 @@
+
+STNLU╚эо	"Жff"Aff"A%ff"A-ff"A0╗"╘вё Aвё A%вё A-вё A0х"÷вё Aвё A%вё A-вё A0х"ЭЛQ AЛQ A%ЛQ A-ЛQ A0d"─	ЛQ AЛQ A%ЛQ A-ЛQ A0d"д	ЛQ AЛQ A%ЛQ A-ЛQ A0d"ь	мл Aмл A%мл A-мл A0d"К	вё AАz A%вё A-Аz A0х
