@@ -115,7 +115,7 @@ class IntraDayCrawler:
   def get_crawl_list_from_three_indices(self):
     symbol_list = []
     for index_name in k_index_list:
-      list_file_path = os.path.join(self.data_folder_, index_name + '.csv')
+      list_file_path = os.path.join(self.today_folder_, index_name + '.csv')
       symbol_data = pd.read_csv(list_file_path)
       for symbol in symbol_data['Symbol']:
         if '^' in symbol or '.' in symbol:
@@ -145,7 +145,7 @@ class IntraDayCrawler:
       print('Downloading symbol list for index: {0}'.format(index_name))
       url = self.index_list_url_template.format(index_name)
       temp_filename, headers = urllib.urlretrieve(url)
-      local_filename = os.path.join(self.data_folder_, index_name + '.csv')
+      local_filename = os.path.join(self.today_folder_, index_name + '.csv')
       if os.path.isfile(local_filename):
         os.remove(local_filename)
       shutil.move(temp_filename, local_filename)
