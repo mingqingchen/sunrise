@@ -5,7 +5,6 @@ import tensorflow as tf
 import sim_environment.simulation as simulation
 import sim_environment.trade_strategy as trade_strategy
 import sim_environment.trade_strategy_ai as trade_strategy_ai
-import util.display_util as display_util
 
 import proto.trade_strategy_param_pb2 as trade_strategy_param_pb2
 import proto.nn_train_param_pb2 as nn_train_param_pb2

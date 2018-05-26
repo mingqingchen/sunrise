@@ -1,0 +1,2 @@
+
+BSD╜эо	"ЖцУHAцУHA%цУHA-цУHA0╥"┼АzHAАzHA%АzHA-АzHA0d"▓млHAвёHA%млHA-вёHA0х"⌠млHAмлHA%млHA-млHA0d"ццУHA╦IA%╦IA-WЛHA0м"о)\IA)\IA%)\IA-)\IA0А"═млHAмлHA%млHA-млHA0╛"║╦IA╦IA%╦IA-╦IA0d"К	вёHAвёHA%вёHA-вёHA0З
