@@ -58,8 +58,8 @@ def analyze_distribution():
 def compare_two_crawl_result():
   """ Compare two crawled folder and print number of timepoints for each stock. """
   folder1 = './data/intra_day/'
-  folder2 = './data_test/intra_day/'
-  interested_date = 20180426
+  folder2 = './data/intra_day_backup/'
+  interested_date = 20180524
 
   dp1 = data_provider.DataProvider(folder1)
   dp2 = data_provider.DataProvider(folder2)
@@ -214,7 +214,7 @@ def run_through_analysis_functions(_):
   # compare_two_crawl_result()
   # run_and_display_classifier_prob()
   # update_eligible_list()
-  load_model()
+  compare_two_crawl_result()
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
