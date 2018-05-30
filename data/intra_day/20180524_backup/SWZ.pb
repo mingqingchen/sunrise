@@ -1,0 +1,3 @@
+
+SWZ╛эо	"з╝GEA╝GEA%╝GEA-╝GEA0╛"ш╝GEA╝GEA%╝GEA-╝GEA0║"э╝GEA╝GEA% ≥EA-╝GEA0Т"Оз╛DAз╛DA%з╛DA-з╛DA0░"╧цУDAцУDA%цУDA-цУDA0В"еOEAEA%OEA-EA0х"ицУDAцУDA%цУDA-цУDA0d"шHАDAмлDA%HАDA-млDA0 "└млDAмлDA%млDA-млDA0О"┘млDAмлDA%млDA-млDA0Ж"┤млDAмлDA%млDA-млDA0С	"°млDAмлDA%млDA-млDA0d"╧вёDAЙ∙DA%вёDA-Й∙DA0с"╫млDAмлDA%млDA-млDA0d"∙_)DA┐/DA%┐/DA-_)DA0х"БмлDAмлDA%млDA-млDA0╛"е	@╓DA@╓DA%@╓DA-@╓DA0╛"г	цУDAOEA%OEA-AЯDA0э"√
+ЛQDAЛQDA%ЛQDA-ЛQDA0┬

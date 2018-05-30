@@ -1,0 +1,2 @@
+
+PLLL╠эо	"┴-XA-XA%-XA--XA0x"╔мл\Aмл\A%мл\A-мл\A0╪"║ ≥YA ≥YA% ≥YA- ≥YA0d"ёмлXAмлXA%млXA-млXA0╪"Ж⌡ФYA⌡ФYA%⌡ФYA-⌡ФYA0Т"ВмлXAмлXA%млXA-млXA0Т"д	АzXAАzXA%АzXA-АzXA0╪"ш	ЛQXAЛQXA%ЛQXA-ЛQXA0Г
