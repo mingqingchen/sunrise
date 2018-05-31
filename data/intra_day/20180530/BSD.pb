@@ -1,0 +1,3 @@
+
+BSDฒÜฯ	"๖ยIAยIA%ยIA-ยIA0"ฝ๖(JA๖(JA%๖(JA-…๋IA0ผ"ยq=JAq=JA%q=JA-q=JA0d"อ…๋IA…๋IA%…๋IA-…๋IA0d"ุ…๋IA…๋IA%…๋IA-…๋IA0d"ฏ{JA{JA%{JA-{JA0d"ผq=JAq=JA%q=JA-q=JA0d"สHแIAHแIA%HแIA-HแIA0ฌ"jÞIA…๋IA%…๋IA-jÞIA0๘
+"ยIAยIA%ยIA-ยIA0d"…๋IA…๋IA%…๋IA-…๋IA0d"ฃ…๋IAIA%๎๋IA-IA0"คยIAยIA%ยIA-ยIA0ศ"ฏIAIA%IA-IA0้"๏ฟ}IAฟ}IA%ฟ}IA-ฟ}IA0–"๒IAIA%IA-IA0d"๖คpIAคpIA%คpIA-คpIA0น"ฎGIAฎGIA%ฎGIA-ฎGIA0ศ"…ฎGIAฎGIA%ฎGIA-ฎGIA0"ฎGIAฎGIA%ฎGIA-ฎGIA0ฌ"ฎGIAฎGIA%ฎGIA-ฎGIA0d"ฎGIAฎGIA%ฎGIA-ฎGIA0๗"เ•eIA"lIA%"lIA-•eIA0"แคpIAคpIA%คpIA-คpIA0ฌ"๖IAIA%IA-IA0ศ"ู	มสIAมสIA%มสIA-มสIA0โ	"๊	…๋IA…๋IA%…๋IA-…๋IA0d

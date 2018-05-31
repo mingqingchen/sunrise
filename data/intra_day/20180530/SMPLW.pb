@@ -1,0 +1,2 @@
+
+SMPLW²ÜÏ	"ê…k@…k@%…k@-…k@0d"ì…k@…k@%…k@-…k@0d"íHáj@Háj@%Háj@-Háj@0d"ïHáj@Háj@%Háj@-Háj@0d"ðHáj@Háj@%Háj@-Háj@0d"ñHáj@Háj@%Háj@-Háj@0d"óHáj@Háj@%Háj@-Háj@0d"ôHáj@Háj@%Háj@-Háj@0d"öHáj@Háj@%Háj@-Háj@0d"÷Háj@Háj@%Háj@-Háj@0d"ùHáj@Háj@%Háj@-Háj@0d"úHáj@Háj@%Háj@-Háj@0d"ûHáj@Háj@%Háj@-Háj@0d"ýHáj@Háj@%Háj@-Háj@0d"þHáj@Háj@%Háj@-Háj@0d"ÿHáj@Háj@%Háj@-Háj@0"€	š™i@š™i@%š™i@-š™i@0d"	š™i@š™i@%š™i@-š™i@0d"‚	š™i@š™i@%š™i@-š™i@0d"¿	Hh@Hh@%Hh@-Hh@0ô"É	š™i@š™i@%š™i@-š™i@0¾"Í	š™i@š™i@%š™i@-š™i@0Ú"å	®g@®g@%®g@-®g@0È"ë	ìQh@ìQh@%ìQh@-ìQh@0È
