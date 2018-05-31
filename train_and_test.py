@@ -27,7 +27,7 @@ def main(_):
   params.use_cnn = True
 
   if params.use_cnn:
-    params.architecture.extend([8, 16, 8, 16])
+    params.architecture.extend([4, 8, 4, 8])
   else:
     params.architecture.extend([32, 32])
   params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE

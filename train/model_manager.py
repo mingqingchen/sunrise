@@ -32,7 +32,6 @@ def SimpleFn(x, x_additional, architecture = [100, 1, 32, 32, 1], context = 'buy
   return tf.squeeze(h_fc3)
 
 # default number of parameters:
-# 5 * 1 * 16+ 16 + 5 * 16 * 32 + 32 + 5 * 32 * 16 + 16 + 145 * 8 + 8 + 8 * 2 + 2
 def SimpleCnn(x, x_additional, architecture = [100, 1, 16, 32, 16, 8, 1], context = 'buy_'):
   # padding could be 'SAME' or 'VALID'
   x_reshape = tf.reshape(x, [-1, architecture[0], 1])
@@ -41,22 +40,25 @@ def SimpleCnn(x, x_additional, architecture = [100, 1, 16, 32, 16, 8, 1], contex
   with tf.name_scope(context + 'cnn1'):
     W_conv1 = weight_variable([conv_size, 1, architecture[2]])
     b_conv1 = bias_variable([architecture[2]])
-    h_conv1 = tf.nn.relu(tf.nn.conv1d(x_reshape, W_conv1, stride = 2, padding = 'VALID') + b_conv1)
+    h_conv1 = tf.nn.relu(tf.nn.conv1d(x_reshape, W_conv1, stride = 1, padding = 'VALID') + b_conv1)
+    h_pool1 = tf.layers.max_pooling1d(h_conv1, pool_size = 2, strides = 2)
   with tf.name_scope(context + 'cnn2'):
     W_conv2 = weight_variable([conv_size, architecture[2], architecture[3]])
     b_conv2 = bias_variable([architecture[3]])
-    h_conv2 = tf.nn.relu(tf.nn.conv1d(h_conv1, W_conv2, stride = 2, padding = 'VALID') + b_conv2)
+    h_conv2 = tf.nn.relu(tf.nn.conv1d(h_pool1, W_conv2, stride = 1, padding = 'VALID') + b_conv2)
+    h_pool2 = tf.layers.max_pooling1d(h_conv2, pool_size = 2, strides = 2)
   with tf.name_scope(context + 'cnn3'):
     W_conv3 = weight_variable([conv_size, architecture[3], architecture[4]])
     b_conv3 = bias_variable([architecture[4]])
-    h_conv3 = tf.nn.relu(tf.nn.conv1d(h_conv2, W_conv3, stride = 2, padding = 'VALID') + b_conv3)
+    h_conv3 = tf.nn.relu(tf.nn.conv1d(h_pool2, W_conv3, stride = 1, padding = 'VALID') + b_conv3)
+    h_pool3 = tf.layers.max_pooling1d(h_conv3, pool_size = 2, strides = 2)
   with tf.name_scope(context + 'fc1'):
-    fc_input_dim = np.prod(h_conv3.get_shape().as_list()[1:])
+    fc_input_dim = np.prod(h_pool3.get_shape().as_list()[1:])
     W_fc1 = weight_variable([fc_input_dim + architecture[1], architecture[5]])
     b_fc1 = bias_variable([architecture[5]])
-    h_conv3_flat = tf.reshape(h_conv3, [-1, fc_input_dim])
-    h_conv3_concat = tf.concat([h_conv3_flat, x_additional_reshape], 1)
-    h_fc1 = tf.nn.relu(tf.matmul(h_conv3_concat, W_fc1) + b_fc1)
+    h_pool3_flat = tf.reshape(h_pool3, [-1, fc_input_dim])
+    h_pool3_concat = tf.concat([h_pool3_flat, x_additional_reshape], 1)
+    h_fc1 = tf.nn.relu(tf.matmul(h_pool3_concat, W_fc1) + b_fc1)
   with tf.name_scope(context + 'fc2'):
     W_fc2 = weight_variable([architecture[5], architecture[6]])
     b_fc2 = bias_variable([architecture[6]])
@@ -480,4 +482,5 @@ class FixedNumTimePointsModelManager(ModelManager):
           logging.info(message)
 
         saver.save(sess, model_path) # to restore, run saver.restore(sess, model_path)
+        print('model saved to: {0}'.format(model_path))
 
