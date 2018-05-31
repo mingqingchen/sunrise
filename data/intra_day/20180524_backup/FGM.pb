@@ -1,2 +1,0 @@
-
-FGM╛эо	"ЖffJBffJB%ffJB-ffJB0░"╧╝GJB╝GJB%╝GJB-╝GJB0╛"╬\▐JB{■JB%╫ёJB-аJJB0ф"© ≥JBR╦JB%R╦JB- ≥JB0√$"И╝JB░qJB%╝JB-░qJB0╙"НxJBxJB%xJB-xJB0б"РьAJB│∙JB%│∙JB-ьAJB0Ж"┌мLJBмLJB%мLJB-мLJB0d"≤╓pJB╓pJB%╓pJB-╓pJB0j"лffJBffJB%ffJB-ffJB0Т"ЙвёJB╝JB%╝JB-вёJB0х"Щ ≥JB ≥JB% ≥JB- ≥JB0d"╥	╓ПJB╓ПJB%╓ПJB-╓ПJB0d"╪	цУJBцУJB%цУJB-цУJB0d"х	млJBмлJB%млJB-млJB0d"в	млJBмлJB%млJB-млJB0d"ш	,KB,KB%,KB-,KB0d"А	млJBмлJB%млJB-млJB0d"Г	млJBмлJB%млJB-млJB0d"К	╦KB╦KB%╦KB-╦KB0П

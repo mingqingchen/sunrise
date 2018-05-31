@@ -1,2 +1,0 @@
-
-TANNL¬ÜÏ	"ýff¸A\¸A%\¸A-ff¸A0ô"‡\¸A\¸A%\¸A-\¸A0ª"ˆ\¸A\¸A%×£¸A-\¸A0ô"‰\¸A\¸A%\¸A-\¸A0d"‹\¸A×£¸A%×£¸A-\¸A0È"Ãÿ²¸Aÿ²¸A%ÿ²¸A-ÿ²¸A0ƒ"›Ãõ¸AHá¸A%Ãõ¸A-Há¸A0¬"ºªq¹Aªq¹A%ªq¹A-ªq¹A0—"…R¸¸AR¸¸A%R¸¸A-R¸¸A0d"‡R¸¸AR¸¸A%R¸¸A-R¸¸A0d"é33¹A33¹A%33¹A-33¹A0¼"ò×·A×·A%×·A-×·A0°	"úÂ¸A°r·A%Â¸A-°r·A0°	"¹	q=¹Aq=¸A%âX¹A-q=¸A0è"º	áz¸AÏf¹A%Ïf¹A-áz¸A0"ä	q=ºAq=ºA%q=ºA-q=ºA0d"ë	ö(¸A{¸A%ö(¸A-{¸A0È
