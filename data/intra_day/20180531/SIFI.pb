@@ -1,0 +1,3 @@
+
+SIFIЁэо	"ммлpAмлpA%млpA-млpA0н"нмлpAмлpA%млpA-млpA0Й"з ≥qA ≥qA% ≥qA- ≥qA0d"Ц ≥qA ≥qA% ≥qA- ≥qA0d"Х ≥qA ≥qA% ≥qA- ≥qA0╓"╠ ≥qA ≥qA% ≥qA- ≥qA0d"П ≥qA ≥qA% ≥qA- ≥qA0d"▀ ≥qA ≥qA% ≥qA- ≥qA0d"≈ ≥qA ≥qA% ≥qA- ≥qA0░"БffrAffrA%ffrA-ffrA0d"г	млpAмлpA%млpA-млpA0d"к	ffrAffrA%ffrA-ffrA0Х"п	ffrAffrA%ffrA-ffrA0d"я	ffrAffrA%ffrA-ffrA0╛"т	ffrAffrA%ffrA-ffrA0k"А	ffrAffrA%ffrA-ffrA0d"Е	ffrAffrA%ffrA-ffrA0d"К	 ≥qA ≥qA%ffrA- ≥qA0╘"■
+млpAмлpA%млpA-млpA0╓
