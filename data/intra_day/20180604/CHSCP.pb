@@ -1,0 +1,2 @@
+
+CHSCPь№ѕ	"П\ПоAffоA%\ПоA-ffоA0»"№ЌћоAЌћоA%ЌћоA-ЌћоA0ƒ"ё^оA^оA%^оA-^оA0Р"к££оA££оA%££оA-££оA0ƒ"Ўц(оAj<оA%j<оA-ц(оA0ё"ДмQоAмQоA%мQоA-мQоA0с"ХffоAffоA%ffоA-ffоA0d"£ffоAffоA%ffоA-ffоA0Р"ћмQоA≈ оA%мQоA-≈ оA0№"„ffжAffжA%ffжA-ffжA0ф" 	ffоAffоA%ffоA-ffоA0†"Џ	ffоAffоA%ffоA-ffоA0d

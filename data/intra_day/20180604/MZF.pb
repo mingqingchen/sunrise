@@ -1,0 +1,3 @@
+
+MZFЭэо	"ЖЖ(dAЖ(dA%Ж(dA-Ж(dA0╨"█млdAАzdA%млdA-АzdA0░"░вёdAвёdA%вёdA-вёdA0d"▓АzdAАzdA%АzdA-АzdA0d"ЕАzdAмлdA%млdA-АzdA0╢"ФмлdAмлdA%млdA-вёdA0л"ГмлdAмлdA%млdA-млdA0Э"ЙмлdAмлdA%млdA-млdA0Х"╒млdAмлdA%млdA-млdA0Х"╗млdAмлdA%млdA-млdA0Ь
+"╡вёdAвёdA%вёdA-вёdA0л"©╡²dAвёdA%вёdA- ≥dA0Т"авёdAвёdA%вёdA-вёdA0d"ДцУdAмлdA%цУdA-млdA0╓"╡	млdA╦eA%╦eA-млdA0╨"╫	цУdA╦eA%╦eA-цУdA0л"╬	млdAмлdA%млdA-млdA0╪"©	цУdAцУdA%╦eA-цУdA0╬"ю	╦eAцУdA%╦eA-цУdA0≈"ц	╦eAЛQdA%╦eA-ЛQdA0≥)"й	млdAмлdA%млdA-млdA0d"я	млdAмлdA%млdA-млdA0d"ж	цУdAцУdA%цУdA-цУdA0d"ы	цУdAцУdA%цУdA-цУdA0х"Й	цУdAцУdA%цУdA-цУdA0~
