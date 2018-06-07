@@ -17,9 +17,9 @@ k_data_folder = './data/intra_day/'
 def run_buy_drop_stock_trade_strategy():
   dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
   
-  start_date = 20180417
-  end_date = 20180502
-  initial_fund = 200000
+  start_date = 20180504
+  end_date = 20180531
+  initial_fund = 100000
 
   sim_name = 'BuyDropStockTradeStrategy'
   sim = simulation.Simulation(sim_name)
@@ -40,22 +40,23 @@ def run_buy_drop_stock_trade_strategy():
   # Here you can replace with other trade strategies, e.g.
   # strategy = trade_strategy.BuyAndHoldOneStockTradeStrategy('AMZN')
   # strategy = trade_strategy.BuyAndSellOneStockEODTradeStrategy('AMZN')
+  strategy = trade_strategy.BuyAndHoldOneStockTradeStrategy('AMZN')
   
-  strategy = trade_strategy.BuyDropStockTradeStrategy(params)
+  #strategy = trade_strategy.BuyDropStockTradeStrategy(params)
   
   sim.set_trade_strategy(strategy)
   sim.set_data_manager(dp)
   
   sim.run()
   transactions, datetime_list, balance = sim.get_simulation_run_result()
-  report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance)
+  report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance, skip_details=False)
   report.export('./report')
 
 def run_ai_trade_strategy():
   dp = data_provider.DataProvider(FLAGS.data_dir, FLAGS.use_eligible_list)
 
-  start_date = 20180504
-  end_date = 20180518
+  start_date = 20180507
+  end_date = 20180531
   initial_fund = 100000
 
   sim_name = 'BuyDropStockTradeStrategy'
@@ -68,10 +69,10 @@ def run_ai_trade_strategy():
   trade_param = nn_train_param_pb2.TradeParamAI()
   trade_param.buy_param.use_cnn = True
   if trade_param.buy_param.use_cnn:
-    trade_param.buy_param.architecture.extend([8, 16, 8, 16])
+    trade_param.buy_param.architecture.extend([4, 8, 4, 8])
   else:
     trade_param.buy_param.architecture.extend([32, 32])
-  trade_param.buy_param.previous_model = './model/buy_classifier/model_classification_0.ckpt'
+  trade_param.buy_param.previous_model = './model/buy_classifier/model_classification_12.ckpt'
   trade_param.buy_param.num_time_points = 100
   trade_param.buy_param.upper_time_point_limit = 149
   trade_param.buy_param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
@@ -80,13 +81,15 @@ def run_ai_trade_strategy():
   trade_param.buy_param.use_pre_market_data = False
   trade_param.buy_param.dense_ratio = 0.8
   trade_param.buy_param.average_cash_flow_per_min = 20000.0
+  trade_param.buy_param.use_relative_price_percentage_to_buy = True
+  trade_param.buy_param.relative_price_percentage = 0.5
 
   trade_param.sell_param.use_cnn = True
   if trade_param.sell_param.use_cnn:
-    trade_param.sell_param.architecture.extend([8, 16, 8, 16])
+    trade_param.sell_param.architecture.extend([4, 8, 4, 8])
   else:
     trade_param.sell_param.architecture.extend([32, 32])
-  trade_param.sell_param.previous_model = './model/sell_classifier/model_classification_1.ckpt'
+  trade_param.sell_param.previous_model = './model/sell_classifier/model_classification_13.ckpt'
   trade_param.sell_param.num_time_points = 100
   trade_param.sell_param.upper_time_point_limit = 10000
   trade_param.sell_param.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
@@ -103,11 +106,12 @@ def run_ai_trade_strategy():
 
     sim.run()
     transactions, datetime_list, balance = sim.get_simulation_run_result()
-    report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance)
+    report = html_report.SimulationHtmlReport(sim_name, transactions, datetime_list, balance, skip_details=False)
     report.export('./report')
 
 
 def main(_):
+  #run_buy_drop_stock_trade_strategy()
   run_ai_trade_strategy()
   
 if __name__=="__main__":

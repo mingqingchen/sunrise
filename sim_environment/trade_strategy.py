@@ -18,11 +18,12 @@ class BuyAndHoldOneStockTradeStrategy(TradeStrategy):
   def __init__(self, name):
     self.symbol_ = name
 
-  def update_date(self, date_int_val, data_manager):
+  def update_date(self, date_int_val, data_manager, is_sim_last_day):
     """ This provides needed operations when a new day is updated.
         For buy and hold one stock strategy, we just need to deserialize one stock
     """
     self.date_int_val_ = date_int_val
+    self.is_sim_last_day_ = is_sim_last_day
     data_manager.load_one_symbol(date_int_val, self.symbol_)
     return
   
@@ -109,11 +110,12 @@ class BuyDropStockTradeStrategy(TradeStrategy):
     # mapping from symbol to how many times have bought
     self.buy_time_dict_ = dict()
 
-  def update_date(self, date_int_val, data_manager):
+  def update_date(self, date_int_val, data_manager, is_sim_last_day):
     """ This provides needed operations when a new day is updated.
         For BuyDropStockTradeStrategy, we need to deserialize all stocks
     """
     self.date_int_val_ = date_int_val
+    self.is_sim_last_day_ = is_sim_last_day
     print('Loading all data for day {0}'.format(date_int_val))
     data_manager.load_one_day_data(date_int_val)
     self.meet_drop_dict_.clear()

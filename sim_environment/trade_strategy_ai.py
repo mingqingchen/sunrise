@@ -41,11 +41,12 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
 
     self.sell_within_day_ = trade_param.sell_within_day
 
-  def update_date(self, date_int_val, data_manager):
+  def update_date(self, date_int_val, data_manager, is_sim_last_day):
     """ This provides needed operations when a new day is updated.
         For BuyBestAIRankedTradeStrategy, we need to deserialize all stocks
     """
     self.date_int_val_ = date_int_val
+    self.is_sim_last_day_ = is_sim_last_day
     print('Loading all data for day {0}'.format(date_int_val))
     data_manager.load_one_day_data(date_int_val)
     self.buy_score_dict_.clear()
@@ -87,7 +88,7 @@ class BuyBestAIRankedTradeStrategy(trade_strategy.TradeStrategy):
       one_symbol_data = data_manager.get_one_symbol_data(symbol)
       one_symbol_minute_data = one_symbol_data.data[index]
 
-      if self.sell_within_day_:
+      if self.sell_within_day_ or self.is_sim_last_day_:
         if cur_time > k_sell_all_time:
           result, transaction = self.__sell_one_symbol_completely(symbol, cur_time, one_symbol_minute_data.open, portfolio)
           if result:
