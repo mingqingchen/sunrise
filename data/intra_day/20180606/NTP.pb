@@ -1,0 +1,3 @@
+
+NTPЧэо	"Ж33CA33CA%33CA-33CA0⌡"ймлBAмлBA%млBA-млBA0х"зffBAffBA%ffBA-ffBA0╟	"иffBAffBA%ffBA-ffBA0х"пDЗAADЗAA%DЗAA-DЗAA0┬'"·ffBAffBA%ffBA-ffBA0х"ЖffBAffBA%ffBA-ffBA0d"÷ffBAffBA%ffBA-ffBA0d"с33CA33CA%33CA-33CA0х"шffBAffBA%ffBA-ffBA0d"©	33CAffBA%33CA-ffBA0Л"е	33CA33CA%33CA-33CA0ь"и	33CA33CA%33CA-33CA0d"к	33CA33CA%33CA-33CA0d"л	млBAмлBA%млBA-млBA0d"м	33CA33CA%33CA-33CA0d"ш	ffBAffBA%ffBA-ffBA0М"А	млBAмлBA%млBA-млBA0d"Г	33CAмлBA%33CA-млBA0э"Й	млBA33CA%33CA-млBA0Т"К	33CAffBA%33CA-ffBA0З"√
+33CA33CA%33CA-33CA0╝
