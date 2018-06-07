@@ -21,7 +21,7 @@ class SimulationHtmlReport:
     ax.plot(self.datetime_list_, self.balances_)
     min_date = np.min(self.datetime_list_)
     max_date = np.max(self.datetime_list_)
-    step = int((max_date - min_date) / 10)
+    step = max(1, int((max_date - min_date) / 10))
     ax.set_xticks(np.arange(np.min(self.datetime_list_), np.max(self.datetime_list_), step))
     ax.grid()
     plt.savefig(imgpath)
