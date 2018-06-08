@@ -1,0 +1,3 @@
+
+EEIЪэо	"┴ё#[A33[A%33[A-ё#[A0щ"▐ffZAffZA%ffZA-ffZA0d"аffZAffZA%ffZA-ffZA0Я"П ≥YA ≥YA% ≥YA- ≥YA0х"ё╝YA╝YA%╝YA-╝YA0х"┐ffZAffZA%ffZA-ffZA0└"÷ffZAffZA%ffZA-ffZA0d"ЮffZAffZA%ffZA-ffZA0d"ЫffZAffZA%ffZA-ffZA0░"д	ffZAffZA%ffZA-ffZA0d"с	ffZAffZA%ffZA-ffZA0d"ы	ffZAffZA%ffZA-ffZA0d"щ	ffZAffZA%ffZA-ffZA0d"Б	млZAмлZA%млZA-млZA0╖"Г	ffZAffZA%ffZA-ffZA0d"К	ffZAffZA%ffZA-ffZA0╛"■
+ffZAffZA%ffZA-ffZA0р

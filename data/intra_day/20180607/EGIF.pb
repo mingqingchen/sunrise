@@ -1,0 +1,2 @@
+
+EGIFÿÜÏ	"öR¸vAR¸vA%R¸vA-R¸vA0d"Ý\vA\vA%\vA-\vA0È"ìffvAffvA%ffvA-ffvA0È"èävA{vA%ävA-{vA0¬"ê{vA{vA%ävA-{vA0"ñ{vA{vA%{vA-{vA0Ø"ø{vA{vA%{vA-{vA0ì"Å	q=vAq=vA%q=vA-q=vA0™"Ð	a2vAffvA%ffvA-{vA0úL"Ó	‰AvAq=vA%¥NvA-q=vA0°†"Ô	Ù=vAö(vA%Ù=vA-ö(vA0é"ë	q=vAq=vA%q=vA-q=vA0d
