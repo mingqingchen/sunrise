@@ -12,15 +12,15 @@ k_data_folder = './data/intra_day/'
 def main(_):
   params = nn_train_param_pb2.TrainingParams()
   params.num_time_points = 100
-  params.upper_time_point_limit = 149
+  params.upper_time_point_limit = 14900
   params.open_time = 630
   params.close_time = 1255
   params.total_minutes_normalizer = 390
 
-  params.sample_step_training = 1
-  params.sample_step_testing = 1
+  params.sample_step_training = 2
+  params.sample_step_testing = 2
 
-  params.learning_rate = 1e-3
+  params.learning_rate = 2e-4
   params.num_epochs = 250
   params.batch_size = 32
 
@@ -30,12 +30,12 @@ def main(_):
     params.architecture.extend([4, 8, 4, 8])
   else:
     params.architecture.extend([32, 32])
-  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
-  # params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
+  #params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_FUTURE_HIGHEST_PRICE
+  params.type = nn_train_param_pb2.TrainingParams.CLASSIFY_BUY_SELL_TIME
   params.classify_threshold = 0.005
 
-  params.load_previous_model = False
-  params.previous_model = 'model_classification_0'
+  params.load_previous_model = True
+  params.previous_model = 'model_classification_20'
 
   params.model_folder = './model/'
   params.output_model_name_prefix = 'model'
@@ -54,8 +54,8 @@ def main(_):
   params.average_cash_flow_per_min = 20000.0
 
   mm = model_manager.FixedNumTimePointsModelManager(params)
-  mm.set_training_dates(20180416, 20180420)
-  mm.set_test_dates(20180423, 20180430)
+  mm.set_training_dates(20180514, 20180525)
+  mm.set_test_dates(20180529, 20180606)
   mm.set_training_data_folder(k_data_folder)
   mm.set_training_use_eligible_list(True)
   mm.train_and_test()
