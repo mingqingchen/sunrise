@@ -1,0 +1,2 @@
+
+GAINNÄ›œ	"âR∏ AR∏ A%R∏ A-R∏ A0Ù"Ó·z A·z A%·z A-·z A0d"ò·z A·z A%·z A-·z A0Ù"ôff Aff A%ff A-ff A0ÿ"‹ff Aff A%ff A-ﬂ` A0†"”	ff Aq= A%ff A-q= A0†"÷	q= Aˆ( A%q= A-ˆ( A0ê"Â	◊£ AOû A%◊£ A-Oû A0»

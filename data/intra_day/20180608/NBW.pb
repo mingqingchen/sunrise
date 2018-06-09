@@ -1,0 +1,46 @@
+
+NBWÄ›œ	"ˆ33KA33KA%33KA-33KA0â"á33KA33KA%33KA-33KA0»"ä\èJA\èJA%\èJA-\èJA0d"ìH·JAH·JA%H·JA-H·JA0d"À=
+KA=
+KA%=
+KA-=
+KA0Í"Ã=
+KA=
+KA%=
+KA-=
+KA0d"ÕR∏JAR∏JA%R∏JA-R∏JA0d"Œ=
+KA=
+KA%=
+KA-=
+KA0d"œ=
+KA=
+KA%=
+KA-=
+KA0d"–=
+KA=
+KA%=
+KA-=
+KA0d"—H·JA=
+KA%=
+KA-H·JA0»"”=
+KA=
+KA%=
+KA-=
+KA0d"‘=
+KA=
+KA%=
+KA-=
+KA0d"’H·JA=
+KA%=
+KA-H·JA0¨"ŸH·JAH·JA%H·JA-H·JA0d"€H·JAH·JA%H·JA-H·JA0d"›H·JAH·JA%H·JA-H·JA0d"∂H·JAH·JA%H·JA-H·JA0d"êH·JA=
+KA%=
+KA-H·JA0«"ë=
+KA=
+KA%=
+KA-=
+KA0d"÷ﬂ‡JAH·JA%H·JA-ﬂ‡JA0÷"º	±øJAHIA%H·JA-ÆGIA0¬N"æ	q=JAÏQJA%ffJA-q=JA0î
+"«	H·JAH·JA%H·JA-H·JA0–"»	H·JAH·JA%H·JA-H·JA0–"’	z•JAz•JA%z•JA-z•JA0›"◊	◊£JA◊£JA%◊£JA-◊£JA0¨"⁄	H·JA◊£JA%H·JA-◊£JA0ÿ"‹	◊£JA◊£JA%◊£JA-◊£JA0»"Â	R∏JAR∏JA%R∏JA-R∏JA0ê"Ë	R∏JAR∏JA%R∏JA-R∏JA0d"Í	R∏JAH·JA%H·JA-R∏JA0ê"Î	=
+KA=
+KA%=
+KA-=
+KA0¨"î
+q=JAq=JA%q=JA-q=JA0ú	

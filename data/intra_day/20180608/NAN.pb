@@ -1,0 +1,3 @@
+
+NAN€ÝÏ	"ö¤pIA¤pIA%¤pIA-¤pIA0ó"ŽBÏIABÏIA%BÏIA-BÏIA0‡"ÂIAò°IA%ÂIA-š™IA0Æ"½…ëIA{JA%{JA-…ëIA0“	"Å…ëIA…ëIA%…ëIA-…ëIA0 "ËÂIAÂIA%ÂIA-ÂIA0¬"Ìš™IAš™IA%š™IA-š™IA0˜"Ïš™IAš™IA%š™IA-š™IA0œ"Öš™IAš™IA%š™IA-š™IA0"Ûš™IAš™IA%š™IA-š™IA0d"îÂIAš™IA%JA-š™IA0ÜI"“ÂIAÂIA%ÂIA-ÂIA0d" 'ÂIA'ÂIA%'ÂIA-'ÂIA0ô"®š™IAš™IA%š™IA-š™IA0d"ñš™IAš™IA%š™IA-š™IA0d"‹'ÂIA'ÂIA%'ÂIA-'ÂIA0ø"Œ'ÂIAÂIA%ÂIA-'ÂIA0ì"‘ÂIAÂIA%ÂIA-ÂIA0Ø"ÛÂIAÂIA%ÂIA-ÂIA0d"ûÂIAÂIA%ÂIA-ÂIA0d"¸	mÅIAmÅIA%mÅIA-mÅIA0"Á	mÅIAmÅIA%mÅIA-mÅIA0­"Â	ÂIAÂIA%ÂIA-ÂIA0d"È	…ëIA…ëIA%…ëIA-…ëIA0Ø"Ñ	mÅIAÂIA%mÅIA-ÂIA0Ì"ß	ÂIAÂIA%ÂIA-ÂIA0È"ê	…ëIA…ëIA%…ëIA-…ëIA0d"ë	ÂIAÂIA%ÂIA-ÂIA0ˆ"™
+…ëIA…ëIA%…ëIA-…ëIA0â
