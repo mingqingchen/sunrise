@@ -1,0 +1,2 @@
+
+ESTR┐що	"Жq=Aq=A%q=A-q=A0d"ццУ AцУ A%цУ A-цУ A0d"ывё Aвё A%вё A-вё A0d"└┘A┘A%┘A-┘A0d"╢	вё Aвё A%вё A-вё A0х"т	млAмлA%млA-млA0d"щ	ffAffA%ffA-ffA0d"Е	ЛQAЛQA%ЛQA-ЛQA0d"К	АzAЛQA%АzA-ЛQA0╛
