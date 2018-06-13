@@ -1,0 +1,2 @@
+
+KST└що	"ЖвёDAвёDA%вёDA-вёDA0╞"ВёDAАzDA%z╔DA-АzDA0░"©млDAмлDA%млDA-млDA0х"═вёDA╛╜DA%╛╜DA-вёDA0Х"╙млDAмлDA%млDA-млDA0d"╧млDAмлDA%млDA-млDA0Х"╥млDA╝GEA%╝GEA-млDA0√"ШмлDAцУDA%цУDA-вёDA0Х 
