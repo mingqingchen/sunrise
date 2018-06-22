@@ -1,0 +1,3 @@
+
+PMBC█що	"ЖffAмлA%млA- ≥A0═"└млAмлA%млA-млA0d"┬╘A╘A%╘A-╘A0d"омлAмлA%млA-млA0╪"пмлAмлA%млA-млA0Ю"РffAffA%ffA-ffA0d"С ≥A ≥A% ≥A- ≥A0░"ЖffAffA%ffA-ffA0d"нffAffA%ffA-ffA0х"▌ ≥A ≥A% ≥A- ≥A0d"СffAffA%ffA-ffA0d"ЪffAffA%ffA-ffA0х"─	ffAffA%ffA-ffA0х"ц	 ≥A ≥A% ≥A- ≥A0═"д	 ≥A ≥A% ≥A- ≥A0х"с	ffAffA%ffA-ffA0d"ж	33AffA%33A-ffA0Ч"э	ffAffA%ffA-ffA0╛"щ	ffAffA%ffA-ffA0р"К	33A33A%33A-ffA0╛"■
+ffAffA%ffA-ffA0э
