@@ -1,0 +1,2 @@
+
+JEQáÝÏ	"öÍÌAÍÌA%ÍÌA-ÍÌA0½"¬¤p	A¤p	A%¤p	A-¤p	A0ï"Ø¤p	A¤p	A%¤p	A-¤p	A0d"Ù¤p	A¤p	A%¤p	A-¤p	A0d"£B`	A¤p	A%¤p	A-®G	A0ˆ"±sh	Ash	A%sh	A-sh	A0è"¸¤p	A¤p	A%¤p	A-¤p	A0È"¿¤p	A®G	A%¤p	A-®G	A0 "ê®G	A®G	A%®G	A-®G	A0o

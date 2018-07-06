@@ -1,0 +1,3 @@
+
+SDI▓що	"█вёhA ≥qA% ≥qA-вёhA0╒"▓млpAмлpA%млpA-млpA0б"⌠млpAмлpA%млpA-млpA0╛"■млpAмлpA%млpA-млpA0л"÷)\oA)\oA%)\oA-)\oA0я"═33oA33oA%33oA-33oA0┐"╤B>oA33oA%B>oA-33oA0т"╧млpAмлpA%млpA-млpA0л"╫млpAмлpA%млpA-млpA0°1"©млpAмлpA%млpA-млpA0┌"┼33oA33oA%33oA-33oA0d"·33oA┘_A%33oA-┘_A0е"©	33oA33oA%33oA-33oA0d"в	33oA33oA%33oA-33oA0d"Ф	33oA33oA%33oA-33oA0d"■
+млpAмлpA%млpA-млpA0и

@@ -1,0 +1,2 @@
+
+MTEX•ÝÏ	"öš™£Aš™£A%š™£A-š™£A0f"ìff¢Aff¢A%ff¢A-ff¢A0d"Ãff¢Aff¢A%ff¢A-ff¢A0d"áff¢Aff¢A%ff¢A-ff¢A0d"ð33¥A33¥A%33¥A-33¥A0d"þ´Ù¢A´Ù¢A%´Ù¢A-´Ù¢A0È"±	ff¢Aff¢A%ff¢A-ff¢A0d"Ý	ff¢Aff¢A%ff¢A-ff¢A0d

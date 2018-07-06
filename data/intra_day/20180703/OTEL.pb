@@ -1,0 +1,2 @@
+
+OTELъщо	"ЖмлpA┘qA%┘qA-млpA0┌"ПмлpAмлpA%млpA-млpA0d"фмлpAмлpA%млpA-млpA0d"кЛQpAЛQpA%ЛQpA-ЛQpA0d"умлpAмлpA%млpA-млpA0d"ымлpAмлpA%млpA-млpA0d"Л33oA33oA%33oA-33oA0х"┤	млpAмлpA%млpA-млpA0d"а	млpAмлpA%млpA-млpA0d

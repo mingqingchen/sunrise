@@ -1,0 +1,2 @@
+
+NMT■що	"Ы╓pEA╓pEA%╓pEA-╓pEA0д"фHАFAR╦FA%HАFA-R╦FA0╛"э33GA33GA%33GA-33GA0х"К)\GA)\GA%)\GA-)\GA0d"╬млFA33GA%33GA-млFA0е"Щ33GA33GA%33GA-33GA0d"╒33GA/GA%33GA-/GA0░
