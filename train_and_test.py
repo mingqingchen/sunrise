@@ -24,8 +24,8 @@ def main(_):
     params.relative_price_percentage = 0.5
   else:
     params.upper_time_point_limit = 14900
-    params.sample_step_training = 3
-    params.sample_step_testing = 3
+    params.sample_step_training = 2
+    params.sample_step_testing = 2
 
   params.open_time = 630
   params.close_time = 1255
@@ -45,7 +45,7 @@ def main(_):
   params.classify_threshold = 0.005
 
   params.load_previous_model = True
-  params.previous_model = 'model_classification_22'
+  params.previous_model = 'model_classification_24'
 
   params.model_folder = './model/'
   params.output_model_name_prefix = 'model'
@@ -60,8 +60,8 @@ def main(_):
   params.average_cash_flow_per_min = 20000.0
 
   mm = model_manager.FixedNumTimePointsModelManager(params)
-  mm.set_training_dates(20180529, 20180608)
-  mm.set_test_dates(20180611, 20180622)
+  mm.set_training_dates(20180611, 20180622)
+  mm.set_test_dates(20180625, 20180706)
   mm.set_training_data_folder(k_data_folder)
   mm.set_training_use_eligible_list(True)
   mm.train_and_test()
