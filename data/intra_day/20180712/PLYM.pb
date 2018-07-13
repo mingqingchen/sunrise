@@ -1,0 +1,2 @@
+
+PLYMèÝÏ	"×£€A×£€A%×£€A-áz€A0°	"ÛO@€AO@€A%O@€A-O@€A0™"å££€A££€A%££€A-££€A0¬"÷×£€A€A%×£€A-€A0Ü"‹×£€A££€A%×£€A-££€A0¦"·×£€A×£€A%×£€A-×£€A0d"¾×£€A×£€A%×£€A-×£€A0´"þë€Aë€A%ë€A-ë€A0È"‡›f€A›f€A%›f€A-›f€A0è"Ôff€A›f€A%›f€A-ff€A0È"ø¯€A¯€A%¯€A-¯€A0è"¾	q=€Aq=€A%q=€A-q=€A0d"Á	€€A€€A%€€A-€€A0d

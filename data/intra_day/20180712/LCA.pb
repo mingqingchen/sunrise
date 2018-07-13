@@ -1,0 +1,2 @@
+
+LCAиЁѕ	"ѕ √!A √!A% √!A- √!A0d"Хол!Aол!A%ол!A-ол!A0d"ыол!Aол!A%ол!A-ол!A0d"Г	{"A{"A%{"A-{"A0d"“	q="Aq="A%q="A-q="A0Ў"ў	q="Aq="A%q="A-q="A0d"џ	q="Aq="A%q="A-q="A0d"я	q="Aq="A%q="A-q="A0d"б	q="Aq="A%q="A-q="A0d"д	q="Aq="A%q="A-q="A0d"ж	q="Aq="A%q="A-q="A0d"з	q="Aq="A%q="A-q="A0d"и	q="Aq="A%q="A-q="A0d"й	q="Aq="A%q="A-q="A0d"к	q="Aq="A%q="A-q="A0d

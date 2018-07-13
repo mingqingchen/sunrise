@@ -1,0 +1,3 @@
+
+ACSFХщо	"цмлDAмлDA%млDA-млDA0╚"ф33EA33EA%33EA-33EA0d"ХмлDAмлDA%млDA-млDA0╛"УгKEAгKEA%гKEA-гKEA0┴"ё┘EA┘EA%┘EA-┘EA0Б	"╝млDA33EA%33EA-млDA0ч"ьOEAOEA%OEA-OEA0╛"∙млDAмлDA%млDA-млDA0х"╠ ≥EA ≥EA% ≥EA- ≥EA0Т"≥33EA33EA%33EA-33EA0┼"ммлDAмлDA%млDA-млDA0╛"ЦмлDAмлDA%млDA-млDA0п"ЕмлDAмлDA%млDA-млDA0╡"И33EAмлDA%33EA-млDA0÷"╪	млDAмлDA%млDA-млDA0╛"н	млDAмлDA%млDA-млDA0я"ъ	млDAмлDA%млDA-млDA0░"Ф	╝GEA╝GEA%╝GEA-╝GEA0╪"Г	33EA33EA%33EA-33EA0d"И	млDAмлDA%млDA-млDA0d"К	33EAмлDA%33EA-млDA0⌠"■
+ ≥EA ≥EA% ≥EA- ≥EA0o
