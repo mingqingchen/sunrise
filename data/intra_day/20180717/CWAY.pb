@@ -1,0 +1,2 @@
+
+CWAYМщо	"ОffчAffчA%ffчA-ffчA0ъ"Ъ█╗чA█╗чA%█╗чA-█╗чA0щ"┤ffчAffчA%ffчA-ffчA0d"·╛чAffчA%╛чA-ffчA0р"ц	ffчAffчA%ffчA-ffчA0d"ы	млчAмлчA%млчA-млчA0d"И	млчAffчA%млчA-ffчA0Т"К	млчAffчA%млчA-ffчA0└

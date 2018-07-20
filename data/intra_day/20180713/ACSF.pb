@@ -1,0 +1,2 @@
+
+ACSFЙщо	"╫млDAмлDA%млDA-млDA0В"юмлDAмлDA%млDA-млDA0d"рмлDAмлDA%млDA-млDA0d"ХмлDAмлDA%млDA-млDA0d"ВpнDApнDA%pнDA-pнDA0╛"ё33EA ≥EA% ≥EA-33EA0п"я╦EA╦EA%╦EA-╦EA0╪"шмлDAмлDA%млDA-млDA0d"┘O@EAO@EA%O@EA-O@EA0⌠"╗млDAмлDA%млDA-млDA0d"╦33EA33EA%33EA-33EA0d"≈33EA33EA%33EA-33EA0d"ЫмлDAмлDA%млDA-млDA0d"г	млDAмлDA%млDA-млDA0╪"и	млDAмлDA%млDA-млDA0х"ч	цУDAцУDA%цУDA-цУDA0Х"Й	млDAмлDA%млDA-млDA0░"К	млDAмлDA%млDA-млDA0Ж

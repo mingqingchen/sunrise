@@ -1,0 +1,2 @@
+
+CWAYЛщо	"┴ffчAffчA%ffчA-ffчA0d"юмлчA ≥чA%млчA- ≥чA0Х"амлчAмлчA%млчA-млчA0 "чffчAffчA%ffчA-ffчA0d"╔ffчAмлчA%млчA-ffчA0х"дffчAffчA%ffчA-ffчA0d"ж33ъA33ъA%33ъA-33ъA0d"▀ffчAffчA%ffчA-ffчA0d"╙ffчAffчA%ffчA-ffчA0d"ЯffчAffчA%ffчA-ffчA0d"ЮffчA╦чA%ffчA-╦чA0░"Х ≥чAffчA% ≥чA-ffчA0ь"ЧffчAffчA%ffчA-ffчA0d"╨	ffчAffчA%ffчA-ffчA0d"н	ffчAffчA%ffчA-ffчA0d"Б	ffчAffчA%ffчA-ffчA0х"К	ffчAffчA%ffчA-ffчA0╛

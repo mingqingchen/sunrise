@@ -1,0 +1,2 @@
+
+TBRG๎Ýฯ	"ffAffA%ffA-ffA0จร"ffAffA%ffA-ffA0ิa"ืffAffA%ffA-ffA0๐ศ!"ุffAffA%ffA-ffA0จร"ธffAffA%ffA-ffA0 ห"อffAffA%ffA-ffA0่"ิffAffA%ffA-ffA0่"ึ	ffAffA%ffA-ffA0N"ื	ffAffA%ffA-ffA0ธ"ฺ	ffAffA%ffA-ffA0ฤ"Ý	ffAffA%ffA-ffA0๖,"Þ	ffAffA%ffA-ffA0ฒ–"ๅ	ffAffA%ffA-ffA0์Y"้	ffAffA%ffA-ffA0 
