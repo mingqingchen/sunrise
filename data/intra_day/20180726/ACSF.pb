@@ -1,0 +1,2 @@
+
+ACSFЖщо	"ЖмлDAмлDA%млDA-млDA0÷"▌┘EA33EA%┘EA-33EA0л"МмлDAмлDA%млDA-млDA0d"┤	млDAмлDA%млDA-млDA0d"г	┘EA┘EA%┘EA-┘EA0Т"И	млDAмлDA%млDA-млDA0х"К	млDAмлDA%млDA-млDA0Ш

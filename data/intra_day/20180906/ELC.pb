@@ -1,0 +1,3 @@
+
+ELC×ßֿ	"צffֲAffֲA%ffֲA-ffֲA0°"ffֲAffֲA%ffֲA-ffֲA0d"¿ffֲAffֲA%ffֲA-ffֲA0´"ֵffֲAffֲA%ffֲA-ffֲA0ָ"ױffֲAffֲA%ffֲA-ffֲA0d"וffֲAffֲA%ffֲA-ffֲA0"יffֲAffֲA%ffֲA-ffֲA0Ü"מffֲAלQֲA%ffֲA-לQֲA0פ"פffֲAffֲA%ffֲA-ffֲA0–"צq=ֲAq=ֲA%q=ֲA-q=ֲA0d"¶q=ֲAƒ@ֲA%ƒ@ֲA-צ(ֲA0¶"ֲ₪pֱA₪pֱA%₪pֱA-₪pֱA0d"ױ₪pֱA₪pֱA%₪pֱA-₪pֱA0d"‘)\ֱA)\ֱA%)\ֱA-)\ֱA0d"§®GֱA®GֱA%®GֱA-®GֱA0d"¯]\ֱA]\ֱA%]\ֱA-]\ֱA0ע	"‏®GֱA®GֱA%®GֱA-®GֱA0d"•)\ֱA)\ֱA%)\ֱA-)\ֱA0d"ׂ®GֱA®GֱA%®GֱA-®GֱA0d"ז®GֱA®GֱA%®GֱA-®GֱA0d"ת®GֱA®GֱA%®GֱA-®GֱA0d"´	®GֱA®GֱA%®GֱA-®GֱA0d"ֵ	33ֱA33ֱA%33ֱA-33ֱA0d"ג	\ְA\ְA%\ְA-\ְA0d"ז	׳£ְAY—ֱA%Y—ֱA-׳£ְA0ּ"י	\ְA\ְA%\ְA-\ְA0d"כ	׳£ְAְּֽA%ְּֽA-׳£ְA0ָ"–
+ffְAffְA%ffְA-ffְA0d

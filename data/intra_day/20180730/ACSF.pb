@@ -1,0 +1,3 @@
+
+ACSFЗщо	"ЖмлDAмлDA%млDA-млDA0╨"└√CEA√CEA%√CEA-√CEA0d"┬млDAмлDA%HАDA-млDA0═"░млDAмлDA%млDA-млDA0Т"╬млDAмлDA%млDA-млDA0Т"═млDAмлDA%млDA-млDA0d"ёмлDAмлDA%млDA-млDA0d"╧²EAмлDA%²EA-млDA0└"╕млDAмлDA%млDA-млDA0╤"╖млDA)\EA%)\EA-млDA0н"├млDAмлDA%млDA-млDA0░"лмлDAмлDA%млDA-млDA0u"─	млDAмлDA%млDA-млDA0Т"К	млDAмлDA%млDA-млDA0░"■
+ ≥EA ≥EA% ≥EA- ≥EA0╨

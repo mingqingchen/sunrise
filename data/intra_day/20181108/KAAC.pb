@@ -1,0 +1,2 @@
+
+KAACфаѕ	"цц(Aц(A%ц(A-ц(A0а"К»ШAЄA%»ШA-ЄA0∞	"ґмQAЕA%мQA-ЕA0Р"шffAffA%ffA-ffA0Ў"ЩffAffA%ffA-ffA0»"чЪЩAffA%ffA-ЪЩA0Љ"В	ц(Aц(A%ц(A-ц(A0d"”	{A{A%{A-{A0ђ"‘	q=Aq=A%q=A-q=A0»"в	q=AffA%ffA-q=A0Р"з	ffAffA%ffA-ffA0–"и	ЪЩAЪЩA%ЪЩA-ЪЩA0d"й	ЪЩAЪЩA%ffA-ЌћA0ў"к	ffAffA%ffA-ffA0Є"л	ffAffA%ffA-ffA0Њ

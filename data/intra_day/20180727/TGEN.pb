@@ -1,0 +1,2 @@
+
+TGEN÷ÝÏ	"öq=Z@q=Z@%q=Z@-q=Z@0È"ffV@ffV@%ffV@-ffV@0ô"×ÚX@ÚX@%ÚX@-ÚX@0è"ªffV@ffV@%ffV@-ffV@0Ä"­YW@YW@%YW@-YW@0è"òS–Y@S–Y@%S–Y@-S–Y@0d"†	£#Y@£#Y@%£#Y@-£#Y@0"Î	ÕxY@ÕxY@%ÕxY@-ÕxY@0ô

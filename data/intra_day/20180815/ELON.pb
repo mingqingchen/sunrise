@@ -1,0 +1,2 @@
+
+ELONочо	"ЖffAffA%ffA-ffA0Т"ЗffAffA%ffA-ffA0э"ШffAffA%ffA-ffA0╢B"┬▌uA▌uA%▌uA-▌uA0Ш"АffAffA%ffA-ffA0л&"ОffAffA%ffA-ffA0x"╩ffAffA%ffA-ffA0х"▓ffAffA%ffA-ffA0░"К	АzAАzA%АzA-АzA0х

@@ -1,0 +1,2 @@
+
+VTCÞÞÏ	"ö=Š£B=Š£B%=Š£B-=Š£B0‚"±¤0£B¤0£B%¤0£B-¤0£B0±"¹F6£BF6£B%F6£B-F6£B0{"Ëw>£Bw>£B%w>£B-w>£B0"˜{T£B{T£B%{T£B-{T£B0}"ÏÛY£BÛY£B%ÛY£B-ÛY£B0º"Ö)\£B)\£B%Ha£B-)\£B0´"Ü=L£B=L£B%=L£B-=L£B0Ë"°	ÿR£BÿR£B%ÿR£B-ÿR£B0ê"Í	ŠN£BŠN£B%ŠN£B-ŠN£B0¥"Ñ	¦[£B¦[£B%¦[£B-¦[£B0¤"Ú	R8£BR8£B%R8£B-R8£B0ö"Ý	ýV£BýV£B%ýV£B-ýV£B0Ï"ß	ìQ£B{T£B%{T£B-ìQ£B0¬

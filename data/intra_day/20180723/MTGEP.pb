@@ -1,0 +1,2 @@
+
+MTGEPóÝÏ	"ö×£ÎA×£ÎA%×£ÎA-×£ÎA0"ØpßÍApßÍA%pßÍA-pßÍA0ƒ"Ú…ÍA…ÍA%…ÍA-…ÍA0d"¢…ëÍA…ëÍA%…ëÍA-…ëÍA0È"£¨ÆÍA¨ÆÍA%¨ÆÍA-¨ÆÍA0í"è	ÂÍAÑÍA%ÑÍA-ÂÍA0Ø

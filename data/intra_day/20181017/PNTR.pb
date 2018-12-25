@@ -1,0 +1,2 @@
+
+PNTR≥Юо	"Ж┘КAA┘КAA%┘КAA-┘КAA0╕"Ымл@Aмл@A%мл@A-мл@A0d"Шмл@Aмл@A%мл@A-мл@A0d"─╝GAA╝GAA%╝GAA-╝GAA0ц"▀цУ@AцУ@A%цУ@A-цУ@A0╓"д ≥AA ≥AA% ≥AA- ≥AA0═"г ≥AA ≥AA% ≥AA- ≥AA0≈"Ц{BA{BA%{BA-{BA0d"°{BA{BA%{BA-{BA0Н"÷{BA{BA%{BA-{BA0d"┐{BA{BA%{BA-{BA0╛"С{BA{BA%{BA-{BA0d"Т{BA{BA%{BA-{BA0d"з	ЛQBA"▌BA%\▐BA-ЛQBA0╟	"К	\▐BAq=BA%\▐BA-q=BA0╙

@@ -1,0 +1,2 @@
+
+ULBIочо	"ЖffAffA%ffA-ffA0d"р@A@A%@A-@A0┬"Б33A33A%33A-33A0═"жffAffA%ffA-ffA0d"°ffAмлA%млA-ffA0х"·млAмлA%млA-млA0░"╓млAмлA%млA-млA0d"╢33A33A%33A-33A0х"╤млAмлA%млA-млA0d"КffAffA%ffA-ffA0d"Ж33A33A%33A-33A0d"ЗffAffA%ffA-ffA0d"Ю!╟A!╟A%!╟A-!╟A0d"╢	млAмлA%млA-млA0d"ч	ffAffA%ffA-ffA0╛"Б	ffAffA%ffA-ffA0d"К	ffA33A%33A-ffA0╛

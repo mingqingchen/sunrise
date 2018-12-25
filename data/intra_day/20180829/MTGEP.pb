@@ -1,0 +1,2 @@
+
+MTGEPÞÞÏ	"ÀffÎAffÎA%ffÎA-®GÎA0ˆ'"Ö–CÎA®GÎA%ffÎA-–CÎA0ü"×ffÎAffÎA%ffÎA-ffÎA0Ü" ffÎA®GÎA%ffÎA-®GÎA0Ð"¤33ÎA33ÎA%33ÎA-33ÎA0¥"¦z%ÎAz%ÎA%z%ÎA-z%ÎA0î"2fÎA2fÎA%2fÎA-2fÎA0¾"œœ3ÎAœ3ÎA%œ3ÎA-œ3ÎA0–"£n4ÎAn4ÎA%n4ÎA-n4ÎA0È"†ö(ÎAö(ÎA%ö(ÎA-ö(ÎA0Ü"àìQÎAffÎA%ffÎA-ìQÎA0è"¾	ffÎAÓMÎA%ffÎA-ÓMÎA0è"Ñ	ffÎAffÎA%ffÎA-ffÎA0¬

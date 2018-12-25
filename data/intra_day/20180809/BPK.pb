@@ -1,0 +1,2 @@
+
+BPKичо	"мЖ(pAЖ(pA%Ж(pA-Ж(pA0Х"АЖ(pAЖ(pA%Ж(pA-Ж(pA0л"ОX9pAX9pA%X9pA-X9pA0ь"й╒EpA╒EpA%╒EpA-╒EpA0╘"█ЛQpA_)pA%ЛQpA-_)pA0═"ТL7pAЖ(pA%L7pA-Ж(pA0Ю"Г	_)pAЖ(pA%_)pA-Ж(pA0Ь<"Х	Ж(pAЖ(pA%Ж(pA-Ж(pA0░"К	Ж(pAЖ(pA%Ж(pA-Ж(pA0ь

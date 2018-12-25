@@ -1,0 +1,2 @@
+
+LEVL÷Юо	"вffзAffзA%ffзA-ffзA0d"Ч)\зA)\зA%)\зA-)\зA0d"╩	млзAмлзA%млзA-вёзA0╘"е	R╦зAR╦зA%R╦зA-R╦зA0d"л	ffзAffзA%ffзA-ffзA0d"ч	ЛQзAЛQзA%ЛQзA-ЛQзA0х"Й	R╦зAR╦зA%R╦зA-R╦зA0d

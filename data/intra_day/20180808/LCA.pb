@@ -1,0 +1,2 @@
+
+LCAศÞฯ	"๖Hแ"AHแ"A%Hแ"A-Hแ"A0ฺ"ร	"A	"A%	"A-	"A0๚"ฉff"Aff"A%ff"A-ff"A0จร"ั\"Aff"A%\"A-ff"A0เ+"Ûff"Aþe"A%ff"A-þe"A0ะ"ผff"A์Q"A%ff"A-์Q"A0ฌ" ff"Aq="A%ff"A-q="A0ศ"พ	์Q"A์Q"A%์Q"A-์Q"A0d"ฬ	ff"Aff"A%ff"A-ff"A0่"ิ	์Q"A์Q"A%์Q"A-์Q"A0ศ"แ	ff"Aff"A%ff"A-ff"A0่"้	ff"Aff"A%ff"A-ff"A0d

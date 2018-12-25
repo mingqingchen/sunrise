@@ -1,0 +1,7 @@
+
+TRIB∏ﬂœ	"ˆÏQx@ÏQx@%ÏQx@-ÏQx@0ñ"¯√ıx@ffv@%√ıx@-ffv@0–â"Ü√ıÄ@ÆGÅ@%ÆGÅ@-√ıÄ@0»"‘)\@)\@%)\@-)\@0d"˜ffv@ffv@%ffv@-ffv@0°"§å€x@ˆóy@%ˆóy@-å€x@0Ö"Æffv@ffv@%ffv@-ffv@0d"µffv@ffv@%ffv@-ffv@0d"‘ffv@ffv@%ffv@-ffv@0ê"Ñ9Ew@Íx@%ÏQx@-ffv@0ßQ"Ö√ıx@&Sy@%öôy@-√ıx@0˘"∏öôy@öôy@%öôy@-öôy@0ò
+"æ∫⁄z@∫⁄z@%∫⁄z@-∫⁄z@0»"ÔÏQx@ÏQx@%ÏQx@-ÏQx@0d"ÙÏQx@ÏQx@%ÏQx@-ÏQx@0d"˙Æw@Æw@%Æw@-Æw@0d"ˇÆw@Æw@%Æw@-Æw@0d"ÖÆw@Æw@%Æw@-Æw@0d"ãÆw@Æw@%Æw@-Æw@0d"êÆw@Æw@%Æw@-Æw@0d"ïÆw@Æw@%Æw@-Æw@0d"ò√ıx@√ıx@%√ıx@-√ıx@0d"õÆw@Æw@%Æw@-Æw@0d"úÆw@Æw@%Æw@-Æw@0å"°ffv@ffv@%ffv@-ffv@0d"Œffv@ffv@%ffv@-ffv@0d"‘ffv@ffv@%ffv@-ffv@0d"Ÿffv@ffv@%ffv@-ffv@0d"ﬁffv@ffv@%ffv@-ffv@0d"„ffv@ffv@%ffv@-ffv@0d"Ëffv@ffv@%ffv@-ffv@0d"Ìffv@ffv@%ffv@-ffv@0d"Úffv@ffv@%ffv@-ffv@0d"˜ffv@ffv@%ffv@-ffv@0d"˚ffv@ffv@%ffv@-ffv@0d"Ä	ffv@ffv@%ffv@-ffv@0»"Ö	ffv@ffv@%ffv@-ffv@0d"±	ffv@ffv@%ffv@-ffv@0d"∂	ffv@ffv@%ffv@-ffv@0d"∑	ÏQx@ÏQx@%ÏQx@-ÏQx@0d"æ	ffv@ffv@%ffv@-ffv@0d"¬	ffv@ffv@%ffv@-ffv@0d"∆	ffv@ffv@%ffv@-ffv@0d"»	ÏQx@ÏQx@%ÏQx@-ÏQx@0d"Õ	ffv@ffv@%ffv@-ffv@0d"—	ffv@ffv@%ffv@-ffv@0d"“	ÏQx@ÏQx@%ÏQx@-ÏQx@0d"ÿ	ffv@ffv@%ffv@-ffv@0d"€	ffv@ffv@%ffv@-ffv@0d"ﬁ	ffv@ffv@%ffv@-ffv@0d"‡	ffv@ffv@%ffv@-ffv@0d"‚	ffv@ffv@%ffv@-ffv@0d"„	ffv@ffv@%ffv@-ffv@0d"‰	ffv@Æw@%Æw@-ffv@0»"Ê	ffv@ffv@%ffv@-ffv@0d"Î	=
+w@=
+w@%=
+w@-=
+w@0ê

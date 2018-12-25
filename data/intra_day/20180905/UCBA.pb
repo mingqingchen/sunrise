@@ -1,0 +1,2 @@
+
+UCBA╘ъо	"умльA ≥уA%мльA- ≥уA0╛"╓33уA33уA%33уA-33уA0d"▓ffжAffжA%ffжA-ffжA0╛"⌠ffжA,тжA%,тжA-ffжA0х"НffжAffжA%ffжA-ffжA0d"УffжAffжA%ffжA-ffжA0е"╨	ffжAffжA%ffжA-ffжA0█"с	 ≥уA ≥уA% ≥уA- ≥уA0d"Д	млжAмлжA%млжA-млжA0d

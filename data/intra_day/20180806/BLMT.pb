@@ -1,0 +1,3 @@
+
+BLMTфчо	"⌠мл	Bмл	B%мл	B-мл	B0╓"юff	Bff	B%ff	B-ff	B0d"х ≥B ≥B% ≥B- ≥B0d"°ffBffB%ffB-ffB0╛"╜{■Bd{B% ≥B-л.B0╟	"©млBмлB%млB-млB0х"┘ffBffB%ffB-ffB0х"├ffBffB%ffB-ffB0х"┬ ≥B ≥B% ≥B- ≥B0d"░млBмлB%млB-млB0d"≤млBмлB%млB-млB0d"ЫffBffB%ffB-ffB0d"╩	ФBФB%ФB-ФB0d"л	ffBffB%ffB-ffB0d"ж	ffBffB%ffB-ffB0З"■
+ ≥B ≥B% ≥B- ≥B0т

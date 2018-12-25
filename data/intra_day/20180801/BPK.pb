@@ -1,0 +1,2 @@
+
+BPKачо	"пЖ(pAЖ(pA%Ж(pA-Ж(pA0п"ИЖ(pAЖ(pA%Ж(pA-Ж(pA0Т"╔Ж(pAЖ(pA%Ж(pA-Ж(pA0Т"тЖ(pAЖ(pA%Ж(pA-Ж(pA0▒5"жЖ(pA_)pA%_)pA-Ж(pA0╫" Ж(pAЖ(pA%Ж(pA-Ж(pA0└"╟_)pAЖ(pA%_)pA-Ж(pA0░N"КЖ(pAЖ(pA%Ж(pA-Ж(pA0Х"ЛЖ(pA_)pA%_)pA-Ж(pA0п"░Ж(pAЖ(pA%Ж(pA-Ж(pA0░"▒Ж(pAЖ(pA%Ж(pA-Ж(pA0═"∙Ж(pA?5pA%?5pA-Ж(pA0Х"рЖ(pA6pA%z6pA-Ж(pA0┬"чЖ(pA?5pA%?5pA-Ж(pA0Х"Б╒EpA╒EpA%╒EpA-╒EpA0┴"╪	Ж(pA6pA%6pA-Ж(pA0Э"Г	Ж(pAЖ(pA%Ж(pA-Ж(pA0╕

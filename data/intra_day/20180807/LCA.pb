@@ -1,0 +1,3 @@
+
+LCAЗЮП	"цHб"AHб"A%Hб"A-Hб"A0й"ч;Я"A;Я"A%;Я"A-;Я"A0¬"Ц/Э"AA‚"A%Hб"A-A‚"A0¬"чHб"ARё"A%Hб"A-Rё"A0€'"јRё"ARё"A%Rё"A-Rё"A0 "Г/Э"ARё"A%Hб"A-Rё"A0и"ЪRё"ARё"A%Rё"A-Rё"A0и"ЏЯа"AЯа"A%Яа"A-Яа"A0и"ђRё"ARё"A%Rё"A-Rё"A0”
+"Є!°"A!°"A%!°"A-!°"A0ф"цЧЈ"Aff"A%ЧЈ"A-ff"A0¦љ"аTR"ATR"A%TR"A-TR"A0Р"шff"Aff"A%ff"A-ff"A0ё"±	ff"Aff"A%ff"A-ff"A0ё"і	ff"Aff"A%ff"A-ff"A0Р"ё	ff"Aff"A%ff"A-ff"A0Ќ."Б	џ<"Aџ<"A%џ<"A-џ<"A0d"Э	ff"Aff"A%ff"A-ff"A0d"ж	ff"Aff"A%ff"A-ff"A0d"й	ff"Aff"A%ff"A-ff"A0d

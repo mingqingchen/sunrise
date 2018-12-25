@@ -1,0 +1,4 @@
+
+CWAY╘ъо	"ЖffчAffчA%ffчA-ffчA0╩"Щ█╗чA╓pчA%█╗чA-╓pчA0Ф"ЪffчAffчA%ffчA-ffчA0╛"рмлчAffчA%млчA-ffчA0╪"ГмлчAмлчA%млчA-ffчA0э
+"╓ffчAffчA%ffчA-ffчA0d"╖ffчAffчA%ffчA-ffчA0d"╣млчAмлчA%млчA-ffчA0л"оffчAffчA%ffчA-ffчA0d"■млчAмлчA%млчA-млчA0╛"√ffчAffчA%ffчA-ffчA0х"╒ffчAffчA%ffчA-ffчA0d"╖ffчAffчA%ffчA-ffчA0d"УffчAffчA%ffчA-ffчA0d"┤млчAмлчA%млчA-ffчA0╟	"÷ffчAffчA%ffчA-ffчA0d"ФмлчAмлчA%млчA-млчA0░"РffчAffчA%ffчA-ffчA0d"ЧмлчAмлчA%млчA-млчA0■
+"│	млчAмлчA%млчA-млчA0d"┤	млчAмлчA%млчA-млчA0d"е	ffчAffчA%ffчA-ffчA0d"ф	млчAмлчA%млчA-млчA0d"п	ffчAffчA%ffчA-ffчA0d"Ю	млчAмлчA%млчA-млчA0╛"А	млчAмлчA%млчA-млчA0d"К	ffчAffчA%ffчA-ffчA0d

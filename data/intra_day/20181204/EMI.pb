@@ -1,0 +1,3 @@
+
+EMIтАо	"ё33CA33CA%33CA-33CA0░"╩)\CA)\CA%)\CA-)\CA0░"≥)\CA)\CA%)\CA-)\CA0в"·)\CA┘CA%┘CA-)\CA0└"╙┘CA╝CA%╝CA-┘CA0└"╟╝CAЛQDA%ЛQDA-╝CA0Ь
+"╠ЛQDAЛQDA%ЛQDA-ЛQDA0х"╣╝CA╝CA%╝CA-╝CA0d"╪АzDAАzDA%АzDA-АzDA0х"─вёDAвёDA%вёDA-вёDA0х"│вёDAвёDA%вёDA-вёDA0╛"┌вёDAвёDA%вёDA-вёDA0d"й	млDAмлDA%млDA-млDA0d"к	цУDAмлDA%цУDA-млDA0х"ж	млDAмлDA%млDA-млDA0╛"Г	цУDAцУDA%цУDA-цУDA0╛"К	млDAмлDA%млDA-млDA0d

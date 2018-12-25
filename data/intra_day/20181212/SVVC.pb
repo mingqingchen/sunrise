@@ -1,0 +1,2 @@
+
+SVVCэАо	"└-DA-DA%-DA--DA0d"²33CA┘CA%╝CA-33CA0а"╧}?CA}?CA%}?CA-}?CA0Т"Щ)\CA)\CA%)\CA-)\CA0х"┼┘CA33CA%ЛQDA-33CA0ь"▄33CA33CA%33CA-33CA0╔"▐fВBAfВBA%fВBA-fВBA0z"░┘CA╦EA%╦EA-)\CA0╟	"▒╦EA╦EA%╦EA-╦EA0d"·╪√GA╪√GA%╪√GA-╪√GA0▌"Ь_EA_EA%_EA-_EA0┐"─	млDAмлDA%млDA-млDA0d"╠	млDAмлDA%млDA-млDA0d"к	цУDAАzDA%├ZEA-АzDA0╟	"э	АzDAАzDA%АzDA-АzDA0d

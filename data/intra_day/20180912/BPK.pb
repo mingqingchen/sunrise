@@ -1,0 +1,3 @@
+
+BPK╟ъо	"ЖвёpAвёpA%вёpA-вёpA0╪"О╠©pA╠©pA%╠©pA-╠©pA0╪"РвёpAвёpA%вёpA-вёpA0╪"ШR╦pAвёpA%R╦pA-вёpA0░"┐	dлpAмлpA%млpA-┐юpA0Ь
+"┘	dлpAdлpA%dлpA-dлpA0Х"╤	млpAмлpA%млpA-┐юpA0╢"╪	млpAмлpA%млpA-вёpA0═"╬	вёpAвёpA%вёpA-вёpA0╟"©	иpAиpA%иpA-иpA0Т"ц	H©pAH©pA%H©pA-H©pA0└"д	млpA!╟pA%млpA-!╟pA0л"Г	вёpAмлpA%млpA-вёpA0╝"К	вёpAвёpA%вёpA-вёpA0ь

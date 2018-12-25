@@ -1,0 +1,3 @@
+
+CHEKÈÞÏ	"£ìQX@ìQX@%ìQX@-ìQX@0ú"ö¸U@¸U@%¸U@-¸U@0f"€}?U@}?U@%}?U@-}?U@0£	"‚+W@+W@%+W@-+W@0"ƒ‰AX@‰AX@%‰AX@-‰AX@0ô"‡‰AX@…ëU@%‰AX@-…ëU@0Ü"’ìQX@+W@%ìQX@-+W@0Æ"Ð¸U@¸U@%¸U@-¸U@0è"Û®W@®W@%®W@-®W@0¦"¤ffV@ffV@%ffV@-ffV@0è"¦®W@ÂU@%®W@-ÂU@0Þ"§®W@ffV@%®W@-ffV@0ˆ"¸„W@„W@%„W@-„W@0È"ìÂU@U0V@%U0V@-ÂU@0Ê"ÿ¸U@33S@%B`U@-33S@0Ø"ŒÃdR@ÃdR@%ÃdR@-ÃdR@0è"Ž33S@33S@%33S@-33S@0È"•¬­T@¬­T@%¬­T@-¬­T@0Ð"ÌtFT@tFT@%tFT@-tFT@0Ü"ÔÐDT@ÐDT@%ÐDT@-ÐDT@0Ü"ÖÍÌT@‰AT@%U@-33S@0à"ã33S@ö(T@%ö(T@-33S@0˜"ójP@jP@%jP@-jP@0ô"ü¸U@¸U@%¸U@-¸U@0d"¿	ffV@˜ÝS@%ffV@-˜ÝS@0Ø"À	…ëQ@…ëQ@%…ëQ@-…ëQ@0d"Ã	øSS@øSS@%øSS@-øSS@0ô"Ï	ZT@ZT@%ZT@-ZT@0è"æ	33S@33S@%×4S@-33S@0ˆ"ë	…ëQ@…ëQ@%…ëQ@-…ëQ@0"”
+ffV@ffV@%ffV@-ffV@0”"¤®GQ@®GQ@%®GQ@-®GQ@0d

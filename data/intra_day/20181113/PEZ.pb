@@ -1,0 +1,2 @@
+
+PEZщаѕ	"И*)SB]нRB%*)SB-]нRB0ф"ЛєьRBєьRB%єьRB-єьRB0n"ƒЃGQBЃGQB%ЃGQB-ЃGQB0d"Ћ7ЙRB7ЙRB%7ЙRB-7ЙRB0Г"ЌљТRBљТRB%љТRB-љТRB0ъ"–IRBIRB%IRB-IRB0ъ"“7…QB7…QB%7…QB-7…QB0У"‘ЧQBЧQB%ЧQB-ЧQB0Ц"÷сtQBсtQB%сtQB-сtQB0»"Ўr9QBr9QB%r9QB-r9QB0ф"ёq=QBq=QB%q=QB-q=QB0d"рAВQBcQB%AВQB-cQB0ђ"й	5^RB5^RB%5^RB-5^RB0Р

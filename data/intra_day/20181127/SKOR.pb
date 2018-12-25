@@ -1,0 +1,2 @@
+
+SKOR‡áÏ	"ÃìQBB)\BB%)\BB-ìQBB0Ï8"¨ÃõABÃõAB%ÃõAB-ÃõAB0÷"¶)\BB)\BB%)\BB-)\BB0ñ)"˜)\BB)\BB%)\BB-)\BB0à"£)\BB)\BB%)\BB-)\BB0î"ž…ëAB…ëAB%…ëAB-…ëAB0Ò"Ñ‘íAB‘íAB%‘íAB-‘íAB0”"Ü…ëAB…ëAB%…ëAB-…ëAB0¼"Å	ÁùABÁùAB%ÁùAB-ÁùAB0è

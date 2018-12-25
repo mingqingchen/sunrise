@@ -1,0 +1,2 @@
+
+GNMAЖщо	"ЩЕ░ABЕ░AB%Е░AB-Е░AB0▓"А;│AB;│AB%;│AB-;│AB0█"Я╝ABмлAB%млAB-╝AB0х"╜млAB.пAB%.пAB-млAB0╕	"амлAB.пAB%.пAB-млAB0°"емлAB.пAB%.пAB-млAB0╦"╨ЛQAB▀=AB%ЛQAB-▀=AB0д"ЧEBBEBB%EBB-EBB0d"▒ЛQABЛQAB%ЛQAB-ЛQAB0d"╢	с╪ABс╪AB%с╪AB-с╪AB0▄"А	ЛQABЛQAB%ЛQAB-ЛQAB0d"Й	U╟ABU╟AB%U╟AB-U╟AB0щ

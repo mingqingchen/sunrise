@@ -1,0 +1,8 @@
+
+HGHыаП	"ц
+ЧЭA
+ЧЭA%
+ЧЭA-
+ЧЭA0і"„{ЮA{ЮA%{ЮA-{ЮA0µ"Ћ®ЭA®ЭA%®ЭA-®ЭA0Є"‘YЮA»'ЮA%»'ЮA-YЮA0Ю"“УНЭAУНЭA%УНЭA-УНЭA0‘"їґЩЭAґЩЭA%ґЩЭA-ґЩЭA0’"ГffЮAffЮA%ffЮA-ffЮA0d"Н<NЮA<NЮA%<NЮA-<NЮA0Џ"аn4ЮAn4ЮA%n4ЮA-n4ЮA0и"дffЮAffЮA%ffЮA-ffЮA0ф"кмQЮA?ЮA%ffЮA-q=ЮA0а"лffЮATRЮA%ffЮA-TRЮA0›	"цjMЮAjMЮA%jMЮA-jMЮA0б"чffЮAffЮA%ffЮA-ffЮA0d" q=ЮAq=ЮA%q=ЮA-q=ЮA0}"ЎffЮAffЮA%ffЮA-ffЮA0d"°ffЮAffЮA%ffЮA-юeЮA0ч"ґffЮAffЮA%ffЮA-ffЮA0d"ёffЮAмQЮA%ffЮA-мQЮA0¤"ЅffЮA|aЮA%ffЮA-|aЮA0”
+"О;_ЮA;_ЮA%;_ЮA-;_ЮA0"СffЮAffЮA%ffЮA-ffЮA0d"ЫffЮAffЮA%ffЮA-ffЮA0d"‹`eЮA`eЮA%`eЮA-`eЮA0М"”ffЮAffЮA%ffЮA-2fЮA0Ш"&dЮA&dЮA%&dЮA-&dЮA0Ю"ћмQЮAмQЮA%)\ЮA-мQЮA0ф"џq=ЮAq=ЮA%q=ЮA-q=ЮA0d"ёмQЮAмQЮA%мQЮA-мQЮA0d"»·QЮA·QЮA%·QЮA-·QЮA0‡"лмQЮAмQЮA%мQЮA-мQЮA0љ="уffЮAffЮA%ffЮA-ffЮA0d"фffЮAZЮA%ffЮA-ZЮA0Т"‡ffЮAffЮA%ffЮA-ffЮA0¬"’ffЮAffЮA%ffЮA-ffЮA0e"“мQЮAffЮA%ffЮA-мQЮA0¬"—мQЮA)\ЮA%)\ЮA-мQЮA0¤"™ffЮAffЮA%ffЮA-ffЮA0ф"њffЮAffЮA%ffЮA-B`ЮA0‚"МffЮAffЮA%ffЮA-ffЮA0d"ОмQЮAмQЮA%мQЮA-мQЮA0x"РffЮAffЮA%ffЮA-ffЮA0н"ЬVЋЮAVЋЮA%VЋЮA-VЋЮA0љ"ЭѕџЮAѕџЮA%ѕџЮA-ѕџЮA0Ђ"ь RЮA RЮA% RЮA- RЮA0М"ї	(ЏЮA(ЏЮA%(ЏЮA-(ЏЮA0x"Б	ЄаЮAЄаЮA%ЄаЮA-ЄаЮA0Љ"О	ЧЈЮAЧЈЮA%ЧЈЮA-ЧЈЮA0м"Ч	ЏВЮAЏВЮA%ЏВЮA-ЏВЮA0d"Ъ	ffЮAffЮA%ffЮA-ffЮA0m"Ь	єЙЮAёЯA%ёЯA-єЙЮA0ж"а	ёЯAёЯA%ёЯA-ёЯA0¦"к	НМЮAНМЮA%НМЮA-НМЮA0¬"л	ёЯA33ЯA%33ЯA-ёЯA0­"–
+ГхЮAГхЮA%ГхЮA-ГхЮA0€

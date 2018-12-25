@@ -1,0 +1,2 @@
+
+TANNI¯ßÏ	"öffÊAffÊA%ffÊA-ffÊA0d"‡¤pÉA¤pÉA%¤pÉA-)\ÉA0"Ìw¾ËAw¾ËA%w¾ËA-w¾ËA0Ã"±Y†ÊAY†ÊA%Y†ÊA-Y†ÊA0è"×kšËA…ëËA%…ëËA-kšËA0"ØR¸ÊA®ËA%®ËA-R¸ÊA0¬"ÙÍÌÊA…ëËA%…ëËA-ÍÌÊA0È"¬®GËA®GËA%®GËA-®GËA0"½33ËA®GËA%®GËA-33ËA0È"õq=ÊAš™ÉA%q=ÊA-š™ÉA0Ð"öq=ÊA¤pÉA%q=ÊA-¤pÉA0Ð"¶	ázÊAffÊA%ÍÌÊA-ffÊA0™"·	$(ÊAyéÉA%$(ÊA-yéÉA0Î"¸	¯%ÊAÑ"ÊA%¯%ÊA-Ñ"ÊA0Å"À	ffÊA33ËA%33ËA-ffÊA0¬"Ë	ìQÊAìQÊA%ìQÊA-ìQÊA0d"Ì	ìQÊA,ÔÉA%ìQÊA-,ÔÉA0’"Í	—ÿÉA­zÊA%­zÊA-—ÿÉA0õ"Î	—ÿÉA—ÿÉA%—ÿÉA-—ÿÉA0Ã"ë	š™ÉAš™ÉA%š™ÉA-š™ÉA0d

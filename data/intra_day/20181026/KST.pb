@@ -1,0 +1,2 @@
+
+KSTвр╧	"═сzHAьQHA%J{HA-ьQHA0ф#"з╫гHAеHA%еHA-╫гHA0╝"О├їHA├їHA%├їHA-├їHA0╚"╣zеHAzеHA%zеHA-zеHA0ш"║├їHA├їHA%├їHA-╫гHA0р"╗├їHA├їHA%├їHA-╫гHA0а"Р├їHAzеHA%├їHA-╫гHA0Э"Х╫гHA╫гHA%@дHA-╫гHA0░ "╬╫гHA╫гHA%@дHA-╫гHA0Ж8"В	╫гHA@дHA%@дHA-╫гHA0╚"ы	═╠HA═╠HA%═╠HA-╫гHA0╪

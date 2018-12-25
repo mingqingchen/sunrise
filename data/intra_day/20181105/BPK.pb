@@ -1,0 +1,2 @@
+
+BPKЯЮо	"Рq=rAq=rA%q=rA-q=rA0╛"Ж▐бqA▐бqA%▐бqA-▐бqA0И"╫╦qAцУpA%╦qA-цУpA0д"г▐бqAцУpA%▐бqA-цУpA0х"х▐бqA▐бqA%▐бqA-▐бqA0d"╩╦qA╦qA%╦qA-╦qA0╛"б╦qA$qA%$qA-+ЖpA0Л"⌡╦qA╦qA%╦qA-╦qA0d"ЩмлpAмлpA%■ЖpA-млpA0╙"┌	млpAмлpA%млpA-млpA0d"╨	млpAмлpA%млpA-млpA0╪

@@ -1,0 +1,3 @@
+
+REPLзАо	"ЖмлlAмлlA%млlA-млlA0╜"▄вёhAвёhA%вёhA-вёhA0d"КS√rAR╦hA%╦uA-вёhA0Х"МHАpAHАpA%HАpA-HАpA0d"РHАpAHАpA%HАpA-HАpA0d"┼ЛQhAЛQhA%ЛQhA-ЛQhA0d"ЦмлlAмлlA%млlA-млlA0d"ГмлlAмлlA%млlA-млlA0d"─	╝GmA╦qA%╦qA-╝GmA0х"┐	▐бmA▐бmA%▐бmA-▐бmA0d"╡	33sAHАnA%33sA-HАnA0х"╪	R╦nAR╦nA%R╦nA-R╦nA0d"©	┘КmA┘КmA%┘КmA-┘КmA0d"л	ЛQdAЛQdA%ЛQdA-ЛQdA0╨"о	{jA{jA%{jA-{jA0d"п	ё▓eA)\kA%)\kA-ё▓eA0╡"я	5ОgA5ОgA%5ОgA-5ОgA0В"р	╦eA╦eA%╦eA-╦eA0d"Ц	╓peA╓peA%╓peA-╓peA0├"Д	╓pkA╓pkA%╓pkA-╓pkA0d"Г	\▐jA\▐jA%\▐jA-\▐jA0d"Й	╓peA╓peA%╓peA-╓peA0х"■
+╦eA╦eA%╦eA-╦eA0н

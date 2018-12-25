@@ -1,0 +1,3 @@
+
+NXC Юо	"Ж┘КUA┘КUA%┘КUA-┘КUA0Б"жмлTAмлTA%млTA-млTA0х"╞╓pUA╓pUA%╓pUA-╓pUA0╛"╡⌡ФUA⌡ФUA%⌡ФUA-⌡ФUA0╓"вС▌VAС▌VA%С▌VA-С▌VA0л"∙╓pUA╓pUA%╓pUA-╓pUA0х"╬╓pUA╓pUA%╓pUA-╓pUA0х"▄╓pUA╓pUA%╓pUA-╓pUA0х"у┘КUA┘КUA%┘КUA-┘КUA0х"Р{VA{VA%{VA-{VA0х"Ё	{VA{VA%{VA-{VA0х"ю	{VA{VA%{VA-{VA0d"и	{VA{VA%{VA-{VA0d"щ	{VA{VA%{VA-{VA0d"Ц	{VA{VA%{VA-{VA0d"Ф	{VA{VA%{VA-{VA0х"И	{VA{VA%{VA-{VA0d"√
+┘КUA┘КUA%┘КUA-┘КUA0d

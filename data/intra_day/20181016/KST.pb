@@ -1,0 +1,3 @@
+
+KST≤Юо	"┘АzHAДIA%ДIA-АzHA0≤"╓вёHAвёHA%вёHA-вёHA0d"╘вёHAJ{HA%вёHA-АzHA0■
+"╝млHAмлHA%млHA-млHA0ч"амлHA6мHA%6мHA-млHA0х"двёHAвёHA%вёHA-вёHA0Х"хвёHAвёHA%вёHA-вёHA0d"лСIAСIA%СIA-СIA0Е"мвёHAвёHA%вёHA-вёHA0Т"█вёHAАzHA%вёHA-АzHA0а"▓млHAмлHA%млHA-млHA0Ю"≥вёHAАzHA%@╓HA-АzHA0Е"║АzHAАzHA%J{HA-АzHA0л3"╨\▐HA\▐HA%\▐HA-\▐HA0┬"╪\▐HA\▐HA%\▐HA-\▐HA0х"│\▐HAАzHA%\▐HA-АzHA0═"Ч\▐HAАzHA%\▐HA-АzHA0с+"╬	АzHAАzHA%J{HA-АzHA0Л"ф	АzHAJ{HA%J{HA-АzHA0ь"г	АzHAJ{HA%J{HA-АzHA0Ь"х	АzHAJ{HA%J{HA-АzHA0Й"ж	АzHAАzHA%АzHA-АzHA0┘

@@ -1,0 +1,2 @@
+
+BBF░Юо	"ЖмлLA╓pMA%╓pMA-млLA0А"й╝GMA╝GMA%╝GMA-╝GMA0d"╝млLAмлLA%млLA-млLA0Т"КцУLAмлLA%цУLA-млLA0░"У╚оLAцУLA%цУLA-млLA0х"ЫмлLAмлLA%млLA-млLA0░"ЧмлLAмлLA%млLA-млLA0d"┤млLAмлLA%млLA-млLA0х"ШZУLAZУLA%ZУLA-ZУLA0Т"К	цУLAэвLA%цУLA-эвLA0х

@@ -1,0 +1,2 @@
+
+KST╔Юо	"ЖвёHAвёHA%вёHA-вёHA0ь"овёHAмлHA%млHA-вёHA0═"╤dлHAdлHA%dлHA-dлHA0╦"╦zгHAzгHA%zгHA-zгHA0╦"╬╗фHA╗фHA%╗фHA-╗фHA0═"ц╗фHA?фHA%╗фHA-?фHA0Х"д╗фHAмлHA%млHA-╗фHA0ь"НpнHApнHA%pнHA-pнHA0⌡

@@ -1,0 +1,2 @@
+
+VCFччо	"┼млdAмлdA%млdA-млdA0d"ХмлdAмлdA%млdA-млdA0d"╣млdAмлdA%млdA-млdA0d"╬╦eAсMfA%сMfA-╦eA0©"оfffAfffA%fffA-╖ХeA0ю"ыfffAfffA%fffA-fffA0х"Ы33gA╖fA%33gA-╖fA0▓"█fffAfffA%fffA-fffA0d"÷млfAмлfA%млfA-млfA0d"┐	млfA33gA%33gA-млfA0х"И	оffAfffA%33gA-fffA0░

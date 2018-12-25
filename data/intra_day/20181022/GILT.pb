@@ -1,0 +1,10 @@
+
+GILTžàÏ	"ö¤p	A¤p	A%¤p	A-¤p	A0d"Š\
+A!°
+A%!°
+A-\
+A0"ì\
+A\
+A%\
+A-\
+A0d"Ï¤ß	A¤ß	A%¤ß	A-¤ß	A0è"†	®G	A®G	A%®G	A-®G	A0d"á	…ë	A…ë	A%…ë	A-Â	A0„

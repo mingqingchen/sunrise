@@ -1,0 +1,2 @@
+
+EMI▄Юо	"╞▐бEA▐бEA%▐бEA-▐бEA0┬"┬▐бEA▐бEA%▐бEA-▐бEA0╛"Й ≥EA ≥EA% ≥EA- ≥EA0╗"К╦EA╦EA%╦EA-╦EA0d"Р╦EA╦EA%╦EA-╦EA0≤"ТмлDAмлDA%млDA-млDA0х"─	млDAвёDA%млDA-вёDA0╤"┐	вёDAвёDA%вёDA-вёDA0d

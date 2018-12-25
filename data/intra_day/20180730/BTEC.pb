@@ -1,0 +1,2 @@
+
+BTECЗщо	"│ffBffB%ffB-ffB0╛"┐╓pB\▐B%\▐B-╓pB0╓"▒млBмлB%млB-млB0╛"я┘BshB%┘B-shB0═"╫	ЛQBЛQB%ЛQB-ЛQB0х"д	ЛQBЛQB%ЛQB-ЛQB0d"е	╝GB╝GB%╝GB-╝GB0х

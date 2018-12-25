@@ -1,0 +1,4 @@
+
+WASHЫЮо	"ЖR╦NBR╦NB%R╦NB-R╦NB0└"тн┬QBн┬QB%н┬QB-н┬QB0d"Л▐бMB▐бMB%▐бMB-▐бMB0ь"©▓MB▓MB%▓MB-▓MB0х"ЙsMBR╦MB%R╦MB-sMB0╛"≈╓pOB ≥OB% ≥OB-╓pOB0╛"≥╓pOB7PB%7PB-╓pOB0х"я▐бPB▐бPB%▐бPB-▐бPB0d"Ю╓pOBмлNB%╓pOB-млNB0ч"А╓pNBмлNB%млNB-ffNB0╛"Ц)\NB)\NB%)\NB-)\NB0d"ЛffNBffNB%ffNB-ffNB0d"┤	ЛQNB33NB%ЛQNB-33NB0Т"╟	q=NBq=NB%q=NB-=
+NB0м	"╠	вёNBвёNB%вёNB-вёNB0d"╡	вёNB▐бNB%▐бNB-АzNB0Т"╢	▐бNB▐бNB%▐бNB-▐бNB0d"а	АzNBАzNB%АzNB-АzNB0d"ш	O@NBO@NB%O@NB-O@NB0х"Х	▐бMB▐бMB%▐бMB-▐бMB0d"К	млNB▐бNB%млNB-ЛяMB0ь"■
+млNBмлNB%млNB-млNB0Я

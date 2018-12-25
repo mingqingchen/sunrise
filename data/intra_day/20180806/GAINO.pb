@@ -1,0 +1,2 @@
+
+GAINO∆ﬁœ	"¸*) A*) A%*) A-*) A0†"º◊£ AÏQ A%◊£ A-•= A0ê"‘q= Aq= A%q= A-q= A0Ë"œ	q= Aq= A%q= A-q= A0d"Ÿ	ÏQ AÏQ A%ÏQ A-ÏQ A0»"€	ÏQ AÏQ A%ÏQ A-ÏQ A0d"„	ÏQ AÏQ A%ÏQ A-ÏQ A0d"Á	ÏQ AÏQ A%ÏQ A-ÏQ A0d"Í	q= Aq= A%q= A-q= A0d

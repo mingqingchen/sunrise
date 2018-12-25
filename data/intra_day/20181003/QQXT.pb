@@ -1,0 +1,2 @@
+
+QQXT▀Юо	"гoASBoASB%oASB-oASB0▒"Ю╓pSB╓pSB%╓pSB-╓pSB0Б$"РR╦SB▐бSB%▐бSB-R╦SB0М┤"╖┤╖SB┤╖SB%┤╖SB-┤╖SB0n"╞>╧SB>╧SB%>╧SB->╧SB0n"Хс╪SBс╪SB%с╪SB-с╪SB0g"КмлSBмлSB%млSB-млSB0Т"МмлSBмлSB%млSB-млSB0ю"ЬФЪSBФЪSB%ФЪSB-ФЪSB0л"├oTBoTB%oTB-oTB0ч"▄{TB{TB%{TB-{TB0q"°VTBVTB%VTB-VTB0А"═VTBVTB%VTB-VTB0х"УGцSBGцSB%GцSB-GцSB0l"ШhЁSBhЁSB%hЁSB-hЁSB0х"ж	╝GSB╝GSB%╝GSB-■GSB0░"ъ	)\SB╓pSB%╓pSB-)\SB0Э\"А	HaSBnSB%nSB-HaSB0к"Б	ffSBffSB%╓pSB-)\SB0╓"К	╓pSBАzSB%АzSB-╓pSB0э

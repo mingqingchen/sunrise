@@ -1,0 +1,2 @@
+
+FDIVнчо	"ЖАzGBАzGB%АzGB-АzGB0d"Б┘КFB┘КFB%┘КFB-┘КFB0нг"└ъOFBмLFB%ъOFB-мLFB0У"┘ЛQFBЛQFB%ЛQFB-ЛQFB0┬'"°яQFBffFB%ffFB-Ж(FB0°"Яq=FBq=FB%q=FB-q=FB0d"х	г:FBг:FB%г:FB-г:FB0}

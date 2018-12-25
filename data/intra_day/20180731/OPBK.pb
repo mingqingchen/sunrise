@@ -1,0 +1,4 @@
+
+OPBKШщо	"ЖмлHAмлHA%млHA-млHA0▐"█Ж(HAЖ(HA%Ж(HA-Ж(HA0d"рЛQHAЛQHA%ЛQHA-ЛQHA0d"Г\▐HA\▐HA%\▐HA-\▐HA0d"╘\▐HA\▐HA%\▐HA-\▐HA0d"е\▐HA\▐HA%\▐HA-\▐HA0d"▌\▐HA\▐HA%\▐HA-\▐HA0d"·млHAмлHA%млHA-млHA0░"╘╦IA╦IA%╦IA-╦IA0х"╥╝GIA╝GIA%╝GIA-╝GIA0d"│▐бHA▐бHA%▐бHA-▐бHA0d"┌33IA33IA% ≥IA-33IA0ШX"▓q=JAq=JA%q=JA-q=JA0Т"тHАJAHАJA%HАJA-HАJA0d"щЖ(JAЖ(JA%Ж(JA-Ж(JA0d"РHАJAHАJA%HАJA-HАJA0х"┘	{JA{JA%{JA-{JA0d"├	ffJAffJA%ffJA-ffJA0╛"╢	ffJAffJA%ffJA-ffJA0d"х	┘КIA┘КIA%┘КIA-┘КIA0d"и	ffJAffJA%ffJA-ffJA0d"н	┘КIA┘КIA%┘КIA-┘КIA0╝"о	{JA{JA%{JA-{JA0d"ч	┘КIAHАJA%HАJA-цУHA0╓&"А	33KA33KA%33KA-33KA0х"И	R╦JAR╦JA%R╦JA-R╦JA0х"К	ffJAffJA%ffJA-ffJA0d"■
+ffJAffJA%ffJA-ffJA0╥"а
+ffJAffJA%ffJA-ffJA0╘

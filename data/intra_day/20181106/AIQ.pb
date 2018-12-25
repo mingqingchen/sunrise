@@ -1,0 +1,2 @@
+
+AIQСЮо	"├ИHbAИHbA%ИHbA-ИHbA0Т"┴·ОaA·ОaA%·ОaA-·ОaA0З"▀33cA33cA%33cA-33cA0d"е▒bA▒bA%▒bA-▒bA0Т"к√╡bA√╡bA%√╡bA-√╡bA0х"шq=bAq=bA%q=bA-q=bA0d"╜q=bAq=bA%q=bA-q=bA0┐"┐┘КaA┘КaA%┘КaA-┘КaA0█"÷╪taA╪taA%╪taA-╪taA0Т"ВАz`AАz`A%Аz`A-Аz`A0╛"ЪЛQ`AАz`A%вё`A-ЛQ`A0Э"╤	вё`Aвё`A%вё`A-вё`A0d"е	мл`Aмл`A%мл`A-мл`A0╛

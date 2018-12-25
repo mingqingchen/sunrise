@@ -1,0 +1,2 @@
+
+EGFЖщо	"ЖАzLAАzLA%АzLA-АzLA0d"фАzLAАzLA%АzLA-АzLA0d"шЛQLAЛQLA%ЛQLA-ЛQLA0п"ЙмлLAмлLA%млLA-млLA0▀"КмлLAмлLA%млLA-млLA0и"ТмлLAцУLA%цУLA-млLA0Т"лцУLAцУLA%цУLA-цУLA0Х"╔╝GMA╦MA%╝GMA-╦MA0░"К╫RMA╦MA%╫RMA-╦MA0Р"╤	d]MAd]MA%d]MA-d]MA0Т"©	г)MA╦MA%г)MA-╦MA0л"с	&SMA&SMA%&SMA-&SMA0е

@@ -1,0 +1,2 @@
+
+AIQÇÞÏ	"öR¸rA\rA%R¸rA-\rA0ö"ýö(rAö(rA%ö(rA-ö(rA0È"‡MrAMrA%MrA-MrA0È"¿À[sAÀ[sA%À[sA-À[sA0ú"Ïq=sAq=sA%q=sA-q=sA0d"éHárAHárA%HárA-HárA0d"ë33sA33sA%33sA-33sA0¬"ì33sA33sA%33sA-33sA0°	"óF%sAF%sA%F%sA-F%sA0È"‘[BsA[BsA%[BsA-[BsA0d

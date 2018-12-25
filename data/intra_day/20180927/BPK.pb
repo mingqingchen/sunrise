@@ -1,0 +1,2 @@
+
+BPK©ъо	"ЖмлpAмлpA%млpA-млpA0ъ"▐млpAмлpA%млpA-млpA0Ю"√у	qAу	qA%у	qA-у	qA0√"░ЕпpAЕпpA%ЕпpA-ЕпpA0Х"ёмлpAмлpA%млpA-млpA0d"уцУpAмлpA%цУpA-млpA0ю%"Г	╝GqA╝GqA%╝GqA-╝GqA0d

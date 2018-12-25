@@ -1,0 +1,3 @@
+
+CEAüאֿ	"צffתAffתA%ffתA-ffתA0‏"ûq=תAq=תA%q=תA-q=תA0d"›ˆפûAˆפûA%ˆפûA-ˆפûA0„"ֿאקAHבצA%אקA-HבצA0ת"״ֽLÿAֽLÿA%ֽLÿA-ֽLÿA0פ"זלQרAצ(üA%צ(üA-®GקA0׀("לֲûA{üA%{üA-ֲûA0פ"±	ffüAffüA%ֲ‎A-ffüA0נ"²	ֲ‎Aֲ‎A%ֲ‎A-ֲ‎A0ָ"ֵ	q=‏Aq=‏A%q=‏A-q=‏A0d"׃	׀3‎A׀3‎A%׀3‎A-׀3‎A0d"ה	ffüAffüA%ffüA-ffüA0ָ"ז	q=‏Aq=‏A%q=‏A-q=‏A0d"ך	q=‏Aq=‏A%q=‏A-q=‏A0d"כ	q=‏Aq=‏A%q=‏A-q=‏A0d"—
+₪pÿA₪pÿA%₪pÿA-₪pÿA0§

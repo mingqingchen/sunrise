@@ -1,0 +1,2 @@
+
+BJZхчо	"ввёlAАzlA%вёlA-АzlA0т"зЛQlAЖ(lA%ЛQlA-Ж(lA0╬t"эЛQlAЛQlA%ЛQlA-ЛQlA0╛"ФпDlAЛQlA%ЛQlA-пDlA0ю"Г0LlA0LlA%0LlA-0LlA0Х"ХЛQlAgDlA%ЛQlA-gDlA0═"┐	ЛQlAЛQlA%ЛQlA-ЛQlA0ю%"Ё	dлlAdлlA%dлlA-dлlA0И"о	АzlAмлlA%млlA-АzlA0х

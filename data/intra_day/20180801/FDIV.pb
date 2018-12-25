@@ -1,0 +1,2 @@
+
+FDIVачо	"ЖИfFBИfFB%ИfFB-ИfFB0▒"▐Г{FBГ{FB%Г{FB-Г{FB0б"цdлFBdлFB%dлFB-dлFB0Т"²{GB{GB%{GB-{GB0√"°@ДFB@ДFB%@ДFB-@ДFB0з"║@ДFB@ДFB%@ДFB-@ДFB0Ю"ё@ДFB@ДFB%@ДFB-@ДFB0Ё"Ч▐бFB▐бFB%▐бFB-▐бFB0Х"╠	млFBмлFB%млFB-млFB0╓"а	┴аFB┴аFB%┴аFB-┴аFB0Т"е	╗вFB╗вFB%╗вFB-╗вFB0║
