@@ -14,6 +14,7 @@ import sys
 import pandas as pd
 import requests
 import tensorflow as tf
+import time
 
 import os, sys
 import json
@@ -154,7 +155,7 @@ class IntraDayCrawler:
     symbol_list = self.get_crawl_list_from_three_indices()
     for symbol in symbol_list:
       if not self.crawl_and_export_one_symbol(symbol):
-        break
+        continue
 
 class IntraDayCrawlerTD(IntraDayCrawler):
   def __init__(self, data_folder):
@@ -171,9 +172,16 @@ class IntraDayCrawlerTD(IntraDayCrawler):
       self.live_trade_api_.get_new_access_token()
       result, response = self.live_trade_api_.query_historical_price(symbol)
     
+    while 'error' in response and 'transactions per seconds restriction' in response['error']:
+      result, response = self.live_trade_api_.query_historical_price(symbol)
+      print('Transaction per seconds restriction reached. Sleep for 1 sec.')
+      time.sleep(1)
+    
     one_symbol_data = stock_pb2.OneIntraDayData()
     if 'error' in response or (not result):
       print ('Could not query symbol {0}. Something is wrong !!!'.format(symbol))
+      import pdb
+      pdb.set_trace()
       return False, one_symbol_data
     elif 'candles' not in response:
       print ('Could not find candles in response of symbol {0}. Something is wrong !!!'.format(symbol))
