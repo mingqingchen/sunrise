@@ -1,15 +1,15 @@
-1. go to https://auth.tdameritrade.com/auth?response_type=code&redirect_uri=sunrsie&client_id=mingqing8@AMER.OAUTHAP
+1. go to https://auth.tdameritrade.com/auth?response_type=code&redirect_uri=http://www.google.com&client_id=MINGQING999@AMER.OAUTHAP
 
 2. get code after code=
 
-3. decode this code
+3. decode this code in https://www.urldecoder.org/
 
 4. https://developer.tdameritrade.com/authentication/apis/post/token-0
   grant_type:authorization_code
   access_type:offline
-  code: ***this code***
-  client_id: mingqing8@AMER.OAUTHAP
-  redirect_uri: sunrise
+  code: *** decoded code ***
+  client_id: MINGQING999@AMER.OAUTHAP
+  redirect_uri: http://www.google.com
 
 5. then you will get access token and refresh token. This seems only 1 time effective. Otherwise you need to repeat from step 1.
 
@@ -19,3 +19,10 @@ access_token expires in 30min.
 
 Example of get multiple quotes:
 curl -X GET --header "Authorization: " "https://api.tdameritrade.com/v1/marketdata/quotes?apikey=mingqing8%40AMER.OAUTHAP&symbol=ISRG%2CAMZN%2CMSFT%2CGOOGL%2CETSY"
+
+
+
+
+
+
+9e3taToxtxx1%2FXYQVqYCpsxrQHZf4o7IHsQ54iU4xGj%2F5AjjbeeD6ZLSUH2237x%2FCNHJv44ituQ3SGnbYn9edCeXQ3JJEjGftnKbs%2FP%2B4vSHSsgx9AeQ8BUgNNAPAHGVrOh5fAfg0mvprAaKa3PFqu4qbU1h1TtVyJFrWYJlmz7tIbXOgPxxe5dWRkTYI6FVKB5A2Y0aakPEHy5J0dRyutY6WLdf1gPB831mXgjnR22Qz6Ccb5HcIiUObqXP8WbiiIfvds1JkJDHC%2BY74H2RrCRSBLd7oYp8o23%2BnsXYWK4W%2BHzZ5jXciMlfk0B%2BkCP9ckVW8AgY%2BnuR0xIw3FfUMeXBwBK54tL6qUuD2AmMSJZed1ocQFWa7Q7JroqXpHDpV8nQKxkJfMaFkz0wBLwX603ykUJoWYt5zMzFoeE80XAzlouPFk8Op9Yom0u100MQuG4LYrgoVi%2FJHHvlEzQRnrIYFwkMtfQdlHKZ6YRlqpQqx311HddDqnY4PzKNRRHjTqOXeUckg6KsEk%2BgzS3T17zus0yubxjN7CGhVpQRAv8EGnc6uzPKd8U9VCyXiwAskwX4n0FK5Rdhx6iGh14sNIXSN4jJ1bl29d39JoOZ0oc2a4cPyxFRIrAZKeBr%2F2kIsQgi3EXDXtS9XaCTID%2FvVqZMYdnEAvekyrwtFWyUSDdE0wckIvWcnEyvpyw3bK8f88njQQYimja6y8A94uk8wTKGOQPTcsBLK6auoNpceNyI97HDmxhugz6LBtRYE9234XfTmddC9GiII8pI9sw8FDVSVqFz0EnHI3EHBtcIo65LF1LjeMznRbTxWIPb1gP%2F%2ByQvUpjdvaL0xqFuwhX7pSqmdTK0%2FE81j%2BqGRVyHGZWWLqfsJHLvt4SIFy6W%2B37S63KGODoPGTA%3D212FD3x19z9sWBHDJACbC00B75E
