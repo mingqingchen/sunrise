@@ -12,6 +12,8 @@ import util.datetime_util as datetime_util
 
 k_eligible_file_name = 'eligible_list.txt'
 
+# Class providing easy access to crawled data
+# Note that use_eligible_list is set to true by default, which filters out a lot of stocks based on a whitelist
 class DataProvider:
   def __init__(self, root_folder, use_eligible_list = True):
     self.root_folder_ = root_folder
@@ -53,6 +55,12 @@ class DataProvider:
     return True
 
   def __is_eligible(self, symbol):
+    """Determine if a given symbol is eligible based on daily cash flow.
+       Input:
+         symbol: input string of a symbol name
+       Returns:
+         True or False indicating if the symbol is eligible
+    """
     if symbol not in self.one_day_data_:
       return False
     total_daily_cash_flow_threshold = 20000 * 6.5 * 60
@@ -77,6 +85,10 @@ class DataProvider:
     return num_valid_time_points > fill_in_ratio * total_time_point
 
   def generate_eligible_list(self):
+    """Generate a list of eligible symbols.
+       Returns:
+           a list of eligible symbols
+    """
     self.eligible_list_ = dict()
     for symbol in self.one_day_data_:
       if self.__is_eligible(symbol):
@@ -123,6 +135,10 @@ class DataProvider:
     return self.one_day_data_[symbol]
 
   def load_one_day_data(self, date_int_val):
+    """Load one day's available symbol.
+       Input:
+         date_int_val: integer value of a day, in the format of "20181228"
+    """
     self.symbol_list_ = self.get_symbol_list_for_a_day(date_int_val)
     self.one_day_data_.clear()
     for symbol in self.symbol_list_:
