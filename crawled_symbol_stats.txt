@@ -161,3 +161,4 @@ Date: 20181219, number of symbols: 11, valid ones: 11
 Date: 20181220, number of symbols: 1, valid ones: 1
 Date: 20181226, number of symbols: 1272, valid ones: 1272
 Date: 20181227, number of symbols: 1272, valid ones: 1272
+Date: 20181228, number of symbols: 1271, valid ones: 1269

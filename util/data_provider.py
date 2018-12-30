@@ -207,6 +207,7 @@ class DataProvider:
       return False, one_stock_data
 
   def get_all_available_subfolder(self):
+    """Return a list of strings containing crawled date in the format of 20181230"""
     return self.subfolder_list_
 
   def get_symbol_list_for_a_day(self, date_int_val):

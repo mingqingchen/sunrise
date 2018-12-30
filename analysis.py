@@ -57,9 +57,13 @@ def analyze_distribution():
 def analyze_data_quality_through_time():
   """Analyze crawled data through time. Print stats for number of symbols that have more than 50 data points. """
   folder = './data/intra_day/'
+  start_date = 20181228
+  end_date = 20190101
   dp = data_provider.DataProvider(folder)
   all_sub_folders = dp.get_all_available_subfolder()
   for sub_folder in all_sub_folders:
+    if int(sub_folder) < start_date or int(sub_folder) > end_date:
+      continue
     dp.load_one_day_data(sub_folder)
     one_day_list = dp.get_symbol_list_for_a_day(sub_folder)
     num_valid = 0
