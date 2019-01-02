@@ -24,7 +24,7 @@ class BuyAndHoldOneStockTradeStrategy(TradeStrategy):
     """
     self.date_int_val_ = date_int_val
     self.is_sim_last_day_ = is_sim_last_day
-    data_manager.load_one_symbol(date_int_val, self.symbol_)
+    data_manager.load_one_symbol_data(date_int_val, self.symbol_)
     return
   
   def run_minute_trade_strategy(self, data_manager, cur_time, portfolio):

@@ -1,21 +1,17 @@
-import argparse
-import os
-import sys
-import tensorflow as tf
 
 import matplotlib.pyplot as plt
 
-import os, sys
-import util.display_util as display_util
-import proto.stock_pb2 as stock_pb2
-import util.datetime_util as datetime_util
+import os
+import stock_pb2
+import datetime_util
 
 k_eligible_file_name = 'eligible_list.txt'
+
 
 # Class providing easy access to crawled data
 # Note that use_eligible_list is set to true by default, which filters out a lot of stocks based on a whitelist
 class DataProvider:
-  def __init__(self, root_folder, use_eligible_list = True):
+  def __init__(self, root_folder, use_eligible_list=True):
     self.root_folder_ = root_folder
     all_folders = [f for f in os.listdir(self.root_folder_) if os.path.isdir(os.path.join(self.root_folder_, f))]
     self.subfolder_list_ = []
@@ -31,15 +27,14 @@ class DataProvider:
     self.symbol_timeslot_index_ = dict()
     self.use_eligible_list_ = use_eligible_list
     if use_eligible_list:
-      if self.import_eligible_list():
-        print('Successfully loaded eligible list. Number of eligible symbols: {0}'.format(len(self.eligible_list_)))
-      else:
-        print('Failed to load eligible list. Something is wrong!!!')
+      assert self.__import_eligible_list()
 
   def __get_day_folder(self, date_int_val):
+    """Get the absolute folder path for a given input integer day."""
     return os.path.join(self.root_folder_, str(date_int_val) + '/')
 
-  def import_eligible_list(self):
+  def __import_eligible_list(self):
+    """Import eligible list from a text file. Return false if failed to import."""
     try:
       list_file = os.path.join(self.root_folder_, k_eligible_file_name)
       fid = open(list_file)
@@ -54,85 +49,74 @@ class DataProvider:
       return False
     return True
 
-  def __is_eligible(self, symbol):
-    """Determine if a given symbol is eligible based on daily cash flow.
-       Input:
-         symbol: input string of a symbol name
-       Returns:
-         True or False indicating if the symbol is eligible
-    """
-    if symbol not in self.one_day_data_:
-      return False
-    total_daily_cash_flow_threshold = 20000 * 6.5 * 60
-    min_price_threshold = 5.0
-
-    start_time = 630
-    finish_time = 1300
-    total_time_point = 390
-    fill_in_ratio = 0.8
-
-    total_cash_flow = 0
-    num_valid_time_points = 0
-    for one_time_data in self.one_day_data_[symbol].data:
-      if one_time_data.low < min_price_threshold:
-        return False
-      if one_time_data.time_val >= start_time and one_time_data.time_val <= finish_time:
-        num_valid_time_points += 1
-      total_cash_flow += one_time_data.volume * one_time_data.open
-    if total_cash_flow < total_daily_cash_flow_threshold:
-      return False
-
-    return num_valid_time_points > fill_in_ratio * total_time_point
-
-  def generate_eligible_list(self):
-    """Generate a list of eligible symbols.
-       Returns:
-           a list of eligible symbols
-    """
-    self.eligible_list_ = dict()
-    for symbol in self.one_day_data_:
-      if self.__is_eligible(symbol):
-        self.eligible_list_[symbol] = True
-    list_file = os.path.join(self.root_folder_, k_eligible_file_name)
-    fid = open(list_file, 'w')
-    for symbol in self.eligible_list_:
-      fid.write('{0}\n'.format(symbol))
-    fid.close()
+  def get_all_available_dates(self):
+    """Return a list of strings containing crawled date in the format of 20181230"""
+    return self.subfolder_list_
 
   def next_record_day(self, input_day_val):
+    """For a input day, return the next day with recorded symbols.
+       Assume subfolder_list_ is a sorted integer list
+       Input:
+           input_day_val: integer of input day
+       Return:
+           Integer of the next day. -1 for not available.
+    """
+    assert len(self.subfolder_list_) > 0
+    if input_day_val < int(self.subfolder_list_[0]):
+      return int(self.subfolder_list_[0])
     num_days = len(self.subfolder_list_)
     for i in range(num_days):
       if self.subfolder_list_[i] == str(input_day_val):
         if i < num_days - 1:
-          return True, int(self.subfolder_list_[i + 1])
-    return False, 0
+          return int(self.subfolder_list_[i + 1])
+    return -1
 
-  def serialize_one_symbol(self, date_int_val, symbol, one_stock_data):
+  def deserialize_one_symbol(self, date_int_val, symbol):
+    """Given an integer date_int_val and symbol, return T/F result of deserialization and one_stock_data."""
     intra_day_folder = self.__get_day_folder(date_int_val)
     file_path = os.path.join(intra_day_folder, symbol + '.pb')
-    fid = open(file_path, 'w')
-    fid.write(one_stock_data.SerializeToString())
-    fid.close()
+    one_stock_data = stock_pb2.OneIntraDayData()
+    if not os.path.isfile(file_path):
+      return False, one_stock_data
+    try:
+      fid = open(file_path)
+      content = fid.read()
+      fid.close()
+      one_stock_data.ParseFromString(content)
+      return True, one_stock_data
+    except ValueError:
+      return False, one_stock_data
 
-  def load_one_symbol(self, date_int_val, symbol):
+  def load_one_symbol_data(self, date_int_val, symbol):
+    """Given a date_int_val and symbol, deserialize one stock into one_day_data_ from disk.
+       Return T/F of whether loading is successful
+    """
     result, one_stock_data = self.deserialize_one_symbol(date_int_val, symbol)
     if not result:
       return False
     self.one_day_data_[symbol] = one_stock_data
     return True
 
-  def get_available_symbol_list(self):
-    if self.use_eligible_list_:
-      available_list = []
-      for symbol in self.one_day_data_.keys():
-        if symbol in self.eligible_list_:
-          available_list.append(symbol)
-      return available_list
-    else:
-      return self.one_day_data_.keys()
-
   def get_one_symbol_data(self, symbol):
     return self.one_day_data_[symbol]
+
+  def get_symbol_list_for_a_day(self, date_int_val):
+    """Returns a list of symbols that are available in a date_int_val subfolder."""
+    day_folder = self.__get_day_folder(date_int_val)
+    symbol_list = []
+    if not os.path.isdir(day_folder):
+      return symbol_list
+
+    all_files = [f for f in os.listdir(day_folder) if os.path.isfile(os.path.join(day_folder, f)) and f.endswith('.pb')]
+    for filename in all_files:
+      filename = filename.replace(' ', '')
+      filename = filename.replace('.pb', '')
+      if self.use_eligible_list_:
+        if filename in self.eligible_list_:
+          symbol_list.append(filename)
+      else:
+        symbol_list.append(filename)
+    return symbol_list
 
   def load_one_day_data(self, date_int_val):
     """Load one day's available symbol.
@@ -144,15 +128,19 @@ class DataProvider:
     for symbol in self.symbol_list_:
       if self.use_eligible_list_:
         if symbol in self.eligible_list_:
-          self.load_one_symbol(date_int_val, symbol)
+          self.load_one_symbol_data(date_int_val, symbol)
       else:
-        self.load_one_symbol(date_int_val, symbol)
-      
-  def has_symbol(self, symbol):
+        self.load_one_symbol_data(date_int_val, symbol)
+
+  def get_available_symbol_list(self):
     if self.use_eligible_list_:
-      return (symbol in self.one_day_data_) and (symbol in self.eligible_list_)
+      available_list = []
+      for symbol in self.one_day_data_.keys():
+        if symbol in self.eligible_list_:
+          available_list.append(symbol)
+      return available_list
     else:
-      return symbol in self.one_day_data_
+      return self.one_day_data_.keys()
 
   def clear_symbol_index(self):
     self.symbol_timeslot_index_.clear()
@@ -191,39 +179,54 @@ class DataProvider:
     else:
       return result, self.one_day_data_[symbol].data[index]
 
-  def deserialize_one_symbol(self, date_int_val, symbol):
-    intra_day_folder = self.__get_day_folder(date_int_val)
-    file_path = os.path.join(intra_day_folder, symbol + '.pb')
-    one_stock_data = stock_pb2.OneIntraDayData()
-    if not os.path.isfile(file_path):
-      return False, one_stock_data
-    try:
-      fid = open(file_path)
-      content = fid.read()
-      fid.close()
-      one_stock_data.ParseFromString(content)
-      return True, one_stock_data
-    except ValueError:
-      return False, one_stock_data
+  # --------------------------- Utility function related to eligible list ---------------------------
+  def __is_eligible(self, symbol):
+    """Determine if a symbol is eligible based on daily cash flow of current loaded status in one_day_data_[symbol].
+       Input:
+         symbol: input string of a symbol name
+       Returns:
+         True or False indicating if the symbol is eligible
+    """
+    if symbol not in self.one_day_data_:
+      return False
+    total_daily_cash_flow_threshold = 20000 * 6.5 * 60
+    min_price_threshold = 5.0
 
-  def get_all_available_subfolder(self):
-    """Return a list of strings containing crawled date in the format of 20181230"""
-    return self.subfolder_list_
+    start_time = 630
+    finish_time = 1300
+    total_time_point = 390
+    fill_in_ratio = 0.8
 
-  def get_symbol_list_for_a_day(self, date_int_val):
-    day_folder = self.__get_day_folder(date_int_val)
-    all_files = [f for f in os.listdir(day_folder) if os.path.isfile(os.path.join(day_folder, f)) and f.endswith('.pb')]
-    symbol_list = []
-    for filename in all_files:
-      filename = filename.replace(' ', '')
-      filename = filename.replace('.pb', '')
-      if self.use_eligible_list_:
-        if filename in self.eligible_list_:
-          symbol_list.append(filename)
-      else:
-        symbol_list.append(filename)
-    return symbol_list
+    total_cash_flow = 0
+    num_valid_time_points = 0
+    for one_time_data in self.one_day_data_[symbol].data:
+      if one_time_data.low < min_price_threshold:
+        return False
+      if one_time_data.time_val >= start_time and one_time_data.time_val <= finish_time:
+        num_valid_time_points += 1
+      total_cash_flow += one_time_data.volume * one_time_data.open
+    if total_cash_flow < total_daily_cash_flow_threshold:
+      return False
 
+    return num_valid_time_points > fill_in_ratio * total_time_point
+
+  def generate_eligible_list(self):
+    """Generate member variable eligible_list_ based on eligibility of each symbol
+    """
+    self.eligible_list_ = dict()
+    for symbol in self.one_day_data_:
+      if self.__is_eligible(symbol):
+        self.eligible_list_[symbol] = True
+
+  def export_eligible_list(self):
+    """Export eligible_list_ to a text file."""
+    list_file = os.path.join(self.root_folder_, k_eligible_file_name)
+    fid = open(list_file, 'w')
+    for symbol in self.eligible_list_:
+      fid.write('{0}\n'.format(symbol))
+    fid.close()
+
+  # --------------------------- function related to plotting stock data ---------------------------
   def __prepare_one_stock_data_list(self, one_stock_data):
     time_list, open_list, close_list, high_list, low_list = [], [], [], [], []
     for one_slot_data in one_stock_data.data:
@@ -253,15 +256,11 @@ class DataProvider:
     for transaction in transactions:
       trans_time = datetime_util.int_to_time(transaction.time)
       if transaction.type == stock_pb2.Transaction.BUY:
-        plt.vlines(trans_time, minimal_val, maximal_val, 'r')        
+        plt.vlines(trans_time, minimal_val, maximal_val, 'r')
       else:
         plt.vlines(trans_time, minimal_val, maximal_val, 'b')
     plt.grid()
     plt.title(symbol)
-
-  def diplay_one_symbol_one_day(self, symbol, one_stock_data, transactions = []):
-    self.__prepare_display_one_symbol_one_day(symbol, one_stock_data, transactions)
-    plt.show()
 
   def export_one_symbol_one_day(self, symbol, one_stock_data, img_path, transactions = []):
     self.__prepare_display_one_symbol_one_day(symbol, one_stock_data, transactions)
@@ -274,12 +273,13 @@ class DataProvider:
 
     symbol_list = self.get_symbol_list_for_a_day(day_int_val)
     # use the following one to get quick look on major stocks:
-    symbol_list = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'ARII']
+    symbol_list = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'BRKB']
+    print ('Output to png folder %s.' % png_folder)
     for symbol in symbol_list:
       print('Processing {0}'.format(symbol))
       result, one_stock_data = self.deserialize_one_symbol(day_int_val, symbol)
       if not result:
-        print('Not able to deserilize symbol {0}'.format(symbol))
+        print('Not able to deserialize symbol {0}'.format(symbol))
         continue
       png_file_path = os.path.join(png_folder, symbol + '.png')
       self.export_one_symbol_one_day(symbol, one_stock_data, png_file_path)

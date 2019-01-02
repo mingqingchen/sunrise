@@ -238,7 +238,7 @@ class FixedNumTimePointsModelManager(ModelManager):
     return True
 
   def __prepare_data(self, start_date, end_date, sample_step):
-    available_dates = self.dm_.get_all_available_subfolder()
+    available_dates = self.dm_.get_all_available_dates()
     data_x, data_x_extra, data_y = [], [], []
     current_day = start_date
     while True:

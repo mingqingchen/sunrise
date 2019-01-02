@@ -2,7 +2,7 @@ import os, sys
 import matplotlib.pyplot as plt
 
 import util.display_util as display_util
-import proto.stock_pb2 as stock_pb2
+import stock_pb2
 import util.datetime_util as datetime_util
 
 class DistributionAnalyzer():

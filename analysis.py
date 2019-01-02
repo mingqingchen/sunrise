@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import util.data_provider as data_provider
 import util.datetime_util as datetime_util
 import util.distribution_analyzer as distribution_analyzer
-import proto.stock_pb2 as stock_pb2
+import util.stock_pb2 as stock_pb2
 import proto.nn_train_param_pb2 as nn_train_param_pb2
 
 import train.model_manager as model_manager
@@ -20,14 +20,14 @@ k_drop_threshold = -0.02
 
 def export_some_intra_day_data_to_pngs():
   dp = data_provider.DataProvider(FLAGS.data_dir)
-  dp.batch_output_one_day_data_to_png(20180427, k_png_temp_folder)
+  dp.batch_output_one_day_data_to_png(20181228, k_png_temp_folder)
 
 def analyze_distribution():
   if not os.path.isdir(k_png_temp_folder):
     os.makedirs(k_png_temp_folder)
   
   dp = data_provider.DataProvider(FLAGS.data_dir)
-  subfolder_list = dp.get_all_available_subfolder()
+  subfolder_list = dp.get_all_available_dates()
   
   for subfolder in subfolder_list:
     print('Now analyzing {0}'.format(subfolder))
@@ -60,7 +60,7 @@ def analyze_data_quality_through_time():
   start_date = 20181228
   end_date = 20190101
   dp = data_provider.DataProvider(folder)
-  all_sub_folders = dp.get_all_available_subfolder()
+  all_sub_folders = dp.get_all_available_dates()
   for sub_folder in all_sub_folders:
     if int(sub_folder) < start_date or int(sub_folder) > end_date:
       continue
@@ -229,11 +229,12 @@ def load_model():
 
 
 def run_through_analysis_functions(_):
-  # export_some_intra_day_data_to_pngs()
+  export_some_intra_day_data_to_pngs()
   # compare_two_crawl_result()
   # run_and_display_classifier_prob()
   # update_eligible_list()
-  analyze_data_quality_through_time()
+  # analyze_data_quality_through_time()
+
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

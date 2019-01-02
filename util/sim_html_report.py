@@ -145,7 +145,7 @@ class SimulationHtmlReport:
     for date_val in day_symbol_transaction_index_dict.keys():
       for symbol in day_symbol_transaction_index_dict[date_val].keys():
         img_path = os.path.join(img_folder, '{0}_{1}.png'.format(date_val, symbol))
-        dp.load_one_symbol(date_val, symbol)
+        dp.load_one_symbol_data(date_val, symbol)
         one_stock_data = dp.get_one_symbol_data(symbol)
         dp.export_one_symbol_one_day(symbol, one_stock_data, img_path, transactions = day_symbol_transaction_index_dict[date_val][symbol])
 

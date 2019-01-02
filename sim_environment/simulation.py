@@ -74,8 +74,8 @@ class Simulation():
         
         cur_time = datetime_util.next_minute(cur_time)
 
-      has_next_day, cur_day = self.data_manager_.next_record_day(cur_day)
-      if not has_next_day:
+      cur_day = self.data_manager_.next_record_day(cur_day)
+      if cur_day == -1:
         break
 
   def get_simulation_run_result(self):
