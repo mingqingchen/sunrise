@@ -15,8 +15,8 @@ class TradeAPI:
 
 
     self.get_access_token_url = 'https://api.tdameritrade.com/v1/oauth2/token'
-    self.get_access_token_body = 'grant_type=refresh_token&refresh_token=%s&access_type=offline&code=&client_id=%s%40AMER.OAUTHAP&redirect_uri=%s' % (
-      '{0}', k_client_id, k_redirect_uri)
+    self.get_access_token_body = 'grant_type=refresh_token&refresh_token={0}&access_type=offline&code=&client_id=' + (
+      k_client_id +'%40AMER.OAUTHAP&redirect_uri=' + k_redirect_uri)
 
     self.get_history_price_template_ = 'https://api.tdameritrade.com/v1/marketdata/{0}/pricehistory?period=1&frequencyType=minute&frequency=1'
     self.real_time_quotes_template_ = 'https://api.tdameritrade.com/v1/marketdata/quotes?apikey={0}&symbol={1}'

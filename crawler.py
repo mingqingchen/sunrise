@@ -19,7 +19,7 @@ import time
 import os, sys
 import json
 import util.datetime_util as datetime_util
-import proto.stock_pb2 as stock_pb2
+import util.stock_pb2 as stock_pb2
 import live_trade.trade_api as trade_api
 
 k_intra_day_folder = 'intra_day/'
@@ -125,7 +125,7 @@ class IntraDayCrawler:
         symbol_list.append(symbol)
     return symbol_list
 
-  def daily_crawl(self):
+  def daily_crawl(self, crawl_symbol_list=False):
     # Make data folder
     if not os.path.exists(self.data_folder_):
       os.makedirs(self.data_folder_)
@@ -142,14 +142,15 @@ class IntraDayCrawler:
       os.makedirs(self.today_folder_)
 
     # First, download index symbol list
-    for index_name in k_index_list:
-      print('Downloading symbol list for index: {0}'.format(index_name))
-      url = self.index_list_url_template.format(index_name)
-      temp_filename, headers = urllib.urlretrieve(url)
-      local_filename = os.path.join(self.today_folder_, index_name + '.csv')
-      if os.path.isfile(local_filename):
-        os.remove(local_filename)
-      shutil.move(temp_filename, local_filename)
+    if crawl_symbol_list:
+      for index_name in k_index_list:
+        print('Downloading symbol list for index: {0}'.format(index_name))
+        url = self.index_list_url_template.format(index_name)
+        temp_filename, headers = urllib.urlretrieve(url)
+        local_filename = os.path.join(self.today_folder_, index_name + '.csv')
+        if os.path.isfile(local_filename):
+          os.remove(local_filename)
+        shutil.move(temp_filename, local_filename)
 
     # Then download intra day price for each symbol
     symbol_list = self.get_crawl_list_from_three_indices()
@@ -224,7 +225,9 @@ class IntraDayCrawlerTD(IntraDayCrawler):
 def main(_):
   crawler = IntraDayCrawlerTD(FLAGS.data_folder)
   # crawler = IntraDayCrawler(FLAGS.data_folder)
-  crawler.daily_crawl()
+
+  # set crawl_symbol_list to false to speed up the process, without downloading the symbol list
+  crawler.daily_crawl(crawl_symbol_list=True)
 
 if __name__=='__main__':
   parser = argparse.ArgumentParser()
