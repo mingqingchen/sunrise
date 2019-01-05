@@ -50,16 +50,16 @@ class DataProvider:
     return True
 
   def get_all_available_dates(self):
-    """Return a list of strings containing crawled date in the format of 20181230"""
+    """Return a list of strings containing crawled date in the format of 20181230."""
     return self.subfolder_list_
 
   def next_record_day(self, input_day_val):
-    """For a input day, return the next day with recorded symbols.
-       Assume subfolder_list_ is a sorted integer list
-       Input:
-           input_day_val: integer of input day
-       Return:
-           Integer of the next day. -1 for not available.
+    """For a input day, return the next day with recorded symbols. Assume subfolder_list_ is a sorted integer list.
+    
+    Args:
+       input_day_val: integer of input day
+    Returns:
+       Integer of the next day. -1 for not available.
     """
     assert len(self.subfolder_list_) > 0
     if input_day_val < int(self.subfolder_list_[0]):
@@ -89,7 +89,12 @@ class DataProvider:
 
   def load_one_symbol_data(self, date_int_val, symbol):
     """Given a date_int_val and symbol, deserialize one stock into one_day_data_ from disk.
-       Return T/F of whether loading is successful
+
+    Args:
+      date_int_val: input integer of given date
+      symbol: input string of symbol name
+    Returns:
+       T/F of whether loading is successful.
     """
     result, one_stock_data = self.deserialize_one_symbol(date_int_val, symbol)
     if not result:
@@ -120,8 +125,9 @@ class DataProvider:
 
   def load_one_day_data(self, date_int_val):
     """Load one day's available symbol.
-       Input:
-         date_int_val: integer value of a day, in the format of "20181228"
+
+    Args:
+       date_int_val: integer value of a day, in the format of "20181228"
     """
     self.symbol_list_ = self.get_symbol_list_for_a_day(date_int_val)
     self.one_day_data_.clear()
@@ -146,10 +152,15 @@ class DataProvider:
     self.symbol_timeslot_index_.clear()
 
   def get_symbol_minute_index(self, symbol, time_int_val):
-    """ Given a symbol and its time_int_val, return the index
-    :param symbol: symbol name
-    :param time_int_val: time int value
-    :return: result, index
+    """Given a symbol and its time_int_val, return the index.
+
+    Args:
+      symbol: symbol name
+      time_int_val: time int value
+    Returns:
+      result: 0 indicating successful found minute index, 1 for not existing but in the middle of two other timepoints,
+              2 indicating not existing and at the end of crawling time
+      index: the index associated with the time_int_val
     """
     index = 0
     if symbol in self.symbol_timeslot_index_:
@@ -168,10 +179,14 @@ class DataProvider:
 
 
   def get_symbol_minute_data(self, symbol, time_int_val):
-    """ Get symbol minute data.
-        Returns:
-          result: 0 for exact match time_int_val, 1 for time_int_val larger than this, 2 for never reaches
-          one time slot data
+    """Get symbol minute data.
+
+    Args:
+      symbol: symbol name string
+      time_int_val: integer of time point
+    Returns:
+      result: 0 for exact match time_int_val, 1 for time_int_val larger than this, 2 for never reaches
+              one time slot data
     """
     result, index = self.get_symbol_minute_index(symbol, time_int_val)
     if index < 0:
@@ -182,10 +197,11 @@ class DataProvider:
   # --------------------------- Utility function related to eligible list ---------------------------
   def __is_eligible(self, symbol):
     """Determine if a symbol is eligible based on daily cash flow of current loaded status in one_day_data_[symbol].
-       Input:
-         symbol: input string of a symbol name
-       Returns:
-         True or False indicating if the symbol is eligible
+
+    Args:
+      symbol: input string of a symbol name
+    Returns:
+      True or False indicating if the symbol is eligible
     """
     if symbol not in self.one_day_data_:
       return False
@@ -211,8 +227,7 @@ class DataProvider:
     return num_valid_time_points > fill_in_ratio * total_time_point
 
   def generate_eligible_list(self):
-    """Generate member variable eligible_list_ based on eligibility of each symbol
-    """
+    """Generate member variable eligible_list_ based on eligibility of each symbol."""
     self.eligible_list_ = dict()
     for symbol in self.one_day_data_:
       if self.__is_eligible(symbol):
