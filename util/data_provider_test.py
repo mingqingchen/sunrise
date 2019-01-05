@@ -41,6 +41,7 @@ class TestDataProvider(unittest.TestCase):
 
   def _build_data_set(self):
     create_folder_if_not_exist(k_tmp_folder)
+    create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181228'))
     create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181230'))
     create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181231'))
     create_folder_if_not_exist(os.path.join(k_tmp_folder, '20190101'))
@@ -51,6 +52,10 @@ class TestDataProvider(unittest.TestCase):
     self._add_one_time_slot_data(one_stock_data, 601, 990.0, 991.0, 991.5, 989.5, 2000)
     self._add_one_time_slot_data(one_stock_data, 602, 991.0, 992.0, 992.1, 990.9, 1000)
     self._add_one_time_slot_data(one_stock_data, 605, 992.0, 1000.0, 1000.6, 991.8, 5000)
+    self._write_one_stock_data(one_stock_data)
+
+    one_stock_data = self._add_one_stock_data('AMZN', 20181228, 1)
+    self._add_one_time_slot_data(one_stock_data, 401, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
     self._write_one_stock_data(one_stock_data)
 
     one_stock_data = self._add_one_stock_data('AMZN', 20181230, 1)
@@ -71,12 +76,12 @@ class TestDataProvider(unittest.TestCase):
     self._build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     all_dates_list = dp.get_all_available_dates()
-    self.assertListEqual(all_dates_list, ['20181230', '20181231', '20190101', '20190104'])
+    self.assertListEqual(all_dates_list, ['20181228', '20181230', '20181231', '20190101', '20190104'])
 
   def test_next_record_day(self):
     self._build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
-    self.assertEqual(dp.next_record_day(20170504), 20181230)
+    self.assertEqual(dp.next_record_day(20170504), 20181228)
     self.assertEqual(dp.next_record_day(20181230), 20181231)
     self.assertEqual(dp.next_record_day(20181231), 20190101)
     self.assertEqual(dp.next_record_day(20190101), 20190104)
@@ -200,6 +205,64 @@ class TestDataProvider(unittest.TestCase):
 
       dp.clear_symbol_index()  # need to clear symbol index, since it will go back from the beginning
 
+  def test_extract_previous_n_timepoints(self):
+    self._build_data_set()
+    dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
+
+    result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 630, 6)
+    self.assertTrue(result)
+    self.assertEqual(len(prev_n_list), 6)
+    self.assertEqual(prev_n_list[0].time_val, 605)
+    self.assertEqual(prev_n_list[1].time_val, 610)
+    self.assertEqual(prev_n_list[2].time_val, 601)
+    self.assertEqual(prev_n_list[3].time_val, 602)
+    self.assertEqual(prev_n_list[4].time_val, 610)
+    self.assertEqual(prev_n_list[5].time_val, 630)
+
+    result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 630, 8)
+    self.assertTrue(result)
+    self.assertEqual(len(prev_n_list), 8)
+    self.assertEqual(prev_n_list[0].time_val, 601)
+    self.assertEqual(prev_n_list[1].time_val, 603)
+    self.assertEqual(prev_n_list[2].time_val, 605)
+    self.assertEqual(prev_n_list[3].time_val, 610)
+    self.assertEqual(prev_n_list[4].time_val, 601)
+    self.assertEqual(prev_n_list[5].time_val, 602)
+    self.assertEqual(prev_n_list[6].time_val, 610)
+    self.assertEqual(prev_n_list[7].time_val, 630)
+
+    result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 630, 9)
+    self.assertTrue(result)
+    self.assertEqual(len(prev_n_list), 9)
+    self.assertEqual(prev_n_list[0].time_val, 401)
+    self.assertEqual(prev_n_list[1].time_val, 601)
+    self.assertEqual(prev_n_list[2].time_val, 603)
+    self.assertEqual(prev_n_list[3].time_val, 605)
+    self.assertEqual(prev_n_list[4].time_val, 610)
+    self.assertEqual(prev_n_list[5].time_val, 601)
+    self.assertEqual(prev_n_list[6].time_val, 602)
+    self.assertEqual(prev_n_list[7].time_val, 610)
+    self.assertEqual(prev_n_list[8].time_val, 630)
+
+    result, _ = dp.extract_previous_n_timepoints('AMZN', 20190104, 630, 10)
+    self.assertFalse(result)
+
+    result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 630, 3)
+    self.assertTrue(result)
+    self.assertEqual(len(prev_n_list), 3)
+    self.assertEqual(prev_n_list[0].time_val, 602)
+    self.assertEqual(prev_n_list[1].time_val, 610)
+    self.assertEqual(prev_n_list[2].time_val, 630)
+
+    result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 615, 3)
+    self.assertTrue(result)
+    self.assertEqual(len(prev_n_list), 3)
+    self.assertEqual(prev_n_list[0].time_val, 601)
+    self.assertEqual(prev_n_list[1].time_val, 602)
+    self.assertEqual(prev_n_list[2].time_val, 610)
+
+    result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 631, 3)
+    self.assertFalse(result)
 
 if __name__ == "__main__":
   unittest.main()

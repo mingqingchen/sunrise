@@ -14,12 +14,14 @@ class DataProvider:
     self.root_folder_ = root_folder
     all_folders = [f for f in os.listdir(self.root_folder_) if os.path.isdir(os.path.join(self.root_folder_, f))]
     self.subfolder_list_ = []
+    self.subfolder_set_ = set()
     for subfolder in all_folders:
       if not str.isdigit(subfolder):
         continue
       if len(subfolder)!=8:
         continue
       self.subfolder_list_.append(subfolder)
+      self.subfolder_set_.add(subfolder)
     self.subfolder_list_.sort()
     self.cur_date_val_ = 0
     self.one_day_data_ = dict()
@@ -239,3 +241,50 @@ class DataProvider:
     for symbol in self.eligible_list_:
       fid.write('{0}\n'.format(symbol))
     fid.close()
+
+  def extract_previous_n_timepoints(self, symbol, date_int_val, time_int_val, n):
+    """Extract previous n timepoints for a given day and time point.
+    Args:
+      symbol: symbol name
+      date_int_val: integer of day
+      time_int_val: integer of time
+      n: number of timepoints to extract
+    Returns:
+      result: T/F indicating whether the extraction is successful
+      prev_n_points: A list of OneTimeSlotData that containing those information. Possible to raise error
+    """
+    prev_n_points = []
+    if not self.load_one_symbol_data(date_int_val, symbol):
+      return False, prev_n_points
+    result, index = self.get_symbol_minute_index(symbol, time_int_val)
+    if result == 2:
+      return False, prev_n_points
+    num_remaining_points = n
+    numpoints = index + 1
+    for i in range(max(0, numpoints - n), numpoints):
+      prev_n_points.append(self.one_day_data_[symbol].data[i])
+    num_remaining_points -= len(prev_n_points)
+
+    k_earliest_crawled_time = 20170101   # set up an earliest crawled time
+    current_date = date_int_val
+
+    while (num_remaining_points > 0):
+      current_date -= 1
+      if current_date < k_earliest_crawled_time:
+        break
+      if str(current_date) not in self.subfolder_set_:
+        continue
+      if self.load_one_symbol_data(current_date, symbol):
+        cur_day_list = []
+        num_one_day_points = len(self.one_day_data_[symbol].data)
+        numpoints = min(num_remaining_points, num_one_day_points)
+        for i in range(num_one_day_points - numpoints, num_one_day_points):
+          cur_day_list.append(self.one_day_data_[symbol].data[i])
+        prev_n_points = cur_day_list + prev_n_points
+        num_remaining_points -= numpoints
+    return (len(prev_n_points) == n), prev_n_points
+
+
+
+
+

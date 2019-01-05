@@ -54,20 +54,20 @@ class DataProviderPngExporter:
 
   def export_some_intra_day_data_to_pngs(self):
     self._dp = data_provider.DataProvider(FLAGS.data_dir)
-    if not os.path.isdir(k_png_temp_folder):
-      os.makedirs(k_png_temp_folder)
+    if not os.path.isdir(FLAGS.output_png_dir):
+      os.makedirs(FLAGS.output_png_dir)
 
     # symbol_list = self.get_symbol_list_for_a_day(day_int_val)
     # use the following one to get quick look on major stocks:
     symbol_list = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'NVDA']
-    print ('Output to png folder %s.' % k_png_temp_folder)
+    print ('Output to png folder %s.' % FLAGS.output_png_dir)
     for symbol in symbol_list:
       print('Processing {0}'.format(symbol))
       result, one_stock_data = self._dp.deserialize_one_symbol(20190103, symbol)
       if not result:
         print('Not able to deserialize symbol {0}'.format(symbol))
         continue
-      png_file_path = os.path.join(k_png_temp_folder, symbol + '.png')
+      png_file_path = os.path.join(FLAGS.output_png_dir, symbol + '.png')
       self.export_one_symbol_one_day(symbol, one_stock_data, png_file_path)
 
       print('Start Time: {0}'.format(one_stock_data.data[0].time_val))
@@ -75,6 +75,7 @@ class DataProviderPngExporter:
       print('No. TimePoints: {0}'.format(len(one_stock_data.data)))
 
 def main(argv):
+  del argv
   png_exporter = DataProviderPngExporter()
   png_exporter.export_some_intra_day_data_to_pngs()
 
@@ -86,6 +87,12 @@ if __name__=="__main__":
     type=str,
     default=k_data_folder,
     help='Root for historical data'
+  )
+  parser.add_argument(
+    '--output_png_dir',
+    type=str,
+    default=k_png_temp_folder,
+    help='Temp png folder output'
   )
   FLAGS, unparsed = parser.parse_known_args()
   tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
