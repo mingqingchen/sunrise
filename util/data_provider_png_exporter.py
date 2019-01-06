@@ -63,7 +63,7 @@ class DataProviderPngExporter:
     print ('Output to png folder %s.' % FLAGS.output_png_dir)
     for symbol in symbol_list:
       print('Processing {0}'.format(symbol))
-      result, one_stock_data = self._dp.deserialize_one_symbol(20190103, symbol)
+      result, one_stock_data = self._dp.deserialize_one_symbol(FLAGS.extract_date, symbol)
       if not result:
         print('Not able to deserialize symbol {0}'.format(symbol))
         continue
@@ -93,6 +93,12 @@ if __name__=="__main__":
     type=str,
     default=k_png_temp_folder,
     help='Temp png folder output'
+  )
+  parser.add_argument(
+    '--extract_date',
+    type=int,
+    default=20190104,
+    help='Date to be extracted'
   )
   FLAGS, unparsed = parser.parse_known_args()
   tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
