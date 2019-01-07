@@ -44,14 +44,16 @@ def add_minute_to_time(input_time_val, num_minute):
   while m >= 60:
     m -= 60
     h += 1
+  while h >= 24:
+    h -= 24
   return h * 100 + m
 
 def next_minute(input_time_val):
-  """ Given 1059, should return 1100 """
+  """Given 1059, should return 1100 """
   return add_minute_to_time(input_time_val, 1)
 
 def date_to_int(input_date):
-  """ Given a date, returns a 8-digit int value of date. """
+  """Given a date, returns a 8-digit int value of date. """
   return input_date.year*10000+input_date.month*100+input_date.day
 
 def int_to_datetime(input_date_val, input_time_val):
@@ -65,24 +67,40 @@ def int_to_datetime(input_date_val, input_time_val):
   minute = input_time_val - hour * 100
   return datetime.datetime(year, month, day, hour, minute, 0)
 
+def date_diff(date_int_val1, date_int_val2):
+  """Number of date difference. No order requirement between t2 and t1."""
+  date1 = int_to_date(date_int_val1)
+  date2 = int_to_date(date_int_val2)
+  return abs((date1 - date2).days)
+
 def minute_diff(time_int_val1, time_int_val2):
-  """ number of minute difference between two int time """
+  """Number of minute difference between two int time, use t2 - t1. If negative then add one day."""
   t1 = int_to_time(time_int_val1)
   t2 = int_to_time(time_int_val2)
-  return (t2.hour - t1.hour) * 60 + t2.minute - t1.minute
+  result = (t2.hour - t1.hour) * 60 + t2.minute - t1.minute
+  while result < 0:
+    result += 1440  # 60 x 24
+  return result
 
-def convert_to_normalized_time(input_time, start_time, end_time):
-  """ given a input_time in datetime format, and start_time and end_time in int format,
-      return a float in the normalized value.
-      e.g. 20180403 12:30 might return a value like 0403.83
+def convert_to_normalized_time(date_int_val, time_int_val, market_open_time, market_close_time):
+  """Compute normalized float time value for visualization purpose.e.g. 20180403 12:30 might return a value like 403.83,
+     given open tine as 6:30 am and close time as 1:30pm. (6/7 = 0.83)
+  Args:
+    date_int_val: an integer of date
+    time_int_val: an integer of time
+    market_open_time: an integer of market open time
+    market_close_time: an integer of market close time
+  Returns:
+    a floating value of normalized time
   """
-  result = input_time.month * 100 + input_time.day
-  time_val = input_time.hour * 100 + input_time.minute
-  ratio = float(minute_diff(time_val, start_time)) / minute_diff(end_time, start_time)
+  cur_date_time = int_to_datetime(date_int_val, time_int_val)
+  result = cur_date_time.year * 10000 + cur_date_time.month * 100 + cur_date_time.day
+  time_val = cur_date_time.hour * 100 + cur_date_time.minute
+  ratio = float(minute_diff(market_open_time, time_val)) / minute_diff(market_open_time, market_close_time)
   return result + ratio
 
 def int_to_date(input_date_val):
-  """ Given a 8-digit int value of date, returns its datetime. """
+  """Given a 8-digit int value of date, returns its datetime. """
   year = int(input_date_val/10000)
   input_date_val -= year*10000
   month = int(input_date_val/100)
@@ -91,13 +109,13 @@ def int_to_date(input_date_val):
   return datetime.datetime(year, month, day)
 
 def is_week_day(input_date_val):
-  """ Given a 8-digit int value of date, returns whether it's a weekday. """
+  """Given a 8-digit int value of date, returns whether it's a weekday. """
   weekday = int_to_date(input_date_val).weekday()
   # Might be confusing here, but 5 is Saturday and 6 is Sunday.
   return not((weekday == 5) or (weekday == 6))
 
 def increment_day(input_date_val, n = 1):
-  """ Given a 8-digit int value of date, return its next date. """
+  """Given a 8-digit int value of date, return its next date. """
   date_ = int_to_date(input_date_val)
   if n>0:
     date_ += datetime.timedelta(days=n)

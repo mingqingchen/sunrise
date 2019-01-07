@@ -67,8 +67,7 @@ class Simulation():
           self.transactions_.append(transaction)
 
         # The following lines are just for display for final visualization
-        cur_date_time = datetime_util.int_to_datetime(cur_day, cur_time)
-        normalized_time = datetime_util.convert_to_normalized_time(cur_date_time, k_open_time, k_close_time)
+        normalized_time = datetime_util.convert_to_normalized_time(cur_day, cur_time, k_open_time, k_close_time)
         self.date_time_list_.append(normalized_time)
         self.balances_.append(self.portfolio_.get_balance())
         

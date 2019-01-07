@@ -264,5 +264,37 @@ class TestDataProvider(unittest.TestCase):
     result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 631, 3)
     self.assertFalse(result)
 
+  def test_extract_previous_timepoints(self):
+    self._build_data_set()
+    dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
+
+    prev_list = dp.extract_previous_timepoints('AMZN', 20190104, 630, 0, 19)
+    self.assertEqual(len(prev_list), 1)
+    self.assertEqual(prev_list[0].time_val, 630)
+
+    prev_list = dp.extract_previous_timepoints('AMZN', 20190104, 630, 0, 20)
+    self.assertEqual(len(prev_list), 2)
+    self.assertEqual(prev_list[0].time_val, 610)
+    self.assertEqual(prev_list[1].time_val, 630)
+
+    prev_list = dp.extract_previous_timepoints('AMZN', 20190104, 630, 5, 19)
+    self.assertEqual(len(prev_list), 4)
+    self.assertEqual(prev_list[0].time_val, 601)
+    self.assertEqual(prev_list[1].time_val, 602)
+    self.assertEqual(prev_list[2].time_val, 610)
+    self.assertEqual(prev_list[3].time_val, 630)
+
+    prev_list = dp.extract_previous_timepoints('AMZN', 20190104, 630, 5, 20)
+    self.assertEqual(len(prev_list), 5)
+    self.assertEqual(prev_list[0].time_val, 610)
+    self.assertEqual(prev_list[1].time_val, 601)
+    self.assertEqual(prev_list[2].time_val, 602)
+    self.assertEqual(prev_list[3].time_val, 610)
+    self.assertEqual(prev_list[4].time_val, 630)
+
+    prev_list = dp.extract_previous_timepoints('AMZN', 20190104, 630, 20, 0)
+    self.assertEqual(len(prev_list), 9)
+
+
 if __name__ == "__main__":
   unittest.main()

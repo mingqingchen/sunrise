@@ -2,6 +2,8 @@
 import matplotlib.pyplot as plt
 
 import os
+
+import datetime_util
 import stock_pb2
 
 k_eligible_file_name = 'eligible_list.txt'
@@ -269,7 +271,7 @@ class DataProvider:
     current_date = date_int_val
 
     while (num_remaining_points > 0):
-      current_date -= 1
+      current_date = datetime_util.increment_day(current_date, -1)
       if current_date < k_earliest_crawled_time:
         break
       if str(current_date) not in self.subfolder_set_:
@@ -283,6 +285,32 @@ class DataProvider:
         prev_n_points = cur_day_list + prev_n_points
         num_remaining_points -= numpoints
     return (len(prev_n_points) == n), prev_n_points
+
+  def extract_previous_timepoints(self, symbol, date_int_val, time_int_val, date_span, time_span):
+    """Extract previous timepoints within a time range defined by date_span and time_span.
+    Args:
+      symbol: symbol name
+      date_int_val: integer of day
+      time_int_val: integer of time
+      date_span: an integer indicating how many days to look backwards
+      time_span: an integer indicating how much time to look backwards
+    Returns:
+      prev_points: A list of OneTimeSlotData that containing previous time points within the time range.
+    """
+    prev_points = []
+    current_date = date_int_val
+    while datetime_util.date_diff(current_date, date_int_val) <= date_span:
+      if str(current_date) in self.subfolder_set_:
+        if self.load_one_symbol_data(current_date, symbol):
+          cur_day_list = []
+          for one_time_slot_data in self.one_day_data_[symbol].data:
+            if datetime_util.date_diff(current_date, date_int_val) < date_span or \
+                    datetime_util.minute_diff(one_time_slot_data.time_val, time_int_val) <= time_span:
+              cur_day_list.append(one_time_slot_data)
+          prev_points = cur_day_list + prev_points
+      current_date = datetime_util.increment_day(current_date, -1)
+    return prev_points
+
 
 
 
