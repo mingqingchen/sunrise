@@ -1,0 +1,5 @@
+
+PHASכבֿ	"קּֽL@ּֽL@%ּֽL@-ּֽL@0d"¶ּֽL@לQH@%ּֽL@-ffF@0—"ֱלQH@לQH@%לQH@-לQH@0d"ֳלQH@לQH@%לQH@-לQH@0d"ׁלQH@לQH@%לQH@-לQH@0d"™I@™I@%™I@-™I@0d"•q=J@q=J@%q=J@-q=J@0d"›q=J@q=J@%q=J@-q=J@0d"¨q=J@q=J@%q=J@-q=J@0d"«q=J@q=J@%q=J@-q=J@0d"¬‏CR@‏CR@%‏CR@-‏CR@0"­…K@…K@%…K@-…K@0d"µ…K@…K@%…K@-…K@0d"÷HבJ@HבJ@%HבJ@-HבJ@0d"ךq=J@™I@%q=J@-™I@0¬"כ™I@™I@%™I@-™I@0Ü"ם™I@™I@%™I@-™I@0d"מ™I@™I@%™I@-™I@0ָ"פ™I@™I@%™I@-™I@0״"ץ™I@™I@%™I@-™I@0ָ"†ֳץH@ֳץH@%ֳץH@-ֳץH@0d"˜ֳץH@ֳץH@%ֳץH@-ֳץH@0d"ׁffF@ffF@%ffF@-ffF@0d"בffF@ffF@%ffF@-ffF@0d"נffF@ffF@%ffF@-ffF@0d"‏ffF@ffF@%ffF@-ffF@0d"‡	×סF@×סF@%×סF@-×סF@0פ"³	ffF@ffF@%ffF@-ffF@0"´	ffF@ffF@%ffF@-ffF@0׀"µ	ffF@ffF@%ffF@-ffF@0ָ"¼	R¸F@=
+G@%=
+G@-ffF@0"ה	ֳץH@™I@%™I@-לQH@0¬"ח	לQH@R¸F@%לQH@-ffF@0־"כ	ffF@ffF@%ּֽL@-ffF@0זD"”
+ffF@ffF@%ffF@-ffF@0·	

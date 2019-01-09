@@ -1,0 +1,8 @@
+
+HALL§Р	"ц¤p)A¤p)A%¤p)A-¤p)A0ґ"°НМ,Aff*A%НМ,A-ff*A0"Іё-Aё-A%ё-A-ё-A0d"іff*Aбz,A%бz,A-ff*A0И"ґff*Aff*A%ff*A-ff*A0d"єff*Aff*A%ff*A-ff*A0d"ХHб,AHб,A%Hб,A-Hб,A0d"„ff*Aff*A%ff*A-ff*A0d"Њљ™+Aљ™+A%љ™+A-љ™+A0d"Ќff*A33+A%®+A-ff*A0и"Ћff*APЌ*A%®+A-ff*A0Ц"“ff*Aff*A%ff*A-ff*A0d"”q=*Aq=*A%q=*A-q=*A0d"•Гх*Aff*A%Гх*A-ff*A0И"–ff*Aq=*A%ff*A-q=*A0¬"±ё)Aff*A%ff*A-ё)A0щ"¶Яа*AЯа*A%Яа*A-Яа*A0Н"цff*Aff*A%ff*A-ff*A0d"ъff*Aff*A%ff*A-ff*A0d"юff*Aff*A%ff*A-ff*A0d"‚=
++Aff*A%ЧЈ,A-ff*A0ђ"†ц(,Aff*A%ц(,A-ff*A0И"Њц(,Aц(,A%ц(,A-ц(,A0d"Ћff*Aff*A%ff*A-ff*A0d"ђff*A®+A%®+A-ff*A0ђ"њ33+A33+A%33+A-33+A0d"ўRё*ARё*A%Rё*A-Rё*A0d"Ј;Я*ARё*A%;Я*A-Rё*A0И"МRё*AHб*A%Hб*A-Rё*A0ђ"Н33+A33+A%33+A-33+A0Ь"О=
++A=
++A%=
++A-=
++A0¬"Ыff*A33+A%33+A-q=*A0ф"гff+Aff+A%ff+A-ff+A0d"сHб*AHб*A%Hб*A-Hб*A0d"Ѓ	¤p+A¤p+A%¤p+A-¤p+A0d"…	Hб*AHб*A%Hб*A-Hб*A0d"ј	)\+A®)A%)\+A-®)A0Ш"Ѕ	¤p)Aљ™)A%љ™)A-¤p)A0¬"ѕ	Rё*ARё*A%Rё*A-Rё*A0d"Г	{*A{*A%{*A-{*A0И"И	Х	+A\Џ*A%Х	+A-\Џ*A0к"Л	Hб*AHб*A%Hб*A-Hб*A0d"У	Hб*Aff*A%Hб*A-ff*A0А"Ч	{*A{*A%{*A-{*A0И"Ь	…л)A{*A%{*A-љ™)A0¬"а	q=*Aq=*A%q=*A-q=*A0¬"в	Hб*AHб*A%Hб*A-Hб*A0 "з	Hб*AHб*A%Hб*A-Hб*A0d"и	\Џ*Aq=*A%Hб*A-q=*A0¶"л	Hб*AHб*A%Hб*A-Hб*A0h"”
+\Џ*A\Џ*A%\Џ*A-\Џ*A0м/

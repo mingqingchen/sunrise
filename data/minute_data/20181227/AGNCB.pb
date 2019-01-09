@@ -1,0 +1,3 @@
+
+AGNCBëáÏ	"ö33ËA33ËA%33ËA-33ËA0Ò"½¿}ËA¿}ËA%¿}ËA-¿}ËA0è"Ä…ËA…ËA%…ËA-Å~ËA0î"Æ…ËA…ËA%…ËA-…ËA0x"ÇÇKËAÇKËA%ÇKËA-ÇKËA0®"Ñv`ËAv`ËA%v`ËA-v`ËA0d"è¶„ËA¶„ËA%¶„ËA-¶„ËA0È"ðývËAývËA%ývËA-ývËA0È" )\ËA)\ËA%)\ËA-)\ËA0d"­)\ËA33ËA%)\ËA-33ËA0Ø"º33ËAŸÍÊA%33ËA-ŸÍÊA0è"Ö¤pËA…ËA%…ËA-¤pËA0Ð"íøBËAEXËA%EXËA-øBËA0À"ögÕÊAgÕÊA%gÕÊA-gÕÊA0d"ƒÄBËAÄBËA%ÄBËA-ÄBËA0¬"žâéÊAHáÊA%33ËA-HáÊA0Ø"¡33ËA33ËA%33ËA-33ËA0d"ôõ[ËAõ[ËA%õ[ËA-õ[ËA0è"Õ	¸ËA¸ËA%¸ËA-¸ËA0d"Ú	33ËA)\ËA%)\ËA-33ËA0š"Û	)\ËAYËA%)\ËA-½RËA0À"Ü	)\ËA)\ËA%)\ËA-)\ËA0d"Þ	)\ËA¯ËA%sËA-ffÊA0Û"ß	š™ËAš™ËA%š™ËA-š™ËA0¬"à	š™ËAš™ËA%š™ËA-š™ËA0¬"ã	…ËA…ËA%…ËA-…ËA0È"æ	ØÊAØÊA%ØÊA-ØÊA0¹"ç	¤pËAázËA%ázËA-¤pËA0¼"ë	6+ËA6+ËA%6+ËA-6+ËA0•"”
+…ËA…ËA%…ËA-…ËA0Í

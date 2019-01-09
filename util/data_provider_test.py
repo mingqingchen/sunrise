@@ -15,71 +15,71 @@ def remove_folder_if_exist(folder):
   if os.path.isdir(folder):
     os.removedirs(folder)
 
+def add_one_stock_data(symbol, date, resolution):
+  one_stock_data = stock_pb2.OneIntraDayData()
+  one_stock_data.symbol = symbol
+  one_stock_data.date = date
+  one_stock_data.resolution = resolution
+  return one_stock_data
+
+def add_one_time_slot_data(one_intra_day_data, time_val, open, close, high, low, volume):
+  one_time_data = one_intra_day_data.data.add()
+  one_time_data.time_val = time_val
+  one_time_data.open = open
+  one_time_data.close = close
+  one_time_data.high = high
+  one_time_data.low = low
+  one_time_data.volume = volume
+
+def write_one_stock_data(one_stock_data):
+  file_path = os.path.join(k_tmp_folder, str(one_stock_data.date), one_stock_data.symbol + '.pb')
+  fid = open(file_path, 'w')
+  fid.write(one_stock_data.SerializeToString())
+  fid.close()
+
+def build_data_set():
+  create_folder_if_not_exist(k_tmp_folder)
+  create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181228'))
+  create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181230'))
+  create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181231'))
+  create_folder_if_not_exist(os.path.join(k_tmp_folder, '20190101'))
+  create_folder_if_not_exist(os.path.join(k_tmp_folder, '20190104'))
+
+  one_stock_data = add_one_stock_data('GOOGL', 20181230, 1)
+  # be careful, number starts with 0, e.g. 0601 is not decimal
+  add_one_time_slot_data(one_stock_data, 601, 990.0, 991.0, 991.5, 989.5, 2000)
+  add_one_time_slot_data(one_stock_data, 602, 991.0, 992.0, 992.1, 990.9, 1000)
+  add_one_time_slot_data(one_stock_data, 605, 992.0, 1000.0, 1000.6, 991.8, 5000)
+  write_one_stock_data(one_stock_data)
+
+  one_stock_data = add_one_stock_data('AMZN', 20181228, 1)
+  add_one_time_slot_data(one_stock_data, 401, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
+  write_one_stock_data(one_stock_data)
+
+  one_stock_data = add_one_stock_data('AMZN', 20181230, 1)
+  add_one_time_slot_data(one_stock_data, 601, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
+  add_one_time_slot_data(one_stock_data, 603, 1410.0, 1390.0, 1415.0, 1390.0, 2000)
+  add_one_time_slot_data(one_stock_data, 605, 1390.0, 1380.0, 1393.0, 1370.0, 1000)
+  add_one_time_slot_data(one_stock_data, 610, 1380.0, 1360.0, 1380.0, 1360.0, 2000)
+  write_one_stock_data(one_stock_data)
+
+  one_stock_data = add_one_stock_data('AMZN', 20190104, 1)
+  add_one_time_slot_data(one_stock_data, 601, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
+  add_one_time_slot_data(one_stock_data, 602, 1410.0, 1390.0, 1415.0, 1390.0, 2000)
+  add_one_time_slot_data(one_stock_data, 610, 1390.0, 1380.0, 1393.0, 1370.0, 1000)
+  add_one_time_slot_data(one_stock_data, 630, 1380.0, 1360.0, 1380.0, 1360.0, 2000)
+  write_one_stock_data(one_stock_data)
+
 
 class TestDataProvider(unittest.TestCase):
-  def _add_one_stock_data(self, symbol, date, resolution):
-    one_stock_data = stock_pb2.OneIntraDayData()
-    one_stock_data.symbol = symbol
-    one_stock_data.date = date
-    one_stock_data.resolution = resolution
-    return one_stock_data
-
-  def _add_one_time_slot_data(self, one_intra_day_data, time_val, open, close, high, low, volume):
-    one_time_data = one_intra_day_data.data.add()
-    one_time_data.time_val = time_val
-    one_time_data.open = open
-    one_time_data.close = close
-    one_time_data.high = high
-    one_time_data.low = low
-    one_time_data.volume = volume
-
-  def _write_one_stock_data(self, one_stock_data):
-    file_path = os.path.join(k_tmp_folder, str(one_stock_data.date), one_stock_data.symbol + '.pb')
-    fid = open(file_path, 'w')
-    fid.write(one_stock_data.SerializeToString())
-    fid.close()
-
-  def _build_data_set(self):
-    create_folder_if_not_exist(k_tmp_folder)
-    create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181228'))
-    create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181230'))
-    create_folder_if_not_exist(os.path.join(k_tmp_folder, '20181231'))
-    create_folder_if_not_exist(os.path.join(k_tmp_folder, '20190101'))
-    create_folder_if_not_exist(os.path.join(k_tmp_folder, '20190104'))
-
-    one_stock_data = self._add_one_stock_data('GOOGL', 20181230, 1)
-    # be careful, number starts with 0, e.g. 0601 is not decimal
-    self._add_one_time_slot_data(one_stock_data, 601, 990.0, 991.0, 991.5, 989.5, 2000)
-    self._add_one_time_slot_data(one_stock_data, 602, 991.0, 992.0, 992.1, 990.9, 1000)
-    self._add_one_time_slot_data(one_stock_data, 605, 992.0, 1000.0, 1000.6, 991.8, 5000)
-    self._write_one_stock_data(one_stock_data)
-
-    one_stock_data = self._add_one_stock_data('AMZN', 20181228, 1)
-    self._add_one_time_slot_data(one_stock_data, 401, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
-    self._write_one_stock_data(one_stock_data)
-
-    one_stock_data = self._add_one_stock_data('AMZN', 20181230, 1)
-    self._add_one_time_slot_data(one_stock_data, 601, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
-    self._add_one_time_slot_data(one_stock_data, 603, 1410.0, 1390.0, 1415.0, 1390.0, 2000)
-    self._add_one_time_slot_data(one_stock_data, 605, 1390.0, 1380.0, 1393.0, 1370.0, 1000)
-    self._add_one_time_slot_data(one_stock_data, 610, 1380.0, 1360.0, 1380.0, 1360.0, 2000)
-    self._write_one_stock_data(one_stock_data)
-
-    one_stock_data = self._add_one_stock_data('AMZN', 20190104, 1)
-    self._add_one_time_slot_data(one_stock_data, 601, 1400.0, 1410.0, 1415.0, 1400.0, 3000)
-    self._add_one_time_slot_data(one_stock_data, 602, 1410.0, 1390.0, 1415.0, 1390.0, 2000)
-    self._add_one_time_slot_data(one_stock_data, 610, 1390.0, 1380.0, 1393.0, 1370.0, 1000)
-    self._add_one_time_slot_data(one_stock_data, 630, 1380.0, 1360.0, 1380.0, 1360.0, 2000)
-    self._write_one_stock_data(one_stock_data)
-
   def test_get_all_dates(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     all_dates_list = dp.get_all_available_dates()
     self.assertListEqual(all_dates_list, ['20181228', '20181230', '20181231', '20190101', '20190104'])
 
   def test_next_record_day(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     self.assertEqual(dp.next_record_day(20170504), 20181228)
     self.assertEqual(dp.next_record_day(20181230), 20181231)
@@ -89,7 +89,7 @@ class TestDataProvider(unittest.TestCase):
     self.assertEqual(dp.next_record_day(20190108), -1)
 
   def test_load_one_symbol_data(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     self.assertTrue(dp.load_one_symbol_data(20181230, 'GOOGL'))
     self.assertTrue(dp.load_one_symbol_data(20181230, 'AMZN'))
@@ -111,7 +111,7 @@ class TestDataProvider(unittest.TestCase):
     self.assertListEqual(dp.get_available_symbol_list(), ['AMZN', 'GOOGL'])
 
   def test_load_one_day_data(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     dp.load_one_day_data(20181230)
 
@@ -134,7 +134,7 @@ class TestDataProvider(unittest.TestCase):
     self.assertListEqual(dp.get_available_symbol_list(), [])
 
   def test_minute_index(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     dp.load_one_day_data(20181230)
     for i in range(3):  # test this for 3 rounds for the robustness of using cached minute index
@@ -171,7 +171,7 @@ class TestDataProvider(unittest.TestCase):
       dp.clear_symbol_index()  # need to clear symbol index, since it will go back from the beginning
 
   def test_minute_data(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
     dp.load_one_day_data(20181230)
     for i in range(3):  # test this for 3 rounds for the robustness of using cached minute index
@@ -206,7 +206,7 @@ class TestDataProvider(unittest.TestCase):
       dp.clear_symbol_index()  # need to clear symbol index, since it will go back from the beginning
 
   def test_extract_previous_n_timepoints(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
 
     result, prev_n_list = dp.extract_previous_n_timepoints('AMZN', 20190104, 630, 6)
@@ -265,7 +265,7 @@ class TestDataProvider(unittest.TestCase):
     self.assertFalse(result)
 
   def test_extract_previous_timepoints(self):
-    self._build_data_set()
+    build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
 
     prev_list = dp.extract_previous_timepoints('AMZN', 20190104, 630, 0, 19)

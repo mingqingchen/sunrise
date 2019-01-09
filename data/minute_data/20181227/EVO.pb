@@ -1,0 +1,2 @@
+
+EVOכבֿ	"צבz@Aבz@A%בz@A-בz@A0¢"ַ™AA™AA%™AA-…AA0 "ֻ…AA™AA%™AA-…AA0׀"ךי&AAי&AA%י&AA-י&AA0ט"«"lAAffAA%"lAA-ffAA0ָ"״₪pAA™AA%™AA-₪pAA0א"גXAAגXAA%גXAA-גXAA0€"ÝxAA®GAA%xAA-®GAA0ְ"ד•AASAA%•AA-SAA0‚"ו1™AA1™AA%1™AA-1™AA0צ"כשAAשAA%שAA-שAA0Ú"ל6ֽ@A6ֽ@A%6ֽ@A-6ֽ@A0Ü"ע1™AA1™AA%1™AA-1™AA0ְ"ק™AA™AA%™AA-™AA0d"‏נAAנAA%נAA-נAA0ל	"ƒ	™AA™AA%™AA-™AA0d"„	™AA™AA%™AA-™AA0ּ"…	™AA™AA%™AA-™AA0ָ"‡	™AAֲAA%ֲAA-₪pAA0ָ"´	ֲAAֲAA%ֲAA-ֲAA0d"ב	™AAqAA%™AA-qAA0"כ	ֲAAֲAA%ֲAA-ֲAA0d

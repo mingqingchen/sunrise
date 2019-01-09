@@ -1,0 +1,2 @@
+
+GNMA›§Ð	"öázCBázCB%ázCB-ázCB0¢"‘‰RCB‰RCB%‰RCB-‰RCB0È"í›UCB›UCB%›UCB-›UCB0d"ðìQCBìQCB%ìQCB-ìQCB05"ª®GCBÈGCB%ÈGCB-®GCB0÷"½ìQCBìQCB%ìQCB-ìQCB0ô"ž33CBœDCB%œDCB-33CB0Ê"í33CB–CCB%ÊCCB-33CB0å"ðuSCBuSCB%uSCB-uSCB0d"›jMCBjMCB%jMCB-jMCB0‰"£M3CBM3CB%M3CB-M3CB0Œ"Ð\CB\CB%\CB-\CB0"Û94CB)\CB%)\CB-94CB0¼"²	+6CBØACB%ØACB-+6CB0ø"Î	33CB33CB%33CB-33CB0d"Ó	33CB33CB%33CB-33CB0d"Õ	‘>CB‘>CB%‘>CB-‘>CB0d"Ö	33CB®GCB%®GCB-33CB0È"Û	33CB33CB%33CB-33CB0ì'"ë	ö(CBö(CB%ö(CB-ö(CB0~

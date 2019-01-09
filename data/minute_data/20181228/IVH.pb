@@ -1,0 +1,15 @@
+
+IVHьс╧	"ЎЕ?AЎ(@A%оGAA-Е?A0Ёg"∙сz@AЎ(@A%сz@A-Ў(@A0╬"■ьQ@AьQ@A%ьQ@A-ьQ@A0Р"БьQ@AьQ@A%ьQ@A-ьQ@A0d"Гсz@Aсz@A%сz@A-сz@A0Р"Д╫г@A├ї@A%├ї@A-\П@A0└"Исz@Aсz@A%сz@A-сz@A0d"Ксz@Aсz@A%сz@A-сz@A0d"МьQ@AьQ@A%ьQ@A-ьQ@A0d"ОьQ@AьQ@A%ьQ@A-ьQ@A0d"СьQ@AьQ@A%ьQ@A-ьQ@A0╪"УьQ@A═╠@A%═╠@A-ьQ@A0И"╜╕AA╕AA%╕AA-╕AA0d"╛├ї@A╕AA%╕AA-├ї@A0│"┬сz@Aсz@A%сz@A-сz@A0d"─сz@Aсz@A%сz@A-сz@A0d"┼OAAOAA%OAA-OAA0║"╟╫г@A╫г@A%╫г@A-╫г@A0d"╔╫г@A╫г@A%╫г@A-╫г@A0d"╩═╠@A═╠@A%═╠@A-═╠@A0╟"╦├ї@A├ї@A%оGAA-├ї@A0Щ"╬├ї@A├ї@A%├ї@A-├ї@A0d"╨├ї@A├ї@A%├ї@A-├ї@A0d"╙├ї@AоGAA%ЪЩAA-├ї@A0─"█$AA$AA%$AA-$AA0т	"▀оGAAоGAA%оGAA-оGAA0d"роGAAоGAA%оGAA-оGAA0d"соGAAоGAA%оGAA-оGAA0d"тоGAAоGAA%оGAA-оGAA0Ї"уоGAAоGAA%оGAA-оGAA0м"чоGAAоGAA%оGAA-оGAA0d"шOAAOAA%OAA-OAA0Я"ыоGAAоGAA%оGAA-оGAA0Д"яоGAAоGAA%оGAA-оGAA0╚"ёЪЩAAЪЩAA%ЪЩAA-оGAA0а"ЇоGAAоGAA%оGAA-оGAA0ш"їw-AAw-AA%w-AA-w-AA0№"ЎоGAA╕AA%оGAA-╕AA0м"а╕AAоGAA%оGAA-╕AA0╚"бдpAAдpAA%дpAA-дpAA0Ї"в╕AA╕AA%╕AA-╕AA0d"г╕AA╕AA%╕AA-╕AA0╚"е╕AA╕AA%╕AA-╕AA0d"з╕AA╕AA%╕AA-╕AA0d"к╕AA╕AA%╕AA-╕AA0d"моGAA╕AA%оGAA-╕AA0╠"о╕AA╕AA%╕AA-╕AA0d"▓╕AA╕AA%╕AA-╕AA0d"│;pAA;pAA%;pAA-;pAA0┬"╡╕AAоGAA%оGAA-╕AA0╚"╖╕AAоGAA%оGAA-╕AA0╚"╝оGAAоGAA%оGAA-оGAA0d"┴╕AA╕AA%╕AA-╕AA0d"─╕AAоGAA%оGAA-╕AA0╚"╟оGAAоGAA%оGAA-оGAA0d"╚╕AA╕AA%╕AA-╕AA0d"╩╕AA╕AA%╕AA-╕AA0d"╦оGAAоGAA%оGAA-оGAA0d"╬╕AA╕AA%╕AA-╕AA0d"╨╕AAоGAA%оGAA-╕AA0╚"╘╕AA╕AA%╕AA-╕AA0d"╒оGAAоGAA%оGAA-оGAA0d"╓дpAAоGAA%дpAA-оGAA0Ф
+"█оGAAоGAA%оGAA-оGAA0d"ЕоGAAоGAA%оGAA-оGAA0d"ЗоGAAЪЩAA%П┬AA-оGAA0у"КП┬AAП┬AA%П┬AA-ЪЩAA0╪"ОЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"РдpAAдpAA%дpAA-дpAA0d"гЕAAЕAA%ЕAA-ЕAA0d"доGAAоGAA%оGAA-оGAA0d"жоGAAоGAA%оGAA-оGAA0d"зоGAAоGAA%оGAA-оGAA0d"иоGAAоGAA%оGAA-оGAA0d"й╚ШAAоGAA%╚ШAA-оGAA0Т"коGAAоGAA%оGAA-оGAA0d"моGAAоGAA%оGAA-оGAA0d"ноGAAоGAA%оGAA-оGAA0d"ооGAAоGAA%оGAA-оGAA0d"поGAAоGAA%оGAA-оGAA0d"░оGAAоGAA%дpAA-оGAA0Ї"╖оGAAоGAA%оGAA-оGAA0Ь"║оGAAоGAA%оGAA-оGAA0╚"ЇдpAAZdAA%дpAA-ZdAA0╪"√ЁзAAЁзAA%ЁзAA-ЁзAA0м"ЧП┬AAП┬AA%П┬AA-П┬AA0╚"Ъ{BA{BA%{BA-{BA0╚"╠{BA{BA%{BA-{BA0d"═ffBAffBA%ffBA-ffBA0d"╓ffBAffBA%ffBA-ffBA0м"тЙABAq=BA%NbBA-q=BA0├"фffBAffBA%ffBA-ffBA0d"Ї\ПBA\ПBA%\ПBA-ffBA0Ф
+"№\ПBA=
+CA%=
+CA-DЛBA0я
+"▓	33CAаCA%33CA-аCA0м"╢	$(CA$(CA%$(CA-$(CA0█"╣	33CA┌CA%33CA-┌CA0ж"├	33CAHсBA%33CA-HсBA0┌"─	╗╕BAR╕BA%╗╕BA-R╕BA0╗
+"╠	z╟BAHсBA%=
+CA-z╟BA0Ф#"╤	HсBAHсBA%HсBA-HсBA0d"╒	HсBAHсBA%HсBA-HсBA0╚"▐	CACA%CA-CA0ё"р	HсBAHсBA%HсBA-R╕BA0■&"т	=
+CA╒	CA%=
+CA-╒	CA0Д"ш	HсBAR╕BA%HсBA-R╕BA0╟"ы	=
+CA=
+CA%=
+CA-=
+CA0╞

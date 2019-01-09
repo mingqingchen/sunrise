@@ -1,0 +1,2 @@
+
+GOODMêáÏ	"öÍÌ¸AÍÌ¸A%ÍÌ¸A-ÍÌ¸A0’"÷KH¹AKH¹A%KH¹A-KH¹A0d"š™¹Aš™¹A%š™¹A-š™¹A0¬"È_ºA_ºA%_ºA-_ºA0†"Ïu»Au»A%u»A-u»A0¾"×Ãõ¸AKÈ¹A%KÈ¹A-ÍÌ¸A0¾"ÞÊ2¸AÊ2¸A%Ê2¸A-Ê2¸A0ƒ"Èd»Ad»A%d»A-d»A0–"Ö33»A33»A%33»A-33»A0ˆ"Ÿ¦»A¦»A%¦»A-¦»A0³"ó	»A	»A%	»A-	»A0}"ïš¹Aš¹A%š¹A-š¹A0¬"ñVŽºAš¹A%VŽºA-š¹A0ç"³	š™ºAš™ºA%š™ºA-š™ºA0¬"ç	\ ºA\ ºA%\ ºA-\ ºA0™

@@ -1,0 +1,2 @@
+
+ALTYяс╧	"я\ПVA\ПVA%\ПVA-\ПVA0П"п ╥VA ╥VA% ╥VA- ╥VA0╚"╕дpUA╪БVA%╪БVA-дpUA0╚"╛П┬UAП┬UA%П┬UA-П┬UA0d"└ЪЩUAП┬UA%П┬UA-ЪЩUA0▄"ф	═╠TA═╠TA%═╠TA-═╠TA0╚"ы	╫гTA╫гTA%╫гTA-╫гTA0и

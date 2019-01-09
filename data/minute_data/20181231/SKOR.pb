@@ -1,0 +1,2 @@
+
+SKORïáÏ	"½ázCBázCB%ázCB-ázCB0„ "Ä)\CB)\CB%)\CB-)\CB0õ¯"Æ)\CB)\CB%)\CB-)\CB0±Í"áázCBázCB%ázCB-ázCB0¼%"êšCBšCB%šCB-šCB0d"¾¤pCB¤pCB%¤pCB-¤pCB0È"¸	š™CBš™CB%š™CB-š™CB0è"ë	ffCBffCB%ffCB-ffCB0d

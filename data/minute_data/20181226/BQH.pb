@@ -1,0 +1,2 @@
+
+BQHЙАо	"ЖмлHAмлHA%млHA-млHA0╗"Ф┘КIA┘КIA%┘КIA-┘КIA0d"М┘КIA┘КIA%┘КIA-┘КIA0d"╬q=JAq=JA%q=JA-q=JA0d"²R╦JAR╦JA%R╦JA-R╦JA0d"зffJAffJA%ffJA-ffJA0d"ш	▐бIA▐бIA%▐бIA-▐бIA0╛"Ц	▐бIAmеIA%mеIA-▐бIA0╟	"К	▐бIA▐бIA%▐бIA-▐бIA0d

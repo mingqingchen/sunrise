@@ -1,0 +1,2 @@
+
+BWMCUяс╧	"╢R╕AыA%ыA-ffA0Ь"П╫гAHсA%HсA-╫гA0м"╝	HсAHсA%HсA-HсA0d"┐	HсAHсA%HсA-HсA0Р"┬	HсAHсA%HсA-HсA0м"┼	HсAHсA%HсA-HсA0м"╔	HсAHсA%HсA-HсA0м"╠	HсAHсA%HсA-HсA0╚"╬	HсAHсA%HсA-HсA0Р"╥	HсAHсA%HсA-HсA0м"╓	HсAHсA%HсA-HсA0м"┘	HсAHсA%HсA-HсA0Р"▌	HсAHсA%HсA-HсA0м"ы	HсAHсA%HсA-HсA0└

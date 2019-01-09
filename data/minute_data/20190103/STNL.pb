@@ -1,0 +1,2 @@
+
+STNL—งะ	"ÿแz Aแz A%แz A-แz A0จร"€ืฃ Aืฃ A%ืฃ A-ืฃ A0d"ๆแz Aแz A%แz A-แz A0d"ฎ&S A&S A%&S A-&S A0d"พแz Aแz A%แz A-แz A0d"ฺแz Aแz A%แz A-แz A0ฐ;"ฆแz Aแz A%แz A-แz A0d"๙แz Aแz A%แz A-แz A0d"ูแz Aแz A%แz A-แz A0d"๔แz Aแz A%แz A-แz A0d"ฑ	แz Aแz A%แz A-แz A0d"ิ	แz Aแz A%แz A-แz A0d"้	แz Aแz A%แz A-แz A0ฆ"๋	์Q A์Q A%์Q A-์Q A0

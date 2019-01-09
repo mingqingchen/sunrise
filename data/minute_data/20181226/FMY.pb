@@ -1,0 +1,2 @@
+
+FMYЙАо	"Ж┘КQA┘КQA%┘КQA-┘КQA0d"э▐бQA▐бQA%▐бQA-▐бQA0с	"╗\ QA\ QA%\ QA-\ QA0╜"▓╦QA▐бQA%▐бQA-╦QA0х"╞вёPAвёPA%вёPA-вёPA0л"▌`vQA`vQA%`vQA-`vQA0d"░QQAQQA%QQA-QQA0d"°6мPA6мPA%6мPA-6мPA0Х"рмлPAмлPA%млPA-млPA0╞"╦	 ≥QA ≥QA% ≥QA- ≥QA0Л"к	█≈QA█≈QA%█≈QA-█≈QA0Х"я	млPA╝GQA%╝GQA-млPA0╚"К	млPAмлPA%млPA-млPA0d

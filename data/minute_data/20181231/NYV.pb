@@ -1,0 +1,2 @@
+
+NYVяс╧	"ЎЎ(PAЎ(PA%Ў(PA-Ў(PA0■"ИдpQAдpQA%ЪЩQA-дpQA0╓"ЛоGQAоGQA%оGQA-оGQA0d"П<NQA<NQA%<NQA-<NQA0Ї"Р0*QA└[QA%дpQA-0*QA0Ш"─дpQA└[QA%дpQA-└[QA0╪"╔ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0d"хЪЩQAЪЩQA%ЪЩQA-ЪЩQA0d"едpQA !QA%дpQA- !QA0╪"░ОuQA═╠PA%ЪЩQA-═╠PA0ш"╖oБQAoБQA%oБQA-oБQA0╚"║ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0d"╗{RA{RA%{RA-{RA0ш"▒╫RA╫RA%╫RA-╫RA0╚"КП┬QAП┬QA%П┬QA-П┬QA0╠8"ЯП┬QAП┬QA%П┬QA-П┬QA0d"аП┬QARA%{RA-П┬QA0д	"╪{RA{RA%{RA-{RA0Р"щ	┘╬QA┘╬QA%┘╬QA-┘╬QA0▄

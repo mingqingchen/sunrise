@@ -1,0 +1,3 @@
+
+GOODM›§Ð	"Èš™½A2f¾A%2f¾A-š™½A0ô"æÍÌ¼AÍÌ¼A%ÍÌ¼A-ÍÌ¼A0Ð"çÍÌ¼AÍÌ¼A%ÍÌ¼A-ÍÌ¼A0"ì¤p½A¤p½A%¤p½A-¤p½A0d"îš™½Aš™½A%š™½A-š™½A0È"±Â½AÂ½A%Â½A-Â½A0"ÃS…½AHa½A%S…½A-j^½A0ô"Ôš™½Aš™½A%š™½A-š™½A0è"Öš™½Aš™½A%š™½A-š™½A0Ø"Ù6¼½A6¼½A%6¼½A-6¼½A0d"Há½A÷†½A%Há½A-÷†½A0„"®½A®½A%®½A-®½A0¬"¡ff¾Aff¾A%ff¾A-ff¾A0ô"¢š™½Aš™½A%š™½A-š™½A0¬"´‰R¾A‰R¾A%‰R¾A-‰R¾A0Û"¶òÒ½AòÒ½A%òÒ½A-òÒ½A0è"íš™½Aš™½A%š™½A-š™½A0È"îš™½Aš™½A%š™½A-š™½A0d"ó…½A…½A%…½A-…½A0d"õ…½A…½A%…½A-…½A0d"ö…½A…½A%…½A-…½A0È"‹š™½Aš™½A%š™½A-š™½A0¼"Œq=¾Aq=¾A%q=¾A-q=¾A0"„	q=¾Aq=¾A%q=¾A-q=¾A0«"·	…ë½A…ë½A%…ë½A-…ë½A0ô"Â	®½A®½A%®½A-š™½A0„"Ð	®½A¤p½A%®½A-¤p½A0”
+"ç	33½A33½A%33½A-33½A0

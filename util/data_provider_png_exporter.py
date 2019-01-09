@@ -6,7 +6,7 @@ import tensorflow as tf
 
 import data_provider
 
-k_data_folder = './data/intra_day/'
+k_data_folder = './data/minute_data/'
 k_png_temp_folder = 'temppng/'
 
 class DataProviderPngExporter:
@@ -53,7 +53,7 @@ class DataProviderPngExporter:
 
 
   def export_some_intra_day_data_to_pngs(self):
-    self._dp = data_provider.DataProvider(FLAGS.data_dir)
+    self._dp = data_provider.DataProvider(FLAGS.data_dir, use_eligible_list=False)
     if not os.path.isdir(FLAGS.output_png_dir):
       os.makedirs(FLAGS.output_png_dir)
 
@@ -97,7 +97,7 @@ if __name__=="__main__":
   parser.add_argument(
     '--extract_date',
     type=int,
-    default=20190104,
+    default=20190107,
     help='Date to be extracted'
   )
   FLAGS, unparsed = parser.parse_known_args()
