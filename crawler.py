@@ -1,6 +1,10 @@
 #!/usr/bin/env python 
 """
-Retrieve intraday stock data from Google Finance.
+Retrieve stock data from TD Ameritrade.
+For 10 day minute-level query, run
+  crawler.py --data_folder=data/daily_data --period=10 --period_type=daily --frequency_type=minute
+For 1 year daily-level query, run
+  crawler.py --data_folder=data/daily_data --period=1 --period_type=year --frequency_type=daily
 """
 
 import csv
@@ -18,8 +22,7 @@ import os, sys
 import util.stock_pb2 as stock_pb2
 import live_trade.trade_api as trade_api
 
-k_intra_day_folder = 'minute_data/'
-k_data_folder = './data/'
+k_data_folder = './data/minute_data'
 k_index_list = {'NASDAQ', 'NYSE', 'AMEX'}
 
 class IntraDayCrawler:
@@ -81,14 +84,12 @@ class IntraDayCrawler:
     return result
 
   def crawl_and_export_one_symbol(self, symbol):
-    crawl_result, result = self.crawl_one_symbol(symbol, period=FLAGS.num_days)
+    crawl_result, result = self.crawl_one_symbol(symbol, FLAGS.period, FLAGS.period_type, FLAGS.frequency_type)
     if not crawl_result:
-      return False
-
-    intra_day_folder = os.path.join(self.data_folder_, k_intra_day_folder)
+      return Fals
 
     for day in result:
-      day_folder = os.path.join(intra_day_folder, str(day))
+      day_folder = os.path.join(FLAGS.data_folder, str(day))
       if not os.path.isdir(day_folder):
         os.makedirs(day_folder)
 
@@ -101,9 +102,8 @@ class IntraDayCrawler:
 
   def get_crawl_list_from_three_indices(self):
     symbol_list = []
-    intra_day_folder = os.path.join(self.data_folder_, k_intra_day_folder)
     for index_name in k_index_list:
-      list_file_path = os.path.join(intra_day_folder, index_name + '.csv')
+      list_file_path = os.path.join(FLAGS.data_folder, index_name + '.csv')
       symbol_data = pd.read_csv(list_file_path)
       for symbol in symbol_data['Symbol']:
         if '^' in symbol or '.' in symbol:
@@ -114,13 +114,8 @@ class IntraDayCrawler:
 
   def daily_crawl(self, crawl_symbol_list=False):
     # Make data folder
-    if not os.path.exists(self.data_folder_):
-      os.makedirs(self.data_folder_)
-    
-    # Make intra day folder
-    intra_day_folder = os.path.join(self.data_folder_, k_intra_day_folder)
-    if not os.path.exists(intra_day_folder):
-      os.makedirs(intra_day_folder)
+    if not os.path.exists(FLAGS.data_folder):
+      os.makedirs(FLAGS.data_folder)
 
     # First, download index symbol list
     if crawl_symbol_list:
@@ -128,7 +123,7 @@ class IntraDayCrawler:
         print('Downloading symbol list for index: {0}'.format(index_name))
         url = self.index_list_url_template.format(index_name)
         temp_filename, headers = urllib.urlretrieve(url)
-        local_filename = os.path.join(intra_day_folder, index_name + '.csv')
+        local_filename = os.path.join(FLAGS.data_folder, index_name + '.csv')
         if os.path.isfile(local_filename):
           os.remove(local_filename)
         shutil.move(temp_filename, local_filename)
@@ -146,16 +141,16 @@ class IntraDayCrawlerTD(IntraDayCrawler):
     self.live_trade_api_.get_refresh_token()
     self.live_trade_api_.get_new_access_token()
   
-  def crawl_one_symbol(self, symbol, period=1):
-    result, response = self.live_trade_api_.query_historical_price(symbol, period)
+  def crawl_one_symbol(self, symbol, period=1, period_type='day', frequency_type='minute'):
+    result, response = self.live_trade_api_.query_data(symbol, period, period_type, frequency_type)
     
     # For the first time, it could be due to expired access token.
     if 'error' in response or (not result):
       self.live_trade_api_.get_new_access_token()
-      result, response = self.live_trade_api_.query_historical_price(symbol, period)
+      result, response = self.live_trade_api_.query_data(symbol, period, period_type, frequency_type)
     
     while 'error' in response and 'transactions per seconds restriction' in response['error']:
-      result, response = self.live_trade_api_.query_historical_price(symbol, period)
+      result, response = self.live_trade_api_.query_data(symbol, period, period_type, frequency_type)
       print('Transaction per seconds restriction reached. Sleep for 1 sec.')
       time.sleep(1)
 
@@ -170,7 +165,10 @@ class IntraDayCrawlerTD(IntraDayCrawler):
       for one_time_data_js in response['candles']:
         cl_time = pd.to_datetime(int(one_time_data_js['datetime']), unit='ms')
         cl_time = cl_time.tz_localize('UTC').tz_convert('America/Los_Angeles')
-        date_val = cl_time.year * 10000 + cl_time.month * 100 +cl_time.day
+        if frequency_type == 'minute':
+          date_val = cl_time.year * 10000 + cl_time.month * 100 +cl_time.day
+        else:
+          date_val = cl_time.year
         if date_val not in result:
           one_symbol_data = stock_pb2.OneIntraDayData()
           one_symbol_data.symbol = symbol
@@ -198,7 +196,10 @@ class IntraDayCrawlerTD(IntraDayCrawler):
         one_time_data.low = float(one_time_data_js['low'])
         one_time_data.volume = int(one_time_data_js['volume'])
 
-        one_time_data.time_val = cl_time.hour * 100 + cl_time.minute
+        if frequency_type == 'minute':
+          one_time_data.time_val = cl_time.hour * 100 + cl_time.minute
+        else:
+          one_time_data.time_val = cl_time.year * 10000 + cl_time.month * 100 +cl_time.day
 
       return True, result
 
@@ -218,10 +219,22 @@ if __name__=='__main__':
     help='Root folder for data'
   )
   parser.add_argument(
-    '--num_days',
+    '--period',
     type=int,
     default=1,
-    help='Number of days to crawl'
+    help='Period to crawl'
+  )
+  parser.add_argument(
+    '--period_type',
+    type=str,
+    default='daily',
+    help='Period type to crawl'
+  )
+  parser.add_argument(
+    '--frequency_type',
+    type=str,
+    default='minute',
+    help='Frequency type to crawl'
   )
   FLAGS, unparsed = parser.parse_known_args()
   tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
