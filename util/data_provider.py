@@ -9,6 +9,52 @@ import stock_pb2
 k_eligible_file_name = 'eligible_list.txt'
 
 
+def merge_one_intra_day_data(day_data_a, day_data_b):
+  """Merge two OneIntraDayData.
+  Args:
+    day_data_a: data A
+    day_data_b: data B
+  Returns:
+    result: True or False of merging success or not
+  """
+  merged_data = stock_pb2.OneIntraDayData()
+  if day_data_a.symbol != day_data_b.symbol:
+    return False, merged_data
+  if day_data_a.date != day_data_b.date:
+    return False, merged_data
+  if day_data_a.resolution != day_data_b.resolution:
+    return False, merged_data
+  if len(day_data_a.data) == 0:
+    return True, day_data_b
+  if len(day_data_b.data) == 0:
+    return True, day_data_a
+  merged_data.symbol = day_data_b.symbol
+  merged_data.date = day_data_b.date
+  merged_data.resolution = day_data_b.resolution
+  index_a, index_b = 0, 0
+  while index_a < len(day_data_a.data) and index_b < len(day_data_b.data):
+    one_time_data = merged_data.data.add()
+    if day_data_a.data[index_a].time_val < day_data_b.data[index_b].time_val:
+      one_time_data.CopyFrom(day_data_a.data[index_a])
+      index_a += 1
+    elif day_data_a.data[index_a].time_val > day_data_b.data[index_b].time_val:
+      one_time_data.CopyFrom(day_data_b.data[index_b])
+      index_b += 1
+    else:
+      one_time_data.CopyFrom(day_data_b.data[index_b])
+      index_a += 1
+      index_b += 1
+  if index_a < len(day_data_a.data):
+    for index in range(index_a, len(day_data_a.data)):
+      one_time_data = merged_data.data.add()
+      one_time_data.CopyFrom(day_data_a.data[index])
+  elif index_b < len(day_data_b.data):
+    for index in range(index_b, len(day_data_b.data)):
+      one_time_data = merged_data.data.add()
+      one_time_data.CopyFrom(day_data_b.data[index])
+  return True, merged_data
+
+
 # Class providing easy access to crawled data
 # Note that use_eligible_list is set to true by default, which filters out a lot of stocks based on a whitelist
 class DataProvider:

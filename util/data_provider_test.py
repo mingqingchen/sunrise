@@ -72,6 +72,86 @@ def build_data_set():
 
 
 class TestDataProvider(unittest.TestCase):
+  def test_merge_data_1(self):
+    one_stock_data_a = stock_pb2.OneIntraDayData()
+    one_stock_data_a.symbol = 'AMZN'
+    one_stock_data_b = stock_pb2.OneIntraDayData()
+    one_stock_data_b.symbol = 'MSFT'
+    result, _ = data_provider.merge_one_intra_day_data(one_stock_data_a, one_stock_data_b)
+    self.assertFalse(result)
+
+  def test_merge_data_2(self):
+    one_stock_data_a = stock_pb2.OneIntraDayData()
+    one_stock_data_a.symbol = 'AMZN'
+    one_stock_data_a.date = 20180305
+    one_stock_data_b = stock_pb2.OneIntraDayData()
+    one_stock_data_b.symbol = 'AMZN'
+    one_stock_data_b.date = 20180306
+    result, _ = data_provider.merge_one_intra_day_data(one_stock_data_a, one_stock_data_b)
+    self.assertFalse(result)
+
+  def test_merge_data_3(self):
+    one_stock_data_a = stock_pb2.OneIntraDayData()
+    one_stock_data_a.symbol = 'AMZN'
+    one_stock_data_a.date = 20180305
+    one_stock_data_a.resolution = 1
+    one_stock_data_b = stock_pb2.OneIntraDayData()
+    one_stock_data_b.symbol = 'AMZN'
+    one_stock_data_b.date = 20180305
+    one_stock_data_b.resolution = 3
+    result, _ = data_provider.merge_one_intra_day_data(one_stock_data_a, one_stock_data_b)
+    self.assertFalse(result)
+
+  def test_merge_data_4(self):
+    one_stock_data_a = stock_pb2.OneIntraDayData()
+    one_stock_data_a.symbol = 'AMZN'
+    one_stock_data_a.date = 20180305
+    one_stock_data_a.resolution = 1
+    add_one_time_slot_data(one_stock_data_a, 630, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_a, 631, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_a, 638, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_a, 650, 1.0, 1.0, 1.0, 1.0, 2000)
+
+    one_stock_data_b = stock_pb2.OneIntraDayData()
+    one_stock_data_b.symbol = 'AMZN'
+    one_stock_data_b.date = 20180305
+    one_stock_data_b.resolution = 1
+    add_one_time_slot_data(one_stock_data_b, 631, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_b, 637, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_b, 638, 1.0, 1.0, 1.0, 1.0, 2000)
+
+    result, merged_data = data_provider.merge_one_intra_day_data(one_stock_data_a, one_stock_data_b)
+    self.assertTrue(result)
+    self.assertEqual(len(merged_data.data), 5)
+    self.assertEqual(merged_data.data[0].time_val, 630)
+    self.assertEqual(merged_data.data[1].time_val, 631)
+    self.assertEqual(merged_data.data[2].time_val, 637)
+    self.assertEqual(merged_data.data[3].time_val, 638)
+    self.assertEqual(merged_data.data[4].time_val, 650)
+
+  def test_merge_data_5(self):
+    one_stock_data_a = stock_pb2.OneIntraDayData()
+    one_stock_data_a.symbol = 'AMZN'
+    one_stock_data_a.date = 20180305
+    one_stock_data_a.resolution = 1
+    add_one_time_slot_data(one_stock_data_a, 630, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_a, 631, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_a, 638, 1.0, 1.0, 1.0, 1.0, 2000)
+    add_one_time_slot_data(one_stock_data_a, 650, 1.0, 1.0, 1.0, 1.0, 2000)
+
+    one_stock_data_b = stock_pb2.OneIntraDayData()
+    one_stock_data_b.symbol = 'AMZN'
+    one_stock_data_b.date = 20180305
+    one_stock_data_b.resolution = 1
+
+    result, merged_data = data_provider.merge_one_intra_day_data(one_stock_data_a, one_stock_data_b)
+    self.assertTrue(result)
+    self.assertEqual(len(merged_data.data), 4)
+    self.assertEqual(merged_data.data[0].time_val, 630)
+    self.assertEqual(merged_data.data[1].time_val, 631)
+    self.assertEqual(merged_data.data[2].time_val, 638)
+    self.assertEqual(merged_data.data[3].time_val, 650)
+
   def test_get_all_dates(self):
     build_data_set()
     dp = data_provider.DataProvider(k_tmp_folder, use_eligible_list=False)
