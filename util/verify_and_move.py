@@ -1,9 +1,5 @@
-import argparse
-import datetime_util
-import matplotlib.pyplot as plt
-import os, sys
+import os
 import shutil
-import tensorflow as tf
 
 import data_provider
 
