@@ -14,14 +14,17 @@ class DataProviderPngExporter:
   def _prepare_one_stock_data_list(self, one_stock_data):
     time_list, open_list, close_list, high_list, low_list = [], [], [], [], []
     for one_slot_data in one_stock_data.data:
-      time_list.append(datetime_util.int_to_time(one_slot_data.time_val))
+      if one_slot_data.time_val < 10000:
+        time_list.append(datetime_util.int_to_time(one_slot_data.time_val))
+      else:
+        time_list.append(datetime_util.int_to_date(one_slot_data.time_val))
       open_list.append(one_slot_data.open)
       close_list.append(one_slot_data.close)
       high_list.append(one_slot_data.high)
       low_list.append(one_slot_data.low)
     return time_list, open_list, close_list, high_list, low_list
 
-  def _prepare_display_one_symbol_one_day(self, symbol, one_stock_data, transactions):
+  def _prepare_display_one_symbol_one_day(self, symbol, one_stock_data):
     time_list, open_list, close_list, high_list, low_list = self._prepare_one_stock_data_list(one_stock_data)
     k_open_close_line_width = 3
     k_min_max_line_width = 1
@@ -35,19 +38,11 @@ class DataProviderPngExporter:
       else:
         plt.vlines(time_list[k], open_list[k], open_list[k] + k_epsilon, 'g', linewidth = k_open_close_line_width)
 
-    minimal_val = min(low_list)
-    maximal_val = max(high_list)
-    for transaction in transactions:
-      trans_time = datetime_util.int_to_time(transaction.time)
-      if transaction.type == stock_pb2.Transaction.BUY:
-        plt.vlines(trans_time, minimal_val, maximal_val, 'r')
-      else:
-        plt.vlines(trans_time, minimal_val, maximal_val, 'b')
     plt.grid()
     plt.title(symbol)
 
-  def export_one_symbol_one_day(self, symbol, one_stock_data, img_path, transactions = []):
-    self._prepare_display_one_symbol_one_day(symbol, one_stock_data, transactions)
+  def export_one_symbol_one_day(self, symbol, one_stock_data, img_path):
+    self._prepare_display_one_symbol_one_day(symbol, one_stock_data)
     plt.savefig(img_path)
     plt.clf()
 
@@ -79,6 +74,10 @@ def main(argv):
   png_exporter = DataProviderPngExporter()
   png_exporter.export_some_intra_day_data_to_pngs()
 
+
+# Example:
+# python util/data_provider_png_exporter.py --data_dir=data/daily_data --extract_date=2018
+# python util/data_provider_png_exporter.py --data_dir=data/minute_data --extract_date=20190107
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

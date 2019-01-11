@@ -9,13 +9,40 @@ import stock_pb2
 k_eligible_file_name = 'eligible_list.txt'
 
 
+def if_two_float_close(a, b):
+  if (a == 0.) and (b == 0.):
+    return True
+  return abs(a - b) / (abs(a) + abs(b)) < 0.005
+
+def is_one_day_a_match(one_day_minute_data, one_day_summary_data):
+  """Determine whether one_day_minute_data is a match for one_day_summary_data based on high and low.
+  Args:
+    one_day_minute_data: a OneIntraDayData
+    one_day_summary_data: a OneTimeSlotData
+  Returns:
+    True or False indicating whether a match
+  """
+  if len(one_day_minute_data.data) == 0:
+    return False
+  max_val, min_val = one_day_minute_data.data[0].low, one_day_minute_data.data[0].low
+  for one_time_data in one_day_minute_data.data:
+    max_val = max(max_val, one_time_data.high)
+    min_val = min(min_val, one_time_data.low)
+  if not if_two_float_close(one_day_summary_data.high, max_val):
+    return False
+  if not if_two_float_close(one_day_summary_data.low, min_val):
+    return False
+  return True
+
+
 def merge_one_intra_day_data(day_data_a, day_data_b):
   """Merge two OneIntraDayData.
   Args:
     day_data_a: data A
     day_data_b: data B
   Returns:
-    result: True or False of merging success or not
+    result: True or False of merging success or not. The two data must have same symbol, date and resolution
+    merged_data: merged result
   """
   merged_data = stock_pb2.OneIntraDayData()
   if day_data_a.symbol != day_data_b.symbol:
