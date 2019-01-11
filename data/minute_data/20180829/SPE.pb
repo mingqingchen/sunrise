@@ -1,0 +1,2 @@
+
+SPEÞÞÏ	"¿¨ÆqA¨ÆqA%¨ÆqA-¨ÆqA0¾"¬…ëqA…ëqA%…ëqA-…ëqA0¬"­{rA{rA%{rA-{rA0¬"´ÚrAÚrA%ÚrA-ÚrA0è"ÄrArA%rA-rA0È"Šq=rA–!rA%ffrA-–!rA0°	"ŽW[rAffrA%ffrA-W[rA0Ü"ffrAþerA%ffrA-þerA0Ø"œffrAÏfrA%ÏfrA-ffrA0ü"¤…ëqAîëqA%îëqA-…ëqA0è"¥ÂqAÂqA%ÂqA-ÂqA0È"¦…ëqA…ëqA%…ëqA-…ëqA0Ü"¯ƒÀqAšqA%ƒÀqA-šqA0¸"°¥½qAù qA%¥½qA-š™qA0à"›¤pqAš™qA%š™qA-¤pqA0ä	"Ò¤pqA¤pqA%¤pqA-¤pqA0"û¤pqAÛùpA%qqA-ÃõpA0›"þÃõpAázpA%Ê2qA-ázpA0¢,"Ç	\pA\pA%\pA-\pA0ô"È	×£pA×£pA%×£pA-×£pA0Ì

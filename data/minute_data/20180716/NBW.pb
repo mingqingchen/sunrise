@@ -1,0 +1,2 @@
+
+NBWלÝֿ	"צ׳£HA׳£HA%׳£HA-׳£HA0†"ÙֳץHAֳץHA%ֳץHA-ֳץHA0ָ"ד"‎HA"‎HA%"‎HA-"‎HA0ׂ"¹י·HAי·HA%י·HA-י·HA0¬"יספHAספHA%ספHA-ספHA0d"–ספHA+צHA%+צHA-ספHA0ָ"™¸IAIA%¸IA-IA0‏"׃ַ)IA•eIA%•eIA-ַ)IA0פ"װ&IA&IA%&IA-&IA0"ֶ	₪pIA₪pIA%₪pIA-₪pIA0d"ַ	•IA•IA%•IA-•IA0״

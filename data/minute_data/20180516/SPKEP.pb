@@ -1,0 +1,2 @@
+
+SPKEP¤ÜÏ	"ÒR¸¶AÆ\¶A%R¸¶A-Æ\¶A0È"ú\¶Aff¶A%\¶A-ff¶A0þ"Í0»µA0»µA%0»µA-0»µA0"àš™µAš™µA%š™µA-š™µA0ô"é…µA…µA%…µA-…µA0d"úHá¶AHá¶A%Há¶A-Há¶A0È"ûÍÌ¶Aÿ2·A%ÿ2·A-ÍÌ¶A0ô"€	ÍÌ¶Aýv¶A%ÍÌ¶A-ýv¶A0È"³	R¸¶A˜n¶A%R¸¶A-˜n¶A0¬"¶	×£¶A×£¶A%×£¶A-×£¶A0È"Ç	š™µAš™µA%š™µA-š™µA0è"ë	Há¶A×£¶A%Há¶A-×£¶A0È

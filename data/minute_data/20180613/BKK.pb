@@ -1,0 +1,2 @@
+
+BKK…ÝÏ	"ÃrArA%rA-rA0£"Ø‘íqA‘íqA%‘íqA-‘íqA0Ì"è	ùqA{rA%q=rA-	ùqA0Ü"íq=rA¬rA%ffrA-ärA0ü"™F%rAF%rA%F%rA-F%rA0’"ì–!rA–!rA%–!rA-–!rA0Í"ûq=rAq=rA%q=rA-q=rA0"·	óŽrAóŽrA%óŽrA-óŽrA0Ö"¾	D‹rAóŽrA%óŽrA-D‹rA0Ö"Ï	\rAffrA%\rA-ffrA0È"ß	\rA\rA%\rA-\rA0d"ã	q=rA“rA%q=rA-{rA0Í

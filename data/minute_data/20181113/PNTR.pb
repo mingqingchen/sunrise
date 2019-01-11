@@ -1,0 +1,2 @@
+
+PNTRתאֿ	"צ)\CA)\CA%)\CA-)\CA0ז"ÿ33CA33CA%33CA-33CA0ז"ffBAffBA%ffBA-ffBA0ָ"נffBA\BA%:’BA-ffBA0ׂ"עffBAHבBA%HבBA-ffBA0ָ"“₪pAA³{AA%³{AA-₪pAA0ָ"•q=BAq=BA%q=BA-q=BA0ָ"קffBAffBA%ffBA-ffBA0d"ֵ	ffBAq=BA%*©BA-q=BA0 "כ	q=BAq=BA%q=BA-q=BA0״

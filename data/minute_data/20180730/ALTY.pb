@@ -1,0 +1,2 @@
+
+ALTYыЭП	"цёqAёqA%ёqA-ёqA0ч"щ{rA{rA%{rA-{rA0И"ЇRёrAЂ·rA%RёrA-Ђ·rA0И"эeЄrAeЄrA%eЄrA-eЄrA0"‰V}rAV}rA%V}rA-V}rA0И"‘{rA{rA%{rA-{rA0И"тЯаrAЯаrA%ЯаrA-ЯаrA0Џ

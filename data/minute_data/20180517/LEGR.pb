@@ -1,0 +1,2 @@
+
+LEGR¦ЬП	"цбzоAбzоA%бzоA-бzоA0Ѓ"‚)\нA)\нA%)\нA-)\нA0d"Тц(оAц(оA%ц(оA-ц(оA0–"ФмQпAмQпA%мQпA-мQпA0‘"ЅБКоAБКоA%БКоA-БКоA0П"сеrоAеrоA%еrоA-еrоA0d"ђQkоAQkоA%QkоA-QkоA0ф"СхJоAхJоA%хJоA-хJоA0Ф"Я·QоA·QоA%·QоA-·QоA0ъ"гЗKоAq=оA%ЗKоA-q=оA0Ш"Ж	q=оAq=оA%q=оA-q=оA0И"Х	ц(оAц(оA%ц(оA-ц(оA0d"г	NbоANbоA%NbоA-NbоA0ђ"и	ЬWоAЬWоA%ЬWоA-ЬWоA0ф"й	ffоAffоA%ffоA-ffоA0И"к	ffоANbоA%ffоA-NbоA0И

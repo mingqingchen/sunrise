@@ -1,0 +1,2 @@
+
+NAZбчо	"ЖмлHAмлHA%млHA-млHA0в	"╫9╢HA9╢HA%9╢HA-9╢HA0l"ВцУHAцУHA%цУHA-цУHA0х"═млHAмлHA%млHA-млHA0d"б@╓HA@╓HA%@╓HA-@╓HA0Х"емлHAмлHA%млHA-млHA0d"гцУHAцУHA%цУHA-цУHA0d"ицУHAцУHA%цУHA-цУHA0d"кмлHAмлHA%млHA-млHA0d"ммлHAмлHA%млHA-млHA0╛"▓цУHAцУHA%цУHA-цУHA0╛"⌠цУHAцУHA%цУHA-цУHA0d"╒╦IA╦IA%╦IA-╦IA0х"П@╓HA@╓HA%@╓HA-@╓HA0d"В>ХHA>ХHA%>ХHA->ХHA0╟	"╩	цУHAцУHA%цУHA-цУHA0d"ц	вёHAUаHA%UаHA-вёHA0о"ы	?фHA?фHA%?фHA-?фHA0Е"А	ЧтHAЧтHA%ЧтHA-ЧтHA0Х"К	вёHAвёHA%вёHA-вёHA0х

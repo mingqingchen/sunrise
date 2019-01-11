@@ -1,0 +1,3 @@
+
+PFH·▌╧	"Ў{VA{VA%{VA-{VA0d"ш═╠XA═╠XA%═╠XA-═╠XA0°
+"МHсRAHсRA%HсRA-HсRA0d"О33WA33WA%33WA-33WA0d"РЪЩUAЪЩUA%ЪЩUA-ЪЩUA0╚"юмSAмSA%мSA-мSA0Р"р33SA33SA%33SA-33SA0d"тЎ(TAЎ(TA%Ў(TA-Ў(TA0d"ш═╠TA═╠TA%═╠TA-═╠TA0d"щоGUAоGUA%оGUA-├їTA0╪"ыffVAffVA%ffVA-ffVA0d"ьоGUAЕWA%ЕWA-оGUA0ж"эУVA{VA%]mVA-{VA0м"ю)\WA)\WA%)\WA-)\WA0d"яйдUAЪЩUA%йдUA-ЪЩUA0╚"Ё▄╫TA▄╫TA%▄╫TA-▄╫TA0╚"ё╫гTA╫гTA%╫гTA-╫гTA0d"їсzVAсzVA%сzVA-сzVA0╚

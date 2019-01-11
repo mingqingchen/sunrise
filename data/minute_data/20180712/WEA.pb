@@ -1,0 +1,3 @@
+
+WEAЙщо	"ЖвёLAвёLA%вёLA-вёLA0╨"ЪвёLAвёLA%вёLA-вёLA0d"▄вёLAвёLA%вёLA-вёLA0d"█млLAмлLA%млLA-млLA0╛"⌠млLAмлLA%млLA-млLA0d"цмлLAмлLA%млLA-млLA0d"ймлLAмлLA%млLA-млLA0d"мЪ╡LAЪ╡LA%Ъ╡LA-Ъ╡LA0s"рмлLAмлLA%млLA-млLA0d"эмлLAмлLA%млLA-млLA0d"▐АzLAАzLA%АzLA-АzLA0d"■вёLAвёLA%вёLA-вёLA0d"╩6╚LA6╚LA%6╚LA-6╚LA0░"╪\▐LA\▐LA%\▐LA-\▐LA0d"ИмлLAмлLA%млLA-млLA0d"ж▐бLAюLA%▐бLA-юLA0Х"ымлLAмлLA%млLA-млLA0d"ЮмлLAмлLA%млLA-млLA0d"╪	млLAмлLA%млLA-млLA0d"©	млLAмлLA%млLA-млLA0d"ц	млLA\▐LA%млLA-\▐LA0╪"д	млLAмлLA%млLA-млLA0Д"л	вёLAвёLA%вёLA-вёLA0Э"з	т LAт LA%т LA-т LA0╔"К	млLAмлLA%млLA-млLA0х"√
+млLAмлLA%млLA-млLA0Г

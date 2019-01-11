@@ -1,0 +1,2 @@
+
+SKOR²ÜÏ	"ö®DB®DB%®DB-®DB0d"„×£DB×£DB%×£DB-×£DB0d"½×£DB×£DB%×£DB-×£DB0d"Ò×£DB×£DB%×£DB-×£DB0d"õ\DBš™DB%š™DB-\DB0"ö\DB\DB%\DB-\DB0d"³š™DBš™DB%š™DB-\DB0Ð"åö(EBö(EB%ö(EB-ö(EB0 "µ	jMEBjMEB%jMEB-jMEB0¥"¼	q=EBq=EB%q=EB-q=EB0æ"ë	ö(EBö(EB%ö(EB-ö(EB0d

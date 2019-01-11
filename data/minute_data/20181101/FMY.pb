@@ -1,0 +1,2 @@
+
+FMYНЮо	"Ж╝OA╝OA%╝OA-╝OA0f"лмлPAмлPA%млPA-млPA0d"ТJ{PAJ{PA%J{PA-АzPA0├"°АzPAАzPA%АzPA-АzPA0х"─	АzPAвёPA%вёPA-АzPA0╛"э	млPAмлPA%млPA-млPA0d"Д	млPAмлPA%млPA-млPA0╛

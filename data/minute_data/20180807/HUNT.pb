@@ -1,0 +1,2 @@
+
+HUNTгчо	"Ж ≥A ≥A% ≥A- ≥A0╔"Ф ≥A ≥A% ≥A- ≥A0░║"х	ffAffA%ffA-ffA0d"м	ffAffA%ffA-ffA0d"я	ffAffA%ffA-ffA0d"ж	ffAffA%ffA-ffA0d"з	ffAffA%ffA-ffA0d"ъ	ffAffA%ffA-ffA0d"Б	ffAffA%ffA-ffA0d"Е	ffAffA%ffA-ffA0d"Г	ffAffA%ffA-ffA0d"И	ffAffA%ffA-ffA0d"Й	млAмлA%млA-млA0d"К	ffAffA%ffA-ffA0d

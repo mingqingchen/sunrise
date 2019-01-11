@@ -1,0 +1,10 @@
+
+EGIF‘ﬁœ	"ÅzA¡9zA%q=zA-ﬁzA0∞A"ÇffzAffzA%ffzA-ffzA0…"Ü\èzAq=zA%\èzA-q=zA0»"á\èzAq=zA%\èzA-q=zA0»"è\èzA\èzA%\èzA-\èzA0d"≈ïezAq=zA%shzA-q=zA0‡"œ·zzA·zzA%·zzA-·zzA0…"Ó\èzA\èzA%\èzA-\èzA0d"Ô\èzA\èzA%\èzA-\èzA0d"®R∏zA¸©zA%R∏zA-¸©zA0ê" R∏zAR∏zA%R∏zA-R∏zA0ó"À◊£zA◊£zA%◊£zA-◊£zA0»"•R∏zAR∏zA%R∏zA-R∏zA0ˆ"òR∏zAR∏zA%R∏zA-R∏zA0˙"ˇH·zA%{A%%{A-ﬂ‡zA0Ï"∆	=
+{A=
+{A%=
+{A-=
+{A0»"Í	’	{A’	{A%=
+{A-’	{A0Ù"Î	=
+{A=
+{A%=
+{A-’	{A0å

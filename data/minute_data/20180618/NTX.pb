@@ -1,0 +1,2 @@
+
+NTX┼що	"Ж┘КMA┘КMA%┘КMA-┘КMA0Х"┤┘КMA┘КMA%┘КMA-┘КMA0d"▓ ≥MA\▐JA% ≥MA-\▐JA0п▄"╪АzLAАzLA%АzLA-АzLA0░"е▄JLA▄JLA%▄JLA-▄JLA0Т"фАzLAАzLA%АzLA-АzLA0≤"иАzLAАzLA%АzLA-АzLA0d"мвёLAвёLA%вёLA-вёLA0Т"пвёLAвёLA%вёLA-вёLA0d"ёмлLAмлLA%млLA-млLA0░"╖млLAмлLA%млLA-млLA0х"╘млLAмлLA%млLA-млLA0d"·вёLAвёLA%вёLA-вёLA0d"╪вёLAвёLA%вёLA-вёLA0d"ЭвёLAвёLA%вёLA-вёLA0d"ЩмлLAмлLA%млLA-млLA0х"РвёLAАzLA%вёLA-АzLA0╢"╤	АzLAАzLA%АzLA-АzLA0╛"Ф	ЛQLAЛQLA%ЛQLA-ЛQLA0d"К	ЛQLAАzLA%АzLA-ЛQLA0└

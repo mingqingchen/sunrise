@@ -1,0 +1,2 @@
+
+MPAычо	"ЖHАRAHАRA%HАRA-HАRA0▐"└HАRAHАRA%HАRA-HАRA0╘"╪HАRAHАRA%HАRA-HАRA0х"гHАRAHАRA%HАRA-HАRA0╛"хHАRAHАRA%HАRA-HАRA0л"║R╦RAR╦RA%R╦RA-R╦RA0Х"в∙тRAHАRA%HАRA-∙тRA0∙"░HАRAHАRA%HАRA-HАRA0√"═R╦RAR╦RA%R╦RA-R╦RA0╞"≈HАRAHАRA%HАRA-HАRA0ь"сR╦RAHАRA%HАRA-R╦RA0Т"тмлRAR╦RA%млRA-R╦RA0╘"ЧмлRAмлRA%млRA-млRA0d"Й	млRAмлRA%млRA-млRA0d"К	млRAR╦RA%млRA-R╦RA0╛

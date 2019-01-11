@@ -1,0 +1,2 @@
+
+MTRвр╧	"┌┌XA┌XA%┌XA-┌XA0Р"ь)\WAХWA%ХWA-)\WA0╚"╕	∙WA	∙WA%	∙WA-	∙WA0d"╛дpXAдpXA%дpXA-дpXA0▄"┘╫гXA╫гXA%╫гXA-╫гXA0╚"╙	ЕWAЕWA%ЕWA-ЕWA0╚"╫	fИWAfИWA%fИWA-fИWA0ю"╪	оWA33WA%оWA-33WA0╚"▄	33WA33WA%33WA-33WA0d

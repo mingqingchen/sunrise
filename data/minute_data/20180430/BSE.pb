@@ -1,0 +1,3 @@
+
+BSEншо	"ЖАzDAАzDA%АzDA-АzDA0■"и╦EAцУDA%╦EA-цУDA0═"╔⌠╘DA⌠╘DA%⌠╘DA-⌠╘DA0d"дмлDAмлDA%млDA-млDA0d"с⌠╘DAвёDA%⌠╘DA-вёDA0Ь
+"ьмлDAмлDA%млDA-млDA0d"╕млDAмлDA%млDA-млDA0d"тцУDAцУDA%цУDA-цУDA0d"М6мDA6мDA%6мDA-6мDA0d"│	млDAмлDA%млDA-млDA0d"╪	+ЖDAцУDA%+ЖDA-цУDA0х"ф	ВEAВEA%ВEA-ВEA0ч"л	}пDA}пDA%}пDA-}пDA0d"ы	6мDA6мDA%6мDA-6мDA0d"Ц	вёDAвёDA%вёDA-вёDA0d"Г	АzDAАzDA%АzDA-АzDA0d"Й	@╓DA@╓DA%@╓DA-@╓DA0d

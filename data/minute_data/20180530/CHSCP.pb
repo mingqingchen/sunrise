@@ -1,0 +1,2 @@
+
+CHSCPіЬП	"цffоAffоA%ffоA-ffоA0Ћ"НЎзпAЎзпA%ЎзпA-ЎзпA0И"ій&пAй&пA%й&пA-й&пA0ќ"ЫљоAљоA%љоA-љоA0©"Џ®GсA®GсA%®GсA-®GсA0¬"шRёрARёрA%RёрA-RёрA0d"щI®пAбzоA%nґпA-бzоA0љ"Л	ffоAffоA%ffоA-ffоA0d"Ш	ffоAffоA%ffоA-ffоA0ђ"д	ffоAffоA%ffоA-ffоA0d

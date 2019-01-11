@@ -1,0 +1,2 @@
+
+SABфчо	"■жEпAжEпA%жEпA-жEпA0├"г	╝GоA╝GоA%╝GоA-╝GоA0d"м	╝GоA╝GоA%╝GоA-╝GоA0d"р	╝GоA╝GоA%╝GоA-╝GоA0d"ж	▐соA▐соA%▐соA-▐соA0п"в	╝GоA╝GоA%╝GоA-╝GоA0d"ш	╝GоA╝GоA%╝GоA-╝GоA0d"ъ	╝GоA╝GоA%╝GоA-╝GоA0d"Б	╝GоA╝GоA%╝GоA-╝GоA0d"Д	╝GоA╝GоA%╝GоA-╝GоA0d"Ф	╝GоA╝GоA%╝GоA-╝GоA0d"Х	╝GоA╝GоA%╝GоA-╝GоA0d"И	╝GоA╝GоA%╝GоA-╝GоA0d"Й	╝GоA╝GоA%╝GоA-╝GоA0d"К	)\оA)\оA%)\оA-)\оA0d

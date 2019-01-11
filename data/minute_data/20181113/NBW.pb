@@ -1,0 +1,2 @@
+
+NBWשאֿ	"צבz@Aבz@A%בz@A-בz@A0¹"טּֽ@Aּֽ@A%ּֽ@A-ּֽ@A0ָ"םפ‎AAפ‎AA%פ‎AA-פ‎AA0ט"¬ֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0ָ"­®GAA®GAA%®GAA-®GAA0d"ֹֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0€"ֻ"AA"AA%"AA-"AA0"˜®GAAֳץ@A%®GAA-ֳץ@A0ָ"ֳץ@Aֳץ@A%ֳץ@A-ֳץ@A0ָ"µּֽ@Aּֽ@A%ּֽ@A-ּֽ@A0d"סEGAAEGAA%EGAA-EGAA0¡"ק¨5AA¨5AA%¨5AA-¨5AA0ט"’EGAA33AA%EGAA-33AA0‹	"ÝEGAAEGAA%EGAA-EGAA0¬"Þ®GAA™AA%™AA-X9AA0פ"פ¸AA¸AA%¸AA-¸AA0ָ"ד	מ|AAמ|AA%מ|AA-מ|AA0ָ

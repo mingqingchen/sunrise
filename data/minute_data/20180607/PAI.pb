@@ -1,0 +1,3 @@
+
+PAI─що	"ЖмлXAмлXA%млXA-млXA0н"ЭцУXAцУXA%цУXA-цУXA0╙"о╝GYA╦YA%╝GYA-╦YA0Я"с╦YAцУXA%╦YA-цУXA0╪"ж╝GYA_)YA%╝GYA-_)YA0х"©цУXAцУXA%цУXA-цУXA0х"│ПXAПXA%ПXA-ПXA0╧"ЩмлXAцУXA%цУXA-млXA0х"╟	млXAмлXA%млXA-млXA0d"╢	млXAмлXA%млXA-млXA0d"╩	млXAмлXA%млXA-млXA0d"ц	млXAмлXA%млXA-млXA0d"к	млXAмлXA%млXA-млXA0d"р	млXAмлXA%млXA-млXA0d"с	mГXAmГXA%mГXA-mГXA0╢"ь	млXAмлXA%млXA-млXA0d"ч	млXAХыXA%ХыXA-млXA0░"Ц	млXAмлXA%млXA-млXA0d"Ф	млXAмлXA%млXA-млXA0d"Х	млXAмлXA%млXA-млXA0d"Й	млXAмлXA%млXA-млXA0d"К	млXAцУXA%цУXA-млXA0з"√
+млXAмлXA%млXA-млXA0▒

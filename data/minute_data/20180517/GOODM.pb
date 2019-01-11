@@ -1,0 +1,2 @@
+
+GOODM¦ÜÏ	"…?FÉA?FÉA%?FÉA-?FÉA0d"ÓçÉA33ÉA%33ÉA-çÉA0"ì33ÉA33ÉA%33ÉA-33ÉA0"¤zÇÇAzÇÇA%zÇÇA-zÇÇA0é"¾…ëÇA…ëÇA%…ëÇA-…ëÇA0È"øMÇAMÇA%MÇA-MÇA0d"“ÂÇAÂÇA%ÂÇA-ÂÇA0d"Ä	5oÇA5oÇA%5oÇA-5oÇA0ô"å	ÌÿÇAÌÿÇA%ÌÿÇA-ÌÿÇA0È"é	8çÇA8çÇA%8çÇA-8çÇA0Ö"ê	¸ÀÇA¸ÀÇA%¸ÀÇA-¸ÀÇA0d

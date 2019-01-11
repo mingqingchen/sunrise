@@ -1,0 +1,2 @@
+
+NUM˜ÜÏ	"öq=JAq=JA%q=JA-q=JA0¢"²IAÝµIA%ÝµIA-š™IA0ð)"ƒÂIAÂIA%ÂIA-ÂIA0È"àš™IAš™IA%š™IA-š™IA0d"±ÂIAÂIA%ÂIA-ÂIA0d"ÈÂIAÂIA%ÂIA-ÂIA0È"ÊëIAëIA%ëIA-ëIA0¬"Ð…ëIA{JA%{JA-…ëIA0	"Ô{JA{JA%{JA-{JA0´$"Š…ëIAÂIA%{JA-ÂIA0ø<"®š™IAš™IA%š™IA-š™IA0Š"¸ÂIAÂIA%ÂIA-'ÂIA0¸"¾ÂIAÂIA%ÂIA-ÂIA0d"›š™IAšIA%šIA-š™IA0Ü"ÑÂIAÂIA%ÂIA-ÂIA0‘"Òš™IAš™IA%š™IA-š™IA0Ü"ÓÂIAÂIA%ÂIA-ÂIA0d"È	tµIAÂIA%ÂIA-tµIA0 "ê	²IAš™IA%²IA-š™IA0À

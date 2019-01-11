@@ -1,0 +1,9 @@
+
+MIYц▌╧	"ЎЕOAЕOA%ЕOA-ЕOA0╛"ИоOAоOA%оOA-оOA0з"ОоOAоOA%оOA-оOA0╗"╝оOAоOA%оOA-оOA0d"╟оOAоOA%оOA-оOA0d"╔оOAоOA%оOA-оOA0╨"╨hСOAhСOA%hСOA-hСOA0Р"╙ЕOAЕOA%ЕOA-ЕOA0d"╪ЕOAЕOA%ЕOA-ЕOA0d"▌оOAмнOA%оOA-мнOA0─"▐ЪЩOAЪЩOA%ЪЩOA-ЪЩOA0d"чЕOAЕOA%ЕOA-ЕOA0d"ъЕOAЕOA%ЕOA-ЕOA0d"ыоOAоOA%оOA-оOA0╚"яоOA
+╫OA%
+╫OA-мнOA0ь"ЎоOAоOA%оOA-оOA0d"й}оOA!░OA%!░OA-оOA0р"коOAоOA%оOA-оOA0d"│П┬OA
+╫OA%
+╫OA-П┬OA0╚"╢оOAоOA%оOA-оOA0d"╣П┬OAП┬OA%П┬OA-П┬OA0d"├П┬OAП┬OA%П┬OA-П┬OA0d"╚оOAоOA%оOA-оOA0d"╔оOA
+╫OA%
+╫OA-оOA0Х	"╤оOAоOA%оOA-оOA0d"╓оOAоOA%оOA-оOA0d"ЖЕOAЕOA%ЕOA-ЕOA0d"ФЕOAЕOA%ЕOA-ЕOA0d"бЕOAЕOA%ЕOA-ЕOA0d"лЕOAЕOA%ЕOA-ЕOA0d"░ЕOAЕOA%ЕOA-ЕOA0d"╛ЕOAЕOA%ЕOA-ЕOA0d"єЮOAЮOA%ЮOA-ЮOA0·"ЇЕOAЕOA%ЕOA-ЕOA0d"№ЕOAЕOA%ЕOA-ЕOA0d"ДЕOAЕOA%ЕOA-ЕOA0d"УЕOAЕOA%ЕOA-ЕOA0d"ЫЪЩOAЪЩOA%ЪЩOA-ЪЩOA0╗"гЕOAЕOA%ЕOA-ЕOA0d"█ЕOAЕOA%ЕOA-ЕOA0d"ыЕOAЕOA%ЕOA-ЕOA0б"ьЕOAЕOA%ЕOA-ЕOA0d"эЕOAоOA%оOA-ЕOA0╪"№ЕOAЕOA%ЕOA-ЕOA0d" ЪЩOAЪЩOA%ЪЩOA-ЪЩOA0d"╡	ЪЩOAЪЩOA%ЪЩOA-ЪЩOA0d"┐	мнOAмнOA%мнOA-мнOA0╨"└	ЕOAЕOA%ЕOA-ЕOA0d"┴	bбOAbбOA%bбOA-bбOA0Р"╟	ЪЩOAЕOA%ЪЩOA-ЕOA0╚"╓	ъХOAъХOA%ъХOA-ъХOA0╘"┘	ЪЩOAоOA%оOA-ЪЩOA0м"█	ЕOAЕOA%ЕOA-ЕOA0d"у	ЪЩOAЪЩOA%ЪЩOA-ЪЩOA0d"ш	ЕOAuУOA%uУOA-ЕOA0К"щ	ЕOA)\OA%ЕOA-)\OA0М"ъ	)\OA)\OA%)\OA-)\OA0d"ы	)\OAдpOA%дpOA-)\OA0г"Ц
+ЕOAЕOA%ЕOA-ЕOA0п

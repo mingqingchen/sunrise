@@ -1,0 +1,6 @@
+
+EGIFñ‹œ	"êÆsAÆsA%ÆsA-ÆsA0Ä"√ÖsAÖsA%ÖsA-ÖsA0»"À33sA33sA%33sA-33sA0ê"‡=
+sA=
+sA%=
+sA-=
+sA0ê"Ó\èrA\èrA%\èrA-\èrA0d"Ú\èrA\èrA%\èrA-\èrA0d"ˆ\èrA\èrA%\èrA-\èrA0d"°·zrA·zrA%·zrA-·zrA0d"£ffrAffrA%ffrA-ffrA0ˆ"•·zrA·zrA%·zrA-·zrA0d"®·zrA·zrA%·zrA-·zrA0d"©\èrA\èrA%\èrA-\èrA0‚"´·zrA·zrA%·zrA-·zrA0»"¨·zrA·zrA%·zrA-·zrA0d"ÆffrAffrA%ffrA-ffrA0»"±œfrAffrA%œfrA-ffrA0∆*"á‰rA‰rA%‰rA-‰rA0¢"úq=rAq=rA%q=rA-q=rA0d"ıq=rAq=rA%q=rA-q=rA0d"áq=rAq=rA%q=rA-q=rA0d"ê‰rA‰rA%‰rA-‰rA0ÿ"ÚµsAµsA%µsA-µsA0†"˜)\sA)\sA%)\sA-)\sA0d"¸∏sA∏sA%∏sA-∏sA0z"¥	H·rA±·rA%±·rA-H·rA0Ù"ƒ	H·rAH·rA%H·rA-H·rA0ñ"…	H·rAH·rA%H·rA-H·rA0d" 	±·rA±·rA%±·rA-±·rA0Ù"Œ	H·rAH·rA%H·rA-H·rA0ñ"—	H·rAH·rA%H·rA-H·rA0n"“	H·rAH·rA%H·rA-H·rA0d"÷	H·rAH·rA%H·rA-H·rA0d"⁄	H·rAH·rA%H·rA-H·rA0ñ"›	±·rAH·rA%±·rA-H·rA0¬"ﬁ	H·rAH·rA%H·rA-H·rA0¨"ﬂ	H·rAR∏rA%H·rA-R∏rA0¬"‡	R∏rAR∏rA%R∏rA-R∏rA0¨"·	R∏rAR∏rA%R∏rA-R∏rA0¨"‚	R∏rA{rA%R∏rA-{rA0º"„	q=rA{rA%q=rA-{rA0ê"‰	q=rAq=rA%q=rA-{rA0¶"Â	q=rAq=rA%q=rA-q=rA0˛"Ê	q=rAq=rA%ffrA-q=rA0ÿ"Á	q=rAq=rA%q=rA-q=rA0Ó"Ë	q=rAq=rA%ffrA-q=rA0Ù"È	q=rAq=rA%q=rA-q=rA0ä"Í	{rAè¬qA%{rA-è¬qA0†"Î	ÖÎqAÖÎqA%ÖÎqA-è¬qA0‹

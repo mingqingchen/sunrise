@@ -1,0 +1,13 @@
+
+SLQDвр╧	"ЎЎ(FBЎ(FB%Ў(FB-Ў(FB0Ї"·WFB3FB%3FB-{FB0Р"№▀ FB▀ FB%▀ FB-▀ FB0╨"Б{FB▀ FB%▀ FB-{FB0И"ПЎ(FBЎ(FB%Ў(FB-Ў(FB0╠R"╛aFBaFB%aFB-aFB0▒"─Ў(FBЎ(FB%Ў(FB-Ў(FB0┌U"╒Ё'FBЁ'FB%Ё'FB-Ё'FB0м"┘FB▀FB%FB-▀FB0з"┌qFBqFB%qFB-qFB0є"▄щ&FBИ#FB%Ў(FB-И#FB0╙"▐▀FB▀FB%▀FB-▀FB0╤"рsFBsFB%sFB-sFB0й"ъ╕FBYFB%╕FB-YFB0╚"э{FB{FB%{FB-{FB0─"ЄpFBpFB%pFB-pFB0к"а╦FB╦FB%╦FB-╦FB0╫"г{FB{FB%{FB-{FB0°#"е{FB{FB%{FB-{FB0╠"йFBFB%FB-FB0╚"кm'FBm'FB%m'FB-m'FB0╬"оХFBХFB%ХFB-ХFB0м"░╕FB╕FB%╕FB-╕FB0Ї"┤╕FB╕FB%╕FB-╕FB0d"╖╕FB╕FB%╕FB-╕FB0ш"╜╕FB╕FB%╕FB-{FB0Єн"╠{FB{FB%{FB-{FB0ь"═{FB{FB%╕FB-{FB0Ь"╨Ў(FB╕FB%Ў(FB-╕FB0╘"С╕FB╕FB%╕FB-╕FB0d"ЩЁ'FBЁ'FB%Ё'FB-Ё'FB0d"Ы╛FBЎ(FB%Ў(FB-╕FB0╥"Я┼ FB┼ FB%┼ FB-┼ FB0Б"░╕FB╕FB%╕FB-╕FB0d"┤Ў(FBЎ(FB%Ў(FB-Ў(FB0к"╛ў$FBў$FB%ў$FB-ў$FB0╚"шЎ(FBЎ(FB%Ў(FB-Ў(FB0Ї"є╕FB╨FB%;FB-╨FB0о"·ЪFBЪFB%ЪFB-ЪFB0d"■╕FB╕FB%╕FB-╕FB0У"ВЪFBЪFB%ЪFB-ЪFB0d"З╕FB╕FB%╕FB-{FB0╪"ЙХFB▓FB%▓FB-ХFB0Ж"Л{FB{FB%{FB-{FB0─"ЦpFBpFB%pFB-pFB0р"Ъ{FBСFB%{FB-СFB0°
+"Э▓FB▓FB%▓FB-▓FB0╠"╤╕FB╕FB%╕FB-╕FB0ж"╥сFBсFB%сFB-сFB0Ь"┌pFBpFB%pFB-pFB0 "ц{FBпFB%пFB-{FB0ш"√ FB FB% FB- FB0╚" sFBsFB%sFB-sFB0╕"А	{FB{FB%{FB-{FB0∙"Д	╕FB╕FB%╕FB-╕FB0╜"░	X
+FBX
+FB%X
+FB-X
+FB0▐"╝	ЮFBЮFB%ЮFB-ЮFB0╞"╜	7FB7FB%7FB-7FB0ш"┬	{FB{FB%{FB-{FB0а"─	sFBsFB%sFB-sFB0Є"╞	X
+FBX
+FB%X
+FB-X
+FB0Н"╔	╖FB╖FB%╖FB-╖FB0┤"╠	╕FB╕FB%╕FB-╕FB0А"╬	aFBaFB%aFB-aFB0е"╥	╕FB=
+FB%╕FB-=
+FB0╡%"╙	{FBaFB%{FB-FB0Ц"╘	{FB{FB%{FB-{FB0┤"╒	{FB{FB%{FB-{FB0d"╓	╙FB╙FB%╙FB-╙FB0а"╫	{FB{FB%{FB-{FB0d"╪	╕FB╕FB%╕FB-{FB0а7"┘	╕FB╕FB%╕FB-╕FB0d"┌	╕FB╕FB%╕FB-╕FB0╫+"█	▓FB╕FB%╕FB-▓FB0Ж"▌	╕FB╕FB%╕FB-╕FB0d"▐	╕FB╕FB%╕FB-FB0Ж"▀	╕FB╕FB%╕FB-╕FB0d"р	тFB╕FB%╕FB-тFB0╤"с	╕FB╕FB%╕FB-╕FB0d"т	╕FB╕FB%╕FB-╕FB0d"у	╕FB╕FB%╕FB-EFB0╫"ф	╕FB╕FB%╕FB-тFB0т"х	╕FB╕FB%╕FB-╕FB0╚"ц	╕FB╕FB%╕FB-{FB0Є	"ч	╕FB╕FB%╕FB-╕FB0╚"ш	╕FB╕FB%╕FB-╕FB0м"щ	╕FB╕FB%╕FB-╕FB0м"ъ	╕FB╕FB%╕FB-ЮFB0╨("ы	╕FB╕FB%╕FB-{FB0р
