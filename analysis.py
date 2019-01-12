@@ -64,7 +64,7 @@ def analyze_data_quality_through_time():
     num_valid = 0
     for symbol in one_day_list:
       one_symbol_data = dp.get_one_symbol_data(symbol)
-      if len(one_symbol_data.data) > 50:
+      if len(one_symbol_data.data) > 20:
         num_valid += 1
     print('Date: %s, number of symbols: %d, valid ones: %d' % (sub_folder, len(one_day_list), num_valid))
 
