@@ -76,8 +76,8 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20180415
-    end_date = 20180419
+    start_date = 20181220
+    end_date = 20181231
 
     for date_val in dp_minute.get_all_available_dates():
       date_val = int(date_val)
@@ -89,7 +89,9 @@ class TestDataProvider(unittest.TestCase):
         one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
         self.assertTrue(dp_daily.load_one_symbol_data(2018, symbol))
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, date_val)
-        self.assertEqual(result, 0)
+        if (date_val < 20181221):
+          self.assertEqual(result, 0)
+        if (result == 1): continue
         result_without_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False)
         result_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True)
         self.assertTrue(result_without_include or result_include)
