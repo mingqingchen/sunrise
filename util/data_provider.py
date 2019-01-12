@@ -14,7 +14,7 @@ def if_two_float_close(a, b):
     return True
   return abs(a - b) / (abs(a) + abs(b)) < 0.005
 
-def is_one_day_a_match(one_day_minute_data, one_day_summary_data):
+def is_one_day_a_match(one_day_minute_data, one_day_summary_data, include_pre_after_market):
   """Determine whether one_day_minute_data is a match for one_day_summary_data based on high and low.
   Args:
     one_day_minute_data: a OneIntraDayData
@@ -24,10 +24,23 @@ def is_one_day_a_match(one_day_minute_data, one_day_summary_data):
   """
   if len(one_day_minute_data.data) == 0:
     return False
-  max_val, min_val = one_day_minute_data.data[0].low, one_day_minute_data.data[0].low
+  open_time = 630
+  close_time = 1330
+  if include_pre_after_market:
+    open_time = 0
+    close_time = 2359
+
+  is_first = True
   for one_time_data in one_day_minute_data.data:
+    if one_time_data.time_val < open_time or one_time_data.time_val > close_time:
+      continue
+    if is_first:
+      max_val, min_val = one_time_data.low, one_time_data.low
+      is_first = False
     max_val = max(max_val, one_time_data.high)
     min_val = min(min_val, one_time_data.low)
+  if is_first:
+    return False
   if not if_two_float_close(one_day_summary_data.high, max_val):
     return False
   if not if_two_float_close(one_day_summary_data.low, min_val):

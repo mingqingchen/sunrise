@@ -10,8 +10,6 @@ def main():
 
   all_dates = dp_minute.get_all_available_dates()
 
-  last_day = 20181201
-
   symbol_list = dp_daily.get_symbol_list_for_a_day(2018)
   symbol_list_set = set()
   for symbol in symbol_list:
@@ -19,8 +17,6 @@ def main():
 
   for date_val in all_dates:
     date_val = int(date_val)
-    if date_val > last_day:
-      break
     dp_minute.load_one_day_data(date_val)
     all_symbols = dp_minute.get_symbol_list_for_a_day(date_val)
 
@@ -42,8 +38,14 @@ def main():
             if not os.path.isdir(day_folder):
               os.makedirs(day_folder)
             print('A good match on %d: %s' % (try_match_date, symbol))
-            shutil.move('./data/intra_day/%d/%s.pb' % (date_val, symbol), './data/minute_data/%d/%s.pb' % (matched_date, symbol))
+            src_file_path = './data/intra_day/%d/%s.pb' % (date_val, symbol)
+            dst_file_path = './data/minute_data/%d/%s.pb' % (matched_date, symbol)
+            if not os.path.isfile(dst_file_path):
+              shutil.move(src_file_path, dst_file_path)
+            else:
+              os.remove(src_file_path)
             break
+
 
 
 

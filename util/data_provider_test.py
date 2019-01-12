@@ -76,10 +76,13 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
+    start_date = 20180415
+    end_date = 20180419
+
     for date_val in dp_minute.get_all_available_dates():
       date_val = int(date_val)
-      if date_val > 20181201:
-        break
+      if date_val < start_date or date_val > end_date:
+        continue
       dp_minute.load_one_day_data(date_val)
       for symbol in dp_minute.get_available_symbol_list():
         self.assertTrue(dp_minute.load_one_symbol_data(date_val, symbol))
@@ -87,7 +90,9 @@ class TestDataProvider(unittest.TestCase):
         self.assertTrue(dp_daily.load_one_symbol_data(2018, symbol))
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, date_val)
         self.assertEqual(result, 0)
-        self.assertTrue(data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data))
+        result_without_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False)
+        result_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True)
+        self.assertTrue(result_without_include or result_include)
         print('Good match for %s on day %d' % (symbol, date_val))
 
 
