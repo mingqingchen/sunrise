@@ -25,10 +25,10 @@ def main():
         print('Symbol %s does not exist in daily data.' % symbol)
         continue
       if not dp_minute.load_one_symbol_data(date_val, symbol):
-        print('Could not load %s on day %d' % (symbol, date_val))
-      one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
+        continue
       if not dp_daily.load_one_symbol_data(2018, symbol):
-        print('Could not find daily data for %s' % symbol)
+        continue
+      one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
       for try_match_date in [date_val, date_val - 1]:
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, try_match_date)
         if result == 0 or result == 1:

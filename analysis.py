@@ -11,7 +11,7 @@ import proto.nn_train_param_pb2 as nn_train_param_pb2
 
 import train.model_manager as model_manager
 
-k_data_folder = './data/intra_day/'
+k_data_folder = './data/minute_data/'
 k_distribution_bin_size = 0.001
 k_price_drop_watch_time = 30
 k_drop_threshold = -0.02
@@ -52,10 +52,9 @@ def analyze_distribution():
 
 def analyze_data_quality_through_time():
   """Analyze crawled data through time. Print stats for number of symbols that have more than 50 data points. """
-  folder = './data/intra_day/'
-  start_date = 20181228
-  end_date = 20190104
-  dp = data_provider.DataProvider(folder)
+  start_date = 20180101
+  end_date = 20190111
+  dp = data_provider.DataProvider(FLAGS.data_folder, False)
   all_sub_folders = dp.get_all_available_dates()
   for sub_folder in all_sub_folders:
     if int(sub_folder) < start_date or int(sub_folder) > end_date:
@@ -234,7 +233,7 @@ def run_through_analysis_functions(_):
 if __name__=="__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument(
-    '--data_dir',
+    '--data_folder',
     type=str,
     default=k_data_folder,
     help='Root for historical data'

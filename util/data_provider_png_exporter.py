@@ -54,7 +54,7 @@ class DataProviderPngExporter:
 
     # symbol_list = self.get_symbol_list_for_a_day(day_int_val)
     # use the following one to get quick look on major stocks:
-    symbol_list = ['AAPL', 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'NVDA']
+    symbol_list = ['CLD'] # 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'NVDA', 'QQQ']
     print ('Output to png folder %s.' % FLAGS.output_png_dir)
     for symbol in symbol_list:
       print('Processing {0}'.format(symbol))
@@ -77,7 +77,7 @@ def main(argv):
 
 # Example:
 # python util/data_provider_png_exporter.py --data_dir=data/daily_data --extract_date=2018
-# python util/data_provider_png_exporter.py --data_dir=data/minute_data --extract_date=20190107
+# python util/data_provider_png_exporter.py --data_dir=data/minute_data --extract_date=20181225
 
 if __name__=="__main__":
   parser = argparse.ArgumentParser()

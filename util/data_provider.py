@@ -10,7 +10,9 @@ k_eligible_file_name = 'eligible_list.txt'
 def if_two_float_close(a, b):
   if (a == 0.) and (b == 0.):
     return True
-  return abs(a - b) / (abs(a) + abs(b)) < 0.005
+  if abs(a - b) < 0.02:
+    return True
+  return abs(a - b) / (abs(a) + abs(b)) < 0.01
 
 def is_one_day_a_match(one_day_minute_data, one_day_summary_data, include_pre_after_market):
   """Determine whether one_day_minute_data is a match for one_day_summary_data based on high and low.
@@ -23,7 +25,7 @@ def is_one_day_a_match(one_day_minute_data, one_day_summary_data, include_pre_af
   if len(one_day_minute_data.data) == 0:
     return False
   open_time = 630
-  close_time = 1330
+  close_time = 1300
   if include_pre_after_market:
     open_time = 0
     close_time = 2359

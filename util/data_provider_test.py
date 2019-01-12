@@ -76,8 +76,10 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20181220
+    start_date = 20181226
     end_date = 20181231
+
+    dp_daily.load_one_day_data(2018)
 
     for date_val in dp_minute.get_all_available_dates():
       date_val = int(date_val)
@@ -85,8 +87,13 @@ class TestDataProvider(unittest.TestCase):
         continue
       dp_minute.load_one_day_data(date_val)
       for symbol in dp_minute.get_available_symbol_list():
+        if symbol not in dp_daily.get_available_symbol_list():
+          continue
         self.assertTrue(dp_minute.load_one_symbol_data(date_val, symbol))
         one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
+        if len(one_day_minute_data.data) < 100:
+          continue
+        print('Checking symbol %s on %d' % (symbol, date_val))
         self.assertTrue(dp_daily.load_one_symbol_data(2018, symbol))
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, date_val)
         if (date_val < 20181221):
