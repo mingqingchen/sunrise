@@ -1,2 +1,0 @@
-
-HYACьс╧	"МЎ( AЎ( A%Ў( A-Ў( A0d"░╫г A╫г A%╫г A-╫г A0ш"ь\П A\П A%\П A-\П A0d"╘сz Aсz A%сz A-сz A0d"░	сz Aсz A%сz A-сz A0d"╒	сz Aсz A%сz A-сz A0d"ц	сz Aсz A%сz A-сz A0d

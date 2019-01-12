@@ -1,4 +1,0 @@
-
-GNMA×áÏ	"öö(@Bö(@B%ö(@B-ö(@B0À"‰ff@Bff@B%ff@B-ff@B0¼"‹×£@B×£@B%×£@B-×£@B0‹"ÌÂ@BÂ@B%Â@B-Â@B0è"ÑHá@BHá@B%Há@B-Há@B0¼"ÙÍ@BÍ@B%Í@B-Í@B0¢"¤Â@B×£@B%Â@B-š™@B0Ì"ºR¸@BR¸@B%R¸@B-R¸@B0 "¾ñ£@Bñ£@B%ñ£@B-ñ£@B0ñ"¿¤ð@B¤ð@B%¤ð@B-¤ð@B0d"Á…ë@B…ë@B%…ë@B-…ë@B0¼"Äú­@Bú­@B%ú­@B-ú­@B0ó"…$¨@B$¨@B%$¨@B-$¨@B0·"’ö¨@B×£@B%ö¨@B-×£@B0Ü"“×£@B×£@B%×£@B-×£@B0¼"¤…@B…@B%…@B-…@B0d"¥…@B…@B%…@B-…@B0d"±_i@B_i@B%_i@B-_i@B0È"êÌ]@BÌ]@B%Ì]@B-Ì]@B0Á"ùq=@Bq=@B%q=@B-q=@B0d"„Æm@BÆm@B%Æm@B-Æm@B0›"†“X@B“X@B%“X@B-“X@B0"–?5@B?5@B%?5@B-?5@B0È"Ñ¯T@B¯T@B%¯T@B-¯T@B0“"Õáz@Báz@B%áz@B-áz@B0d"Ú\@B\@B%\@B-\@B0¼"ÝòR@BòR@B%òR@B-òR@B0ˆ"èÔZ@BÔZ@B%ÔZ@B-ÔZ@B0¢"ð¢E@B¢E@B%¢E@B-¢E@B0½"ÿ£R@B£R@B%£R@B-£R@B0Ý
-"¿	¶D@B¶D@B%¶D@B-¶D@B0×"Î	ff@B
-h@B%…@B-—P@B0‚"Ò	Di@BDi@B%Di@B-Di@B0ñ

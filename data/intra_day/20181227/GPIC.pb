@@ -1,2 +1,0 @@
-
-GPICыс╧	"┌33OAк`NA%ЄAOA-П┬MA0∙6"Н33OA33OA%33OA-33OA0d"ЯR'OAR'OA%R'OA-R'OA0ш"▒33OA╤"OA%33OA-╤"OA0Р"╬33OA33OA%33OA-33OA0╝"█33OA33OA%33OA-33OA0ш"¤Ч OAёcOA%Ч OA-33OA0─

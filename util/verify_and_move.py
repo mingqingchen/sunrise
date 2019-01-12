@@ -32,7 +32,7 @@ def main():
       for try_match_date in [date_val, date_val - 1]:
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, try_match_date)
         if result == 0 or result == 1:
-          if data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data):
+          if data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True):
             matched_date = one_day_summary_data.time_val
             day_folder = 'data/minute_data/%d' % matched_date
             if not os.path.isdir(day_folder):
