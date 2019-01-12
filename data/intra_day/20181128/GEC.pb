@@ -1,2 +1,0 @@
-
-GEC┬Ао	"нq=j@q=j@%q=j@-q=j@0╛"о ≥i@q=j@%q=j@- ≥i@0Л'"з╓pm@╓pm@%╓pm@-⌠╘j@0░"Нх≤g@▐Дf@%х≤g@-▐Дf@0д"┌	fff@fff@%fff@-fff@0d"а	fff@fff@%fff@-fff@0d"о	┘k@┘k@%┘k@-┘k@0╛"ж	fff@HАj@%HАj@-fff@0х"Ю	fff@fff@%fff@-fff@0d"Е	вёh@вёh@%вёh@-вёh@0d"К	HАj@млl@%млl@-HАj@0╡

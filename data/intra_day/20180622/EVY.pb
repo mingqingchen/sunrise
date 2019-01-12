@@ -1,6 +1,0 @@
-
-EVYО▌╧	"аоGAAоGAA%оGAA-оGAA0d"коGAAоGAA%оGAA-оGAA0d"╡оGAAоGAA%оGAA-оGAA0d"╢hСAAhСAA%hСAA-hСAA0Ї"┴оGAAоGAA%оGAA-оGAA0d"═оGAAоGAA%оGAA-оGAA0d"┌ЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"ПЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"ЮЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"мЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"│d╠AAЪЩAA%d╠AA-ЪЩAA0ж"╗ЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"эЪЩAAЪЩAA%ЪЩAA-ЪЩAA0ш"ЄдpAAдpAA%дpAA-дpAA0d"Б╫г@A╫г@A%╫г@A-╫г@A0d"Д=
-AA=
-AA%=
-AA-=
-AA0┬"Еуе@A╫г@A%уе@A-╫г@A0К"Р╫г@A╫г@A%╫г@A-╫г@A0d"Я╫г@A╫г@A%╫г@A-╫г@A0d"╒╫г@A╫г@A%╫г@A-╫г@A0d"ф╫г@A╫г@A%╫г@A-╫г@A0d"ъ╫г@AЬ─@A%Ь─@A-╫г@A0╠"Є═╠@A═╠@A%═╠@A-═╠@A0d"ї═╠@A═╠@A%═╠@A-═╠@A0d"Ў═╠@A═╠@A%═╠@A-═╠@A0а"°R╕@AR╕@A%R╕@A-R╕@A0d"┤	сz@Aсz@A%сz@A-сz@A0d"└	сz@Aсz@A%сz@A-сz@A0d"╦	сz@Aсz@A%сz@A-сz@A0d"╬	nг@Anг@A%nг@A-nг@A0ш"╨	╫г@A╫г@A%╫г@A-╫г@A0Р"╒	сz@Aсz@A%сz@A-сz@A0d"▄	сz@Aсz@A%сz@A-сz@A0d"т	сz@Aсz@A%сz@A-сz@A0d"ч	сz@Aсz@A%сz@A-сz@A0d"щ	сz@Aсz@A%сz@A-сz@A0d"ы	сz@A╫г@A%╫г@A-сz@A0╚

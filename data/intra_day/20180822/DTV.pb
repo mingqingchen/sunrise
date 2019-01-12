@@ -1,2 +1,0 @@
-
-DTVײÞֿ	"ףּֽUBּֽUB%ּֽUB-ּֽUB0ָ"«‘UB‘UB%‘UB-‘UB0¹"ֻzVBzVB%zVB-zVB0¬"ÚועUBועUB%ועUB-ועUB0¬"‹jVBjVB%jVB-jVB0ָ"₪™VB™VB%™VB-™VB0ָ"ט…VB•eVB%…VB-•eVB0ָ"י\VBÿ!VB%\VB-ÿ!VB0ע"נֲVBֲVB%ֲVB-ֲVB0d"ע׳£VB‏CVB%׳£VB-z6VB0״"ÿ-¡VB-¡VB%-¡VB--¡VB0˜"ת…VBdVB%…VB-dVB0"ü₪pVB¯TVB%₪pVB-¯TVB0"‏₪pVB¾AVB%₪pVB-¾AVB0¬"„	HבVBHבVB%HבVB-HבVB0ָ"ַ	gVBgVB%gVB-gVB0ָ"׃	…VB…VB%…VB-…VB0d"ױ	…VB…VB%…VB-…VB0…"Û	™VB™VB%™VB-™VB0¢

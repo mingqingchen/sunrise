@@ -1,2 +1,0 @@
-
-GNMAมÞฯ	"๖ABAB%AB-AB0ฃ"ÞคpABคpAB%คpAB-คpAB0d"โfABfAB%fAB-fAB0๔"ๆคpABคpAB%คpAB-คpAB0ศ"๋BBBB%BB-BB0๏"ดเพABเพAB%เพAB-เพAB0ศ"บคpABคpAB%คpAB-คpAB0d"ึ ษAB ษAB% ษAB- ษAB0d"ขคpABคpAB%คpAB-คpAB0d"ฒคpABคpAB%คpAB-คpAB0ฃ"ถคpABคpAB%คpAB-คpAB0d"”คpABคpAB%คpAB-คpAB0d"๒คpABคpAB%คpAB-คpAB0ผ"๙คpABคpAB%คpAB-คpAB0”"๛คpABคpAB%คpAB-คpAB0d"ด	มhABมhAB%มhAB-มhAB0q"ฟ	\AB\AB%\AB-\AB0๒"า	คpABคpAB%คpAB-คpAB0d"ๅ	คpABคpAB%คpAB-คpAB0d

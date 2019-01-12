@@ -1,3 +1,0 @@
-
-SWZнчо	"З)\MA)\MA%)\MA-)\MA0▄"▐П┘LAЛQLA%П┘LA-ЛQLA0Ж"╙ЛQLAЛQLA%ЛQLA-ЛQLA0d"ЙshLAshLA%shLA-shLA0Щ"ЯвёLAвёLA%вёLA-вёLA0х"■АzLAЮ╬LA%╢хLA-ЛQLA0Д"∙млLAмлLA%млLA-млLA0х"ТцУLAцУLA%цУLA-цУLA0d"└	млLAу	MA%у	MA-млLA0╨"╥	ЛQLAЛQLA%ЛQLA-ЛQLA0х"╪	вёLAвёLA%вёLA-вёLA0d"а	⌠╘LA⌠╘LA%⌠╘LA-⌠╘LA0т"р	вёLAвёLA%вёLA-вёLA0░"√
-млLAмлLA%млLA-млLA0╛

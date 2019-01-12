@@ -1,2 +1,0 @@
-
-LFACUףאֿ	"׀בz Aבz A%בz A-בz A0¨ֳ"Ùבz Aבz A%בz A-בz A0N"בz Aבz A%בz A-בz A0¨ֳ"›בz Aבz A%בz A-בz A0ˆ'"¨בz Aבz A%בz A-בz A0üu"©בz Aבz A%בz A-בz A0ָ"×בz Aבz A%בz A-בz A0ָ"«בz Aבz A%בz A-בz A0ָ"­׳£ A׳£ A%׳£ A-׳£ A0ט"¯בz Aבz A%בz A-בz A0°	"טבz Aבz A%בz A-בz A0d"…בz Aבz A%בz A-בz A0 "†בz Aבz A%בz A-בz A0 "‹לQ AלQ A%לQ A-לQ A0d"q= AלQ A%לQ A-q= A0פ"q= Aq= A%q= A-q= A0ָ"‘לQ AלQ A%לQ A-לQ A0¼

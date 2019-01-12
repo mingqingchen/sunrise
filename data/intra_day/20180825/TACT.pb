@@ -1,3 +1,0 @@
-
-TACTычо	"╬млhAмлhA%млhA-млhA0d"ц ≥iA ≥iA% ≥iA- ≥iA0n"ф ≥qA ≥qA% ≥qA- ≥qA0d"│ ≥iA ≥iA% ≥iA- ≥iA0d"⌡млhAмлhA%млhA-млhA0d"тмлhAмлhA%млhA-млhA0d"ьИHiAИHiA%ИHiA-ИHiA0╛"змлhAмлhA%млhA-млhA0х"А ≥iA ≥iA% ≥iA- ≥iA0d"Ф ≥iA33kA%33kA-уxiA0Ю"МмлhAмлhA%млhA-млhA0d"с	ffjAffjA%ffjA-ffjA0|"в	млhAмлhA%млhA-млhA0d"К	млhAмлhA%млhA-млhA0╝"■
-млhAмлhA%млhA-млhA0p

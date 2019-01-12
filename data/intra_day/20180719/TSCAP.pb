@@ -1,2 +1,0 @@
-
-TSCAP๏Ýฯ	"คแzาAแzาA%แzาA-แzาA0โ	"ฌffาAffาA%๐งาA-ffาA0ฝ	"…แzาAแzาA%แzาA-แzาA0ศ"ÿ"าA"าA%"าA-"าA0ฌ"พ	oาAoาA%oาA-oาA0ุ"ี	ffาAffาA%ffาA-ffาA0ฺ"ุ	z6าAz6าA%z6าA-z6าA0…"ู	ffาAffาA%ffาA-ffาA0ฌ"ฺ	ffาAffาA%ffาA-)KาA0ุ

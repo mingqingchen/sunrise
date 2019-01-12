@@ -1,2 +1,0 @@
-
-RILYLйчо	"└Ж(йAffйA%ffйA-Ж(йA0┘"рHйAHйA%HйA-HйA0├"┘╝GйA╝GйA%╝GйA-╝GйA0Т"┼╝GйA╝GйA%╝GйA-╝GйA0Ч"╓╝GйA╝GйA%╝GйA-╝GйA0б"╦с^йAы_йA%ы_йA-с^йA0э"ЗЛQйAЛQйA%ЛQйA-ЛQйA0х"▒UAйAUAйA%UAйA-UAйA0х"┘	эFйAэFйA%эFйA-эFйA0x"╟	EGйAEGйA%EGйA-EGйA0d"╢	2fйA2fйA%2fйA-2fйA0■"╧	╝GйA╝GйA%╝GйA-╝GйA0░"я	Ж(йAЖ(йA%Ж(йA-Ж(йA0╢"з	2fйA2fйA%2fйA-2fйA0║	"Ц	╝GйA╝GйA%╝GйA-╝GйA0d

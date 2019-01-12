@@ -1,2 +1,0 @@
-
-AGNCNШЮо	"ЖffлAffлA%ffлA-ffлA0z"ЕffлAffлA%ffлA-ffлA0d"╨ffлAffлA%ffлA-ffлA0 "вЬSлAЬSлA%ЬSлA-ЬSлA0═"НffлAR╦лA%R╦лA-q=лA0й"│	┐лA┐лA%┐лA-┐лA0÷"╦	R╦лAмллA%мллA-R╦лA0л"╧	мллAмллA%мллA-мллA0d"а	цУлA33мA%33мA-·ОлA0└ "ц	╝GмA╝GмA%╝GмA-╝GмA0╧"д	╝GмA╝GмA%╝GмA-╝GмA0х"с	ШKлAШKлA%ШKлA-ШKлA0d"в	ёёлAёёлA%ёёлA-ёёлA0├"Ц	ffлAffлA%ffлA-ЛQлA0Т"Е	ffлAЛQлA%ffлA-ЛQлA0Т"Г	ffлAffлA%ffлA-ffлA0╛"К	ffлAffлA%ffлA-ffлA0d

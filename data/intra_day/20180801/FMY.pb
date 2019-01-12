@@ -1,2 +1,0 @@
-
-FMYачо	"ЖЛQTAЛQTA%ЛQTA-ЛQTA0Р"ГЛQTAЛQTA%ЛQTA-ЛQTA0═"▒R╦TAШкTA%ШкTA-R╦TA0х"▓вёTAвёTA%вёTA-вёTA0d"╞млTAмлTA%млTA-млTA0ь"ЙвёTAвёTA%вёTA-вёTA0d"ЗвёTAвёTA%вёTA-вёTA0d"√млTAмлTA%млTA-млTA0ц"жЛQTAЛQTA%ЛQTA-ЛQTA0·"┘	н┬TAн┬TA%н┬TA-н┬TA0е"р	ЛQTAЛQTA%ЛQTA-ЛQTA0╛

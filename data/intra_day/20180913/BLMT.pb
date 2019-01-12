@@ -1,3 +1,0 @@
-
-BLMT╠ъо	"░млBмлB%млB-млB0d"очqBчqB%чqB-чqB0╛"╜млBмлB%млB-млB0d"┴млBмлB%млB-млB0░"⌠ ≥B ≥B% ≥B- ≥B0d"╕ ≥B ≥B% ≥B-ffB0┬"╖ ≥B ≥B% ≥B- ≥B0d"╚ffBffB%ffB-ffB0d"ЫffBffB%ffB-ffB0d"н	ffBffB%ffB-ffB0d"щ	ffBffB%ffB-ffB0Т"Ю	ffBffB%ffB-ffB0d"Ц	╘╓B33B%33B-╘╓B0╪"Й	ыBыB%ыB-ыB0Т"К	ffBffB%ffB-ffB0d"■
- ≥B ≥B% ≥B- ≥B0·

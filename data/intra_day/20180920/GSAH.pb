@@ -1,2 +1,0 @@
-
-GSAH╦ъо	"ЕАzAАzA%АzA-АzA0▄д"ВЛQAАzA%АzA-ЛQA0Э┬"═╓pAцУA%╓pA-цУA0х"║ЛQAЛQA%ЛQA-ЛQA0щ"ёАzAАzA%АzA-АzA0╟	"░АzAАzA%АzA-АzA0Ю┴" млAмлA%млA-млA0х"▀АzAАzA%АzA-АzA0х"▄АzAАzA%АzA-АzA0d" млAмлA%млA-млA0d"тЛQAЛQA%ЛQA-ЛQA0d"я	АzAАzA%АzA-АzA0Х²"р	АzAАzA%АzA-АzA0Д2"в	ЛQAАzA%АzA-ЛQA0ьс"Ю	АzAАzA%АzA-АzA0х"Й	АzAАzA%АzA-АzA0p"К	АzAАzA%АzA-АzA0d

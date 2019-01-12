@@ -1,2 +1,0 @@
-
-NXR▓що	"Ж╝GiA╝GiA%╝GiA-╝GiA0▒"─ЛQhAцУhA%цУhA-ЛQhA0Э"▀млhAмлhA%млhA-млhA0d"▐╦iA╦iA%╦iA-╦iA0╠"зцУhAцУhA%цУhA-цУhA0х"Д╦iA╦iA%╦iA-╦iA0░"ммлhAмлhA%млhA-млhA0d"Ё6мhA6мhA%6мhA-6мhA0Л	"╤млhAмлhA%млhA-млhA0л"ХЕпhAмлhA%ЕпhA-млhA0└"ОАzhAАzhA%АzhA-АzhA0d"ТxzhAxzhA%xzhA-xzhA0╞"с	ЧChAЧChA%ЧChA-ЧChA0х"К	ЛQhAЛQhA%ЛQhA-ЛQhA0к

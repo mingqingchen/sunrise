@@ -1,4 +1,0 @@
-
-PMF█що	"ЖцУPAцУPA%цУPA-цУPA0Л"ЬъOQA╝GQA%ъOQA-╝GQA0Т"Ы+ЖPA+ЖPA%+ЖPA-+ЖPA0d"Э╪tQA╪tQA%╪tQA-╪tQA0Л"Ч+ЖPAцУPA%+ЖPA-цУPA0╛"Ъ+ЖPA+ЖPA%+ЖPA-+ЖPA0х"─+ЖPAцУPA%+ЖPA-цУPA0ь"┌млPAмлPA%млPA-млPA0Т"┐млPAмлPA%млPA-млPA0d"ДпуPAмлPA%пуPA-млPA0д"НмлPAмлPA%млPA-млPA0Х"╠АzPAАzPA%АzPA-АzPA0≤"ЛqPAqPA%qPA-qPA0═"НАzPAЩ┤PA%вёPA-АzPA0═"┤вёPAмлPA%млPA-вёPA0░"Ц}╝PA(~PA%O╞PA-(~PA0ы"н	вёPAвёPA%вёPA-nёPA0Х"у	АzPAАzPA%АzPA-АzPA0╗"ш	АzPAАzPA%АzPA-АzPA0░"э	вёPAвёPA%вёPA-вёPA0А"ч	~▄PA~▄PA%~▄PA-~▄PA0┬'"Е	ё▓PAё▓PA%ё▓PA-ё▓PA0л
-"Х	D▀PAD▀PA%D▀PA-TRPA0├"∙
-АzPAАzPA%АzPA-АzPA0╓

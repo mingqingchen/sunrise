@@ -1,2 +1,0 @@
-
-BBKГщо	"ЭмлdAмлdA%млdA-млdA0√"┐д╠dAвёdA%д╠dA-вёdA0°"кмлdAмлdA%млdA-млdA0Ы"ЙHАdAHАdA%HАdA-HАdA0л"╦▄шdA▄шdA%▄шdA-▄шdA0╠"▄млdAмлdA%млdA-млdA0║"║jчdAjчdA%jчdA-jчdA0╠"Ф	цУdAцУdA%цУdA-цУdA0d

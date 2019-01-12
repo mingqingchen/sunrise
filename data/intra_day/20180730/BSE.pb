@@ -1,6 +1,0 @@
-
-BSEúÝÏ	"‰ÂGAÂGA%ÂGA-ÂGA0–"ß
-×GA
-×GA%
-×GA-
-×GA0È

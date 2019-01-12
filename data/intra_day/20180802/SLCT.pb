@@ -1,3 +1,0 @@
-
-SLCT┬▐╧	"▄\ПPA\ПPA%\ПPA-\ПPA0╚"╠ЙAOAЙAOA%ЙAOA-ЙAOA0Ї"═33OAЕOA%ЕOA-33OA0╘"╧33OAуеOA%уеOA-33OA0Ї"вьQPAьQPA%ьQPA-ьQPA0d"╧\ПPA\ПPA%├їPA-\ПPA0Ї"ыЪЩQAЪЩQA%ЪЩQA-ЪЩQA0d"ў╒xOA╒xOA%╒xOA-╒xOA0Ї"°ЕOAЕOA%ЕOA-ЕOA0d"▒	ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0d"╣	дpQAдpQA%дpQA-дpQA0d"┼	ЕOA'1PA%'1PA-)\OA0й"╥	ЕOAЕOA%ЕOA-ЕOA0▓"у	PAPA%PA-PA0Ї"ш	├їPA├їPA%├їPA-├їPA0d"щ	ъPAъPA%ъPA-ъPA0d"ы	├їPA├їPA%├їPA-├їPA0d"Ф
-ьQPAьQPA%ьQPA-ьQPA0╚

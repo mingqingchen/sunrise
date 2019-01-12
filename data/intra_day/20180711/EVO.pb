@@ -1,2 +1,0 @@
-
-EVOч▌╧	"┴HсFAjFA%HсFA-q=FA0З"┘╛ЯFA╛ЯFA%╛ЯFA-╛ЯFA0d"ємнGAмнGA%мнGA-мнGA0ъ"Ї)\GAмнGA%мнGA-)\GA0╦"╧Г└FAГ└FA%Г└FA-Г└FA0Э"╛ЁзFAЁзFA%ЁзFA-ЁзFA0╞"╦	VGAVGA%VGA-VGA0·

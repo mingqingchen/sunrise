@@ -1,2 +1,0 @@
-
-EGIF‡ÝÏ	"øázxAázxA%ázxA-ázxA0Þ"ƒ®GyA®GyA%®GyA-®GyA0"à¸yA¸yA%¸yA-¸yA0d"ò¸yA¸yA%¸yA-¸yA0È"¡33yA33yA%33yA-33yA0Ø"²33yA¸yA%33yA-¸yA0²"³¸yA¸yA%¸yA-¸yA0è"´ÍÌxAÍÌxA%ÍÌxA-ÍÌxA0n"½HáxAHáxA%HáxA-HáxA0Ð"ÅHáxAHáxA%HáxA-HáxA0»"Ò×£xA×£xA%×£xA-×£xA0d"Ø×£xA¾ÁxA%'ÂxA-×£xA0‹"Œ6ÍxA6ÍxA%6ÍxA-6ÍxA0d"âR¸xAR¸xA%R¸xA-R¸xA0±"¶	J{xAJ{xA%J{xA-J{xA0Ý"ã	ÃõxAvàxA%ÃõxA-vàxA0Ý"è	š™yAffzA%ffzA-ÃõxA0‡"é	þezANbzA%þezA-®yA0¬"ë	®GyA®GyA%®GyA-®GyA0¬

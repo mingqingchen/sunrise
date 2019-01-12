@@ -1,2 +1,0 @@
-
-NXNТЮо	"⌠33GA33GA%33GA-33GA0d"фЮEAЮEA%ЮEA-ЮEA0М"ёH©FAH©FA%H©FA-H©FA0x"├	млFAмлFA%млFA-млFA0d"╩	млFAмлFA%млFA-млFA0d"╫	ынFAынFA%ынFA-ынFA0я"©	млFAмлFA%млFA-млFA0d"н	млFAD▀FA%млFA-ffFA0э"о	shFAD▀FA%D▀FA-ffFA0▒"у	ffFAffFA%ffFA-ffFA0d"Х	{FA{FA%{FA-{FA0х"И	д╠FAд╠FA%д╠FA-д╠FA0d"К	{FA{FA%{FA-{FA0d

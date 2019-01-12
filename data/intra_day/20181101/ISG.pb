@@ -1,2 +1,0 @@
-
-ISGÌ‡œ	"ˆff Aff A%ff A-ff A0d"îff A\è A%\è A-ff A0–"µ]m A]m A%]m A-]m A0Ñ"∂j Aj A%j A-j A0Ù"ïfw Afw A%fw A-fw A0„"ü·z AmE A%·z A-mE A0é5"˙5 A5 A%5 A-5 A0d"É	∑Q A∑Q A%∑Q A-∑Q A0Ë"«	{ A{ A%{ A-{ A0◊"Œ	ÏQ AÏQ A%ÏQ A-ÏQ A0d"Î	ÏQ AÏQ A%ÏQ A-ÏQ A0d

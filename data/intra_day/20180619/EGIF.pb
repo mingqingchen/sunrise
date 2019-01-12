@@ -1,2 +1,0 @@
-
-EGIF‹ÝÏ	"öR¸vAR¸vA%R¸vA-R¸vA0‚"„‚svA‚svA%‚svA-‚svA0}"‚	HávAHávA%HávA-HávA0d"‡	HávAHávA%HávA-HávA0d"³	HávAHávA%HávA-HávA0à"·	HávAHávA%HávA-HávA0d"»	HávAHávA%HávA-HávA0d"À	HávAHávA%HávA-HávA0d"Ä	HávAHávA%HávA-HávA0d"È	HávAHávA%ÃõvA-HávA0Š"Ì	HávAHávA%HávA-HávA0d"Ð	ÃõvAÕ	wA%Õ	wA-ÃõvA0Ð

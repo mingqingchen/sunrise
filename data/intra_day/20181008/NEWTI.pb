@@ -1,2 +1,0 @@
-
-NEWTIàÏ	"ÂffÌAffÌA%ffÌA-ffÌA0d"°ffÌAffÌA%ffÌA-ffÌA0d

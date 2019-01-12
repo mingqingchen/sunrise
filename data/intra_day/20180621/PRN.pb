@@ -1,2 +1,0 @@
-
-PRN█що	"╥вёuBвёuB%вёuB-вёuB0d"ымлuBмлuB%млuB-▐бuB0Х"ш╡vB╡vB%╡vB-╡vB0═"Л╦·vB╦·vB%╦·vB-╦·vB0d"Ё	q=vBq=vB%q=vB-q=vB0d"з	ffvBffvB%ffvB-ffvB0░"ш	HavBffvB%ffvB-HavB0Т

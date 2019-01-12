@@ -1,2 +1,0 @@
-
-EGIFîÝÏ	"öHávAHávA%HávA-HávA0©"ÀZwAZwA%ZwA-ZwA0d"ï…wA…wA%…wA-…wA0â	"óB`wA)\wA%B`wA-)\wA0¼"‰…wA…wA%…wA-…wA0³"Ñ…wA…wA%…wA-…wA0î"‚	)\wA)\wA%)\wA-)\wA0x"Þ	cwAcwA%cwA-cwA0d"â	)\wA)\wA%)\wA-)\wA0¶"ã	33wAHávA%33wA-HávA0ö"é	>ywA>ywA%>ywA->ywA0d

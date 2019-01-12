@@ -1,3 +1,0 @@
-
-MHEãÝÏ	"½	…ëMA…ëMA%…ëMA-…ëMA0È"¿	ÂMAÂMA%ÂMA-ÂMA0È"æ	š™MAš™MA%š™MA-š™MA0d"–
-š™MAš™MA%š™MA-š™MA0¨

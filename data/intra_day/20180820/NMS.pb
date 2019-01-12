@@ -1,2 +1,0 @@
-
-NMSтчо	"╓;pUA?WUA%;pUA-?WUA0└9"▐\▐TAк║TA%млTA-\▐TA0▄"═ЛQTAЛQTA%ЛQTA-ЛQTA0d"ГЛQTAЛQTA%ЛQTA-ЛQTA0d"╠	вёTA╦╞TA%╦╞TA-nёTA0╔"Ё	вёTAвёTA%вёTA-вёTA0d"╧	вёTAвёTA%вёTA-вёTA0d"ч	млTAмлTA%млTA-млTA0ю

@@ -1,2 +1,0 @@
-
-STNDתÝֿ	"HבעAHבעA%HבעA-HבעA0ט"HבעAHבעA%HבעA-HבעA0Ü"HבעAHבעA%HבעA-HבעA0d"ֽHבעAHבעA%HבעA-HבעA0d"בּֽעAֽעA%ֽעA-ּֽעA0ט"הgעAgעA%gעA-gעA0¬"²ffעAffעA%ffעA-ffעA0ְ

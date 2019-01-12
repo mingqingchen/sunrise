@@ -1,2 +1,0 @@
-
-CSAнчо	"ЖHАHBHАHB%HАHB-HАHB0d"┴HАHBHАHB%HАHB-HАHB0ч"ф╦HB╦HB%╦HB-╦HB0п"ямлGB■GHB%■GHB-млGB0э"р╟HB╟HB%╟HB-╟HB0┌"Щ╗FHB╗FHB%╗FHB-╗FHB0d"╟	Ж(HBЖ(HB%Ж(HB-Ж(HB0х"╠	{HB{HB%{HB-{HB0╛"д	▒МGB▒МGB%▒МGB-▒МGB0╪

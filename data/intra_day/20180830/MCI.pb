@@ -1,3 +1,0 @@
-
-MCI▐▐╧	"ЎffvAffvA%ffvA-ffvA0й"У33wA33wA%33wA-33wA0Б"╪╕пvA╕пvA%╕пvA-╕пvA0у"ё\ПvA\ПvA%\ПvA-\ПvA0d"─z╟vA\ПvA%z╟vA-\ПvA0Г"╫MєvA\ПvA%MєvA-\ПvA0╠"Йл╧vAffvA%л╧vA-ffvA0ш"МыvAffvA%ыvA-ffvA0д"Т└ьvA└ьvA%└ьvA-└ьvA0ш"вffvAffvA%ffvA-ffvA0d"А	R╕vA. wA%╝xA-∙аvA0б"╦	Щ╗vAЩ╗vA%Щ╗vA-Щ╗vA0│"╨	R╕vAR╕vA%R╕vA-R╕vA0d"щ	мнwAмнwA%мнwA-мнwA0Й"ы	\ПvA\ПvA%\ПvA-\ПvA0м"Ц
-ffvAffvA%ffvA-ffvA0s

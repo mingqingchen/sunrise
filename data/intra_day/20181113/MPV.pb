@@ -1,2 +1,0 @@
-
-MPV∙р╧	"╜ытrAытrA%ытrA-ытrA0п"▐╢ДsA╢ДsA%╢ДsA-╢ДsA0ш"▓БsAБsA%БsA-БsA0№"Ц╝sA╝sA%╝sA-╝sA0Є"▒№sA№sA%№sA-№sA0┌"╩	U0sAU0sA%U0sA-U0sA0╓"ш	ЕsAЕsA%ЕsA-ЕsA0d

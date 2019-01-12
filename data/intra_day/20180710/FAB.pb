@@ -1,2 +1,0 @@
-
-FABФщо	"ж▐бdB▐бdB%▐бdB-▐бdB0d"змлdBмлdB%млdB-млdB0х"шЛQeBЛQeB%ЛQeB-ЛQeB0d"┘ЛQeBЛQeB%ЛQeB-ЛQeB0п"╡мLeBмLeB%мLeB-мLeB0┐"²a2eBa2eB%a2eB-a2eB0Т"У AeB AeB% AeB- AeB0e"у	.eB@$eB%.eB-@$eB0║

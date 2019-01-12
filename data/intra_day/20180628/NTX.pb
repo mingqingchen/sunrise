@@ -1,2 +1,0 @@
-
-NTX”Ýֿ	"¼ּֽLAּֽLA%ּֽLA-ּֽLA0 "װֳץLAֳץLA%ֳץLA-ֳץLA0Ü"ע¸MA¸MA%¸MA-¸MA0¦"ץ¸MA¸MA%¸MA-¸MA0׀"״¸MA¸MA%₪pMA-¸MA0״"Ù®GMA₪pMA%₪pMA-¸MA0ט"Û₪pMA₪pMA%₪pMA-₪pMA0€"¼₪pMA	MA%	MA-₪pMA0פ"צ¸MA¸MA%¸MA-¸MA0ָ"ÿ₪ßLAאLA%אLA-₪ßLA0Ù"הּֽLAּֽLA%ּֽLA-ּֽLA0d"‎ֳץLAֳץLA%ֳץLA-ֳץLA0ָ"¿	ּֽLAּֽLA%ּֽLA-ּֽLA0‚"ִ	ספLAספLA%ספLA-ספLA0ײ"כ	ֳץLAֳץLA%ֳץLA-ֳץLA0¬

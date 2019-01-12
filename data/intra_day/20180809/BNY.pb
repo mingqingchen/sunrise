@@ -1,3 +1,0 @@
-
-BNYֹÞֿ	"צֳץHAֳץHA%ֳץHA-ֳץHA0d"תֳץHAלQHA%ֳץHA-לQHA0¬"ײֳץHAֳץHA%ֳץHA-ֳץHA0ָ"­)םHA)םHA%)םHA-)םHA0d"³)םHA)םHA%)םHA-)םHA0d"µֳץHAֳץHA%ֳץHA-ֳץHA0d"½²HA²HA%²HA-²HA0״"‘ֳץHAֳץHA%ֳץHA-ֳץHA0¬"’ֳץHAֳץHA%ֳץHA-ֳץHA0d"¢ֳץHAֳץHA%ֳץHA-ֳץHA0d"§ֳץHAֳץHA%ֳץHA-ֳץHA0ָ"סֳץHAֳץHA%ֳץHA-ֳץHA0d"ˆÜ׳HAÜ׳HA%Ü׳HA-Ü׳HA0d"׀ועHAועHA%ועHA-ועHA0d"ÙֳץHAֳץHA%ֳץHA-ֳץHA0d"גֳץHAױחHA%ֳץHA-ױחHA0״"הֳץHAֳץHA%ֳץHA-ֳץHA0d"וֳץHAֳץHA%ֳץHA-ֳץHA0d"שֳץHAֳץHA%ֳץHA-ֳץHA0d"ÿZץHAֳץHA%ֳץHA-ZץHA0”
-"‡	ּֽHAּֽHA%ּֽHA-ּֽHA0Ü"¼	3ִHAּֽHA%ּֽHA-3ִHA0ָ"Ý	F”HAF”HA%F”HA-F”HA0ט"ו	ּֽHAּֽHA%ּֽHA-ּֽHA0¬"כ	ּֽHAּֽHA%ּֽHA-ּֽHA0ֹ

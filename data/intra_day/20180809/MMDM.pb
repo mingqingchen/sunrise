@@ -1,2 +1,0 @@
-
-MMDMичо	"ЖЛQ AЛQ A%ЛQ A-ЛQ A0d"ЧАz AЛQ A%Аz A-ЛQ A0х"дЛQ AЛQ A%ЛQ A-ЛQ A0d"хЛQ AЛQ A%ЛQ A-ЛQ A0d"зЛQ AЛQ A%ЛQ A-ЛQ A0d"ЦЛQ AЛQ A%ЛQ A-ЛQ A0d"ЖЛQ AЛQ A%ЛQ A-ЛQ A0d"╚ЛQ AЛQ A%ЛQ A-ЛQ A0d"╡ЛQ AЛQ A%ЛQ A-ЛQ A0х"ЁЛQ AЛQ A%ЛQ A-ЛQ A0┬╓"╬ЛQ AЛQ A%ЛQ A-ЛQ A0Х

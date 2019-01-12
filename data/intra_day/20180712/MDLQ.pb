@@ -1,4 +1,0 @@
-
-MDLQèÝÏ	"ö{ÈA{ÈA%{ÈA-{ÈA0" ffÆAffÆA%ffÆA-ffÆA0Ø"å	
-×ÇA¸ÈA%¸ÈA-
-×ÇA0Ø

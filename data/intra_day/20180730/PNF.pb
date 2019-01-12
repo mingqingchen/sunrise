@@ -1,2 +1,0 @@
-
-PNF·▌╧	"ЎоKAоKA%оKA-оKA0╔" jJAffJA%jJA-ffJA0ш"КjJAjJA%jJA-jJA0Ї"УjJAjJA%jJA-jJA0Ї"аИЕKAИЕKA%ИЕKA-ИЕKA0й"кИЕKAЕKA%ИЕKA-ЕKA0а"╝ИЕKA)\KA%╛ЯKA-╙MKA0╠"А	уеKAуеKA%уеKA-уеKA0╛"╙	Т\KAТ\KA%Т\KA-Т\KA0░"ш	Ў(LAЎ(LA%Ў(LA-Ў(LA0x"щ	mчKAmчKA%mчKA-mчKA0ш"ы	оKAоKA%оKA-оKA0Н

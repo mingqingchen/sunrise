@@ -1,4 +1,0 @@
-
-EGIF¸ßÏ	"øq=vAq=vA%q=vA-q=vA0¬"…ffvAffvA%ffvA-ffvA0Ø"¾ázvAóŽvA%\vA-ázvA0ü"Â\vA\vA%\vA-\vA0È"ÎázvAázvA%ázvA-ázvA0•"ÑázvAffvA%\vA-ffvA0¼"×\vA\vA%\vA-\vA0¬"Ü\vAHávA%HávA-\vA0ô" ÍÌvAÍÌvA%ÍÌvA-ÍÌvA0d"£=
-wAÃõvA%=
-wA-ÃõvA0È"§	wA	wA%	wA-	wA0ô"©33wA33wA%33wA-33wA0¤"ªÃõvAÃõvA%ÃõvA-ÃõvA0ô"­-!wA-!wA%-!wA--!wA0ô"¯R¸vAR¸vA%R¸vA-R¸vA0ô"µ»¸vAÃõvA%/wA-R¸vA0Ã"·¬wA¬wA%¬wA-¬wA0ô"Öj¼vAj¼vA%j¼vA-j¼vA0È"û33wA33wA%33wA-33wA0È"ý33wA33wA%33wA-33wA0È"Ø)\wA)\wA%)\wA-)\wA0Œ"Ù…wA)\wA%…wA-)\wA0Ë"à¤pwA¤pwA%¤pwA-¤pwA0è"áNbwANbwA%NbwA-NbwA0d"…	®wA®wA%®wA-®wA0‰"†	®wA®wA%®wA-®wA0"Ê	ÙÎwAÙÎwA%ÙÎwA-ÙÎwA0Ã"Ñ	—ÿwA—ÿwA%—ÿwA-—ÿwA0¹"Ú	®wA…wA%®wA-…wA0å"ß	’\wA’\wA%’\wA-’\wA0"á	ffwAffwA%ffwA-ffwA0d"â	8gwA8gwA%8gwA-8gwA0d"ë	ffwAffwA%ffwA-ffwA0d

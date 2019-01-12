@@ -1,6 +1,0 @@
-
-FITBIÝÏ	"öR¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0÷"üìQÜAìQÜA%ìQÜA-ìQÜA0d"…R¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0À"†R¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0è"‡R¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0d"ŒHáÜA¸ÝA%¸ÝA-HáÜA0Ô/"¸ÝA®GÝA%®GÝA-¸ÝA0Î"Ž=
-ÝAÃõÜA%=
-ÝA-ÃõÜA0Ø"R¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0d"‘¸ÝAR¸ÜA%¸ÝA-R¸ÜA0ø
-"Â×£ÜA×£ÜA%×£ÜA-×£ÜA0d"Î×£ÜA×£ÜA%×£ÜA-×£ÜA0d"Ï\ÜA\ÜA%\ÜA-\ÜA0"Ñ—ÜA—ÜA%—ÜA-—ÜA0ô"Ü\ÜA\ÜA%\ÜA-\ÜA0d"ãÍÌÜAÍÌÜA%ÍÌÜA-ÍÌÜA0d"é=›ÜA=›ÜA%=›ÜA-=›ÜA0d"ðÍÌÜAÍÌÜA%ÍÌÜA-ÍÌÜA0d"òÍÌÜAÍÌÜA%ÍÌÜA-ÍÌÜA0d"÷ü©ÜAü©ÜA%ü©ÜA-ü©ÜA0€"¡×£ÜA×£ÜA%×£ÜA-×£ÜA0d"­†¸ÜA†¸ÜA%†¸ÜA-†¸ÜA0Õ"±†¸ÜA†¸ÜA%†¸ÜA-†¸ÜA0d"ºHáÜAHáÜA%HáÜA-HáÜA0ú"¼ÍÌÜAÍÌÜA%ÍÌÜA-ÍÌÜA0¼"½ÍÌÜAÍÌÜA%ÍÌÜA-ÍÌÜA0d"¿R¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0"À¸ÜA¸ÜA%¸ÜA-¸ÜA0ô"Á‘ÜA‘ÜA%‘ÜA-‘ÜA0d"Ê>èÜA>èÜA%>èÜA->èÜA0†"ÌÍÌÜAÍÌÜA%ÍÌÜA-ÍÌÜA0Ã"Õ×£ÜA×£ÜA%×£ÜA-×£ÜA0d"Ö×£ÜA×£ÜA%×£ÜA-×£ÜA0¦"Š×£ÜA×£ÜA%×£ÜA-×£ÜA0¼"‹•ÜA•ÜA%•ÜA-•ÜA0±"×£ÜA×£ÜA%×£ÜA-×£ÜA0d"‘h‘ÜAh‘ÜA%h‘ÜA-h‘ÜA0d" Ú¬ÜAÚ¬ÜA%Ú¬ÜA-Ú¬ÜA0£"¢HáÜAHáÜA%HáÜA-HáÜA0d"¦×£ÜA×£ÜA%×£ÜA-×£ÜA0d"¼¤ÜA¤ÜA%¤ÜA-¤ÜA0d"¾Ä±ÜAÄ±ÜA%Ä±ÜA-Ä±ÜA0”"ü×£ÜA×£ÜA%×£ÜA-×£ÜA0d"þ¤ÜA¤ÜA%¤ÜA-¤ÜA0¶"†×£ÜA×£ÜA%×£ÜA-×£ÜA0Î	"‡×£ÜA×£ÜA%×£ÜA-×£ÜA0¬"ˆ×£ÜA×£ÜA%×£ÜA-×£ÜA0"‹ázÜAázÜA%ázÜA-ázÜA0˜u"‘¤ÜA¤ÜA%¤ÜA-¤ÜA0d"ÍR¸ÜAR¸ÜA%R¸ÜA-R¸ÜA0d"Ö×£ÜA×£ÜA%×£ÜA-×£ÜA0ì"Ø¨µÜA•ÜA%˜ÌÜA-•ÜA0Œ"Ú˜ÌÜA˜ÌÜA%˜ÌÜA-˜ÌÜA0²"àázÜAázÜA%ázÜA-ázÜA0d"ôìQÜAìQÜA%ìQÜA-ìQÜA0d"ûffÜAìQÜA%ffÜA-ìQÜA0ë"‡	ìQÜAìQÜA%ìQÜA-ìQÜA0d"»	 RÜA RÜA% RÜA- RÜA0"¾	ˆcÜAˆcÜA%ˆcÜA-ˆcÜA0è"¿	ìQÜAìQÜA%ìQÜA-ìQÜA0d"Í	ìQÜAìQÜA%ìQÜA-ìQÜA0d"Ö	×£ÜA×£ÜA%×£ÜA-×£ÜA0È"Ø	ìQÜAjÜA%jÜA-ìQÜA0ô"Ý	ìQÜAìQÜA%ìQÜA-ìQÜA0Ü"ß	\ÜA\ÜA%\ÜA-\ÜA0¬"á	ö(ÜAÀ[ÜA%À[ÜA-ö(ÜA0ô"æ	ö(ÜAö(ÜA%ö(ÜA-ö(ÜA0d"ê	ö(ÜAö(ÜA%ö(ÜA-ö(ÜA0d"ë	<=ÜAö(ÜA%<=ÜA-ö(ÜA0à"”
-ìQÜAìQÜA%ìQÜA-ìQÜA0Ï

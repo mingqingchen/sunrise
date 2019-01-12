@@ -1,2 +1,0 @@
-
-OSLEאֿ	"´e×ָAe×ָA%e×ָA-e×ָA0Þ"•HבָAffָA%HֹA-ffָA0ט "–ffָAffָA%ffָA-ffָA0א"—ffָAffָA%ffָA-ffָA0ָ"™ffָAffָA%ffָA-ffָA0ָ")\ֹA)\ֹA%)\ֹA-)\ֹA0d" HבָAHבָA%HבָA-HבָA0d"שָּֽAָּֽA%ָּֽA-ָּֽA0ָ

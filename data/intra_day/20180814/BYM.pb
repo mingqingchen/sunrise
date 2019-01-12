@@ -1,5 +1,0 @@
-
-BYMнчо	"Ж▐бQA▐бQA%▐бQA-▐бQA0╢8"З{RA┘КQA%{RA-┘КQA0═"Щ┘КQA┘КQA%┘КQA-┘КQA0Х"Ъ{RA{RA%{RA-{RA0╪"мffRAffRA%ffRA-{RA0Ь
-"вffRAffRA%ffRA-ffRA0▌"Фq=RAq=RA%q=RA-q=RA0d"╔%RA%RA%%RA-%RA0≤"╛{RA{RA%{RA-{RA0d"╠┘КQAq=RA%q=RA-┘КQA0╝"╡q=RAq=RA%q=RA-q=RA0Л"╫U0RAU0RA%U0RA-U0RA0Д"х{RA┘КQA%33RA-▐бQA0э="иvЮQAHАQA%┘КQA-vЮQA0п"жmГQAHАQA%mГQA-HАQA0Х"┴КQAКQA%КQA-КQA0Т"█aцQA▐бQA%aцQA-▐бQA0Ь
-"▐▐бQA▐бQA%▐бQA-▐бQA0о"≤┘КQA┘КQA%┘КQA-┘КQA0ь"═┘КQA┘КQA%┘КQA-┘КQA0d"╘=RA=RA%=RA-=RA0═"╜q=RAq=RA%q=RA-{RA0п"МffRA╨IRA%ffRA-╨IRA0■
-"Нq=RAq=RA%[BRA-q=RA0 "⌡q=RAq=RA%q=RA-q=RA0Х"лq=RA▄JRA%▄JRA-q=RA0└"Мq=RAq=RA%q=RA-q=RA0х"З{RAq=RA%q=RA-{RA0ь"Ш{RA=RA%=RA-{RA0╗"Эq=RAq=RA%q=RA-q=RA0╛"─	q=RAq=RA%q=RA-q=RA0ь"╦	q=RAq=RA%q=RA-q=RA0╪"╧	:#RA:#RA%:#RA-:#RA0э"й	q=RAq=RA%q=RA-q=RA0Т"ж	{RA┘КQA%{RA-┘КQA0Х"в	{RA┘КQA%{RA-┘КQA0╬."ы	{RA{RA%{RA-{RA0Х"ъ	┘КQA┘КQA%┘КQA-┘КQA0Т

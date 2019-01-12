@@ -1,8 +1,0 @@
-
-CLPRйчо	"Ж┘'A┘'A%┘'A-┘'A0А"│ЛQ(AЛQ(A%ЛQ(A-ЛQ(A0х"┼мл(A╦)A%╦)A-мл(A0х"▒ ≥)A ≥)A% ≥)A- ≥)A0d"╪ ≥)A ≥)A% ≥)A- ≥)A0o"аff*Aq=*A%HА*A-q=*A0═Q"гR╦*AHА*A%HА*A-R╦*A0х"х=
-+A=
-+A%=
-+A-=
-+A0d"и33+A33+A%33+A-33+A0░"ж┘+A=
-+A%┘+A-HА*A0ю"ввё*Aвё*A%вё*A-вё*A0Т"╖┘+A┘+A%┘+A-┘+A0d"╗╝+AцУ*A%╝+A-цУ*A0Т"╘\▐*Aq=*A%\▐*A-q=*A0с"╞ff*Aff*A%ff*A-ff*A0░"╢ff*Aff*A%ff*A-ff*A0х"╣R╦*Aff*A%R╦*A-ff*A0░"ц╦+A╦+A%╦+A-╦+A0х"рHА*AHА*A%33+A-HА*A0ь"└ff*A╓p)A%ff*A-╓p)A0═"┘О8*AО8*A%О8*A-О8*A0Т"÷▐б)A▐б)A%▐б)A-▐б)A0d"╫╓p)A╓p)A%╓p)A-╓p)A0d"В╝G)A╝G)A%╝G)A-╝G)A0└"Ь╓p)A╓p)A%╓p)A-╓p)A0d"Ыq=*A┘К)A%q=*A-┘К)A0╛"З▐б)A ≥)A%▐б)A- ≥)A0ь"Ч ≥)A ≥)A% ≥)A- ≥)A0╛"▐┘К)A{*A%{*A-┘К)A0х"░q=*Aq=*A%q=*A-q=*A0d"ь▄J*A▄J*A%▄J*A-▄J*A0Н"ыff*Aff*A%ff*A-ff*A0Х"зff*Aff*A%ff*A-ff*A0d"шff*Aff*A%ff*A-ff*A0х"Юff*Aff*A%ff*A-ff*A0х"Сff*Aff*A%ff*A-ff*A0╛"Тff*Aff*A%ff*A-ff*A0х"Ьff*Aff*A%ff*A-ff*A0d"Щff*Aff*A%ff*A-ff*A0d"╥	ff*Aff*A%ff*A-ff*A0d"╫	ff*Aff*A%ff*A-ff*A0d"а	ff*Aff*A%ff*A-ff*A0d"е	ff*Aff*A%ff*A-ff*A0d"ф	ff*Aff*A%ff*A-ff*A0ь"й	ff*Aff*A%ff*A-ff*A0d"р	ff*Aff*A%ff*A-ff*A0░"с	ff*Aff*A%ff*A-ff*A0р"т	ff*Aff*A%ff*A-ff*A0d"в	\▐*A\▐*A%\▐*A-\▐*A0d"ь	\▐*A\▐*A%\▐*A-\▐*A0d"щ	R╦*AR╦*A%R╦*A-R╦*A0d"А	R╦*AR╦*A%R╦*A-R╦*A0х"Б	Аz*AАz*A%Аz*A-Аz*A0d"Ц	q=*A ≥)A%q=*A- ≥)A0ь"К	┘К)Aq=*A%q=*A-┘К)A0╔"√
-q=*Aq=*A%q=*A-q=*A0К	

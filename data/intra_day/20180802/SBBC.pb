@@ -1,3 +1,0 @@
-
-SBBCбчо	"ЖмллAмллA%мллA-мллA0х"нshлAffлA%shлA-ffлA0─
-"УffлAffлA%ffлA-ffлA0├"Жq=лAq=лA%q=лA-q=лA0╤"╠R╦лAR╦лA%R╦лA-R╦лA0d"ЯffлAffлA%ffлA-ffлA0х"У\▐лA\▐лA%\▐лA-\▐лA0╛"ШffлAffлA%ffлA-ffлA0Т"─ffлAffлA%ffлA-ffлA0х"│ffлAffлA%ffлA-ffлA0√"┬АzлAАzлA%АzлA-АzлA0d"≈АzлAАzлA%АzлA-АzлA0d"≥АzлAАzлA%АzлA-АzлA0d"рАzлAАzлA%АzлA-АzлA0░"╟	АzлA╗флA%╗флA-ffлA0┬"Б	ffлAffлA%ffлA-ffлA0х"Е	\▐лA\▐лA%\▐лA-\▐лA0Х

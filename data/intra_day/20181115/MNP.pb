@@ -1,2 +1,0 @@
-
-MNPШЮо	"ЖцУXAцУXA%цУXA-цУXA0╗"аZУXAZУXA%ZУXA-ZУXA0е"╔с╪XAс╪XA%с╪XA-ЛQXA0ё"ыцУXAб├XA%цУXA-б├XA0Б	"КTRXATRXA%TRXA-TRXA0▒"з	вёXAвёXA%вёXA-вёXA0d"ш	млXAмлXA%млXA-млXA0╓"э	млXAвёXA%млXA-вёXA0х"Ю	вёXAвёXA%вёXA-вёXA0d"А	млXAмлXA%млXA-млXA0d"Б	вёXAвёXA%вёXA-вёXA0d"Ц	вёXAвёXA%вёXA-вёXA0d"Й	@╓XA@╓XA%@╓XA-@╓XA0d"К	вёXAвёXA%вёXA-вёXA0d

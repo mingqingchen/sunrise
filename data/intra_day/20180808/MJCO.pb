@@ -1,3 +1,0 @@
-
-MJCOхчо	"ЖмлAмлA%млA-млA0я"┬млA┼A%┼A-млA0э"╬ AA AA% AA- AA0Х"Б╝GA╝GA%╝GA-╝GA0d"╓╝GA╦A%╝GA-╦A0х"╡╦A╦A%╦A-╦A0q"Х╝GA╦A%╝GA-╦A0░"И╝GA╝GA%╝GA-╝GA0d"├я"A|aA%|aA-я"A0Х"▀╝GA╝GA%╝GA-╝GA0d"█╝GA╝GA%╝GA-╝GA0d"эрoAрoA%рoA-рoA0г"щ ≥A▀lA% ≥A-▀lA0х"╣	)\A ≥A% ≥A-)\A0л"╨	▐бA▐бA%▐бA-▐бA0d"к	┘КAffA%ffA-┘КA0ю"А	╓pA╓pA%╓pA-╓pA0┤"К	q=A╓pA%q=A-╓pA0х"■
-q=Aq=A%q=A-q=A0ф

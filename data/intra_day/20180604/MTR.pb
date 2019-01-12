@@ -1,2 +1,0 @@
-
-MTRЭэо	"┐млtAмлtA%млtA-млtA0╛"└млtAмлtA%млtA-млtA0Т"ч^╨uA^╨uA%^╨uA-^╨uA0╗"╧	млtAмлtA%млtA-млtA0┐"Ф	 ≥uA ≥uA% ≥uA- ≥uA0╛"Й	ffvAffvA%ffvA-ffvA0d"К	млtAмлtA%млtA-млtA0╞

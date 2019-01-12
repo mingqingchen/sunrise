@@ -1,3 +1,0 @@
-
-ESCA■що	"╤млhAмлhA%млhA-млhA0d"╨ffjA ≥iA%ffjA- ≥iA0└"у ≥iA ≥iA% ≥iA- ≥iA0Т"■ ≥iA ≥iA% ≥iA- ≥iA0d"╤ ≥iAмлhA% ≥iA-млhA0╛"⌠млhAмлhA%млhA-млhA0d"√млhAмлhA%млhA-млhA0Т"┤	33gA33gA%33gA-33gA0d"╟	fffAfffA%fffA-fffA0d"©	fffAfffA%fffA-fffA0d"б	fffAfffA%fffA-fffA0d"з	fffAfffA%fffA-fffA0d"э	 ≥eA ≥eA% ≥eA- ≥eA0d"Г	млdAмлdA%млdA-млdA0d"Х	33gA33gA%33gA-33gA0d"К	 ≥eAfffA%fffA- ≥eA0Т"■
- ≥eA ≥eA% ≥eA- ≥eA0╥	

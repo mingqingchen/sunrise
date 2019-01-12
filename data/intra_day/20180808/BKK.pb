@@ -1,3 +1,0 @@
-
-BKKхчо	"ЖмлpAмлpA%млpA-млpA0d"▀@╓pA@╓pA%@╓pA-@╓pA0е"имлpA╢хpA%млpA-╢хpA0╕"лR╦pA╙ЯpA%╙ЯpA-R╦pA0ю"ы6мpA6мpA%6мpA-6мpA0Н"╔ыpAыpA%ыpA-ыpA0ч"╦÷мpA÷мpA%÷мpA-÷мpA0╕"лпpAпpA%пpA-пpA0╛"▐ZУpAZУpA%OqA-ZУpA0╗"Р╟qA╟qA%╟qA-╟qA0э"ЭuqAuqA%uqA-uqA0Н"²╪qA╪qA%╪qA-╪qA0⌡"ЮцУpAцУpA%цУpA-цУpA0╣"Х·ОpA·ОpA%·ОpA-·ОpA0s"КПpAцУpA%цУpA-ПpA0░N"Ё	млpAмлpA%млpA-млpA0шC"п	фэpAфэpA%фэpA-фэpA0З"Б	цУpAцУpA%цУpA-цУpA0х"Й	млpAмлpA%млpA-млpA0х"К	цУpAцУpA%цУpA-цУpA0d"√
-млpAмлpA%млpA-млpA0d

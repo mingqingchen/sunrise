@@ -1,5 +1,0 @@
-
-HPFЎ▌╧	"ЎR╕иAR╕иA%R╕иA-R╕иA0й"НсzиAсzиA%сzиA-сzиA0ю"╟╠nиAffиA%╠nиA-ffиA0╛"╩ffиAffиA%ffиA-ffиA0м"═ffиAыbиA%ffиA-ыbиA0╕"чffиAffиA%ffиA-ffиA0d"гffиAffиA%ffиA-ffиA0▒"зffиAffиA%ffиA-Т\иA0ш"пе=иAе=иA%е=иA-е=иA0═"╡ffиAffиA%ffиA-ffиA0И"РЎ(иAЎ(иA%Ў(иA-Ў(иA0е"ХвEиAвEиA%вEиA-вEиA0▄"Ц{иA{иA%{иA-{иA0Р"ЬffиAffиA%ffиA-EGиA0▄"ЯffиAЎ(иA%ffиA-Ў(иA0┴"м╙MиA╙MиA%╙MиA-╙MиA0ш"╡ffиAffиA%ffиA-┘_иA0╝"Є╨DиA╨DиA%╨DиA-╨DиA0╚"ЎbиAbиA%bиA-bиA0я"ИHиAHиA%HиA-HиA0т"╤сzиAсzиA%сzиA-сzиA0Ї"╫\ПиA╫гиA%╫гиA-\ПиA0и"ь\ПиA{иA%\ПиA-{иA0╫"ЇвEиAАHиA%АHиA-{иA0В"∙к`иAк`иA%к`иA-к`иA0Ї"Д	YиAYиA%ffиA-YиA0ш"░	оXиA■TиA%оXиA-■TиA0Г"▓	■TиA
-WиA%
-WиA-■TиA0 "│	тXиAтXиA%тXиA-тXиA0Є"┐	PНиAPНиA%PНиA-PНиA0Г"└	дpиA\ПиA%СПиA-дpиA0М"─	сzиAсzиA%сzиA-сzиA0Р"╥	┘_иA┘_иA%┘_иA-┘_иA0╗"╓	ffиAffиA%(ПиA-ffиA0Т
-"с	ffиAffиA%ffиA-ffиA0d"ъ	сzиAсzиA%сzиA-сzиA0d

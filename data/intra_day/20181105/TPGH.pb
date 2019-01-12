@@ -1,2 +1,0 @@
-
-TPGHסאÏ	"²	ÍÌ A×£ A%ÍÌ A-×£ A0È"÷	צ( Aצ( A%צ( A-צ( A0d"»	ÍÌ AÍÌ A%ÍÌ A-ÍÌ A0d"Â	לQ AלQ A%לQ A-לQ A0d"Ô	לQ AלQ A%לQ A-לQ A0È"Þ	לQ AלQ A%לQ A-לQ A0È"ה	לQ AלQ A%לQ A-לQ A0È"ך	לQ AלQ A%לQ A-לQ A0¬"כ	לQ AלQ A%לQ A-לQ A0È

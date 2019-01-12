@@ -1,2 +1,0 @@
-
-BFY┐що	"ЬвёPA╝GQA%╝GQA-вёPA0д"вЁЙPAцУPA%цУPA-ЁЙPA0Х"║млPAмлPA%млPA-млPA0d"╪йцPAйцPA%йцPA-йцPA0└"┴млPAXйPA%млPA-XйPA0Х"ЖXйPAXйPA%млPA-XйPA0п"ЩмлPAмлPA%млPA-млPA0d"ЪмлPAмлPA%млPA-млPA0х"НмлPAмлPA%млPA-млPA0Х

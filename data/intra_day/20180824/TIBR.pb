@@ -1,2 +1,0 @@
-
-TIBRุÞฯ	"ffAffA%ffA-ffA0ก"ฟ{AffA%ffA-{A0เ๓"่{AffA%ffA-{A0๔"๗ffAffA%ffA-ffA0G"๘ffA{A%ffA-…๋A0`"๚ffAffA%ffA-ffA0ก"๛{A{A%{A-{A0'"€ffAffA%ffA-ffA0'"ffAffA%ffA-ffA0จร"—ffAffA%ffA-ffA0่"ffAffA%ffA-ffA0d"ฯffAffA%ffA-ffA0Ü"ะffAffA%ffA-ffA0ฤ"ัq=Aq=A%q=A-q=A0ฌ"ีffAffA%ffA-ffA0'

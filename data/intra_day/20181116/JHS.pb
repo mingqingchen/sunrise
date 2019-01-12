@@ -1,3 +1,0 @@
-
-JHSЭЮо	"ЖмлPAмлPA%млPA-млPA0ю"╞млPAмлPA%млPA-млPA0d"юмлPAмлPA%млPA-млPA0х"д\▐PA\▐PA%\▐PA-\▐PA0d"еАzPAАzPA%АzPA-АzPA0└"тАzPAАzPA%АzPA-АzPA0▌"║j╪PAj╪PA%j╪PA-j╪PA0√"╣вёPAвёPA%вёPA-вёPA0d"▒млPAмлPA%млPA-млPA0╛"ыэвPAэвPA%эвPA-эвPA0Т"ЮJ{PAмлPA%млPA-J{PA0■
-"ЬАzPAАzPA%J{PA-АzPA0≤"ЭЖ(PAЖ(PA%Ж(PA-Ж(PA0·"ю	йTPAq=PA%АzPA-q=PA0═

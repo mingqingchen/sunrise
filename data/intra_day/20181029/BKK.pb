@@ -1,2 +1,0 @@
-
-BKKер╧	"Ў╫гlAоGmA%оGmA-╫гlA0з"ВEGmAEGmA%оGmA-EGmA0╨"┌d;mAd;mA%d;mA-d;mA0▄"├оGmAоGmA%оGmA-оGmA0d"┼оGmAоGmA%оGmA-оGmA0┐"╦оGmAоGmA%оGmA-оGmA0ш"╤O@mAO@mA%O@mA-O@mA0ю"█уеlAуеlA%уеlA-уеlA0е	"ЙmAmA%mA-mA0Е"╠ёЇlAёЇlA%ёЇlA-ёЇlA0┬"╗	╕mA╕mA%╕mA-╕mA0Р"╝	╕mAаmA%╕mA-аmA0й"╤	ЦCmAдpmA%дpmA-ЦCmA0└"у	дpmAЪЩmA%ЪЩmA-дpmA0а"ц	дpmAдpmA%дpmA-дpmA0ў

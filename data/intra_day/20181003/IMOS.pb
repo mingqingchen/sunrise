@@ -1,2 +1,0 @@
-
-IMOS▀Юо	"Ж ≥uA ≥uA% ≥uA- ≥uA0q"┤е▐tAе▐tA%е▐tA-е▐tA0▀"▀▐бuA▐бuA%▐бuA-▐бuA0d"▌HАtAс╪tA%HАtA-с╪tA0ь"лR╦tAR╦tA%R╦tA-R╦tA0d"тАztAАztA%АztA-АztA0d"╕Ж(tAЖ(tA%Ж(tA-Ж(tA0d"╦ЛQtAЛQtA%ЛQtA-ЛQtA0╛"цЛQtAАztA%АztA-ЛQtA0Т"двёtAвёtA%вёtA-вёtA0└"ивёtAвёtA%вёtA-вёtA0Х" ╦uA╦uA%╦uA-╦uA0d"─е▐tAе▐tA%е▐tA-е▐tA0°"█млtAмлtA%млtA-млtA0З"©	╦uA╦uA%╦uA-╦uA0d"К	╦uA╦uA%╦uA-╦uA0╛

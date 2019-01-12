@@ -1,2 +1,0 @@
-
-PCFхаѕ	"цffAffA%ffA-ffA0±"В\ПA\ПA%\ПA-\ПA0d"¬ffAffA%ffA-ffA0’"ƒffAffA%ffA-ffA0d"÷ffAffA%ffA-ffA0d"ШffAffA%ffA-ffA0Д"µ…vAffA%…vA-ffA0і"ћ\ПAffA%\ПA-ffA0–"÷q=Aq=A%ffA-q=A0Ї"ЎffAffA%ffA-ffA0d"к	бzAбzA%бzA-бzA0d

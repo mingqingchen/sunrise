@@ -1,2 +1,0 @@
-
-NQP≤Юо	"Ж╓pEA╓pEA%╓pEA-╓pEA0▄"З╬0EA╬0EA%╬0EA-╬0EA0п"р╦EA╦EA%╦EA-╦EA0х"тцУDAцУDA%цУDA-цУDA0ь"╚HАDAEьDA%╦EA-млDA0╦"сцУDAцУDA%цУDA-цУDA0d"▄║жDA║жDA%║жDA-║жDA0Ъ"√млDAмлDA%млDA-млDA0Ъ"КмлDA6мDA%6мDA-млDA0М"М2ФDA2ФDA%2ФDA-2ФDA0≥"ЬMСDAмлDA%MСDA-млDA0╡"▓ЯТDAЯТDA%ЯТDA-ЯТDA0х"ш6мDA6мDA%6мDA-6мDA0Ц"ъмлDAмлDA%млDA-млDA0Б"ЦмлDAмлDA%млDA-млDA0Ц"з	млDAмлDA%цУDA-млDA0У"э	вёDAR╦DA%╢хDA-вёDA0═"К	млDAмлDA%млDA-млDA0d

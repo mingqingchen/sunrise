@@ -1,2 +1,0 @@
-
-KBWRפאֿ	"ÊBNBBNB%BNB-BNB0ָ"ׂַzNBַzNB%ַzNB-ַzNB0d"װ{NB{NB%{NB-{NB0d"’ffOBffOB%ffOB-ffOB0ֲ"ײffOBR¸OB%R¸OB-ffOB0Ù"ÿÝ$PBÝ$PB%Ý$PB-Ý$PB0ד"…	₪pPB₪pPB%₪pPB-₪pPB0d"ׁ	33QB33QB%33QB-33QB0ּ!"ײ	¸QB33QB%33QB-¸QB0€2"׳	33QB33QB%33QB-33QB0ְ"ח	®PB®PB%®PB-®PB0ָ"כ	צ(QBצ(QB%צ(QB-צ(QB0d

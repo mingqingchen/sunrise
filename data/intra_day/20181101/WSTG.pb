@@ -1,2 +1,0 @@
-
-WSTGнаѕ	"уyйGAyйGA%yйGA-yйGA0Ш"є§яGA§яGA%§яGA-§яGA0и"Л¬ЖEA¬ЖEA%¬ЖEA-¬ЖEA0d"Рq=FAq=FA%q=FA-q=FA0d"ъ\ПJA\ПJA%\ПJA-\ПJA0d"’	RЄJARЄJA%RЄJA-RЄJA0d"г	HбJAHбJA%HбJA-HбJA0d

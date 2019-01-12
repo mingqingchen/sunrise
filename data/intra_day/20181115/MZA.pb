@@ -1,3 +1,0 @@
-
-MZAШЮо	"Ж╝CA╝CA%╝CA-╝CA0Х"ВАzDA┬cDA%АzDA-┬cDA0х"╧DADA%DA-DA0┐"©Y├DAY├DA%Y├DA-Y├DA0╟"кмлDAмлDA%млDA-млDA0х"·╝CA╝CA%╝CA-╝CA0d"швёDAвёDA%вёDA-вёDA0т"А}╝CAайCA%DA-}╝CA0Ь"ЫyXDAyXDA%yXDA-yXDA0х"┌	▌uDA▌uDA%▌uDA-▌uDA0х"┤	АzDA;pDA%АzDA-;pDA0╛"╤	вёDAмлDA%млDA-;pDA0└"а	╢хDA╢хDA%╢хDA-╢хDA0░"е	╢хDA╥яCA%dлDA-╥яCA0Т"ф	╢хDAмлDA%млDA-╢хDA0Т"х	╓pDA;pDA%млDA-;pDA0═"п	╝CA╝CA%╝CA-╝CA0░"р	вёDAмлDA%млDA-;pDA0║"ь	вёDA╓pDA%млDA-;pDA0═"з	млDAмлDA%млDA-;pDA0└"ч	млDA╓pDA%млDA-;pDA0Ф"К	вёDAвёDA%вёDA-вёDA0d"√
-млDAмлDA%млDA-млDA0х

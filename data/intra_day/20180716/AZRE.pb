@@ -1,3 +1,0 @@
-
-AZREЛщо	"Ж33gA33gA%33gA-33gA0█"Вq=jAq=jA%q=jA-q=jA0▓"Зq=jAq=jA%q=jA-q=jA0х"Ш{jA{jA%{jA-{jA0d"Щq=jAq=jA%q=jA-q=jA0d"Ъq=jAq=jA%q=jA-q=jA0d"─q=jAHАjA%HАjA-q=jA0х"├╝kA╝kA%╝kA-╝kA0d"и∙elA∙elA%∙elA-∙elA0m"ьR╦lAR╦lA%R╦lA-R╦lA0z"≥ ≥iA ≥iA% ≥iA- ≥iA0d"ЗuiAмлhA%uiA- ≥eA0 9"ЭмлhAмлhA%млhA-млhA0ь"ЩмлhAмлhA%млhA-млhA0d"ЧмлhAмлhA%млhA-млhA0d"─	млhAмлhA%млhA-млhA0d"└	╦iA╦iA%╦iA-╦iA0d"┘	цУhAцУhA%цУhA-цУhA0d"╪	млhAвёhA%млhA-вёhA0╬"╫	АzhAмлhA%млhA-АzhA0╧"ю	млhAмлhA%млhA-млhA0╦"т	цУhAцУhA%цУhA-цУhA0d"ы	млhAмлhA%млhA-млhA0х"Ю	┘iA┘iA%┘iA-┘iA0d"Х	млhAq=jA%q=jA-млhA0╩
-"Й	 ≥iA ≥iA% ≥iA- ≥iA0d"К	млhAмлhA%млhA-млhA0└

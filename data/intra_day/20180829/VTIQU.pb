@@ -1,2 +1,0 @@
-
-VTIQUÞÞฯ	"!A!A%!A-!A0d"ff"Aff"A%ff"A-ff"A0จร"‘ff"Aff"A%ff"A-ff"A0 "’ff"Aff"A%ff"A-ff"A0จร"—ff"Aff"A%ff"A-ff"A0ื"แff"Aff"A%ff"A-ff"A0จร"ื	Rธ"ARธ"A%Rธ"A-Rธ"A0N"Ü	ff"Aff"A%ff"A-ff"A0'

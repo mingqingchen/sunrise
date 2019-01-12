@@ -1,3 +1,0 @@
-
-EGIFﬁ›œ	"˜R∏vAR∏vA%R∏vA-R∏vA0Õ"˚ffvAffvA%ffvA-ffvA0Í"«ffvAffvA%ffvA-ffvA0»" ffvAffvA%ffvA-ffvA0¨"±ÕÃvAÕÃvA%ÕÃvA-ÕÃvA0ƒ"íH·vAH·vA%H·vA-H·vA0º"≥	ª∏vAª∏vA%ª∏vA-ª∏vA0¨"∏	ŸvAŸvA%ŸvA-ŸvA0“"π	R∏vAŸ=vA%ª∏vA-q=vA0î
-"Ë	q=vA{vA%q=vA-{vA0ê

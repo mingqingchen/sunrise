@@ -1,6 +1,0 @@
-
-CFAถ฿ฯ	"๖ffRBffRB%ffRB-ffRB0 "ยQBวหQB%วหQB-ยQB0Ü"oฐQBoฐQB%oฐQB-oฐQB0d"ฝณQB๖จQB%ณQB-๖จQB0เ"ฮวQBวQB%วQB-วQB0จ"็ฯfQBฯfQB%ฯfQB-ฯfQB0๔"๐ffQBffQB%ffQB-ffQB0d"๖ÞBQBÞBQB%ÞBQB-ÞBQB0d"กคpQBคpQB%คpQB-คpQB0€"ทอ{QBอ{QB%อ{QB-อ{QB0ฃ"BQBBQB%BQB-BQB0ศ"๋bQB๋bQB%๋bQB-๋bQB0ฆ"•สCQBสCQB%สCQB-สCQB0ช"ญÞSQBÞSQB%ÞSQB-ÞSQB0Þ"ฒ์QQB์QQB%์QQB-์QQB0d"บ์QQB์QQB%์QQB-์QQB0€	"๔'1QB'1QB%'1QB-'1QB0ฟ"{QB{QB%{QB-{QB0ํ"’.ÿPB.ÿPB%.ÿPB-.ÿPB0ป"ฃB QBB QB%B QB-B QB0ๆ"ำหQBหQB%หQB-หQB0"ุ๘QB๘QB%๘QB-๘QB0ฑ"๊!0QB!0QB%!0QB-!0QB0ค"์'1QB'1QB%'1QB-'1QB0ห"ü{QB{QB%{QB-{QB0่"…	…๋PB…๋PB%…๋PB-…๋PB0ฒ"ท	ผ๔PBผ๔PB%ผ๔PB-ผ๔PB0ภ"ย	…๋PB…๋PB%…๋PB-…๋PB0จ"ร	นอPBนอPB%นอPB-นอPB0|"ล	มPBมPB%มPB-มPB0ช"ิ	พPBพPB%พPB-พPB0‘"ี	ยPBยPB%ยPB-ยPB0–"ุ	RธPBRธPB%RธPB-RธPB0d"ู	RธPBRธPB%RธPB-RธPB0d"แ	
-ืPB
-ืPB%
-ืPB-
-ืPB0–"ไ	xบPBxบPB%xบPB-xบPB0฿"็	ฬPBฬPB%ฬPB-ฬPB0ิ

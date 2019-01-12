@@ -1,2 +1,0 @@
-
-GNMA©ßÏ	"öffABffAB%ffAB-ffAB0¥"Î)AB)AB%)AB-)AB0Þ".AB.AB%.AB-.AB0È"‘¾AB¾AB%¾AB-¾AB0¼"¡èYABèYAB%èYAB-èYAB0Ø	"§ãvABãvAB%ãvAB-ãvAB0Û"´33AB33AB%33AB-ö(AB0ÿ*"‹ÏwABÏwAB%ÏwAB-ÏwAB0ì"™ªqABªqAB%ªqAB-ªqAB0ô"žÖ–AB¼–AB%Ö–AB-¼–AB0’"‚	ö(ABö(AB%ö(AB-ö(AB0d"„	HaABHaAB%HaAB-HaAB0Ä"Ý	)AB)AB%)AB-)AB0›

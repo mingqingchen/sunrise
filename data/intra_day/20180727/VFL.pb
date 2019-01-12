@@ -1,14 +1,0 @@
-
-VFL÷ÝÏ	"‹
-×GA
-×GA%
-×GA-
-×GA0d"’
-×GA
-×GA%
-×GA-
-×GA0d"˜
-×GA
-×GA%
-×GA-
-×GA0d"ë	ÍÌHAÍÌHA%ÍÌHA-ÍÌHA0d

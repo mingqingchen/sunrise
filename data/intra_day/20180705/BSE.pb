@@ -1,2 +1,0 @@
-
-BSEбЭП	"цffFAffFA%ffFA-ffFA0І"†ffFAffFA%ffFA-ffFA0d"јFAFA%FA-FA0„"ЖЏВEAЏВEA%ЏВEA-ЏВEA0Љ"НЏВEAffFA%ffFA-ЏВEA0Д"Сq=FAq=FA%q=FA-q=FA0¬"Ф{FAq=FA%ffFA-{FA0ф"кq=FAq=FA%q=FA-q=FA0ф

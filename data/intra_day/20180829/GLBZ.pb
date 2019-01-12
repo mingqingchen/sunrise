@@ -1,2 +1,0 @@
-
-GLBZЮЮП	"Ѕ]юIA]юIA%]юIA-]юIA0И"ЧК2KAК2KA%К2KA-К2KA0Р"±ffBAffBA%ffBA-ffBA0d"і-BA-BA%-BA--BA0Л"·ffBAffBA%ffBA-ffBA0ё"ьffBAffBA%ffBA-ffBA0d"яffBA…лAA%ffBA-…лAA0ђ"…ffBAffBA%ffBA-ffBA0d

@@ -1,2 +1,0 @@
-
-LAKEичо	"ямлXAмлXA%млXA-млXA0х"▀млXA{XA%млXA-{XA0Т"⌠млXAБXA%БXA-млXA0┼"ёмлXAЮ╬XA%млXA-Ю╬XA0╪"█┐XA┐XA%┐XA-┐XA0┴"≤╛╜XA╛╜XA%╛╜XA-╛╜XA0╦"ж	33YA33YA%33YA-33YA0d"ъ	млXAмлXA%млXA-млXA0═"Е	ffZAffZA%ffZA-ffZA0d"К	ffZAffZA%ffZA-ffZA0d

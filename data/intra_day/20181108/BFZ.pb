@@ -1,4 +1,0 @@
-
-BFZфаѕ	"цq=BA\ПBA%\ПBA-q=BA0≤"В+ЗBA+ЗBA%+ЗBA-+ЗBA0ґ"Иq=BA{BA%q=BA-{BA0Ф
-"вshBAshBA%shBA-shBA0и"§\ПBA\ПBA%\ПBA-\ПBA0ј"∞ёqBAёqBA%ёqBA-ёqBA0г"≥†ЙBA†ЙBA%†ЙBA-†ЙBA0и"–ГQBA\ПBA%\ПBA-ГQBA0н!"÷ffBAffBA%ffBA-ffBA0d"ЬҐEBAҐEBA%ҐEBA-ҐEBA0ф"§lxBAlxBA%lxBA-lxBA0ф"≥\ПBA\ПBA%\ПBA-\ПBA0d"іffBAffBA%ffBA-ffBA0d"ЖlxBAlxBA%lxBA-lxBA0ф"С\ПBA\ПBA%\ПBA-\ПBA0d"ҐffBAffBA%ffBA-ffBA0d"”ffBAffBA%ffBA-ffBA0d"ўffBAffBA%ffBA-ffBA0Р"ЁюeBA\ПBA%\ПBA-мQBA0®-"ё\ПBA\ПBA%\ПBA-\ПBA0ђ"еffBAffBA%ffBA-ffBA0и"л\ПBA\ПBA%\ПBA-\ПBA0d"ф\ПBAffBA%\ПBA-ffBA0бC"хffBAffBA%ffBA-ffBA0І"щ\ПBA\ПBA%\ПBA-\ПBA0Ў"…	бzBAffBA%\ПBA-ffBA0™K"ў	\ПBA7ЙBA%\ПBA-7ЙBA0Ў"а	¶ЫBA¶ЫBA%¶ЫBA-¶ЫBA0ф"к	„£BA„£BA%„£BA-„£BA0Ф"л	\ПBARЄBA%RЄBA-\ПBA0»"Ц
-\ПBA\ПBA%\ПBA-\ПBA0а

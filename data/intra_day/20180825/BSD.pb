@@ -1,2 +1,0 @@
-
-BSDычо	"Ж╝GIA╝GIA%╝GIA-╝GIA0Ж"ыq=JAq=JA%q=JA-q=JA0d"Е╦IA╦IA%╦IA-╦IA0О"╦{JA{JA%{JA-{JA0d"╨{JA{JA%{JA-{JA0d"п┘КIA┘КIA%┘КIA-┘КIA0d"Ё┘КIA┘КIA%┘КIA-┘КIA0▄"╢·ОIA┘КIA%·ОIA-┘КIA0О"©┘КIA┘КIA%┘КIA-┘КIA0m"щ┘КIA┘КIA%┘КIA-┘КIA0Ь"А`vIA`vIA%`vIA-`vIA0ц"НqIAqIA%qIA-qIA0Т"ОЗ~IAЗ~IA%З~IA-З~IA0Ф"Х	▐бIA▐бIA%▐бIA-▐бIA0r

@@ -1,2 +1,0 @@
-
-NTX«ﬁœ	"Î®5MA®5MA%®5MA-®5MA0Ë"‹ÆGMAÆGMA%ÆGMA-ÆGMA0»"Ò33MA33MA%33MA-33MA0Ã"Ùú3MAú3MA%ú3MA-ú3MA0ê"Ñ	âAMAâAMA%âAMA-âAMA0»"∞	ÆGMAÆGMA%ÆGMA-ÆGMA0d"Í	∆mMA∆mMA%∆mMA-∆mMA0d

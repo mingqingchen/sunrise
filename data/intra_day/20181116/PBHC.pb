@@ -1,2 +1,0 @@
-
-PBHCЭЮо	"МмлpAмлpA%млpA-млpA0h"ЯмлpAмлpA%млpA-млpA0У"ЁмлpAмлpA%млpA-млpA0д"ммлpAмлpA%млpA-млpA0d"вмлpAмлpA%млpA-млpA0t"Л╝GqA╝GqA%╝GqA-╝GqA0d"ЭмлpAмлpA%млpA-млpA0┴"ЩмлpA╦qA%╦qA-млpA0═"╟	╝GqA╦qA%╓pqA-╦qA0у

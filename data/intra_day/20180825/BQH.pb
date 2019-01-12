@@ -1,2 +1,0 @@
-
-BQHычо	"Ж╝GQA╝GQA%╝GQA-╝GQA0╫"▌ЛQPAЛQPA%ЛQPA-ЛQPA0d"фАzPAАzPA%АzPA-АzPA0d"вАzPAАzPA%АzPA-АzPA0╛"ьАzPAАzPA%АzPA-АzPA0d"ЛмлPAмлPA%млPA-млPA0╛"╙млPAмлPA%млPA-млPA0d"дмлPAмлPA%млPA-млPA0d"┴млPAмлPA%млPA-млPA0d"╙млPAмлPA%млPA-млPA0d"╨╦QA╦QA%╦QA-╦QA0d" ╦QA╦QA%╦QA-╦QA0С"Н╦QA╦QA%╓pQA-╦QA0м"САzPAАzPA%АzPA-АzPA0х"┐	ЛQPAЛQPA%ЛQPA-ЛQPA0d"х	ЛQPAЛQPA%ЛQPA-ЛQPA0d"Х	ЛQPAЛQPA%ЛQPA-ЛQPA0d"К	ЛQPAЛQPA%ЛQPA-ЛQPA0d

@@ -1,2 +1,0 @@
-
-FTRI÷ÝÏ	"÷3ÄJA3ÄJA%3ÄJA-3ÄJA0ª"ëøSKAøSKA%øSKA-øSKA0È

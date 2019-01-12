@@ -1,2 +1,0 @@
-
-VMM┘що	"ЖмлHAмлHA%млHA-млHA0░"ж-HAЖ(HA%-HA-Ж(HA0Т"╖ЛQHAЛQHA%ЛQHA-ЛQHA0d"╫	вёHAвёHA%вёHA-вёHA0х"э	АzHAвёHA%вёHA-АzHA0ю"ъ	цdHAцdHA%цdHA-цdHA0э"К	АzHAАzHA%АzHA-АzHA0d

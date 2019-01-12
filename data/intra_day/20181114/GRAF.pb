@@ -1,2 +1,0 @@
-
-GRAFúàÏ	"ß	ázAázA%ázA-ázA0è"ã	ázAázA%ázA-ázA0d"ä	ázAázA%ázA-ázA0d"å	ázAázA%ázA-ázA0d"æ	ázAázA%ázA-ázA0d"è	ázAázA%ázA-ázA0d"ê	ázAázA%ázA-ázA0d

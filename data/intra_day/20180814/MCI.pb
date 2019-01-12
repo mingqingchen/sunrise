@@ -1,2 +1,0 @@
-
-MCIнчо	"ВffvAмлtA%ffvA-млtA0│"дмлtAмлtA%млtA-млtA0З"ф1≥uA1≥uA%1≥uA-1≥uA0d"╥1≥uA ≥uA% ≥uA-1≥uA0п"∙млtAмлtA%млtA-млtA0d"⌡\▐tA╝GuA%╝GuA-\▐tA0ь"╛З~uAЗ~uA%З~uA-З~uA0√"АъOtAъOtA%ъOtA-ъOtA0▄

@@ -1,2 +1,0 @@
-
-NBW░Юо	"Ж┘КEA┘КEA%┘КEA-┘КEA0ш"э┘КEA┘КEA%┘КEA-┘КEA0х"и{FA{FA%{FA-{FA0d"м╦EA╦EA%╦EA-╦EA0З"┬╦EA╦EA%╦EA-╦EA0d"Й╦EAмлDA%╦EA-млDA0╛"°млDAмлDA%млDA-млDA0d"Э╦EA╦EA%╦EA-╦EA0d"┤	▐бEA▐бEA%▐бEA-▐бEA0d"Й	╦EA╦EA%╦EA-╦EA0■

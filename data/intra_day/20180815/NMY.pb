@@ -1,2 +1,0 @@
-
-NMYочо	"┐{BA{BA%{BA-{BA0░"┘{BA{BA%{BA-{BA0ы"├ffBAffBA%ffBA-ffBA0■	"╪\▐BA\▐BA%R╦BA-\▐BA0√"вq=BAq=BA%q=BA-q=BA0ь"Ф\▐BA)\CA%)\CA-\▐BA0К"И╘CA_CA%╘CA-_CA0═"К╘CA╘CA%╘CA-╘CA0п"Л╘CA╘CA%╘CA-╘CA0п"М)\CA╠АBA%)\CA-╠АBA0Э"ПхCAхCA%хCA-хCA0п"ЯхCAхCA%хCA-хCA0п"РHАBAсчBA%	CA-R╦BA0х$"╠вёBAвёBA%вёBA-вёBA0═"Ьq=BA{BA%q=BA-╝GAA0╒*"Э{BA{BA%{BA-{BA0╓"┬X9BAX9BA%X9BA-X9BA0╥"▀X9BAX9BA%X9BA-X9BA0ь"█=BA=BA%q=BA-=BA0Х"Й	┘КAA┘КAA%┘КAA-┘КAA0d

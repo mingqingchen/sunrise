@@ -1,3 +1,0 @@
-
-GLIBPхчо	"ЖffбAHАбA%HАбA-ffбA0Х"ЗffцAffцA%ffцA-ffцA0d"Ш)\цA)\цA%)\цA-)\цA0d"Э)\цA)\цA%)\цA-)\цA0к"ЧffбAffбA%ffбA-ffбA0d"┴ffбAffбA%ffбA-ffбA0d"▐ffбAffбA%ffбA-ffбA0d"╫ffбAffбA%ffбA-ffбA0d"Ф5^бA5^бA%5^бA-5^бA0Щ"ВЛQбAЛQбA%ЛQбA-ЛQбA0d"═ffбAffбA%ffбA-ffбA0d"шR╦бAR╦бA%R╦бA-R╦бA0d"┘ffдAffдA%ffдA-ffдA0═"·)\цA)\цA%)\цA-)\цA0х"╪	│╕цA│╕цA%│╕цA-│╕цA0░"Б	yьеAyьеA%yьеA-yьеA0х"Ц	R╦дAЛQдA%R╦дA-ЛQдA0╛"Ф	ЛQдAЛQдA%ЛQдA-ЛQдA0╛"Г	ЛQдAЛQдA%ЛQдA-ЛQдA0░"К	
-вцAЛQдA%ЛQдA-▐бцA0т

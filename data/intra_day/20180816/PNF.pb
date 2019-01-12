@@ -1,2 +1,0 @@
-
-PNF╨▐╧	"ЎП┬EAП┬EA%П┬EA-П┬EA0Г"╥ЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"оЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"╔П┬EAП┬EA%П┬EA-П┬EA0d"╠╔хEA╔хEA%╔хEA-П┬EA0╠"╒ЪЩEAЪЩEA%ЪЩEA-ЪЩEA0а"ЧЪЩEAЪЩEA%ЪЩEA-ЪЩEA0╚"йЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"мЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"пЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"▒ЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"╜▒┐EA▒┐EA%▒┐EA-▒┐EA0"╛П┬EAП┬EA%П┬EA-П┬EA0п"ь'┬EA'┬EA%'┬EA-'┬EA0м"ДцоEAцоEA%цоEA-цоEA0╣

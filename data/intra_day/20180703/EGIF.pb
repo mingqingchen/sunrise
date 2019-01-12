@@ -1,2 +1,0 @@
-
-EGIFßİÏ	"÷ÍÌtAÍÌtA%ÍÌtA-ÍÌtA0Ø"î®GuAEGuA%®GuA-EGuA0ö"ô¸uA¸uA%¸uA-¸uA0d"¢¸uA¸uA%¸uA-¸uA0Ä"ƒ¤puA¤puA%¤puA-¤puA0È"â¤puA¤puA%¤puA-¤puA0ç"°	®GuA®GuA%®GuA-®GuA0È"Ò	š™uAš™uA%š™uA-¤puA0ô"è	1™uA1™uA%1™uA-1™uA0ı

@@ -1,7 +1,0 @@
-
-GSAHžàÏ	"ç	ìQAìQA%ìQA-ìQA0¬"ê	ìQAìQA%ìQA-ìQA0ô"ë	
-×A
-×A%
-×A-
-×A0d"–
-¸A¸A%¸A-¸A0¯

@@ -1,3 +1,0 @@
-
-GENYüàÏ	"ßìQBìQB%ìQB-ìQB0d"…ëB…ëB%…ëB-…ëB0È"ffBffB%ffB-ffB0˜"‡®B®B%®B-®B0d"”
-®B®B%®B-®B0d

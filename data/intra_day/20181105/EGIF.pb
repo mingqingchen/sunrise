@@ -1,3 +1,0 @@
-
-EGIFסאֿ	"צ™iA™iA%™iA-™iA0d"ױ®GiA₪piA%₪piA-®GiA0ֲ"±ּֽhA®GiA%®GiA-ּֽhA0״"ִֳץhAֳץhA%ֳץhA-ֳץhA0‎"¨¸iA¸iA%¸iA-¸iA0״"©¸iA¸iA%¸iA-¸iA0¬"¯¸iAffhA%¸iA-ffhA0¼"ֿלQhAלQhA%לQhA-לQhA0d"ÙלQhAלQhA%לQhA-לQhA0פ"חּֽhA׳£hA%ּֽhA-ffhA0ה"םּֽhAּֽhA%ּֽhA-׳£hA0פ"ױ	ffhAffhA%ffhA-ffhA0ּ"ז	ּֽhAּֽhA%ּֽhA-׳£hA0ֻ"כ	₪piA®GiA%₪piA-®GiA0ָ"–
-₪piA₪piA%₪piA-₪piA0d

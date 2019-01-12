@@ -1,2 +1,0 @@
-
-EGFСЮо	"▄вёLAвёLA%вёLA-вёLA0Л▀"цАzLAАzLA%АzLA-АzLA0х"╒Ж(LAЖ(LA%Ж(LA-Ж(LA0e"ёЖ(LAh▒LA%вёLA-Ж(LA0■%"увёLA╣LA%╣LA-вёLA0Ч"┘вёLAвёLA%вёLA-вёLA0d"░вёLAвёLA%вёLA-вёLA0х"▌ffLAffLA%ffLA-ffLA0х"СвёLAвёLA%вёLA-вёLA0х"ЫвёLA@╓LA%@╓LA-вёLA0ю"└	╢хLAмлLA%млLA-╢хLA0Т"ч	rЫLArЫLA%rЫLA-rЫLA0в"И	млLAмлLA%млLA-млLA0╛"К	млLAвёLA%млLA-вёLA0╟

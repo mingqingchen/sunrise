@@ -1,3 +1,0 @@
-
-NNCччо	"ЖмлDAмлDA%млDA-млDA0╙"фЛQDA
-вCA%ЛQDA-▐бCA0б5"тЖ(DAЖ(DA%Ж(DA-Ж(DA0d"уАzDAАzDA%АzDA-АzDA0░"╘Ц6DAАzDA%АzDA-Ц6DA0╫"╡#шCA#шCA%#шCA-#шCA0р"╪╝ьCA╝ьCA%╝ьCA-╝ьCA0╫"©АzDAАzDA%АzDA-Ж(DA0≤"увёDAвёDA%вёDA-вёDA0╢"≥"▌DA"▌DA%"▌DA-"▌DA0ч"├ЛQDAЛQDA%ЛQDA-ЛQDA0я"┬ЛQDA≤nDA%≤nDA-ЛQDA0л"о▀lDA▀lDA%▀lDA-▀lDA0е"┌	ffDAАzDA%nёDA-ffDA0┬'"╥	4─DA4─DA%4─DA-4─DA0Ъ"Б	З~DAАzDA%╞■DA-АzDA0о4"Ф	ЛQDAЛQDA%ЛQDA-ЛQDA0ы"К	вёDAвёDA%вёDA-вёDA0╔

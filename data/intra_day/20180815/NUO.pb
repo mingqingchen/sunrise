@@ -1,4 +1,0 @@
-
-NUOочо	"Жвё\Aвё\A%вё\A-вё\A0т"┴ЛQ\AЛQ\A%ЛQ\A-ЛQ\A0Т"циv\Aиv\A%иv\A-иv\A0х"иsh\Ash\A%sh\A-sh\A0d"лЛQ\AЛQ\A%ЛQ\A-ЛQ\A0d"тff\AЛQ\A%ff\A-Ж(\A0▓"уЛQ\AyX\A%yX\A-q=\A0з"щиv\Aиv\A%Аz\A-иv\A0┤"чАz\AАz\A%Аz\A-Аz\A0d"БАz\AАz\A%Аz\A-Аz\A0d"Ецd\Aцd\A%цd\A-цd\A0Ш	"кАz\A\▐\A%\▐\A-Аz\A0П"мАz\AАz\A%Аz\A-Аz\A0d"у"▌\A"▌\A%"▌\A-"▌\A0ч"ыАz\AАz\A%вё\A-Аz\A0э"шTR\ATR\A%TR\A-TR\A0Х"≈ЛQ\ATR\A%TR\A-ЛQ\A0═"≥║g\A║g\A%║g\A-║g\A0┴" ff\Aff\A%ff\A-ff\A0d"╒Аz\AЛQ\A%Аz\A-ЛQ\A0╪"ёЛQ\AЛQ\A%ЛQ\A-ЛQ\A0d"╓ЛQ\AЛQ\A%ЛQ\A-ЛQ\A0d"оV\AV\A%V\A-V\A0≥"ЮNb\Aff\A%ff\A-Nb\A0т
-"Ф╗W\A╗W\A%╗W\A-╗W\A0п"ШЛQ\AАz\A%Аz\A-ЛQ\A0Т1"ЭЛQ\AАz\A%Аz\A-ЛQ\A0Л'"у	иv\Aиv\A%иv\A-иv\A0╧"√
-Аz\AАz\A%Аz\A-Аz\A0е

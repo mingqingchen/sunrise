@@ -1,2 +1,0 @@
-
-FDIV÷ﬁœ	"©®ÜGB{ÉGB%®ÜGB-{ÉGB0ñ"≤q=GBÏQGB%ÏQGB-q=GB0»"æ‹WGB‹WGB%‹WGB-‹WGB0¨"õFTGBFTGB%FTGB-FTGB0˙"¶AqGBAqGB%AqGB-AqGB0ë"ª	`eGB`eGB%`eGB-`eGB0è"Ÿ	4GB4GB%4GB-4GB0»"›	èBGBèBGB%èBGB-èBGB0ë

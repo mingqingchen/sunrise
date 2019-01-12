@@ -1,2 +1,0 @@
-
-NBWнчо	"ЖмлHAмлHA%млHA-млHA0╝"МцУHAцУHA%цУHA-цУHA0Я"уa2IAa2IA%a2IA-a2IA0░"чHАHAHАHA%HАHA-HАHA0х"БцУHAцУHA%цУHA-цУHA0d"Е╙ЯHAZУHA%ZУHA-млHA0╛"ФvЮHAvЮHA%vЮHA-vЮHA0х"Х╙ЯHAмлHA%цУHA-млHA0ь"КцУHAцУHA%цУHA-цУHA0d"ШцУHA·ОHA%цУHA-·ОHA0═"│	цУHAмлHA%цУHA-млHA0╘"ь	млHAмлHA%ZУHA-млHA0╛"К	млHAмлHA%млHA-млHA0d

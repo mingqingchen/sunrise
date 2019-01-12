@@ -1,2 +1,0 @@
-
-LKORüÜÏ	"öÃõHBÃõHB%ÃõHB-ÃõHB0e"±RçHBRçHB%RçHB-RçHB0h

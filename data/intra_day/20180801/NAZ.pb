@@ -1,3 +1,0 @@
-
-NAZачо	"Ж╝GIA╝GIA%╝GIA-╝GIA0d"л{JA{JA%{JA-{JA0°"░GrIAGrIA%GrIA-GrIA0 "©цУHAцУHA%цУHA-цУHA0Ю"ЙмлHAмлHA%млHA-млHA0d"НмлHAмлHA%млHA-млHA0d"РмлHA6мHA%6мHA-млHA0п"ЖмлHAмлHA%млHA-млHA0d"ЬБHAБHA%БHA-БHA0Т"ЗмлHAмлHA%млHA-млHA0d"ЭцУHAцУHA%цУHA-HАHA0░"ЩHАHAмлHA%цУHA-млHA0Ь
-"ЧмлHAмлHA%млHA-млHA0d"┌млHAмлHA%млHA-млHA0d"└HАHAmГHA%цУHA-HАHA0п"▀цУHAцУHA%цУHA-цУHA0╠"█цУHAцУHA%цУHA-цУHA0d"лSIASIA%SIA-SIA0▄"ь╦IA╦IA%╦IA-╦IA0ь"Б	╦IA╦IA%╦IA-╦IA0d"К	╦IA╦IA%╦IA-АzHA0°
