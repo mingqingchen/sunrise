@@ -2,9 +2,10 @@
 """
 Retrieve stock data from TD Ameritrade.
 For 10 day minute-level query, run
-  crawler.py --data_folder=data/daily_data --period=10 --period_type=daily --frequency_type=minute
+  python crawler.py --data_folder=data/daily_data --period=10 --period_type=daily --frequency_type=minute
 For 1 year daily-level query, run
-  crawler.py --data_folder=data/daily_data --period=1 --period_type=year --frequency_type=daily
+  python crawler.py --data_folder=data/daily_data --period=1 --period_type=year --frequency_type=daily
+  python crawler.py --data_folder=data/daily_data_temp --period=1 --period_type=year --frequency_type=daily --use_yahoo_source=True
 """
 
 import csv
@@ -17,6 +18,7 @@ import pandas as pd
 import requests
 import tensorflow as tf
 import time
+import json
 
 import os, sys
 import util.stock_pb2 as stock_pb2
@@ -32,8 +34,19 @@ class IntraDayCrawler:
     self.index_list_url_template = 'https://www.nasdaq.com/screening/companies-by-name.aspx?letter=0&exchange={0}&render=download'
     self.min_num_time_slot_threshold_ = 1
     
-    
-  def crawl_one_symbol(self, ticker, period=1, num_days=1):
+  def _check_one_time_slot_json_valid(self, one_time_slot_data_json):
+    required_fields = ['open', 'close', 'high', 'low', 'volume']
+    exclude_type_sets = {'dividend', 'split'}
+    for field in required_fields:
+      if field not in one_time_slot_data_json:
+        return False
+      if one_time_slot_data_json[field] is None:
+        return False
+    if 'type' in one_time_slot_data_json and one_time_slot_data_json['type'].lower() in exclude_type_sets:
+      return False
+    return True
+
+  def crawl_one_symbol(self, symbol, period=1, period_type='day', frequency_type='minute'):
     """Retrieve intraday stock data from TD ameritrade API.
     Args:
       ticker : Company symbol string.
@@ -42,51 +55,59 @@ class IntraDayCrawler:
     Returns
       dict : a dict maps from date integer to OneIntraDayData
     """
-    uri = 'http://www.google.com/finance/getprices' \
-          '?i={period}&p={days}d&f=d,o,h,l,c,v&df=cpct&q={ticker}'.format(ticker=ticker,
-                                                                          period=period,
-                                                                          days=days)
-    page = requests.get(uri)
-    reader = csv.reader(page.content.splitlines())
-    rows = []
-    times = []
-
+    start_time = 1515744000  # Jan 12, 2018
+    end_time = 1547280000  # Jan 12, 2019
     result = {}
 
-    for row in reader:
-      if len(row)>0:
-        if re.match('^[a\d]', row[0]):
-            if row[0].startswith('a'):
-                start = datetime.datetime.fromtimestamp(int(row[0][1:]))
-                cur_time = start
-            else:
-                cur_time = start+datetime.timedelta(seconds=period*int(row[0]))
-            
-            times.append(cur_time)
-            rows.append(map(float, row[1:]))
-            date_val = cur_time.year * 10000 + cur_time.month * 100 + cur_time.day
+    uri = 'https://finance.yahoo.com/quote/{symbol}/history?period1={start_time}' \
+      '&period2={end_time}&interval=1d&filter=history&frequency=1d'.format(symbol=symbol,
+                                                                           start_time=start_time,
+                                                                           end_time=end_time)
+    page = requests.get(uri)
+    split_content = page.content.split('"HistoricalPriceStore":')
+    if(not len(split_content) == 2):
+      return False, result
 
-            if date_val not in result:
-              one_day_data = stock_pb2.OneIntraDayData()
-              one_day_data.symbol = ticker
-              one_day_data.date = date_val
-              one_day_data.resolution = period
-              result[date_val] = one_day_data
-            one_time_slot_data = result[date_val].data.add()
+    price_content = split_content[1].split("}],")[0] + "}]}"
+    try:
+      price_json = json.loads(price_content)
+    except _:
+      return False, result
 
-            one_time_slot_data.time_val = cur_time.hour * 100 + cur_time.minute
-            one_time_slot_data.close = float(row[1])
-            one_time_slot_data.high = float(row[2])
-            one_time_slot_data.low = float(row[3])
-            one_time_slot_data.open = float(row[4])
-            one_time_slot_data.volume = int(row[5])
+    for one_time_slot_data_json in price_json['prices']:
+      if not self._check_one_time_slot_json_valid(one_time_slot_data_json):
+        print one_time_slot_data_json
+        continue
 
-    return result
+      cur_time = datetime.datetime.fromtimestamp(one_time_slot_data_json['date'])
+      date_val = cur_time.year
+
+      if date_val not in result:
+        one_day_data = stock_pb2.OneIntraDayData()
+        one_day_data.symbol = symbol
+        one_day_data.date = date_val
+        one_day_data.resolution = period
+        result[date_val] = one_day_data
+      one_time_slot_data = result[date_val].data.add()
+
+      one_time_slot_data.time_val = cur_time.year * 10000 + cur_time.month * 100 + cur_time.day
+      one_time_slot_data.close = one_time_slot_data_json['close']
+      one_time_slot_data.high = one_time_slot_data_json['high']
+      one_time_slot_data.low = one_time_slot_data_json['low']
+      one_time_slot_data.open = one_time_slot_data_json['open']
+      one_time_slot_data.volume = one_time_slot_data_json['volume']
+
+    return True, result
 
   def crawl_and_export_one_symbol(self, symbol):
+    ### temp:
+    symbol_file = os.path.join(FLAGS.data_folder, '2018/', symbol + '.pb')
+    if os.path.isfile(symbol_file):
+      return False
+
     crawl_result, result = self.crawl_one_symbol(symbol, FLAGS.period, FLAGS.period_type, FLAGS.frequency_type)
     if not crawl_result:
-      return Fals
+      return False
 
     for day in result:
       day_folder = os.path.join(FLAGS.data_folder, str(day))
@@ -164,8 +185,8 @@ class IntraDayCrawlerTD(IntraDayCrawler):
       result = {}
       for one_time_data_js in response['candles']:
         cl_time = pd.to_datetime(int(one_time_data_js['datetime']), unit='ms')
-        cl_time = cl_time.tz_localize('UTC').tz_convert('America/Los_Angeles')
         if frequency_type == 'minute':
+          cl_time = cl_time.tz_localize('UTC').tz_convert('America/Los_Angeles')
           date_val = cl_time.year * 10000 + cl_time.month * 100 +cl_time.day
         else:
           date_val = cl_time.year
@@ -204,8 +225,10 @@ class IntraDayCrawlerTD(IntraDayCrawler):
       return True, result
 
 def main(_):
-  crawler = IntraDayCrawlerTD(FLAGS.data_folder)
-  # crawler = IntraDayCrawler(FLAGS.data_folder)
+  if FLAGS.use_yahoo_source:
+    crawler = IntraDayCrawler(FLAGS.data_folder)
+  else:
+    crawler = IntraDayCrawlerTD(FLAGS.data_folder)
 
   # set crawl_symbol_list to false to speed up the process, without downloading the symbol list
   crawler.daily_crawl(crawl_symbol_list=True)
@@ -217,6 +240,12 @@ if __name__=='__main__':
     type=str,
     default=k_data_folder,
     help='Root folder for data'
+  )
+  parser.add_argument(
+    '--use_yahoo_source',
+    type=bool,
+    default=False,
+    help='Whether using Yahoo finance or TD ameritrade source for crawl.'
   )
   parser.add_argument(
     '--period',

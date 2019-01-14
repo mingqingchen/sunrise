@@ -10,7 +10,7 @@ k_eligible_file_name = 'eligible_list.txt'
 def if_two_float_close(a, b):
   if (a == 0.) and (b == 0.):
     return True
-  if abs(a - b) < 0.02:
+  if abs(a - b) < 0.03:
     return True
   return abs(a - b) / (abs(a) + abs(b)) < 0.01
 

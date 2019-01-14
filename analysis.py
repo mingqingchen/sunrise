@@ -11,7 +11,7 @@ import proto.nn_train_param_pb2 as nn_train_param_pb2
 
 import train.model_manager as model_manager
 
-k_data_folder = './data/minute_data/'
+k_data_folder = './data/intra_day/'
 k_distribution_bin_size = 0.001
 k_price_drop_watch_time = 30
 k_drop_threshold = -0.02
