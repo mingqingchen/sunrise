@@ -1,0 +1,2 @@
+
+DRIVччо	"ЖмлpAмлpA%млpA-млpA0Е"ВЛQpAЛQpA%ЛQpA-ЛQpA0х"диvpAиvpA%иvpA-иvpA0d"лЛQpA┘oA%вёpA-┘oA0╨"я┘oA▐бoA%▐бoA-┘oA0╛"шэFpAtFpA%эFpA-tFpA0ю"═tFpAtFpA%tFpA-tFpA0d"·млpA╣╕pA%млpA-╣╕pA0Н"ВмлpA°дpA%╝GqA-°дpA0╪"К	вёpAвёpA%вёpA-вёpA0d

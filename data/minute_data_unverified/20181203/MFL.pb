@@ -1,0 +1,33 @@
+
+MFLсАо	"ЖHАBAHАBA%HАBA-HАBA0Ы,"ВR╦BAR╦BA%R╦BA-R╦BA0d"ЬR╦BAR╦BA%R╦BA-R╦BA0d"ЫHАBAHАBA%HАBA-HАBA0d"ЗHАBAHАBA%HАBA-HАBA0d"ШHАBAHАBA%HАBA-HАBA0d"ЭHАBAHАBA%HАBA-HАBA0d"ЩHАBAHАBA%HАBA-HАBA0d"ЧCA\▐BA%CA-\▐BA0Л9"Ъ\▐BA\▐BA%\▐BA-\▐BA0d"─ffBAffBA%ffBA-ffBA0d"│ffBAR╦BA%R╦BA-ffBA0л"┌{BA{BA%{BA-{BA0d"┐{BAffBA%ffBA-{BA0ф"└┘КAA┘КAA%┘КAA-┘КAA0d"┘ffBAffBA%ffBA-ffBA0х"├┘BA\▐BA%\▐BA-┘BA0╤"┴
+вBAHАBA%HАBA-\▐BA0─2"▀\▐BA\▐BA%\▐BA-\▐BA0х"▄\▐BA\▐BA%\▐BA-\▐BA0d"█u⌠BA\▐BA%u⌠BA-\▐BA0Ь
+"▌\▐BA\▐BA%\▐BA-\▐BA0d"▐\▐BA\▐BA%\▐BA-\▐BA0d"▒\▐BA\▐BA%\▐BA-\▐BA0d"▓\▐BA\▐BA%\▐BA-\▐BA0ь"╪\▐BA\▐BA%\▐BA-\▐BA0d"╬\▐BAвёBA%вёBA-\▐BA0╪"©е▐BAвёBA%вёBA-е▐BA0ь"ювёBAвёBA%вёBA-вёBA0d"цвёBAвёBA%вёBA-вёBA0d"двёBAвёBA%вёBA-вёBA0d"еR╦BAмлBA%млBA-R╦BA0Х"ф рBA3дBA% рBA-3дBA0▓"гмлBAHАBA%HАBA-млBA0ю"хмлBAмлBA%млBA-млBA0d"йHАBAHАBA%HАBA-HАBA0d"кмлBAмлBA%млBA-млBA0х"лмлBAмлBA%млBA-млBA0d"ммлBAмлBA%млBA-млBA0d"н∙тBAHАBA%HАBA-∙тBA0э$"омлBAHАBA%HАBA-млBA0х"пмлBAмлBA%млBA-млBA0d"ямлBAмлBA%млBA-млBA0d"умлBAмлBA%млBA-млBA0х"ж
+вBA
+вBA%
+вBA-
+вBA0d"ы3дBA3дBA%3дBA-3дBA0Х"з
+вBA
+вBA%
+вBA-
+вBA0d"шHАBAHАBA%HАBA-HАBA0d"ъмлBAмлBA%млBA-млBA0d"ЮмлBAмлBA%млBA-млBA0d"ЦмлBAмлBA%млBA-млBA0░"ФмлBAмлBA%млBA-млBA0d"ГЧтBAЧтBA%ЧтBA-ЧтBA0┌"МR╦BAR╦BA%R╦BA-R╦BA0d"НR╦BA?фBA%?фBA-R╦BA0║"ОR╦BAR╦BA%R╦BA-R╦BA0Х"ПR╦BAR╦BA%R╦BA-R╦BA0d"ЯR╦BAR╦BA%R╦BA-R╦BA0d"РR╦BAR╦BA%R╦BA-R╦BA0d"ТR╦BAR╦BA%R╦BA-R╦BA0d"УR╦BAR╦BA%R╦BA-R╦BA0d"ВR╦BAR╦BA%R╦BA-R╦BA0d"═R╦BAR╦BA%R╦BA-R╦BA0d"║R╦BAR╦BA%R╦BA-R╦BA0d"ёR╦BAR╦BA%R╦BA-R╦BA0d"╓R╦BAмлBA%млBA-R╦BA0х"╖R╦BAR╦BA%R╦BA-R╦BA0d"╘R╦BAмлBA%млBA-R╦BA0х"╛R╦BABоBA%BоBA-R╦BA0Т"╜R╦BAR╦BA%R╦BA-R╦BA0d"╞R╦BAR╦BA%R╦BA-R╦BA0d"╟R╦BAR╦BA%млBA-\▐BA0╢"╡R╦BA╩╦BA%╩╦BA-R╦BA0с"ЁR╦BAR╦BA%R╦BA-R╦BA0ь"╢R╦BAмлBA%млBA-R╦BA0х"╤R╦BAR╦BA%R╦BA-R╦BA0d"╥R╦BAR╦BA%R╦BA-R╦BA0d"╦R╦BA[сBA%[сBA-R╦BA0э"╧R╦BAмлBA%млBA-R╦BA0х"╩R╦BAR╦BA%R╦BA-R╦BA0d"╪R╦BAR╦BA%R╦BA-R╦BA0ь"╫°дBAHАBA%HАBA-R╦BA0ю%"╬
+вBAу	CA%у	CA-┴рBA0н"©HАBAHАBA%HАBA-HАBA0└"бHАBAHАBA%HАBA-HАBA0d"цчBAчBA%чBA-чBA0╕"гмлBAмлBA%млBA-млBA0d"ймлBA]эBA%]эBA-млBA0ё"нмлBAмлBA%млBA-млBA0х"п╩╦BA╩╦BA%╩╦BA-╩╦BA0з"ямлBAмлBA%млBA-млBA0d"рHАBAHАBA%HАBA-HАBA0d"сфэBA╥яBA%ъЮBA-R╦BA0╢"т┴рBAR╦BA%ъЮBA-R╦BA0т"у╨зBAЕпBA%фэBA-R╦BA0Э"ж┴рBA°дBA%HАBA-R╦BA0Г"вЕпBAHАBA%HАBA-R╦BA0т"ьу	CAу	CA%у	CA-у	CA0▄"зцУBAцУBA%цУBA-цУBA0d"┘HАBAHАBA%HАBA-HАBA0═"▌AЯBAAЯBA%AЯBA-AЯBA0²"■=
+CA=
+CA%=
+CA-=
+CA0d"√HАBAHАBA%HАBA-HАBA0d"≈HАBAHАBA%HАBA-HАBA0х"≤ЗМBAЗМBA%ЗМBA-ЗМBA0╛"≥HАBAHАBA%HАBA-HАBA0░"²HАBAHАBA%HАBA-HАBA0х"║R╦BAR╦BA%R╦BA-R╦BA0d"ёR╦BAR╦BA%R╦BA-R╦BA0d"╔R╦BAR╦BA%R╦BA-R╦BA0еF"╖R╦BAHАBA%HАBA-R╦BA0х"╘пуBA╨зBA%╨зBA-пуBA0Ь
+"╙пBAмлBA%ъЮBA-R╦BA0Х "╚млBAмлBA%млBA-млBA0d"╛млBAмлBA%млBA-млBA0d"╞┐юBA┐юBA%┐юBA-┐юBA0d"╟HАBAHАBA%HАBA-HАBA0d"╢млBAъЮBA%ъЮBA-млBA0Е"╣R╦BAR╦BA%R╦BA-R╦BA0╦"╪млBAмлBA%млBA-млBA0Т"╬млBAмлBA%млBA-млBA0d"ХHАBAHАBA%HАBA-HАBA0d"ИмлBAмлBA%млBA-млBA0d"КNяBANяBA%NяBA-NяBA0е"ЛмлBAмлBA%млBA-млBA0d"Н[сBAмлBA%[сBA-млBA0╖"РмлBAмлBA%млBA-млBA0d"ТыBA
+вBA%ыBA-
+вBA0л"УмлBAмлBA%млBA-млBA0d"З╪BAHАBA%HАBA-╪BA0√"ЩR╦BAR╦BA%R╦BA-R╦BA0d"ЧR╦BAR╦BA%R╦BA-R╦BA0d"─HАBAR╦BA%HАBA-R╦BA0х"│млBAмлBA%млBA-млBA0d"└R╦BAмлBA%млBA-R╦BA0х"┤R╦BAмлBA%млBA-R╦BA0х"┴HАBAHАBA%HАBA-HАBA0d"▀R╦BAR╦BA%R╦BA-R╦BA0d"▄R╦BAR╦BA%R╦BA-R╦BA0d"▌R╦BAR╦BA%R╦BA-R╦BA0d"░R╦BAR╦BA%R╦BA-R╦BA0d"▒R╦BAR╦BA%R╦BA-R╦BA0d"⌠млBAмлBA%млBA-млBA0d"∙R╦BAR╦BA%R╦BA-R╦BA0d"≈R╦BAR╦BA%R╦BA-R╦BA0d"≥млBA33CA%33CA-млBA0└," 33CA)\CA%)\CA-=
+CA0С"·╦CA╦CA%╦CA-╦CA0d"╒XCA╦CA%XCA-HАBA0▌%"нXCA╦CA%ю[CA-╦CA0э"ж|РBA|РBA%|РBA-|РBA0Ь"ь)\CA)\CA%)\CA-)\CA0d"з╦CA╦CA%╦CA-╦CA0d"э╦CA╦CA%╦CA-╦CA0х"щ33CA33CA%33CA-33CA0d"ъ33CA╦CA%33CA-╦CA0╪"Б=
+CA=
+CA%=
+CA-=
+CA0d"ЦHАBA=
+CA%=
+CA-HАBA0╛"ФHАBAHАBA%HАBA-HАBA0ч"ГHАBAHАBA%HАBA-HАBA0d"ХHАBAHАBA%HАBA-HАBA0d"ЙHАBAHАBA%HАBA-HАBA0d"КHАBAHАBA%=
+CA-HАBA0Т"МоВBAоВBA%оВBA-оВBA0╢"НHАBAHАBA%HАBA-HАBA0d"ПR╦BAR╦BA%R╦BA-R╦BA0d"ЯR╦BAHАBA%HАBA-R╦BA0х"СR╦BAR╦BA%R╦BA-R╦BA0d"ТR╦BAR╦BA%R╦BA-R╦BA0d"УБBAR╦BA%БBA-R╦BA0╢"ЖR╦BAR╦BA%R╦BA-R╦BA0d"ЬR╦BAR╦BA%R╦BA-R╦BA0d"ЫR╦BAR╦BA%R╦BA-R╦BA0d"ЗHАBAHАBA%HАBA-HАBA0d"ШR╦BAR╦BA%R╦BA-R╦BA0d"ЩR╦BAHАBA%HАBA-R╦BA0х"ЧHАBAHАBA%HАBA-HАBA0d"ЪHАBA╬аBA%HАBA-R╦BA0╤7"│	├иBAШBA%ШBA-├иBA0╠"└	R╦BAR╦BA%R╦BA-R╦BA0d"┘	R╦BAR╦BA%R╦BA-R╦BA0d"┤	=
+CAR╦BA%=
+CA-R╦BA0х"╟	R╦BAR╦BA%R╦BA-R╦BA0d"╠	R╦BAR╦BA%R╦BA-R╦BA0с"╡	R╦BAR╦BA%R╦BA-R╦BA0d"Ё	R╦BAHАBA%HАBA-R╦BA0╛"╣	HАBAHАBA%HАBA-HАBA0d"╤	j╪BAмлBA%млBA-R╦BA0╟r"╥	R╦BAR╦BA%R╦BA-R╦BA0■
+"╦	R╦BAR╦BA%R╦BA-R╦BA0░"╧	\▐BA\▐BA%\▐BA-\▐BA0d"╨	R╦BAR╦BA%R╦BA-R╦BA0d"╩	\▐BA\▐BA%\▐BA-\▐BA0d"╪	\▐BA\▐BA%\▐BA-\▐BA0d"╫	\▐BA\▐BA%\▐BA-\▐BA0d"╬	\▐BA\▐BA%\▐BA-\▐BA0d"©	R╦BAR╦BA%R╦BA-R╦BA0х"а	R╦BAR╦BA%R╦BA-R╦BA0d"ц	\▐BA\▐BA%\▐BA-\▐BA0d"д	\▐BA\▐BA%\▐BA-\▐BA0d"ф	\▐BA\▐BA%\▐BA-\▐BA0d"г	\▐BA╓pBA%R╦BA-ffBA0╡N"х	ffBA\▐BA%\▐BA-ffBA0░"и	ffBAffBA%ffBA-ffBA0╛"к	ffBAАzBA%АzBA-ffBA0х"м	ffBAffBA%ffBA-ffBA0d"н	ffBAq=BA%GrBA-q=BA0Л""о	\▐BA\▐BA%\▐BA-\▐BA0Х"я	q=BAq=BA%q=BA-q=BA0d"р	ffBAЛQBA%ffBA-q=BA0╛"т	ЛQBA{BA%ЛQBA-{BA0х"у	\▐BA{BA%\▐BA-{BA0Ь
+"ж	{BA{BA%{BA-{BA0d"в	{BA{BA%{BA-{BA0d"ь	{BA{BA%{BA-{BA0d"ы	{BA{BA%q=BA-{BA0Л"ш	7BA7BA%7BA-7BA0h"э	┘КAA┘КAA%┘КAA-┘КAA0d"щ	┘КAAX9BA%X9BA-┘КAA0э"ч	{BA{BA%{BA-{BA0х"ъ	┘КAA┘КAA%┘КAA-┘КAA0d"Ю	{BA{BA%{BA-┘КAA0└"А	{BA┘КAA%{BA-┘КAA0х"Б	q=BA╬0BA%q=BA-{BA0Т"Ц	┘КAA┘КAA%┘КAA-┘КAA0d"Д	▐бAA▐бAA%▐бAA-▐бAA0d"Е	▐бAA┘КAA%q=BA-▐бAA0Ч"Ф	╬0BA≥*BA%q=BA-┘КAA0ь"Г	┘КAA╬0BA%╬0BA-┘КAA0╛"Х	┘КAA┘КAA%┘КAA-┘КAA0d"И	┘КAA{BA%q=BA-┘КAA0╛"Й	▐бAA▐бAA%▐бAA-▐бAA0d"К	▐бAAq=BA%q=BA-▐бAA0ТD"√
+{BA{BA%{BA-{BA0И

@@ -1,0 +1,2 @@
+
+AMOVЫЮо	"Ж▐б]A▐б]A%▐б]A-▐б]A0у"и╝WA)\WA%╝WA-)\WA0Т"змлTAмлTA%млTA-млTA0х"С)\WA)\WA%)\WA-)\WA0d"╔АzXAАzXA%АzXA-АzXA0▄"Н)\WA)\WA%)\WA-)\WA0d"У┘КUA┘КUA%┘КUA-┘КUA0d"Х	▐бUA▐бUA%▐бUA-▐бUA0d

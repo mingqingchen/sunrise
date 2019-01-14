@@ -1,0 +1,14 @@
+
+BHKьЬП	"цffNAffNA%ffNA-ffNA0о:"ыВNAВNA%ВNA-ВNA0Л"„{NAffNA%ffNA-{NA0щ"ЊеaNAеaNA%еaNA-еaNA0Ъ"‘Э$NAffNA%ffNA-Э$NA0ј"’дNAffNA%ffNA-дNA0¶"“{NA{NA%{NA-{NA0Л"јq=NA{NA%q=NA-{NA0щ%"ЅЯаMAЯаMA%лMA-ЯаMA0Ф"ѕЏВMA¤pMA%ЏВMA-¤pMA0¶ "ї®GMAtµMA%ЏВMA-®GMA0ЪF"Аљ™MAљ™MA%љ™MA-љ™MA0ш"ЩЏВMAЏВMA%ЏВMA-ЏВMA0d"ЪЏВMAЏВMA%ЏВMA-ЏВMA0И"бЏВMAЏВMA%ЏВMA-ЏВMA0џ"гЏВMAЏВMA%ЩMA-ЏВMA0њ"сОMAОMA%ОMA-ОMA0 "фЏВMAЏВMA%ЏВMA-ЏВMA0И"¦ЏВMAЏВMA%ЭMA-ЏВMA0ћ"Ё«ПMA«ПMA%«ПMA-«ПMA0њ
+"±ЏВMAЏВMA%ЏВMA-ЏВMA0ф"ІЏВMAЏВMA%ЏВMA-ЏВMA0И"µЏВMAЏВMA%ЏВMA-ЏВMA0И"¶
+ЧMA
+ЧMA%
+ЧMA-
+ЧMA0x"·ЏВMAЏВMA%ЏВMA-ЏВMA0И"єЏВMAЏВMA%ЏВMA-ЏВMA0¬"»ЏВMAЏВMA%ЏВMA-ЏВMA0И"јІќMAљ™MA%ІќMA-љ™MA0¤"БЏВMAЏВMA%ЏВMA-ЏВMA0Ь"ДЏВMAЏВMA%ЏВMA-ЏВMA0d"З‰ТMA‰ТMA%‰ТMA-‰ТMA0d"Н
+ЧMA
+ЧMA%
+ЧMA-
+ЧMA0x"О…лMA…лMA%…лMA-…лMA0ф"Р…лMA…лMA%…лMA-…лMA0ф"У…лMA…лMA%…лMA-…лMA0¬"Х…лMA…лMA%…лMA-…лMA0¬"Ч…лMA…лMA%…лMA-…лMA0”"Щ{NA{NA%{NA-{NA0x"Ъ{NA{NA%{NA-{NA0ш
+"…дNA{NA%дNA-{NA0о"‡{NA{NA%{NA-{NA0d"Љ{NA{NA%{NA-{NA0Ш"ђ{NA{NA%{NA-{NA0¬"”q=NAq=NA%q=NA-q=NA0x"•ц(NAц(NA%ц(NA-ц(NA0ф"–q=NAq=NA%q=NA-q=NA0„"™{NAq=NA%q=NA-{NA0„"›q=NAq=NA%q=NA-q=NA0 "ћq=NAq=NA%q=NA-q=NA0ћ"  NA NA% NA- NA0Ш"Ўq=NAq=NA%q=NA-q=NA0x"Јq=NAq=NA%q=NA-ц(NA0Ш"¤ЊJNAЊJNA%ЊJNA-ЊJNA0К"ЇffNAffNA%ffNA-ffNA0Р"ІffNAffNA%ffNA-q=NA0ђ"¶ffNAffNA%ffNA-ffNA0d"·ffNAffNA%ffNA-ffNA0d"єюeNAюeNA%юeNA-юeNA0d"ЅffNAffNA%ffNA-ffNA0x"їffNAffNA%ffNA-ffNA0d"кШЃNA\ЏNA%\ЏNA-бzNA0"т\ЏNA\ЏNA%\ЏNA-\ЏNA0x"Ѓ\ЏNA\ЏNA%\ЏNA-\ЏNA0x"‡\ЏNA\ЏNA%\ЏNA-\ЏNA0d"Ќ\ЏNAуЋNA%\ЏNA-уЋNA0њ"Џ\ЏNA\ЏNA%\ЏNA-\ЏNA0x"ђ\ЏNA\ЏNA%\ЏNA-\ЏNA0d"ќ\ЏNA\ЏNA%\ЏNA-\ЏNA0x"ЎјtNAјtNA%јtNA-јtNA0¬"М`vNAчuNA%`vNA-чuNA0…"Оq=NAq=NA%q=NA-q=NA0о"СffNAffNA%ffNA-ffNA0d"Тq=NAq=NA%q=NA-q=NA0О"Фq=NAq=NA%q=NA-q=NA0d"Щq=NAq=NA%ЙvNA-q=NA0х "вq=NAq=NA%q=NA-q=NA0d"ж^KNAq=NA%^KNA-q=NA0­
+"зq=NAq=NA%q=NA-q=NA0d"рq=NAffNA%ffNA-q=NA0ъ"сЩ=NAq=NA%ffNA-q=NA0Ђ"тЩ=NAЩ=NA%Щ=NA-Щ=NA0Я	"уq=NAq=NA%q=NA-q=NA0d"хq=NAq=NA%q=NA-q=NA0d"э›UNAq=NA%›UNA-q=NA0Щ"Ђ	q=NAq=NA%q=NA-q=NA0d"‚	q=NAq=NA%q=NA-q=NA0d"…	мQNAмQNA%мQNA-мQNA0d"°	ґYNAq=NA%ґYNA-q=NA0Ш"ґ	q=NAq=NA%q=NA-q=NA0ђ"Г	Щ=NAq=NA%}?NA-q=NA0И"И	мQNAq=NA%ffNA-q=NA0ј"Й	вXNAвXNA%вXNA-вXNA0у"М	MNAq=NA%MNA-q=NA0„"Н	Щ=NAq=NA%Щ=NA-q=NA0м"Х	q=NAq=NA%q=NA-q=NA0d"Ъ	?WNA?WNA%?WNA-?WNA0ф"Ь	мQNA%uNA%`vNA-q=NA0ЬU"е	ќЂNAќЂNA%ќЂNA-ќЂNA0и"з	ffNAЅRNA%ffNA-ЅRNA0в"л	q=NAq=NA%q=NA-q=NA0¬"–
+\ЏNA\ЏNA%\ЏNA-\ЏNA0Д

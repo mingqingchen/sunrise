@@ -1,0 +1,4 @@
+
+BFYפאֿ	"צּֽDAּֽDA%ּֽDA-ּֽDA0¹"‰¹üDA¹üDA%¹üDA-¹üDA0d"צ(DAצ(DA%צ(DA-צ(DA0d"¿לQDAלQDA%לQDA-לQDA0d"ֱּֽDAּֽDA%ּֽDA-ּֽDA0d"ֶּֽDAּֽDA%ּֽDA-ּֽDA0d"מצ(DAּֽDA%ּֽDA-צ(DA0ָ" ;pEA;pEA%;pEA-;pEA0Ü"¯ועDAועDA%ועDA-ועDA0מ"²ּֽDAּֽDA%ּֽDA-ּֽDA0d"ֲּֽDAּֽDA%ּֽDA-ּֽDA0d"ÛֳץDAֳץDA%ֳץDA-ֳץDA0¬"—צ(DAצ(DA%צ(DA-צ(DA0d" \DA\DA%\DA-\DA0d"עבzDA׳£DA%׳£DA-בzDA0¬"תֳץDAֳץDA%ֳץDA-ֳץDA0d"ֳץDAֳץDA%ֳץDA-ֳץDA0d"ׂֳץDAֳץDA%ֳץDA-ֳץDA0d"טֳץDAֳץDA%ֳץDA-ֳץDA0d"רe×DAe×DA%e×DA-e×DA0ט"‚	ֳץDAֳץDA%ֳץDA-ֳץDA0d"»	R¸DAR¸DA%R¸DA-R¸DA0d"ּ	=
+EA¸EA%¸EA-=
+EA0—"כ	בzDAR¸DA%R¸DA-בzDA0Ý

@@ -1,0 +1,2 @@
+
+GLVГщо	"ЖвёHAвёHA%вёHA-вёHA0Е"╫▐бIAЫ1KA%Ы1KA-▐бIA0▒"ТsIA3дIA%3дIA-sIA0ё"об├IAб├IA%б├IA-б├IA0Э"у╓pIA╓pIA%╓pIA-╓pIA0х"╛ ≥IA ≥IA% ≥IA- ≥IA0d"├╝GIAHIA%HIA-╝GIA0╢"▌╝GIA╝GIA%╝GIA-╝GIA0л"▒╝GIA│∙IA%1≥IA-╝GIA0ё"├	млHAмлHA%млHA-млHA0d"┤	млHAмлHA%млHA-млHA0Т"╟	млHAмлHA%млHA-млHA0d"╠	млHAмлHA%млHA-млHA0Т"ц	÷мHA÷мHA%÷мHA-÷мHA0╪"И	R╦HAмлHA%млHA-R╦HA0╤"К	млHAмлHA%млHA-млHA0p

@@ -1,0 +1,2 @@
+
+VFL×ßֿ	"§תםFAתםFA%תםFA-תםFA0¼"‏¶ףFA‎צFA%)\GA-¶ףFA0׀"ׂְ[GAְ[GA%ְ[GA-ְ[GA0״"ך)\GA)\GA%)\GA-)\GA0פ"פ)\GA®GA%®GA-¸GA0₪?"ץ®GA׳£HA%׳£HA-®GA0 "קצ(HAֲIA%ֲIA-®GA0תV"¸	׳£HA׳£HA%׳£HA-׳£HA0ָ"ב	h³HAh³HA%h³HA-h³HA0„"ד	ּֽHAּֽHA%ּֽHA-ּֽHA0d"ח	ּֽHAּֽHA%ּֽHA-ּֽHA0d

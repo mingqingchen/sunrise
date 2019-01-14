@@ -1,0 +1,2 @@
+
+PFD·эо	"ЖмлXAмлXA%млXA-млXA0l"─ЛQYAЛQYA%ЛQYA-ЛQYA0Б"⌠млXAмлXA%млXA-млXA0ъ"С6мXA6мXA%6мXA-6мXA0╜"╕млXAмлXA%млXA-млXA0d"╝"ЩXA"ЩXA%"ЩXA-"ЩXA0d"ымлXAБИXA%%YA-вёXA0╗"©ОиXAОиXA%ОиXA-ОиXA0Х"Л║жXA║жXA%║жXA-║жXA0Х"ЯЮXAЮXA%ЮXA-ЮXA0Т"÷7┴XA\▐XA%вёXA-7┴XA0с"Ич⌠XAч⌠XA%ч⌠XA-ч⌠XA0░"└	З~XAjXA%З~XA-jXA0н"╨	╖yXA╖yXA%╖yXA-╖yXA0х"с	АzXAАzXA%АzXA-АzXA0░

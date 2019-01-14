@@ -1,0 +1,3 @@
+
+LINDWÔÞÏ	"à×n@{n@%{n@-×n@0"·ffv@ffv@%ffv@-ffv@0®&"þffv@ffv@%ffv@-ffv@0°""…ffv@ffv@%ffv@-ffv@0 "‡ffv@ffv@%ffv@-ffv@0è"âš™y@š™y@%š™y@-š™y@0ˆ'"éš™y@š™y@%š™y@-š™y@0è "ùš™y@š™y@%š™y@-š™y@0ë"‚	š™y@š™y@%š™y@-š™y@0d"…	š™y@š™y@%š™y@-š™y@0d"†	š™y@š™y@%š™y@-š™y@0Æ
+"‡	š™y@š™y@%š™y@-š™y@0d"°	š™y@š™y@%š™y@-š™y@0ú"µ	š™y@š™y@%š™y@-š™y@0î"Ò	š™y@š™y@%š™y@-š™y@0è"á	š™y@š™y@%š™y@-š™y@0¸"å	š™y@š™y@%š™y@-š™y@0ˆ'"æ	š™y@š™y@%š™y@-š™y@0‡"ç	š™y@š™y@%š™y@-š™y@0ô"é	š™y@š™y@%š™y@-š™y@0ž	"ê	š™y@š™y@%š™y@-š™y@0"ë	š™y@š™y@%š™y@-š™y@0¤&

@@ -1,0 +1,3 @@
+
+SHBIшАо	"ЖвёtAвёtA%вёtA-вёtA0u"бь│vAь│vA%ь│vA-ь│vA0Т"ы"Щ|A"Щ|A%"Щ|A-"Щ|A0╬"р╦qA╦qA%╦qA-╦qA0d"сHАrAHАrA%HАrA-HАrA0d"чHАrAHАrA%HАrA-HАrA0у"╡	млxAмлxA%млxA-млxA0d"м	╝wA╝wA%╝wA-╝wA0d"н	╦uA ≥qA%╦uA- ≥qA0ь"э	{vA{vA%{vA-{vA0d"щ	ffpAffpA%ffpA-ffpA0d"А	АzpAАzpA%АzpA-АzpA0d"Й	╝wA╦uA%АzxA-╦uA0╛"К	╝wA╝wA%╝wA-╝wA0d"■
+ffvAffvA%ffvA-ffvA0р

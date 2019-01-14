@@ -1,0 +1,7 @@
+
+FCT÷ÝÏ	"öÍÌLA¤pMA%¤pMA-ÍÌLA0ƒ•"úš™MAš™MA%š™MA-š™MA0¬"ü¤pMA¤pMA%¤pMA-¤pMA0÷
+"„®GMA®GMA%®GMA-®GMA0"…®GMA®GMA%®GMA-®GMA0Ù"‡®GMA®GMA%®GMA-®GMA0¤"‹®GMA®GMA%®GMA-®GMA0"®GMA®GMA%®GMA-®GMA0Ü"’ñcMAñcMA%ñcMA-ñcMA0±"¼ÇKMAÇKMA%ÇKMA-ÇKMA0ô"½‹lMA‹lMA%‹lMA-‹lMA0ú"Á)\MAaMA%;pMA-)\MA0Ó"Ì¤pMA¤pMA%¤pMA-¤pMA0»"Ý›UMA›UMA%›UMA-›UMA0Ü"â¤pMA;pMA%¤pMA-;pMA0 "å®GMA®GMA%®GMA-®GMA0¬"æ®GMA®GMA%®GMA-®GMA0d"è®GMA®GMA%®GMA-®GMA0È"ë¤pMA¤pMA%¤pMA-¤pMA0d"¡¤pMA¤pMA%¤pMA-¤pMA0˜"©®GMA®GMA%®GMA-®GMA0d"·)\MA)\MA%)\MA-)\MA0È"¸)\MA¤pMA%¤pMA-)\MA0ƒ"º1™MA1™MA%1™MA-1™MA0á"½š™MA1™MA%š™MA-TtMA0¬"Ã¤pMA¤pMA%¤pMA-¤pMA0d"×1™MA1™MA%1™MA-1™MA0d"Ù¤pMA¤pMA%¤pMA-¤pMA0d"¡¤pMA¤pMA%¤pMA-¤pMA0È"¬¤pMA¤pMA%¤pMA-¤pMA0È"²‘~MA‘~MA%‘~MA-‘~MA0ô"µázMAázMA%ázMA-ázMA0ü"¿¤pMA¤pMA%¤pMA-¤pMA0È"ý¤pMA)\MA%¤pMA-)\MA0ø
+"þ¤pMA¤pMA%¤pMA-¤pMA0¬"¤pMA¤pMA%¤pMA-¤pMA0ô"‚¤pMA¤pMA%¤pMA-¤pMA0d"¡gMA¡gMA%¡gMA-¡gMA0"–]mMA]mMA%]mMA-]mMA0Ø
+"™¤pMA¤pMA%¤pMA-¤pMA0d"¤pMA¤pMA%¤pMA-¤pMA0d"¢¤pMA¤pMA%¤pMA-¤pMA0d"Ï¤pMA¤pMA%¤pMA-¤pMA0"Ðš™MAh‘MA%š™MA-h‘MA0Â"Ò¤pMA¤pMA%¤pMA-¤pMA0È"á¤pMA¤pMA%¤pMA-¤pMA0È"ì¤pMA¤pMA%¤pMA-¤pMA0ô"ïÂ†MAÂ†MA%Â†MA-Â†MA0Ö"ð¤pMA¤pMA%¤pMA-¤pMA0È"úcMAcMA%cMA-cMA0"‚	¤pMA¤pMA%¤pMA-)\MA0„"„	®GMA®GMA%®GMA-®GMA0È"…	¤pMA¤pMA%¤pMA-¤pMA0È"À	¤pMAš™MA%š™MA-¤pMA0¾"Ä	shMAshMA%shMA-shMA0–"Ç	¤pMA¤pMA%¤pMA-)\MA0Ø"È	®GMA¸MA%®GMA-¸MA0È"É	®GMA®GMA%®GMA-®GMA0ø"Ê	¤pMA¤pMA%¤pMA-¤pMA0ì"Ô	¤pMA¤pMA%¤pMA-¤pMA0ú"Ú	¤pMA¤pMA%¤pMA-¤pMA0d"Ü	®GMA1™MA%1™MA-®GMA0Ä"Þ	<NMA<NMA%<NMA-<NMA0"ß	¤pMA¤pMA%¤pMA-¤pMA0¬"á	š™MAš™MA%š™MA-š™MA0ô"â	¤pMA¤pMA%¤pMA-¤pMA0¬"ã	š™MAš™MA%š™MA-š™MA0¬"ê	¤pMA¤pMA%¤pMA-¤pMA0¬"ë	¤pMA…ëMA%…ëMA-¤pMA0ø
+"˜
+q=NAq=NA%q=NA-q=NA0ù

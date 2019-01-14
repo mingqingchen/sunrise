@@ -1,0 +1,2 @@
+
+FGMачо	"Ж▐бCB▐бCB%▐бCB-▐бCB0ч"┴[SCB[SCB%[SCB-[SCB0х"е╗WCB╗WCB%╗WCB-╗WCB0т"я)\CB)\CB%)\CB-)\CB0х"├ffCBffCB%ffCB-ffCB0э"Щ33CB33CB%33CB-33CB0т"т	HАBBHАBB%HАBB-HАBB0≥

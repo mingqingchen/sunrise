@@ -1,0 +1,2 @@
+
+NUMßÞÏ	"ö\JA\JA%\JA-\JA0¶"ŒqJAqJA%qJA-qJA0¼"ÂóŽJAóŽJA%óŽJA-óŽJA0’"Ø\JAffJA%\JA-ffJA0ä"êffJAÏfJA%ÏfJA-ffJA0Ø"ÓffJA\JA%\JA-ffJA0ª"à>yJA>yJA%>yJA->yJA0™"Ó	\JA\JA%\JA-÷uJA0¸"ß	ffJAffJA%ffJA-ffJA0¸"â	\JA\JA%\JA-\JA0d"ë	\JA\JA%\JA-\JA0d

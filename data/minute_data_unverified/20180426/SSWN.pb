@@ -1,0 +1,2 @@
+
+SSWNкшо	"ЖАzйAАzйA%АzйA-АzйA0╗"ЗffйAffйA%ffйA-ffйA0d"вq=йA2fйA%2fйA-q=йA0╪"э╔=йA╔=йA%╔=йA-╔=йA0d"╨q=йAq=йA%q=йA-q=йA0d"жffйA┌bйA%ffйA-┌bйA0ь"═ffйAАzйA%АzйA-ffйA0п"║АzйAАzйA%АzйA-АzйA0d"УcnйAcnйA%cnйA-cnйA0х"═АzйAАzйA%АzйA-АzйA0л"н\▐йAвёйA%вёйA-\▐йA0╢"З ≥йA▒▐йA% ≥йA-\▐йA0 "д	\▐йA\▐йA%\▐йA-\▐йA0d"Й	АzйAАzйA%АzйA-АzйA0d"К	АzйAАzйA%АzйA-АzйA0╙

@@ -1,0 +1,2 @@
+
+EEA┴Ао	"ЖАzAАzA%АzA-АzA0d"лмлAмлA%млA-млA0d"÷▐бA▐бA%▐бA-▐бA0d"Бq=Aq=A%q=A-q=A0Х"Эq=Aq=A%q=A-q=A0█"┘	ffAffA%ffA-ffA0л"х	ffAffA%ffA-ffA0Х"К	ffAffA%ffA-ffA0d

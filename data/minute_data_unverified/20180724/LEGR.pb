@@ -1,0 +1,2 @@
+
+LEGRôÝÏ	"ö¤píA¤píA%¤píA-¤píA0º"÷{îA{îA%{îA-{îA0È"‹ŸÍëAÓÍëA%ÓÍëA-ŸÍëA0ð"À®GíA®GíA%®GíA-®GíA0d"÷pÎìApÎìA%pÎìA-pÎìA0¼"¤µ7íAµ7íA%µ7íA-µ7íA0¬"½…ëìA…ëìA%…ëìA-…ëìA0"ËÀíAÀíA%ÀíA-ÀíA0È"°F¥íAF¥íA%F¥íA-F¥íA0–"¹33íA33íA%33íA-33íA0Ü"ñþÔíAþÔíA%þÔíA-þÔíA0d"óÂíAÂíA%ÂíA-ÂíA0™"öã¥íAã¥íA%ã¥íA-ã¥íA0d"ø®XíA®XíA%®XíA-®XíA0d"píApíA%píA-píA0d"•…ëíA¡ÖíA%…ëíA-¡ÖíA0¼"ØvqíAvqíA%vqíA-vqíA0¤"…	aÔíAaÔíA%aÔíA-aÔíA0Ü

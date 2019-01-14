@@ -1,0 +1,4 @@
+
+NANш▌╧	"Ў╕IA╕IA%╕IA-╕IA0т	"·╕IA/▌HA%╕IA-/▌HA0Ў"О/▌HA/▌HA%/▌HA-/▌HA0╗"Т╕IA╕IA%╕IA-AёHA0├"└╕IA╕IA%╕IA-╕IA0d"╞═╠HA├їHA%├їHA-═╠HA0╓"рРаHAРаHA%РаHA-РаHA0З"Р9┤HA9┤HA%9┤HA-9┤HA0d"аєОHAєОHA%єОHA-єОHA0п"╡сzHAсzHA%сzHA-сzHA0ъ5"╛·~HA·~HA%·~HA-·~HA0ъ"А╫гHA╫гHA%╫гHA-╫гHA0р"МсzHAДЮHA%гHA-сzHA0╪"ХсzHAIЭHA%IЭHA-сzHA0Д"ЦсzHAсzHA%сzHA-ьQHA0ж"ЭьQHAьQHA%ьQHA-ьQHA0Й
+"ЯЎ(HAЎ(HA%Ў(HA-Ў(HA0╝"╠ьQHAьQHA%ьQHA-ьQHA0╠"▄TRHAьQHA%TRHA-ьQHA0м"З	ШnHA5^HA%ШnHA-5^HA0Ї"╖	ffHAffHA%ffHA-ffHA0м"╬	xzHAxzHA%xzHA-xzHA0Ж"╥	сzHAсzHA%сzHA-сzHA0м"╙	сzHAсzHA%сzHA-сzHA0А"Ц
+═╠HA═╠HA%═╠HA-═╠HA0Д

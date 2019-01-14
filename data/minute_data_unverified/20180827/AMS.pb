@@ -1,0 +1,2 @@
+
+AMSÛÞÏ	"§šw@@šw@@%šw@@-šw@@0È"ÇffF@®C@%ffF@-®C@0È"ÌTãA@TãA@%TãA@-TãA@0d"€	”‡E@”‡E@%”‡E@-”‡E@0è"³	¤pE@¤pE@%¤pE@-¤pE@0¦"µ	¤pE@¤pE@%¤pE@-¤pE@0¦"·	ffF@33C@%ffF@-33C@0Ð"¸	ffF@ffF@%ffF@-ffF@0¼"½	š™I@š™I@%š™I@-š™I@0¬"À	ffF@ffF@%‚âG@-ffF@0Ö"Â	¶óE@¶óE@%¶óE@-¶óE@0è"Ç	VF@VF@%VF@-VF@0ô"É	à-D@à-D@%à-D@-à-D@0Â"Ê	{F@{F@%{F@-{F@0"ê	ffF@ffF@%ffF@-ffF@0¬"ë	ffF@ffF@%ffF@-ffF@0d

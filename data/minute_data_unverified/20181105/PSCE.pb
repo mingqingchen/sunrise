@@ -1,0 +1,2 @@
+
+PSCEсаѕ	"цffVAffVA%ffVA-ffVA0ф"ЁрІTAрІTA%рІTA-рІTA0љ"трTAрTA%рTA-рTA0Ш"Ґ[”TA[”TA%[”TA-[”TA0ф"“аSAаSA%аSA-аSA0ђ"÷33SA33SA%33SA-33SA0d"Е5пSA5пSA%5пSA-5пSA0r"У)\SA)\SA%)\SA-)\SA0d"ЫjTAjTA%jTA-jTA0}"џ‘+SA‘+SA%‘+SA-‘+SA0}"дўRAўRA%ўRA-ўRA0с

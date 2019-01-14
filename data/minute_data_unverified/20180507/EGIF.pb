@@ -1,0 +1,3 @@
+
+EGIF›ÜÏ	"÷ÂqAÂqA%ÂqA-ÂqA0×"þ‹lqA‹lqA%‹lqA-‹lqA0¬"…®GqAHqA%aÃqA-ÍÌpA0˜*"Ø+‡qA+‡qA%+‡qA-+‡qA0È"Üš™qA…ëqA%…ëqA-š™qA0ô"ã{rA{rA%{rA-{rA0d"îq=rAWìqA%ÓMrA-WìqA0Š"ð{rA{rA%{rA-{rA0È"¿q=rAq=rA%q=rA-q=rA0d"žq=rAq=rA%}?rA-q=rA0¬"²q=rAq=rA%q=rA-q=rA0d"ÓaTrAaTrA%aTrA-aTrA0ô"Üq=rAq=rA%Ù=rA-…ëqA0 
+"Ý{rAq=rA%Ù=rA-{rA0„"éffrAq=rA%ffrA-q=rA0·	"	ìQrAffrA%ffrA-q=rA0¸"´	ffrAffrA%ffrA-ffrA0È"»	q=rA{rA%q=rA-{rA0ô"È	{rA{rA%{rA-{rA0ª"Ë	…ëqA…ëqA%…ëqA-…ëqA0Þ"Ù	…ëqA…ëqA%…ëqA-…ëqA0–"Ú	…ëqA…ëqA%…ëqA-…ëqA0¼"à	{rA{rA%{rA-{rA0È"â	…ëqAÂqA%…ëqA-ÂqA0È"ã	ÂqAëqA%ëqA-šqA0ê	"ä	š™qAšqA%šqA-š™qA0 "ë	š™qAš™qA%š™qA-š™qA0h

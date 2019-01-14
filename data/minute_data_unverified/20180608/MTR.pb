@@ -1,0 +1,2 @@
+
+MTR─що	"ЖмлtAмлtA%млtA-млtA0┌"ШмлtAмлtA%млtA-млtA0d"ЭмлtAмлtA%млtA-млtA0d"ЩмлtAмлtA%млtA-млtA0d"▄ ≥uA ≥uA% ≥uA- ≥uA0d"о ≥uA ≥uA% ≥uA- ≥uA0х"СffvA33wA%33wA-ЛQvA0д,

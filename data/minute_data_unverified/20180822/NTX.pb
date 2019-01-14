@@ -1,0 +1,2 @@
+
+NTXײÞֿ	"¢HבLAHבLA%HבLA-HבLA0₪"£ּֽLAֳץLA%ֳץLA-ּֽLA0״"₪ֳץLAועLA%ֳץLA-ועLA0ָ"¨HבLAHבLA%HבLA-HבLA0d"©ועLAועLA%ועLA-ועLA0d"®HבLAHבLA%HבLA-HבLA0d"³HבLAHבLA%HבLA-HבLA0d"¸HבLAHבLA%HבLA-HבLA0d"½HבLAHבLA%HבLA-HבLA0d"ˆZץLAֳץLA%¸MA-ּֽLA0נ"‹ֳץLAֳץLA%ֳץLA-ֳץLA0d"ׁֳץLAֳץLA%ֳץLA-ֳץLA0¬

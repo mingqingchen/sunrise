@@ -1,0 +1,3 @@
+
+NPV┼що	"ЖАzDAАzDA%АzDA-АzDA0⌠"З╦EAHАDA%╦EA-HАDA0═"ЩАzDAАzDA%АzDA-АzDA0Ч"▀млDAмлDA%млDA-млDA0d"сЕпDAЕпDA%ЕпDA-ЕпDA0х"т6мDA6мDA%6мDA-6мDA0d"АмлDAмлDA%млDA-млDA0d"Е6мDA6мDA%6мDA-6мDA0d"ЛмлDAdлDA%млDA-dлDA0╡"ОвёDAвёDA%вёDA-вёDA0d"р\▐DAАzDA%\▐DA-АzDA0Ц"╜АzDAАzDA%АzDA-АzDA0х"НвёDA ≥DA%вёDA- ≥DA0ь"▀млDAмлDA%млDA-млDA0х"▌млDAмлDA%млDA-млDA0х"▒млDAвёDA%млDA-вёDA0░"РвёDAвёDA%вёDA-вёDA0╓"ШвёDA╔╫DA%╔╫DA-вёDA0Т"ЧвёDAвёDA%вёDA-вёDA0╛"ЪмлDAцУDA%цУDA-вёDA0з"└	цУDAвёDA%цУDA-вёDA0ч"©	@╓DAвёDA%д╠DA-вёDA0─"К	вёDAвёDA%вёDA-вёDA0d"√
+вёDAвёDA%вёDA-вёDA0╦

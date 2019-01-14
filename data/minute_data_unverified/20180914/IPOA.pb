@@ -1,0 +1,3 @@
+
+IPOAІЯП	"цffAffA%ffA-ffA0и"Ѓ”цA…лA%”цA-…лA0Ш"‚ffAffA%ffA-ffA0°	"‹олAолA%олA-олA0d"’{A…лA%{A-…лA0фЎ"ѕ{A{A%{A-{A0ф"ж?5A?5A%?5A-?5A0}"їЭµAЭµA%ЭµA-ЭµA0И"Ќ…лA…лA%…лA-…лA0Р"”ffAffA%ffA-ffA0И"ч{A{A%{A-{A0кf"†	q=Aq=A%q=A-q=A0¬4"‡	q=Aq=A%q=A-q=A0d"О	q=Aq=A%q=A-q=A0Э"Э	q=Aq=A%q=A-q=A0И"з	{A{A%{A-{A0Ь"л	q=AffA%ffA-q=A0К"–
+ffAffA%ffA-ffA0€

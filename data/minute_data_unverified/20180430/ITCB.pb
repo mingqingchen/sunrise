@@ -1,0 +1,2 @@
+
+ITCBншо	"фмлtAвёtA%млtA-вёtA0э"╕ЛQtAЛQtA%ЛQtA-ЛQtA0d"╚ЛQtAЛQtA%ЛQtA-ЛQtA0d"Ь)\sA33sA%)\sA-33sA0╛"Шq=rAq=rA%q=rA-q=rA0d"ГЛQtAЛQtA%ЛQtA-ЛQtA0d"И	33sA\▐tA%вёtA-HАrA0Э"К	АztAАztA%АztA-АztA0ц

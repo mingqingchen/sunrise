@@ -1,0 +1,2 @@
+
+NUMчЭП	"цffJAffJA%ffJA-ffJA0d"х®GJAffJA%ffJA-®GJA0ґ"«q=JAffJA%ffJA-q=JA0о"ґffJAffJA%ffJA-ffJA0d"ЧNbJANbJA%NbJA-NbJA0x"‰q=JAq=JA%q=JA-q=JA0¬"Ћq=JAq=JA%q=JA-q=JA0d"џ{JA{JA%{JA-{JA0¶"С{JA{JA%{JA-{JA0ї"ї	{JASJA%{JA-SJA0њ"Б	олIAолIA%олIA-олIA0Ь"г	…лIA…лIA%…лIA-…лIA0d"л	{JAcоIA%{JA-ЏВIA0 

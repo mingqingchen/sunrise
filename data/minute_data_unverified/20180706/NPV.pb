@@ -1,0 +1,2 @@
+
+NPVЦщо	"ЖЛQHAЛQHA%ЛQHA-ЛQHA0╫"─{JA{JA%{JA-{JA0Х"ХцУHAцУHA%цУHA-цУHA0d"ПвёHAвёHA%вёHA-вёHA0░"╕АzHAЛQHA%АzHA-ЛQHA0░"╧вёHAАzHA%вёHA-АzHA0╗-"дV}HAV}HA%V}HA-V}HA0═"фвёHA$≈HA%вёHA-$≈HA0Х"░млHAмлHA%млHA-млHA0╛"ЁмлHAмлHA%млHA-млHA0d"ЭмлHAмлHA%млHA-млHA0╛"√млHAмлHA%млHA-млHA0d"чHАHAHАHA%HАHA-HАHA0└"м	млHAмлHA%млHA-млHA0ь"у	ыHAмлHA%ыHA-млHA0л"э	млHAмлHA%млHA-млHA0d"К	млHAмлHA%млHA-млHA0d

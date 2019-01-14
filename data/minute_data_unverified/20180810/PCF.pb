@@ -1,0 +1,4 @@
+
+PCFйчо	"Жq=Aq=A%q=A-q=A0б"З{A{A%{A-{A0d"┼{A{A%{A-{A0ю"яq=Aq=A%q=A-q=A0Ь
+"рq=Aq=A%q=A-q=A0п"Аq=Aq=A%q=A-q=A0░"ЦffAffA%ffA-ffA0░N"ФЛQANbA%ffA-ЛQA0╦"ВffAq=A%ffA-q=A0Х "╣q=AffA%ffA-q=A0■#"╬ffAffA%иvA-ffA0ЙR"© wAffA% wA-ffA0╢"║\▐A\▐A%\▐A-\▐A0d"вffAsA%sA-ffA0≤"Зы=Aы=A%ы=A-ы=A0╟"╡	ВuAВuA%ВuA-ВuA0└"╢	▀lA▀lA%▀lA-▀lA0╪"╦	jAоfA%jA-ffA0Ю+"Г	ffAffA%ffA-ffA0d"Х	o│Ao│A%o│A-o│A0Т"Й	ffAffA%ffA-ffA0d"√
+ffAffA%ffA-ffA0║

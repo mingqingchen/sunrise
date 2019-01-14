@@ -1,0 +1,2 @@
+
+NXNщаѕ	"цRЄFARЄFA%RЄFA-RЄFA0ю"ОЯЂGAЯЂGA%ЯЂGA-ЯЂGA0ф"»9іGA9іGA%9іGA-9іGA0и"…чHAц(HA%ц(HA-чHA0Д"ќц(HAц(HA%ц(HA-ц(HA0ъ"убzHAбzHA%бzHA-бzHA0d"йq=HAq=HA%q=HA-q=HA0Р"й	\ПHA\ПHA%\ПHA-_)HA0Ў

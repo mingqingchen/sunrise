@@ -1,0 +1,3 @@
+
+MCIбчо	"эсMvAсMvA%сMvA-сMvA0Р"А┘КuA┘КuA%┘КuA-┘КuA0Т"ЦбvA┘КuA%бvA-┘КuA0н3"Дr┼vAr┼vA%r┼vA-r┼vA0Х"С=
+wAffvA%33wA-ffvA0ю"ТffvAq=vA%ffvA-q=vA0╛"ёНZvAНZvA%НZvA-НZvA0ф"н\▐vA\▐vA%\▐vA-\▐vA0▌"≥u⌠vA\▐vA%u⌠vA-\▐vA0╟	"├млvAмлvA%млvA-млvA0╟"°@╓vA\▐vA%jчvA-┘КuA0╗F"²СvA{vA%СvA-┘КuA0з;"═НZvAНZvA%НZvA-НZvA0О"Т8gvA8gvA%8gvA-8gvA0Х"К	┘КuA┘КuA%┘КuA-┘КuA0d

@@ -1,0 +1,2 @@
+
+WTFCMнчо	"├ffжAffжA%ffжA-ffжA0d"⌠ffжAffжA%ffжA-ffжA0d"∙╦жA╦жA%╦жA-╦жA0╩"≥ffжAffжA%ffжA-ffжA0d"═ffжAffжA%ffжA-ffжA0d"╖ffжAffжA%ffжA-ffжA0d"╝ffжAffжA%ffжA-ffжA0d"╢ffжAffжA%ffжA-ffжA0d"Ц?5жA?5жA%?5жA-?5жA0░"ЕOжAOжA%OжA-OжA0З"е	[SжA[SжA%[SжA-[SжA0щ"Е	дбуAдбуA%дбуA-дбуA0ё

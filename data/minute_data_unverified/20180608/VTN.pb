@@ -1,0 +1,2 @@
+
+VTN─що	"Ж╓pMA╓pMA%╓pMA-╓pMA0≤"▒юЛLAюЛLA%юЛLA-юЛLA0х"еHАLAHАLA%HАLA-HАLA0╛"фHАLAHАLA%HАLA-HАLA0З"гHАLA/щLA%HАLA-/щLA0░"йHАLAHАLA%HАLA-HАLA0Т"вмлLAмлLA%млLA-млLA0х"СУшLAУшLA%УшLA-УшLA0Ё"╛млLAмлLA%млLA-млLA0d"ЁмлLAмлLA%млLA-млLA0d"╣млLAмлLA%млLA-млLA0d"╥уГLAуГLA%уГLA-уГLA0ц"ймлLAмлLA%млLA-млLA0d"жмлLAмлLA%млLA-млLA0d"┼HАLAцУLA%цУLA-HАLA0═"ЙмлLAмлLA%млLA-млLA0d"▒млLAмлLA%млLA-млLA0d"БHАLAHАLA%HАLA-HАLA0x"╡	HАLAмлLA%цУLA-млLA0И"К	HАLAHАLA%HАLA-HАLA0d

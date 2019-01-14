@@ -1,0 +1,2 @@
+
+KCAPLאֿ	"ץ\ָAffָA%\ָA-ffָA0א"צffָAq=ָA%ffָA-q=ָA0¿"ֵ	q=ָAq=ָA%q=ָA-q=ָA0d"׃	R¸ָAָּֽA%ָּֽA-R¸ָA0פ"Û	ָּֽAָּֽA%ָּֽA-®ַָA0פ"Ü	HבָAHבָA%HבָA-HבָA0ָ"ט	DzֹADzֹA%DzֹA-DzֹA0´

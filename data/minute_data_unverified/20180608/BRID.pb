@@ -1,0 +1,2 @@
+
+BRID─що	"нмлhAмлhA%млhA-млhA0d"о ≥iA ≥iA% ≥iA- ≥iA0ь"ъмлlAffjA%млlA-ffjA0С"ЛмлhAмлhA%млhA-млhA0╛"О33kA33kA%33kA-33kA0х"С▐бmA▐бmA%▐бmA-▐бmA0╘"╧	HАlAHАlA%HАlA-HАlA0╣"╨	KЙmAKЙmA%KЙmA-KЙmA0х"х	╖lA╖lA%╖lA-╖lA0х"я	П╖lAП╖lA%П╖lA-П╖lA0х"с	ffjAffjA%ffjA-ffjA0d"щ	ffjAffjA%ffjA-ffjA0d

@@ -1,0 +1,3 @@
+
+EGIFãÝÏ	"ö¤pyA¤pyA%¤pyA-¤pyA0d"ÅÚyAÚyA%ÚyA-ÚyA0¬"˜)\yAš™yA%š™yA-)\yA0ø"Í¤pyA¤pyA%¤pyA-¤pyA0ô"Ö1™yA1™yA%1™yA-1™yA0d"×š™yAš™yA%š™yA-š™yA0ï"àš™yAš™yA%š™yA-š™yA0È"Á	š™yAš™yA%š™yA-š™yA0È"Â	š™yAš™yA%š™yA-š™yA0ô"Õ	š™yAš™yA%š™yA-š™yA0d"ß	š™yAš™yA%š™yA-š™yA0d"â	š™yAš™yA%š™yA-š™yA0Ì"æ	7‰yA7‰yA%7‰yA-7‰yA0è"ë	š™yAˆ…yA%š™yA-§yyA0¼"–
+š™yAš™yA%š™yA-š™yA0q

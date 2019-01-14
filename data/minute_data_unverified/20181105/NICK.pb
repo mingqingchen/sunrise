@@ -1,0 +1,3 @@
+
+NICKñàÏ	"ö$(@Aœ3?A%Q@A-33?A0Å"÷ó?Aš=A%33?A-Ãõ<A0¤"øãÇAA33?A%ãÇAA-Â=A0è"ù33?A•=A%ìQ@A-•=A0Ì"ú®G=AÑ"<A%®G=A-Ñ"<A0"ýff>Aff>A%ff>A-ff>A0¬"²ff>Aff>A%ff>A-ff>A0›"êff>A…ë=A%ff>A-…ë=A0Ø"å…ë=A…ë=A%…ë=A-…ë=A0•"êq=:Aq=:A%q=:A-q=:A0d"â	Â=AÂ=A%Â=A-Â=A0d"”
+ff:Aff:A%ff:A-ff:A0¸

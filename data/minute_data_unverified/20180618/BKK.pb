@@ -1,0 +1,2 @@
+
+BKKК▌╧	"ЎЪЩqAЪЩqA%ЪЩqA-ЪЩqA0оY"ДTуqATуqA%TуqA-TуqA0Ї"И┴╩qA┴╩qA%┴╩qA-┴╩qA0d"╠П┬qAП┬qA%П┬qA-П┬qA0d"╙уеqAуеqA%уеqA-уеqA0╖"╘ЪЩqAЪЩqA%ЪЩqA-ЪЩqA0Ї"┌w╛qAw╛qA%w╛qA-w╛qA0╫"РеqAеqA%еqA-еqA0Б"ЬЪЩqAЪЩqA%ЪЩqA-ЪЩqA0Р"╤ЪЩqAЪЩqA%ЪЩqA-ЪЩqA0└"┌ЪЩqAЪЩqA%ЪЩqA-ЪЩqA0м"хЪЩqAЪqA%ЪqA-ЪЩqA0Ї"¤ЪЩqAЪЩqA%ЪЩqA-ЪЩqA0м"╜	ЪЩqAуеqA%уеqA-ЪЩqA0─"└	 ▓qA ▓qA% ▓qA- ▓qA0▄"╩	ЪqAЪЩqA%▓ЭqA-ЪЩqA0╬"х	ЪЩqAЪЩqA%ЪЩqA-ЪЩqA0╪"ш	ЪЩqAЪЩqA%ЪЩqA-ЪЩqA0╗"ъ	ЪЩqAП┬qA%П┬qA-ЪЩqA0Ї

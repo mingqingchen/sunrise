@@ -1,0 +1,4 @@
+
+OFSьчо	"ЖмлDAмлDA%млDA-млDA0⌠"ЭвёDAвёDA%вёDA-вёDA0х"ЩЛQDAЛQDA%ЛQDA-ЛQDA0d"ЪR╦DAR╦DA%R╦DA-R╦DA0в"о╓ъDA╓ъDA%╓ъDA-╓ъDA0С"э
+вCA┘CA%
+вCA-┘CA0х"╝щ$DA╝CA%щ$DA-╝CA0ю"╧-╡CA-╡CA%-╡CA--╡CA0З"еq=DA)\CA%q=DA-)\CA0Л"╟ЛQDAd;DA%АzDA-▒МCA0л"╧_DA_DA%_DA-_DA0d"СвёDAвёDA%вёDA-вёDA0░"ТвёDAвёDA%вёDA-вёDA0d"УвёDAвёDA%вёDA-вёDA0d"ЖмлDAмлDA%млDA-млDA0х"═ТlDAТlDA%ТlDA-ТlDA0Т"╒╖yDA╖yDA%╖yDA-╖yDA0╪"Ш─╥DA─╥DA%─╥DA-─╥DA0Т"ЭмлDAмлDA%млDA-млDA0┐"ЪвёDAвёDA%вёDA-вёDA0≈"╩	млDAмлDA%млDA-млDA0d"к	млDA9╢DA%млDA-9╢DA0╓"ж	АzDAАzDA%АzDA-АzDA0х"щ	АzDAАzDA%АzDA-АzDA0▌

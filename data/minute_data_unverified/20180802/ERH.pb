@@ -1,0 +1,3 @@
+
+ERH┬▐╧	"№оGIAЪЩIA%ЪЩIA-оGIA0Ї"ЎдpIAдpIA%дpIA-дpIA0є"ў33IA33IA%33IA-33IA0Б"╜ЛlIA╝IA%ЛlIA-╝IA0є"╦WьHAWьHA%WьHA-WьHA0ш"╧╔vHA╔vHA%╔vHA-╔vHA0╥"у_)HA_)HA%_)HA-_)HA0├"ЁЎ(HAЎ(HA%Ў(HA-Ў(HA0Р"ЯоGIAЛlIA%ЛlIA-сzHA0╝"ЕЎ(HAЎ(HA%R╕HA-Ў(HA0Р"Р═╠HAЦCIA%ЦCIA-R╕HA0Ї"Ш+IA+IA%+IA-+IA0╜"воGIAоGIA%оGIA-оGIA0С"Їd╠HAd╠HA%d╠HA-d╠HA0╝"·оGIAоGIA%оGIA-оGIA0i"┤	╕IA╕IA%╕IA-╕IA0м"╛	╫гHA@дHA%@дHA-╫гHA0Ї"═	цоHAцоHA%цоHA-цоHA0Р"Ф
+П┬IAП┬IA%П┬IA-П┬IA0╚

@@ -1,0 +1,2 @@
+
+PYZнаѕ	"цHбqBHбqB%HбqB-HбqB0…"€@§qB@§qB%@§qB-@§qB0Ф"ЊЦruBЦruB%ЦruB-ЦruB0Ў"кffvBзvB%ffvB-зvB0ъ"фHбuBq=vB%q=vB-HбuB0»"чHбuBHбuB%HбuB-HбuB0÷Г"«	ЄvB£“uB%ЄvB-£“uB0Р

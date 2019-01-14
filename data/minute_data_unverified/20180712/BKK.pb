@@ -1,0 +1,5 @@
+
+BKKХщо	"Ш╘qA╘qA%╘qA-╘qA0o"ЩцУpAцУpA%цУpA-цУpA0d"│цУpAмлpA%цУpA-млpA0╬"┌млpAмлpA%млpA-млpA0░"┐млpAмлpA%млpA-млpA0d"└млpAмлpA%млpA-млpA0х"┤млpAмлpA%млpA-млpA0░"▀млpAмлpA%млpA-млpA0╝"▓`ЕpA`ЕpA%`ЕpA-`ЕpA0ю"©млpAмлpA%млpA-млpA0╛"бмлpAмлpA%млpA-млpA0х"ецсpAцсpA%цсpA-цсpA0Т"щ╙ЯpA╙ЯpA%╙ЯpA-╙ЯpA0Х"ъAЯpAAЯpA%AЯpA-AЯpA0Ь
+"Ц6мpA6мpA%6мpA-млpA0═"Л6мpA6мpA%6мpA-6мpA0d"ОHАpAZУpA%ZУpA-HАpA0Х"╔цУpAКpA%цУpA-КpA0Х"╟HАpA=
+qA%╦qA-HАpA0Т "╠l	qA=
+qA%╦qA-l	qA0ь"╢╦qAOqA%╦qA-OqA0═"╫33qA33qA%33qA-33qA0З"я=,qA╦qA%=,qA-╦qA0╗"шцУpAцУpA%╦qA-цУpA0й""┴WЛpAWЛpA%WЛpA-WЛpA0З"≥цУpAцУpA%цУpA-цУpA0d" sвpAsвpA%sвpA-sвpA0х"╒)МpA)МpA%)МpA-)МpA0Й"ьыpAыpA%ыpA-ыpA0Х"ФHАpAZУpA%цУpA-vЮpA0╟	"Жl	qAOqA%╦qA-l	qA0░"╤	L7qAL7qA%L7qA-L7qA0х"╪	+qA+qA%+qA-+qA0С"Й	╦qAмлpA%╦qA-млpA0э$

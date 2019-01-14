@@ -1,0 +1,6 @@
+
+VFLнчо	"Ж33KA33KA%33KA-33KA0j"п33KA33KA%33KA-33KA0х"з33KA33KA%33KA-33KA0d"А33KA33KA%33KA-33KA0d"и33KA33KA%33KA-33KA0х"К┼▌KA┼▌KA%┼▌KA-┼▌KA0²"ПЦ╔KAЦ╔KA%Ц╔KA-Ц╔KA0²"Д	
+вKA
+вKA%
+вKA-
+вKA0Х"К	33KA33KA%33KA-33KA0d

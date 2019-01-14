@@ -1,0 +1,2 @@
+
+ALTYтАо	"ЖмлlAмлlA%млlA-млlA0В"─33jAО8jA%О8jA-33jA0х"▓L7iAL7iA%L7iA-L7iA0и"р┐/iA┐/iA%┐/iA-┐/iA0П."А ≥iA ≥iA% ≥iA- ≥iA0х"Х▐бiA{jA%{jA-▐бiA0╬"г╬аiA ≥iA%╬аiA- ≥iA0╟	"║еiAеiA%еiA-еiA0ч"Ъ{jA{jA%{jA-РрiA0░"√{jA{jA%{jA-{jA0d"ь	ffjAffjA%ffjA-ffjA0■

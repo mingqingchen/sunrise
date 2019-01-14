@@ -1,0 +1,3 @@
+
+NIQหÛฯ	"๖ffFAffFA%ffFA-ffFA0d"\FA\FA%\FA-ไFA0์@"พฌญFAฌญFA%ฌญFA-ฌญFA0d"ห[ฑFA[ฑFA%[ฑFA-[ฑFA0d"าffFAffFA%\FA-ffFA0ภ"้ffFAffFA%ffFA-ffFA0ศ"ฉFAFA%FA-FA0d"วffFAffFA%ffFA-ffFA0d"ำแzFA\FA%\FA-แzFA0ฌ"’ffFAEA%ffFA-…EA0Y"“คpEAEA%EA-คpEA0โ	"ฐยEAรำEA%รำEA-ยEA0ฤ	"พยEAnฃEA%ยEA-EA0•"๎!FA!FA%!FA-!FA0ฤ"‘สรEAสรEA%สรEA-สรEA0๎"–q=FAสรEA%q=FA-สรEA0ล "ืq=FAq=FA%q=FA-q=FA0d"แ{FA{FA%{FA-{FA0d"๐…๋EAยEA%…๋EA-ยEA0่"๑=FA=FA%=FA-=FA0Ü"…	X9FA{FA%q=FA-=
+FA0ด)"ผ	{FA{FA%{FA-{FA0d"Þ	<FA<FA%<FA-<FA0‘"ๅ	q=FAq=FA%q=FA-q=FA0d"้	…๋EA…๋EA%…๋EA-…๋EA0d"๋	{FA{FA%{FA-{FA0Þ

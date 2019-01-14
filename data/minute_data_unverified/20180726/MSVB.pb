@@ -1,0 +1,2 @@
+
+MSVBЎ▌╧	"└мнGAнiGA%оGA-╧fGA0Ь"яR╕FAщ╖FA%R╕FA-щ╖FA0м"ёмFAмFA%мFA-мFA0Ї"мffFAffFA%╧fFA-ffFA0Р"я▓ЭEAd╠EA%d╠EA-ЪЩEA0Ё"ЁЪЩEAЪЩEA%ЪЩEA-ЪЩEA0ш"ВЪЩEAЪЩEA%╬кEA-ЪЩEA0ъ"ДЪEAЪEA%ЪEA-ЪЩEA0м"КHFAHFA%HFA-HFA0ш"┘└[FAq=FA%└[FA-q=FA0╠"█q=FA┘=FA%┘=FA-{FA0Ь

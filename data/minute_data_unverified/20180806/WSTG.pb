@@ -1,0 +1,2 @@
+
+WSTGфчо	"≥ffZAffZA%ffZA-ffZA0╛" ffZAffZA%ffZA-ffZA0░"└┘YA┘YA%┘YA-┘YA0х"Ю%YA%YA%%YA-%YA0х"Э%YA╕⌡XA%%YA-╕⌡XA0╛"г	%YA%YA%%YA-%YA0х"л	)\YA)\YA%)\YA-)\YA0х"в	┘YA┘YA%┘YA-┘YA0х"Б	млXAмлXA%млXA-млXA0х"Ф	q=YAq=YA%q=YA-q=YA0х"Г	млXAмлXA%млXA-млXA0х"К	млXAмлXA%млXA-млXA0Т

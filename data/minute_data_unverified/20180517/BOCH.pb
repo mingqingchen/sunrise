@@ -1,0 +1,4 @@
+
+BOCH╔эо	"Ж ≥5A ≥5A% ≥5A- ≥5A0ц"шff6Aff6A%ff6A-ff6A0d"чff6Aff6A%ff6A-ff6A0d"═ff6Aмл4A%ff6A-мл4A0х"╔ff6Aff6A%ff6A-ff6A0d"йff6Aff6A%ff6A-ff6A0d"÷ff6Aff6A%ff6A-ff6A0d"╔ff6Aff6A%ff6A-ff6A0d"╝ff6Aмл4A%ff6A-мл4A0Э⌡"╪ff6Aff6A%ff6A-ff6A0d"Ьмл4Aмл4A%мл4A-мл4A0d"┬ff6Aff6A%ff6A-ff6A0х"┴мл4Aff6A%ff6A-мл4A0■
+"┼ff6Aff6A%ff6A-ff6A0л"▀ff6Aff6A%ff6A-ff6A0d"▌ff6Aff6A%ff6A-ff6A0⌡"Ц337A337A%337A-337A0d"К337A337A%337A-337A0d"Лff6Aff6A%ff6A-ff6A0х"Я337A337A%337A-337A0d"╨	337A337A%337A-337A0d"ц	337A337A%337A-337A0⌡"д	337A337A%337A-337A0п"н	337A337A%337A-337A0d"с	ff6Aff6A%ff6A-ff6A0d"ч	337A337A%337A-337A0╛"Б	337A337A%337A-337A0d"Г	337A337A%337A-мл6A0╛"Й	337A337A%337A-337A0╛"К	337A337A%337A-337A0ц"■
+ff6Aff6A%ff6A-ff6A0ж

@@ -1,0 +1,4 @@
+
+NAZШщо	"Ж╓pIA╓pIA%╓pIA-╓pIA0°"┼╨IIA╨IIA%╨IIA-╨IIA0═"юя"IA4IA%=IA-!IA0╝"а╦IA╦IA%╦IA-╦IA0Т"д╦IA╦IA%╦IA-╦IA0х"Л╦IA╦IA%╦IA-╦IA0d"╢╦IAцУHA%╦IA-цУHA0Э"ймлHAыHA%ыHA-млHA0╤"кмлHAмлHA%млHA-млHA0Х"нмлHAмлHA%млHA-млHA0Ь
+"пмлHAмлHA%млHA-млHA0Х"рмлHAмлHA%млHA-млHA0Х"умлHAмлHA%млHA-млHA0п"вмлHAмлHA%млHA-млHA0█"шR╦HAdлHA%млHA-R╦HA0╢	"УмлHA╦IA%╦IA-dлHA0Ь
+"┐ПHAПHA%ПHA-ПHA0d"▓цУHA═IA%╦IA-mГHA0╕"═цУHAцУHA%цУHA-цУHA0d"║цУHAАzHA%цУHA-АzHA0╓="ЗbIAbIA%bIA-bIA0▌"│	R╦HAR╦HA%R╦HA-R╦HA0d"у	j╪HAj╪HA%j╪HA-j╪HA0╞"ь	vЮHAvЮHA%vЮHA-vЮHA0Т"А	╙ЯHA╙ЯHA%╙ЯHA-╙ЯHA0Х"Г	вёHAвёHA%вёHA-вёHA0d"Х	АzHAцУHA%цУHA-АzHA0л"К	цУHAАzHA%цУHA-АzHA0▌

@@ -1,0 +1,58 @@
+
+BGTç›œ	"ˆ=
+SA=
+SA%=
+SA-=
+SA0Á"¸=
+SA=
+SA%=
+SA-=
+SA0Ã"äq=RAq=RA%q=RA-q=RA0d"åq=RA{RA%q=RA-{RA0Ÿ"êR∏RAR∏RA%R∏RA-R∏RA0Ã"ø≠iRA≠iRA%≠iRA-≠iRA0i"ƒR∏RAR∏RA%R∏RA-R∏RA0d"∆R∏RAR∏RA%R∏RA-R∏RA0»"⁄R∏RAÕÃRA%ÕÃRA-R∏RA0Ω7"€R∏RAR∏RA%R∏RA-R∏RA0¨"‹\èRAR∏RA%R∏RA-\èRA0Íb"›\èRA\èRA%\èRA-\èRA0d"ﬁ9÷RA„«RA%9÷RA-„«RA0¨"ﬂ◊£RAH·RA%H·RA-◊£RA0¯
+"‡H·RAH·RA%H·RA-H·RA0†"‚H·RAH·RA%H·RA-H·RA0d"‰H·RAH·RA%H·RA-H·RA0d"ÂH·RAH·RA%H·RA-H·RA0d"ÁH·RAH·RA%H·RA-H·RA0d"Ëï‘RAï‘RA%ï‘RA-ï‘RA0à"•R∏RAÏ¿RA%æ¡RA-R∏RA0ﬁ
+"®/›RAﬂ‡RA%H·RA-R∏RA0∞	"¨H·RAH·RA%H·RA-H·RA0d"≥Ù˝RAH·RA%Ù˝RA-H·RA0Ó"µH·RAH·RA%H·RA-H·RA0d"∑H·RAH·RA%H·RA-H·RA0d"πH·RAH·RA%H·RA-H·RA0»"∫H·RA=
+SA%=
+SA-H·RA0Á"Ω=
+SA=
+SA%=
+SA-=
+SA0d"æ=
+SA=
+SA%=
+SA-=
+SA0d"¡=
+SAH·RA%=
+SA-H·RA0»"¬=
+SA=
+SA%=
+SA-=
+SA0d"ƒ=
+SA=
+SA%=
+SA-=
+SA0d"≈ñ≤RAñ≤RA%ñ≤RA-ñ≤RA0“"«ÕÃRAÕÃRA%ÕÃRA-ÕÃRA0d"…=
+SA¨RA%=
+SA-¨RA0Ï" H·RAH·RA%H·RA-H·RA0d"ÕH·RAH·RA%H·RA-H·RA0d"ŒH·RAH·RA%H·RA-H·RA0d"—H·RAH·RA%H·RA-H·RA0d"”H·RAH·RA%H·RA-H·RA0ÿ"â’ÁRA’ÁRA%’ÁRA-’ÁRA0á"å’	SAjºRA%’	SA-R∏RA0õ"éH·RAH·RA%H·RA-H·RA0d"ê=
+SA=
+SA%=
+SA-=
+SA0d"ôÚ“RAÚ“RA%Ú“RA-Ú“RA0ä"•H·RAH·RA%H·RA-H·RA0∞	"¨H·RAuìRA%±·RA-uìRA0î
+"≠ÕÃRAÕÃRA%ÕÃRA-ÕÃRA0»"ÆH·RAH·RA%H·RA-H·RA0d"È	˘RA	˘RA%	˘RA-	˘RA0Ù"Î=
+SA=
+SA%=
+SA-=
+SA0d"Ó%SAH·RA%’	SA-H·RA0å."ÔH·RA=
+SA%=
+SA-H·RA0»"Ò√ıRA√ıRA%√ıRA-√ıRA0d"Ù=
+SA=
+SA%=
+SA-=
+SA0∏"˜Á˚RAÁ˚RA%Á˚RA-Á˚RA0»"ÄH·RAH·RA%H·RA-H·RA0¨"ÉŸRAŸRA%ŸRA-ŸRA0à"Œ)ÀRA)ÀRA%)ÀRA-)ÀRA0™"ÁàÙRAàÙRA%àÙRA-àÙRA0Ë"ÙZıRAZıRA%ZıRA-ZıRA0ñ"¸=
+SA=
+SA%=
+SA-=
+SA0Ë"˛H·RAH·RA%H·RA-H·RA0»"≤	=
+SA=
+SA%=
+SA-=
+SA0“"µ	±·RAT„RA%T„RA-±·RA0ê"∂	ò›RAò›RA%ò›RA-ò›RA0¿"…	ª∏RAH·RA%H·RA-ª∏RA0≈" 	H·RAH·RA%H·RA-H·RA0d"Õ	H·RAH·RA%H·RA-H·RA0d"œ	H·RAH·RA%H·RA-H·RA0d"—	H·RAH·RA%H·RA-H·RA0ê"“	H·RAH·RA%H·RA-H·RA0d"‘	H·RAH·RA%H·RA-H·RA0d"÷	H·RAH·RA%H·RA-H·RA0d"ÿ	H·RAH·RA%H·RA-H·RA0»"⁄	H·RAH·RA%H·RA-H·RA0d"€	ª∏RAª∏RA%ª∏RA-\èRA0ù)"ﬂ	µ¶RAµ¶RA%µ¶RA-µ¶RA0º"‡	R∏RAR∏RA%R∏RA-R∏RA0ê"·	È∑RAÈ∑RA%È∑RA-È∑RA0à'"‚	◊£RAH·RA%H·RA-◊£RA0í"‰	R∏RA-≤RA%R∏RA--≤RA0 '"Â	R∏RAR∏RA%R∏RA-R∏RA0Ñ"Î	H·RAH·RA%H·RA-H·RA0¨"ñ
+H·RAH·RA%H·RA-H·RA0´

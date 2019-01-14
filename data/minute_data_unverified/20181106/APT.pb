@@ -1,0 +1,6 @@
+
+APTєр╧	"¤уеW@сzT@%уеW@-сzT@0╚"╛╕U@╕U@%╕U@-╕U@0d"┌╟║X@╟║X@%╟║X@-╟║X@0ш"тffV@ffV@%ffV@-ffV@0d"ч
+hV@
+hV@%
+hV@-
+hV@0■"Ёе,W@е,W@%е,W@-е,W@0╚"дffV@ffV@%ffV@-ffV@0d"пffV@ffV@%ffV@-ffV@0╚"╚ffV@ffV@%ffV@-ffV@0╚"╠AВV@ffV@%AВV@-ffV@0д"╒ffV@ffV@%ffV@-ffV@0d"ЖЫUW@ffV@%ЫUW@-ffV@0╠"ИffV@ffV@%ffV@-ffV@0d"УffV@ffV@%ffV@-ffV@0d"вffV@ffV@%ffV@-ffV@0d"иffV@ffV@%ffV@-ffV@0d"йffV@ffV@%ffV@-ffV@0╚"кffV@ffV@%ffV@-ffV@0d"мffV@ffV@%ffV@-ffV@0d"нffV@ffV@%ffV@-ffV@0d"оffV@ffV@%ffV@-ffV@0d"пffV@ffV@%ffV@-ffV@0╚"▒ffV@ffV@%ffV@-ffV@0d"▓ffV@П┬U@%ffV@-П┬U@0т	"┤П┬U@П┬U@%П┬U@-П┬U@0╚"ыП┬U@П┬U@%П┬U@-П┬U@0k"¤*:V@*:V@%*:V@-*:V@0d"ЕП┬U@П┬U@%П┬U@-П┬U@0╚"ЖсzT@сzT@%сzT@-сzT@0d"ФП┬U@П┬U@%П┬U@-П┬U@0d"Д	П┬U@П┬U@%П┬U@-П┬U@0d"╡	П┬U@П┬U@%П┬U@-П┬U@0d"╜	П┬U@П┬U@%П┬U@-П┬U@0d"┼	П┬U@П┬U@%П┬U@-П┬U@0d"╠	П┬U@П┬U@%П┬U@-П┬U@0d"╧	П┬U@П┬U@%П┬U@-П┬U@0d"╙	П┬U@П┬U@%П┬U@-П┬U@0d"╪	П┬U@П┬U@%П┬U@-П┬U@0d"▄	П┬U@П┬U@%П┬U@-П┬U@0d"▀	П┬U@П┬U@%П┬U@-П┬U@0d"у	П┬U@П┬U@%П┬U@-П┬U@0d"ч	П┬U@П┬U@%П┬U@-П┬U@0d"ъ	П┬U@П┬U@%П┬U@-П┬U@0d"ы	П┬U@П┬U@%П┬U@-П┬U@0╜

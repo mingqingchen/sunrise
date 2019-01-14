@@ -1,0 +1,3 @@
+
+DTVЭэо	"┘ ≥MBвёMB%вёMB- ≥MB0П."┤▐бMB▐бMB%▐бMB-▐бMB0х"┬R╦MBR╦MB%R╦MB-R╦MB0х"умлMB╝гMB%млMB-R╦MB0└ "ж▐бMB▐бMB%▐бMB-▐бMB0└"в▐бMB▐бMB%▐бMB-▐бMB0п("Ц▐бMB▐бMB%▐бMB-▐бMB0d"Г▐бMB▐бMB%▐бMB-▐бMB0╓&"Л▐бMB▐бMB%▐бMB-▐бMB0х"Р▐бMB▐бMB%▐бMB-▐бMB0Ь
+"С▐бMB▐бMB%▐бMB-▐бMB0d"║▐бMB ≥MB%▐бMB- ≥MB0лS"Ё▒mMB▒mMB%▒mMB-▒mMB0Д"╥млMBмлMB%млMB-млMB0═°"╫млMBмлMB%млMB-млMB0╦▒"и╡.MB╡.MB%╡.MB-╡.MB0╨"╒33MB33MB%33MB-33MB0d

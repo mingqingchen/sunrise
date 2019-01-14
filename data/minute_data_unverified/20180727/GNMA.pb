@@ -1,0 +1,7 @@
+
+GNMA÷ÝÏ	"ö®GAB®GAB%®GAB-®GAB0ÿ
+"ÅffAB[ÂAB%KÈAB-ffAB0³"ÌffABÞ“AB%Þ“AB-ffAB0„"æåòABåòAB%åòAB-åòAB0•"è¦›AB¦›AB%¦›AB-¦›AB0¾"óffAB÷ÆAB%÷ÆAB-ffAB0 "ÁffABÌ®AB%Ì®AB-)\AB0±"Ú#
+BB#
+BB%#
+BB-#
+BB0¨"‹¦›AB¦›AB%¦›AB-¦›AB0¤"–)‹AB)‹AB%)‹AB-)‹AB0z"ýffABìQAB%ffAB-ìQAB0Ê

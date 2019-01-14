@@ -1,0 +1,10 @@
+
+FTRIíÝÏ	"ö
+×GA
+×GA%
+×GA-
+×GA0È" 
+×GA
+×GA%
+×GA-
+×GA0d"ØìQHAìQHA%ìQHA-ìQHA0d"µ	Ì]HA_)HA%Ì]HA-_)HA0¼

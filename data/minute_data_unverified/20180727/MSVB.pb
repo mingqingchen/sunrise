@@ -1,0 +1,2 @@
+
+MSVBВщо	"ЩO@FAO@FA%O@FA-O@FA0Х"ЧO@FA ≥EA%O@FA- ≥EA0≤"Р░1EA░1EA%░1EA-░1EA0в"╝EAEA%EA-EA0д"ймлDAмлDA%млDA-млDA0╦"т{FA{FA%{FA-{FA0d"┘┘КEA{FA%{FA-┘КEA0л"■MСDA{FA%{FA-MСDA0≤"∙Ъ!EA{FA%{FA-Ъ!EA0╟	"√MСDA▐бEA%▐бEA-млDA0▄"≈млDAмлDA%млDA-млDA0д"⌡млDAмлDA%млDA-млDA0d"²┘КEA┘КEA%┘КEA-┘КEA0d"р┘КEA┘КEA%┘КEA-┘КEA0d"А{FA{FA%{FA-{FA0d"К	 ≥EA ≥EA% ≥EA- ≥EA0d

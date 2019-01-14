@@ -1,0 +1,2 @@
+
+NBWФщо	"╓Ж(HAЖ(HA%Ж(HA-Ж(HA0d"аЛQHAЛQHA%ЛQHA-ЛQHA0╛"жЛQHAЛQHA%ЛQHA-ЛQHA0х"╔ЛQHAp_HA%p_HA-ЛQHA0∙"╟уxHAмлHA%млHA-уxHA0╒"╤АzHAАzHA%АzHA-АzHA0░"╪АzHAАzHA%АzHA-АzHA0d"ЭАzHAАzHA%АzHA-АzHA0d"┐Й∙HAЙ∙HA%Й∙HA-Й∙HA0Х"═е▐HAЛQHA%е▐HA-ЛQHA0╢"║е▐HAЛQHA%вёHA-ЛQHA0▄"яАzHAмлHA%млHA-АzHA0═"Ё	ю[HAШ\HA%5^HA-ЛQHA0═"Ю	ЛQHAЛQHA%ЛQHA-ЛQHA0d

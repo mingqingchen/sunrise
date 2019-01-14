@@ -1,0 +1,2 @@
+
+EGFמאֿ	"צצ(LAצ(LA%צ(LA-צ(LA0“"לQLAלQLA%לQLA-לQLA0d"ִלQLAלQLA%לQLA-לQLA0d"ֵלQLAלQLA%לQLA-לQLA0d"װּֽLAּֽLA%ּֽLA-ּֽLA0פ"כבzLAבzLA%בzLA-בzLA0d"×בzLAבzLA%בzLA-בzLA0d"ִבzLAבzLA%בzLA-בzLA0d"בzLAבzLA%בzLA-בzLA0d"¬בzLAבzLA%בzLA-בzLA0d"לבzLAבzLA%בzLA-בzLA0d"ûבzLAבzLA%בzLA-בzLA0d"¡ּֽLAּֽLA%ּֽLA-ּֽLA0d"םבzLAבzLA%בzLA-בzLA0d"²	׳£LA׳£LA%׳£LA-׳£LA0d"ֹ	׳£LA׳£LA%׳£LA-׳£LA0d"ו	₪pMA₪pMA%₪pMA-₪pMA0ָ"ח	₪pMA•MA%™MA-]mMA0 

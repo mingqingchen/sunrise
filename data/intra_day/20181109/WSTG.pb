@@ -1,6 +1,0 @@
-
-WSTGı‡œ	"éOQAOQA%OQA-OQA0Ë"ΩOAOA%OA-OA0æ"Ω	ﬂ‡IAﬂ‡IA%ﬂ‡IA-ﬂ‡IA0¯"ﬂ	
-hMA
-hMA%
-hMA-
-hMA0¨

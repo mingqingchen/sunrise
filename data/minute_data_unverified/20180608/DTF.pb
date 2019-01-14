@@ -1,0 +1,2 @@
+
+DTF─що	"ЖвёTAвёTA%вёTA-вёTA0╨"пмлTAмлTA%млTA-млTA0ь"Я#шTA#шTA%#шTA-#шTA0ч"СмлTAмлTA%млTA-млTA0d"╥цУTAмлTA%цУTA-млTA0╧"амлTAмлTA%млTA-млTA0d"⌠млTAмлTA%млTA-млTA0d"╩млTAвёTA%млTA-вёTA0═"▌млTAмлTA%млTA-млTA0л"²вёTAвёTA%вёTA-вёTA0d"щмлTAмлTA%млTA-млTA0d"чмлTAмлTA%млTA-млTA0d"АвёTAвёTA%вёTA-вёTA0d"ЬмлTAмлTA%млTA-млTA0d"©	R╦TAR╦TA%R╦TA-R╦TA0d"о	R╦TAмлTA%млTA-R╦TA0Ч""ш	млTAмлTA%млTA-млTA0d"Д	млTAмлTA%млTA-млTA0d"И	млTAмлTA%млTA-млTA0d

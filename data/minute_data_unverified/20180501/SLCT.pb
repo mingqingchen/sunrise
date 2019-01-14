@@ -1,0 +1,3 @@
+
+SLCT∙эо	"О▐бQA▐бQA%▐бQA-▐бQA0d"с ≥QA ≥QA% ≥QA- ≥QA0d"▒ ≥QA ≥QA% ≥QA- ≥QA0d"Ё ≥QA ≥QA% ≥QA- ≥QA0х"з╦QA╦QA%╦QA-╦QA0d"╟	цУPAмлPA%цУPA-ЛQPA0╟	"╪	млPAмлPA%млPA-млPA0d"ю	ЛQPAЛQPA%ЛQPA-ЛQPA0d"х	млPAмлPA%млPA-млPA0d"р	млPAмлPA%млPA-млPA0d"ш	млPAмлPA%млPA-млPA0d"Ц	млPAмлPA%млPA-млPA0d"Г	млPAмлPA%млPA-млPA0d"И	млPAЛQPA%млPA-ЛQPA0╕"Й	АzPAАzPA%АzPA-АzPA0d"■
+вёPAвёPA%вёPA-вёPA0©

@@ -1,0 +1,12 @@
+
+FTXNƒÝÏ	"ö=
+ËA=
+ËA%=
+ËA-=
+ËA0ª"¢¶„ÇA¶„ÇA%¶„ÇA-¶„ÇA0d"ž…ÇA:ÈA%:ÈA-…ÇA0À"½­zÈA
+×ÇA%­zÈA-
+×ÇA0ì"ë­zÈA­zÈA%­zÈA-­zÈA0Ð"ì
+×ÇA
+×ÇA%
+×ÇA-
+×ÇA0Ð"èffÈAffÈA%ffÈA-ffÈA0¤"Ý	cnÈAcnÈA%cnÈA-cnÈA0È

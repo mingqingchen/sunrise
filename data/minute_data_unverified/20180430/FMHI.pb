@@ -1,0 +1,2 @@
+
+FMHIншо	"▐вёGBвёGB%вёGB-вёGB0d"явёGBвёGB%вёGB-вёGB0d"╖млGBмлGB%млGB-млGB0d"┼млGBмлGB%млGB-млGB0d"▓млGBмлGB%млGB-млGB0d"чмлGBмлGB%млGB-млGB0d"╤	млGBмлGB%млGB-млGB0╛"╨	млGBмлGB%млGB-млGB0╛"ъ	Ж(HBЖ(HB%Ж(HB-Ж(HB0d

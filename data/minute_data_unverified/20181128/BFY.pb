@@ -1,0 +1,2 @@
+
+BFY┬Ао	"Ж┘КEA┘КEA%┘КEA-┘КEA0▌"█1≥EA1≥EA%1≥EA-1≥EA0y"д╓pEA╓pEA%╓pEA-╓pEA0d"е╓pEA╓pEA%╓pEA-╓pEA0d"й╓pEA╓pEA%╓pEA-╓pEA0d"зАzDAАzDA%АzDA-АzDA0d"ЕвёDAвёDA%вёDA-вёDA0d"ХвёDAвёDA%вёDA-вёDA0d"ОАzDAАzDA%АzDA-АzDA0d"СffDAffDA%ffDA-ffDA0d"УАzDAАzDA%АzDA-АzDA0х"ЖвёDAвёDA%вёDA-вёDA0╛"пмлDAмлDA%млDA-млDA0п"ЙмлDAмлDA%млDA-млDA0б"└╦EA╝GEA%╝GEA-╦EA0Х"╫	млDAмлDA%╝GEA-млDA0 "Ц	╝GEA33EA%╝GEA-33EA0╓"К	╝GEA╝GEA%╝GEA-╝GEA0х

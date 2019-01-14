@@ -1,0 +1,3 @@
+
+EGIFö‡œ	"ˆ\èjA\èjA%\èjA-\èjA0≠"à-≤kA-≤kA%-≤kA--≤kA0Ë"ä¿[kA¿[kA%¿[kA-¿[kA0†"¿33kA33kA%33kA-33kA0ê"œ·zjA·zjA%·zjA-·zjA0ç	"±ffjAffjA%ffjA-ffjA0d"ƒffjAffjA%ffjA-ffjA0ã"ÑffjAffjA%ffjA-ffjA0»"ù33kA33kA%33kA-33kA0d"„33kA33kA%33kA-33kA0d"¯√ıjA√ıjA%√ıjA-√ıjA0Ù"˘√ıjA√ıjA%√ıjA-√ıjA0˙"Œ	\èjA\èjA%\èjA-\èjA0Ë"ﬂ	R∏jAœfjA%R∏jA-ffjA0¨"‡	œfjAœfjA%œfjA-œfjA0∞"Ê	\èjAffjA%\èjA-ffjA0»"Ë	ffjAœfjA%œfjA-ffjA0¯
+"È	ffjAffjA%ffjA-ffjA0é"Î	{jA{jA%{jA-{jA0»

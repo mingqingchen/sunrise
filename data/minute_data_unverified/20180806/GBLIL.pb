@@ -1,0 +1,2 @@
+
+GBLILфчо	"▓ZdнAZdнA%ZdнA-ZdнA0╛"╪ffнAffнA%ffнA-ffнA0т"йffнAffнA%ffнA-ffнA0л"уЛQнAffнA%ffнA-ЛQнA0х"╒ffнAffнA%ffнA-ffнA0╦"╘млнAмлнA%млнA-млнA0х"чайнA~²нA%млнA-~²нA0э"ЦмлнAмлнA%млнA-млнA0╕"│	АzнAffнA%АzнA-ffнA0Ф	"└	ffнAвёнA%вёнA-ffнA0Г

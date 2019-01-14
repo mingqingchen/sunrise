@@ -1,0 +1,2 @@
+
+NYMTNíÝÏ	"›f¾A›f¾A%›f¾A-›f¾A0è"…ff¾Aq=¾A%ff¾A-q=¾A0¼"îq=¾Aq=¾A%q=¾A-q=¾A0d"«q=¾Aq=¾A%q=¾A-q=¾A0Í"¼Õ‰¾AÕ‰¾A%Õ‰¾A-Õ‰¾A0d"ÍÃd¾AÃd¾A%Ãd¾A-Ãd¾A0„"ÎÃd¾AÃd¾A%Ãd¾A-Ãd¾A0¬"…Zu¾AZu¾A%Zu¾A-Zu¾A0ž"’ff¾A\¾A%\¾A-ff¾A0ô"\¾A\¾A%\¾A-\¾A0È"ž\¾A{¾A%\¾A-{¾A0Ø"½\¾Aƒ¾A%\¾A-ƒ¾A0È"ø\¾Aƒ¾A%\¾A-ƒ¾A0°	"ú\¾Aáz¾A%\¾A-áz¾A0„"ü\¾Aƒ¾A%\¾A-ƒ¾A0°	"áz¾Aáz¾A%áz¾A-áz¾A0d"–o¾Ao¾A%o¾A-o¾A0‰"—\¾A\¾A%\¾A-\¾A0È"Ô\¾A\¾A%\¾A-\¾A0d"ò\¾A\¾A%\¾A-\¾A0i"Ã	ff¾Aff¾A%ff¾A-ff¾A0‰"ä	gÄ¾AgÄ¾A%gÄ¾A-gÄ¾A0è"æ	ÍÌ¾A®¾A%ÍÌ¾A-®¾A0”"è	xz¾AÍÌ¾A%ÍÌ¾A-xz¾A0š

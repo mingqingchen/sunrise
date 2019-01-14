@@ -1,0 +1,4 @@
+
+NUM≤‹œ	"ˆffJAffJA%ffJA-ffJA0ÿ"˚\èJA\èJA%\èJA-\èJA0ä"˝R∏JAH·JA%H·JA-R∏JA0†"ˇﬂ‡JAﬂ‡JA%ﬂ‡JA-ﬂ‡JA0¯
+"ÖR∏JAR∏JA%R∏JA-R∏JA0d"ÜR∏JAR∏JA%R∏JA-R∏JA0d"äR∏JAR∏JA%R∏JA-R∏JA0d"çR∏JAR∏JA%R∏JA-R∏JA0s"èR∏JAR∏JA%R∏JA-R∏JA0d"ë–JA–JA%–JA-–JA0í"ìR∏JAR∏JA%R∏JA-R∏JA0d"¬R∏JA®∆JA%®∆JA-R∏JA0ê"Ã”ºJAR∏JA%”ºJA-R∏JA0‘"ÕR∏JAffJA%R∏JA-q=JA0Ü8"’ffJAffJA%ffJA-ffJA0‹"ÊffJAffJA%ffJA-ffJA0d"∑ffJAffJA%ffJA-ffJA0î
+"…7âJA7âJA%7âJA-ÖJA0∞	" ·zJA\èJA%\èJA-·zJA0∞	"€\èJA\èJA%\èJA-\èJA0Ë"ìMÑJAR∏JA%R∏JA-MÑJA0é"©R∏JAR∏JA%R∏JA-R∏JA0Ñ"∏*©JA*©JA%*©JA-*©JA0ò"ÓR∏JAR∏JA%R∏JA-R∏JA0¨"ıR∏JAR∏JA%R∏JA-R∏JA0ÿ"¿	Â–JAÂ–JA%Â–JA-Â–JA0Ë"È	/›JAH·JA%H·JA-/›JA0ï"Í	H·JA±·JA%±·JA-H·JA0é"Î	H·JAR∏JA%H·JA-R∏JA0∫

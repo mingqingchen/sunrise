@@ -1,0 +1,2 @@
+
+ARDS╔Юо	"Ы ≥EA ≥EA% ≥EA- ≥EA0╛"Г╡²EA ≥EA%╞■FA-╦EA0И"║`ЕDA`ЕDA%`ЕDA-`ЕDA0ч"╛33EA33EA%33EA-33EA0d"В33EA33EA%33EA-33EA0d"п	33EA33EA%33EA-33EA0d"э	млDAмлDA%млDA-млDA0d"ъ	33EA33EA%33EA-33EA0d"К	млDA ≥EA% ≥EA-млDA0П

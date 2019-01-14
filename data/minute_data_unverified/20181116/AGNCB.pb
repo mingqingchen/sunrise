@@ -1,0 +1,3 @@
+
+AGNCBüàÏ	"ö¤pËA¤pËA%¤pËA-¤pËA0Ì"’¤pËA33ËA%7‰ËA-33ËA0ì"½33ËA33ËA%33ËA-33ËA0d"Ë)\ËA)\ËA%)\ËA-)\ËA0È"Õ…ËA…ËA%…ËA-…ËA0Ø"†ÂËA\ËA%ÂËA-\ËA0”
+"‡ÂËAÂËA%ÂËA-ÂËA0è"‰š™ËAš™ËA%š™ËA-š™ËA0¬"…ËAš™ËA%š™ËA-…ËA0„"ž…ËA…ËA%…ËA-…ËA0Ø"¥¤pËAšwËA%šwËA-¤pËA0 "¶…ËAÅ~ËA%…ËA-Å~ËA0Ü"é‡§ËA‡§ËA%‡§ËA-‡§ËA0£"Í–¡ËA–¡ËA%–¡ËA-–¡ËA0–"ôO¯ËAÂËA%ÂËA-×£ËA0 "õ×£ËAÂËA%ÂËA-×£ËA0"Å	‘ËA‘ËA%‘ËA-‘ËA0d"ä	š™ËAš™ËA%®ËA-š™ËA0Ø

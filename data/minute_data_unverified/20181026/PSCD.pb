@@ -1,0 +1,2 @@
+
+PSCDвр╧	"ЎП┬pBП┬pB%П┬pB-П┬pB0м"╝╝sB╝sB%╝sB-╝sB0Л"╠кqrBкqrB%кqrB-кqrB0Ї"╥\ПsBП┬sB%П┬sB-\ПsB0╧	"╦═╠sBП┬sB%х╨sB-П┬sB0░	"ПffsBffsB%ffsB-ffsB0▀"╖ФsBФsB%ФsB-ФsB0Х"Ў╧ўrB╧ўrB%╧ўrB-╧ўrB0╤"ФЮosBЮosB%ЮosB-ЮosB0х"ш╫гsB╫гsB%╫гsB-╫гsB0м"█	╕uB╕uB%╕uB-╕uB0d

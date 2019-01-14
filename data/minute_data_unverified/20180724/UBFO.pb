@@ -1,0 +1,4 @@
+
+UBFOТщо	"Ь33+A└)A%33+A-└)A0▒"З$(+A$(+A%$(+A-$(+A0н"жff*Aff*A%ff*A-ff*A0п
+"Аff*Aff*A%мл*A-ff*A0п"Бff*Aff*A%ff*A-ff*A0л"Цff*Aff*A%ff*A-ff*A0╛"Кff*Aff*A%ff*A-ff*A0└"Лff*Aff*A%ff*A-ff*A0d"ЯKЙ*AKЙ*A%KЙ*A-KЙ*A0√"Тff*Aff*A%ff*A-ff*A0х"╓мл*Aff*A%мл*A-ff*A0╛"©ай*Aай*A%ай*A-ай*A0ы"▀/+A/+A%/+A-/+A0╛"▓мл*Aмл*A%мл*A-мл*A0х"╔HА*AHА*A%HА*A-HА*A0╛"зff*Aff*A%мл*A-ff*A0═"шff*Aff*A%ff*A-ff*A0░"Хff*Aff*A%ff*A-ff*A0╟	"Кff*A╬а*A%╬а*A-ff*A0░ "Мff*Aff*A%ff*A-ff*A0Т"Нff*Aff*A%ff*A-ff*A0╛"Оff*Aff*A%ff*A-ff*A0d"л	ff*Aff*A%ff*A-ff*A0ь"м	ff*Aff*A%ff*A-ff*A0х"ь	ff*Aff*A%ff*A-ff*A0ь"з	ff*Aff*A%ff*A- ≥)A0└"щ	ff*Aff*A%ff*A-ff*A0─"ч	 ≥)A ≥)A% ≥)A- ≥)A0ш"Г	ff*Aff*A%ff*A-ff*A0d"К	ff*Aff*A%ff*A-ff*A0х"■
+ff*Aff*A%ff*A-ff*A0╬

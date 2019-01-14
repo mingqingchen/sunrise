@@ -1,0 +1,6 @@
+
+RDIншо	"Ж ≥}A ≥}A% ≥}A- ≥}A0ь"Чмл|Aмл|A%мл|A-мл|A0d"─вё|AЖ(|A%вё|A-Ж(|A0С"┐вё|Aвё|A%вё|A-вё|A0d"└ЛQ|AЛQ|A%ЛQ|A-ЛQ|A0d"┴Ж(|AЖ(|A%Ж(|A-Ж(|A0d"┼ЛQ|AЛQ|A%ЛQ|A-ЛQ|A0d"▀Ж(|AЖ(|A%Ж(|A-Ж(|A0х"еЖ(|AR╦zA%Ж(|A-R╦zA0Щ"фffzA=
+{A%=
+{A-ffzA0░"г\▐zAHАzA%HАzA-\▐zA0Ж"Х┘КyA┘КyA%┘КyA-┘КyA0d"И▐бyA╦yA%▐бyA-╦yA0╛"ЛЛQxAЛQxA%ЛQxA-ЛQxA0d"Н√CyAEGyA% ≥yA-:#yA0▄"О ≥yA ≥yA% ≥yA- ≥yA0╛"╗ffzAffzA%ffzA-ffzA0п"╝q=zAq=zA%q=zA-q=zA0┴"еR╦zA{zA%R╦zA-{zA0х"у▐бyA▐бyA%▐бyA-▐бyA0d"∙вёzAвёzA%вёzA-вёzA0З"≈┘КyAmеyA%┘КyA-▐бyA0╛"м╓pyA╓pyA%╓pyA-╓pyA0d"вaTxAaTxA%aTxA-aTxA0d"А╦yA╦yA%╦yA-╦yA0х"Р2wxAмлxA%млxA-2wxA0О"САzxAАzxA%АzxA-АzxA0х"ТАzxAАzxA%АzxA-АzxA0d"ЬвёxAвёxA%вёxA-вёxA0╛"ЫмлxAмлxA%млxA-млxA0d"ЪцУxAцУxA%цУxA-цУxA0х"─	млxAцУxA%цУxA-млxA0ь"│	вёxAвёxA%вёxA-вёxA0d"┌	цУxAR╦zA%R╦zA-цУxA0Ь
+"┐	 ≥yA ≥yA% ≥yA- ≥yA0d"╦	{zA{zA%{zA-{zA0d"ц	ffzAffzA%ffzA-ffzA0d"н	{zA{zA%{zA-{zA0╛"о	{zA{zA%{zA-{zA0х"у	{zAR╦zA%R╦zA-{zA0╣"Ц	q=zAq=zA%q=zA-q=zA0d"Ф	┘КyAЖ(zA%Ж(zA-┘КyA0х"К	q=zAffzA%\▐zA-Ж(zA0╤"■
+q=zAq=zA%q=zA-q=zA0┐

@@ -1,0 +1,2 @@
+
+MNE≤эо	"Жq=JA┘KA%┘KA-q=JA0х"рq=JAq=JA%q=JA-q=JA0╛"Х\▐JA\▐JA%\▐JA-\▐JA0d"╪HАJAHАJA%HАJA-HАJA0х"╬HАJAHАJA%HАJA-HАJA0d"р\▐JAffJA%\▐JA-ffJA0░"З?5JA?5JA%?5JA-┘КIA0э"ЩынIAынIA%ынIA-▐бIA0ю"╬	▐бIAынIA%ынIA-▐бIA0░"и	>ХIA┘КIA%┘КIA->ХIA0═"п	>ХIA┘КIA%┘КIA->ХIA0└"Й	┘КIA┘КIA%┘КIA-┘КIA0Л"К	ffJAffJA%ffJA-ffJA0d

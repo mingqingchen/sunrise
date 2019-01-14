@@ -1,0 +1,4 @@
+
+NXQ×ßֿ	"צ¸YA¸YA%¸YA-¸YA0ׁ"ר;pYA₪pYA%₪pYA-;pYA0ָ"‚חXAחXA%חXA-חXA0ט"¼×סXA×סXA%×סXA-×סXA0ְ"ֱֳץXA¸YA%8YA-ּֽXA0„"ֲ`וXA`וXA%`וXA-`וXA0÷"ֳּֽXA6ֽXA%6ֽXA-ּֽXA0ָ"ֵ׳£XA־×XA%־×XA-׳£XA0€
+"׃בzXAצ(XA%J{XA-צ(XA0¬"ו`vXA¾XA%¾XA-`vXA0„"ז¾XA¾XA%¾XA-¾XA0 "ףfˆXAfˆXA%fˆXA-fˆXA0ט"·׳£XA׳£XA%׳£XA-׳£XA0d"ֵת~XAת~XA%ת~XA-ת~XA0±"ָ_)XA_)XA%_)XA-_)XA0„"׳£XA׳£XA%׳£XA-ffXA0"XXAXXA%XXA-XXA0ָ"¯ּֽXAּֽXA%ּֽXA-ּֽXA0"¶בzXAבzXA%בzXA-בzXA0„"·בzXAבzXA%בzXA-בzXA0¬"ײ׃¼XA׃¼XA%׃¼XA-׃¼XA0ױ"״‏eXA‏eXA%‏eXA-‏eXA0׀"בkXAּֽXA%ּֽXA-kXA0״"נ©₪XA©₪XA%©₪XA-©₪XA0י"»	TRXA§yXA%§yXA-TRXA0ב"״	לְXA׳£XA%לְXA-׳£XA0ֶ"Ù	לQXAבzXA%׳£XA-לQXA0¸"ב	לQXAלQXA%TRXA-צ(XA0פ"כ	בzXAבzXA%בzXA-\VA0¼."–
+לQXAלQXA%לQXA-לQXA0

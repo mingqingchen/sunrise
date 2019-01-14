@@ -1,0 +1,2 @@
+
+MZAМЮо	"ЖЛQDAЛQDA%ЛQDA-ЛQDA0≥"┘⌠:CA⌠:CA%⌠:CA-⌠:CA0│"╫ТCAТCA%ТCA-ТCA0т"²вёDAвёDA%вёDA-вёDA0х"·млDAвёDA%цУDA-вёDA0э"÷вёDAвёDA%вёDA-вёDA0d"═вёDAмлDA%млDA-вёDA0ь"║млDAмлDA%млDA-млDA0d"╒млDAмлDA%млDA-млDA0d"ёмлDAмлDA%млDA-млDA0ь"Ц	млDAмлDA%млDA-млDA0d"Д	млDAмлDA%млDA-млDA0х"Е	млDAмлDA%млDA-млDA0d

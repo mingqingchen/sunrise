@@ -1,0 +1,3 @@
+
+JHXичо	"Ы▐б┴A▐б┴A%▐б┴A-▐б┴A0Э"▄{┼A{┼A%{┼A-{┼A0х"╡q=┼Aq=┼A%q=┼A-q=┼A0Г"САz┼AАz┼A%Аz┼A-Аz┼A0d"╒R╦┼AR╦┼A%R╦┼A-R╦┼A0d"╢	мл┼Aмл┼A%мл┼A-мл┼A0d"╣	мл┼Aмл┼A%мл┼A-мл┼A0d"╬	HА┼AHА┼A%HА┼A-HА┼A0d"©	HА┼AHА┼A%HА┼A-HА┼A0d"л	HА┼AHА┼A%HА┼A-HА┼A0d"я	HА┼AHА┼A%HА┼A-HА┼A0d"у	HА┼AHА┼A%HА┼A-HА┼A0d"з	HА┼AHА┼A%HА┼A-HА┼A0х"ч	HА┼AHА┼A%HА┼A-HА┼A0х"Ц	HА┼AHА┼A%HА┼A-HА┼A0d"Д	HА┼AHА┼A%HА┼A-HА┼A0d"Ф	HА┼AHА┼A%HА┼A-HА┼A0d"Г	HА┼AHА┼A%HА┼A-HА┼A0d"Х	HА┼AHА┼A%HА┼A-HА┼A0d"Й	HА┼AHА┼A%HА┼A-HА┼A0d"К	HА┼AHА┼A%HА┼A-HА┼A0щ"√
+HА┼AHА┼A%HА┼A-HА┼A0╙

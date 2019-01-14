@@ -1,0 +1,2 @@
+
+ESGD¼ßÏ	"ö\…B\…B%\…B-\…B0«"û¤p…B¤p…B%¤p…B-¤p…B0×"Ã¸ž…B¸ž…B%¸ž…B-¸ž…B0d"ß×£…B3³…B%3³…B-×£…B0ã	"æ)­…B)­…B%)­…B-)­…B0¨"£œ¤…Bœ¤…B%œ¤…B-œ¤…B0ê"´R¸…BR¸…B%R¸…B-R¸…B0i"ÆR¸…BR¸…B%R¸…B-R¸…B0d"É®Ç…B®Ç…B%®Ç…B-®Ç…B0à"¢Â…BÂ…B%Â…B-Â…B0¬"¶‘¾…B‘¾…B%‘¾…B-‘¾…B0Ê"îÅ¾…BÅ¾…B%Å¾…B-Å¾…B0¼"ûJÌ…BJÌ…B%JÌ…B-JÌ…B0d"šR¸…BR¸…B%R¸…B-R¸…B0¾"œR¸…BR¸…B%R¸…B-R¸…B0d"¢¿…B¿…B%¿…B-¿…B0"Ù¬…B¬…B%¬…B-¬…B0ä"á®Ç…B®Ç…B%®Ç…B-®Ç…B0›"ãfÈ…BfÈ…B%fÈ…B-fÈ…B0®"ì?·…B?·…B%?·…B-?·…B0s"…	®…B®…B%®…B-®…B0¬"Í	j¼…Bj¼…B%j¼…B-j¼…B0d"Ô	Â…BÂ…B%Â…B-Â…B0ö"Ø	¼…B¼…B%¼…B-¼…B0ì"ë	®…B®…B%®…B-®…B0È

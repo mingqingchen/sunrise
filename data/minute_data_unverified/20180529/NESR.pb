@@ -1,0 +1,3 @@
+
+NESR╠эо	"Жмл Aмл A%мл A-мл A0╘"ЕЛQ AЛQ A%ЛQ A-ЛQ A0d"═ЛQ AЛQ A%ЛQ A-ЛQ A0d"╦Аz AАz A%Аz A-Аz A0d"яАz AАz A%Аz A-Аz A0d"■Аz AАz A%Аz A-Аz A0d"╟Ж( AЖ( A%Ж( A-Ж( A0d"Т╓p!AЖ( A%▐б!A-Ж( A0п²"У ≥!AЛQ A% ≥!A-ЛQ A0Л°"▌Аz AАz A%Аz A-Аz A0d"нЛQ AЛQ A%ЛQ A-ЛQ A0х"КАz AАz A%Аz A-Аz A0d"┌	ЛQ AЛQ A%ЛQ A-ЛQ A0d"й	 ≥!A ≥!A% ≥!A- ≥!A0ю "о	Аz AАz A%Аz A-Аz A0d"ы	╝A╝A%╝A-╝A0d"А	╝A╝A%╝A-╝A0d"Б	Аz AАz A%Аz A-Аz A0х"Д	╝A╝A%╝A-╝A0d"Х	╝A╝A%╝A-╝A0d"Й	ЛQ AЛQ A%ЛQ A-ЛQ A0d"■
+Ж( AЖ( A%Ж( A-Ж( A0╦

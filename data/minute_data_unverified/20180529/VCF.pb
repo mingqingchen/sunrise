@@ -1,0 +1,2 @@
+
+VCF╠эо	"ЖмлdAмлdA%млdA-млdA0Я?"┌q=fAq=fA%q=fA-q=fA0p"╫HАfAHАfA%HАfA-HАfA0з"ц33gA33gA%33gA-33gA0В"ж╣╕fA╕⌡fA%╣╕fA-fffA0▄T"≤fffAfffA%fffA-fffA0d"╣fffAfffA%fffA-fffA0d"ХfffAfffA%fffA-fffA0d"└	fffAмлfA%млfA-fffA0═"├	fffA ≥eA%млfA-млdA0л

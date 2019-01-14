@@ -1,0 +1,2 @@
+
+SICьчо	"ФffFAffFA%ffFA-ffFA0d"╔ffFAffFA%ffFA-ffFA0d"╬ffFAffFA%ffFA-ffFA0d"ыffFAffFA%ffFA-ffFA0d"÷ffFAffFA%ffFA-ffFA0d"╬ffFAffFA%ffFA-ffFA0d"┤ffFAffFA%ffFA-ffFA0d"нffFAffFA%ffFA-ffFA0d"КffFAffFA%ffFA-ffFA0d"├	ffFAffFA%ffFA-ffFA0d"ф	ffFAffFA%ffFA-ffFA0d"ь	ffFAffFA%ffFA-ffFA0d"Ц	млDAмлDA%млDA-млDA0d"Ф	ff@A╝GCA%╝GCA-Ж(@A0┬"Г	мл@AАz@A%мл@A-Аz@A0░"К	Ж(@AЖ(@A%33CA-Ж(@A0└

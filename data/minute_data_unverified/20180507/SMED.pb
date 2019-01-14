@@ -1,0 +1,2 @@
+
+SMED›ÜÏ	"À®w@®w@%®w@-®w@0d"ÿ)íq@)íq@%)íq@-)íq@0ô"¿	…ëq@…ëq@%…ëq@-…ëq@0d"Á	ÿ!u@ÿ!u@%ÿ!u@-ÿ!u@0d"Â	HPx@HPx@%HPx@-HPx@0n"Õ	)íq@)íq@%)íq@-)íq@0œ"ß	ázt@ázt@%ázt@-ázt@0d"è	gÕs@gÕs@%gÕs@-gÕs@0d"é	\r@\r@%\r@-\r@0d

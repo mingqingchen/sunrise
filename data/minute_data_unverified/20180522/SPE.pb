@@ -1,0 +1,3 @@
+
+SPE╙эо	"ЖмлpAмлpA%млpA-млpA0Ю"гх≤qAх≤qA%х≤qA-х≤qA0┐"и ≥qA ≥qA% ≥qA- ≥qA0d"Х▐бqA▐бqA%▐бqA-▐бqA0d"═mГqAИ╥qA%mГqA-И╥qA0п"║иqAиqA%иqA-иqA0Х"о┘КqA{rA%{rA-┘КqA0░"п{rA{rA%{rA-{rA0╛"я\▐rA ≥qA%\▐rA- ≥qA0ц"╥ffrAffrA%ffrA-ffrA0х"°\▐rA\▐rA%\▐rA-\▐rA0╢"Мн┬rAн┬rA%н┬rA-н┬rA0Ж"в	ffrAffrA%ffrA-ffrA0■"э	┐rA\▐rA%\▐rA-┐rA0░"Ф	\▐rA\▐rA%\▐rA-\▐rA0╫"Х	(~rA(~rA%(~rA-(~rA0э"И	АzrAС▌rA%\▐rA-АzrA0╪"Й	И╥rAИ╥rA%И╥rA-И╥rA0м"√
+\▐rA\▐rA%\▐rA-\▐rA0р

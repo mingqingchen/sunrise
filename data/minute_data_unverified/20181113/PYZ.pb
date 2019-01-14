@@ -1,0 +1,3 @@
+
+PYZщаѕ	"ц√хsB√хsB%√хsB-√хsB0w"ЛKvBKvB%KvB-KvB0d"ТП¬uBП¬uB%П¬uB-П¬uB0d"√ц(uB33uB%33uB-ц(uB0Ў"«„£uB„£uB%„£uB-„£uB0Љ"ЋHбuBHбuB%HбuB-HбuB0ђ"Ё√хsBоtB%оtB-√хsB0к"р{uBЪuB%ЪuB-{uB0»"ЋЯwBЯwB%ЯwB-ЯwB0g"ЃЕvBЕvB%ЕvB-ЕvB0†"йЪЩvBЪЩvB%ЪЩvB-ЪЩvB0ђ"Е	-бsB-бsB%-бsB--бsB0Р"Ж	ЃGsBRЄsB%RЄsB-ЃGsB0Р"»	HбrBJыrB%dыrB-
+„rB0≤"“	0ыrB0ыrB%0ыrB-0ыrB0„"’	ЄsBЄsB%ЄsB-ЄsB0†"÷	ffsBffsB%ffsB-ffsB0»"л	8sB8sB%8sB-8sB0±

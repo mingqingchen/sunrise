@@ -1,0 +1,6 @@
+
+LGI„ÝÏ	"þq=–Aq=–A%q=–A-q=–A0¨
+"‘¤p•A¤p•A%¤p•A-¤p•A0d"ö®G•A¤p•A%¤p•A-®G•A0Í"ø®•A®•A%®•A-®•A0d"ùÖÅ•AÖÅ•A%ÖÅ•A-ÖÅ•A0–"’š™•Aš™•A%š™•A-š™•A0"¼\•A\•A%\•A-\•A0d"Ä®•A®•A%®•A-®•A0d"ÈÂ•AÂ•A%Â•A-Â•A0°	"ÓóŸ•AóŸ•A%óŸ•A-óŸ•A0Í"Ö®•A®•A%®•A-®•A0d"ÝÂ•AÂ•A%Â•A-Â•A0d"ß®•A®•A%®•A-®•A0¬"á®•A®•A%®•A-®•A0d"âÂ•AÂ•A%Â•A-Â•A0¬"ä®•A®•A%®•A-®•A0d"ç[Â•A[Â•A%[Â•A-[Â•A0m"èR¸•AI®•A%R¸•A-®•A0ø
+"ìƒÀ•AÍ»•A%Â•A-R¸•A0Ü"ñÇº•AÇº•A%Çº•A-Çº•A0È"öƒÀ•AR¸•A%Â•A-R¸•A0" Â•AÂ•A%Â•A-Â•A0d"ªÂ•AÂ•A%Â•A-®•A0È"´®•A®•A%®•A-®•A0¬"µR¸•AR¸•A%R¸•A-R¸•A0d"º®•A®•A%®•A-®•A0†"¼z¶•Az¶•A%z¶•A-z¶•A0¬
+"ÇÂ•AÂ•A%Â•A-R¸•A0 "ÔR¸•A[Â•A%Â•A-R¸•A0ƒ"ŠÂ•AÂ•A%Â•A-Â•A0d"°®•AI®•A%I®•A-®•A0‘"ù®•A®•A%¯•A-š™•A0„"Â•AÂ•A%Â•A-Â•A0d"Ö®•A®•A%®•A-®•A0d"á®•A®•A%®•A-®•A0ó"ä×£•A×£•A%×£•A-×£•A0d"æš™•Aš™•A%š™•A-š™•A0×"ì¤p•A¤p•A%¤p•A-¤p•A0d"÷¤p•A¤p•A%¤p•A-¤p•A0Ø"þãG•A®G•A%ãG•A-®G•A0"‚	®G•A®G•A%®G•A-®G•A0d"³	áz•Aáz•A%áz•A-áz•A0d"´	5^•A5^•A%5^•A-5^•A0d"½	)\•A)\•A%)\•A-)\•A0d"Â	]\•A]\•A%]\•A-]\•A0d"Æ	)\•A)\•A%)\•A-)\•A0d"Î	)\•A)\•A%)\•A-)\•A0d"Ô	5^•A5^•A%5^•A-5^•A0d"Ú	)\•Ai€•A%i€•A-)\•A0è"Þ	5^•A5^•A%5^•A-5^•A0d"â	)\•A)\•A%)\•A-)\•A0d"å	)\•A)\•A%)\•A-)\•A0¬"ç	)\•A)\•A%)\•A-)\•A0d"é	)\•A)\•A%)\•A-)\•A0d"ê	)\•A)\•A%)\•A-)\•A0d"ë	)\•A)\•A%)\•A-)\•A0þ"–
+®G•A®G•A%®G•A-®G•A0Ø

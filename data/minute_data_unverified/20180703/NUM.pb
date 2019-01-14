@@ -1,0 +1,7 @@
+
+NUMßÝÏ	"öR¸JAR¸JA%R¸JA-R¸JA0®"øioJAioJA%ioJA-ioJA0˜"ùR¸JAffJA%R¸JA-ffJA0È"‚R¸JAR¸JA%R¸JA-R¸JA0d"9´JA9´JA%9´JA-9´JA0"¼\JA\JA%\JA-\JA0Í"ÁR¸JAR¸JA%R¸JA-R¸JA0é"Ãj¼JAR¸JA%j¼JA-ázJA0 Y"Ë·ÑJA·ÑJA%·ÑJA-·ÑJA0"ÍR¸JAR¸JA%R¸JA-R¸JA0È"ÐjÞJAHáJA%HáJA-jÞJA0´"ãHáJAHáJA%HáJA-HáJA0d"ëHáJA…ëJA%…ëJA-HáJA0ß"ô=
+KA=
+KA%=
+KA-=
+KA0d" HáJA\JA%HáJA-\JA0Ž"¡\JA\JA%\JA-\JA0 "¢£’JA£’JA%£’JA-£’JA0¬"£×£JA×£JA%×£JA-×£JA0È"¤×£JA×£JA%×£JA-×£JA0d"¥\JA\JA%\JA-\JA0È"¦\JA\JA%\JA-\JA0d"§\JA\JA%\JA-\JA0d"¨\JA\JA%\JA-\JA0d"©×£JA\JA%×£JA-\JA0È"ª\JA\JA%\JA-\JA0d"«\JA\JA%\JA-\JA0d"¬\JA\JA%\JA-\JA0È"­\JA\JA%\JA-\JA0d"®\JA\JA%\JA-\JA0d"¯\JA\JA%\JA-\JA0d"°\JA\JA%\JA-\JA0d"±\JA\JA%\JA-\JA0d"²\JA\JA%\JA-\JA0È"³\JA\JA%\JA-\JA0d"Ã\JA\JA%\JA-\JA0‹"ÆR¸JAR¸JA%R¸JA-R¸JA0d"†\JAR¸JA%R¸JA-\JA0À"žR¸JA×£JA%R¸JA-×£JA0œ"ŸR¸JA\JA%R¸JA-\JA0‘9"±é·JAé·JA%é·JA-é·JA0±"´\JA\JA%\JA-\JA0‰"îffJAffJA%ffJA-ffJA0È"ó~ŒJA\JA%\JA-~ŒJA0Œ"‹\JA\JA%\JA-\JA0´"˜HáJAHáJA%HáJA-HáJA0d"Ô\JA\JA%\JA-\JA0È"ßR¸JA\JA%R¸JA-\JA0Œ"îffJA\JA%\JA-ffJA0Ñ""ï\JAR¸JA%R¸JA-\JA0ç&"ðtµJAtµJA%tµJA-tµJA0d"€	tµJAtµJA%tµJA-tµJA0d"‚	tµJAtµJA%tµJA-tµJA0d"·	\JA\JA%\JA-\JA0È"Æ	tµJAtµJA%tµJA-tµJA0È"È	\JA\JA%\JA-\JA0f"Ø	\JA\JA%\JA-\JA0Ø"Û	ffJAffJA%ffJA-ffJA0d"á	ffJAffJA%ffJA-ffJA0d"ä	ffJAffJA%ffJA-ffJA0d"ç	óŽJAóŽJA%óŽJA-óŽJA0ð"è	ffJAffJA%ffJA-ffJA0È"ê	ffJAffJA%ffJA-ffJA0d"ë	\JAffJA%\JA-ffJA0Ð"–
+\JA\JA%\JA-\JA0ª

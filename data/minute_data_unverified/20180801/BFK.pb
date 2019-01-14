@@ -1,0 +1,4 @@
+
+BFKачо	"ЖмлPAмлPA%млPA-млPA0Ж"ЗмлPAмлPA%млPA-млPA0и"┘Р╟PAР╟PA%Р╟PA-Р╟PA0Х"▀П╖PAЛQPA%П╖PA-ЛQPA0─ "▒млPAмлPA%млPA-╬÷PA0≥"мnёPAАzPA%nёPA-АzPA0═"КАzPAАzPA%АzPA-АzPA0©"ёp_PAp_PA%p_PA-p_PA0╙"╟АzPAАzPA%АzPA-АzPA0░"фZPAZPA%ZPA-ZPA0═"к╬÷PA╬÷PA%╬÷PA-╬÷PA0▐"уАzPAАzPA%АzPA-АzPA0╟	"зе▐PAАzPA%е▐PA-АzPA0Э"└вёPAcPA%вёPA-АzPA0ю"≈4╒PA4╒PA%4╒PA-4╒PA0Х"╛вёPAвёPA%вёPA-АzPA0└"╜вёPAвёPA%вёPA-\▐PA0▐-"М ≥PA ≥PA% ≥PA- ≥PA0Э"НвёPAвёPA%вёPA-вёPA0х"┐П╖PAП╖PA%П╖PA-П╖PA0с"°млPA╝GQA%╝GQA-млPA0щ7"²╓pQA ≥QA% ≥QA-╓pQA0▓"· ≥QA ≥QA% ≥QA- ≥QA0щ"═┬cQA┬cQA%┬cQA-┬cQA0▄"т╓pQAHQA%qQA-HQA0Д"Юh▒QAh▒QA%h▒QA-h▒QA0п"╡	HQAHQA%HQA-HQA0Т"©	│∙QA ≥QA% ≥QA-│∙QA0²7"ю	 ≥QA ≥QA% ≥QA- ≥QA0╪"Б	 ≥QA ≥QA% ≥QA- ≥QA0d"Г	╝GQA╦QA%х≤QA-╦QA0≤"Й	╓pQAjQA%╓pQA-jQA0■
+"К	)\QA╝GQA%)\QA-╝GQA0▓" 
+млPAмлPA%млPA-млPA0╩

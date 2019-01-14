@@ -1,0 +1,2 @@
+
+NMTччо	"ЖЛQDAЛQDA%ЛQDA-ЛQDA0Т"█вёDAвёDA%вёDA-вёDA0х"Й рDAАzDA% рDA-АzDA0╢"П`vDA`vDA%`vDA-`vDA0П"╛ЛQDAЛQDA%ЛQDA-ЛQDA0Т"╥АzDAЛQDA%АzDA-ЛQDA0╛"аЛQDAЛQDA%ЛQDA-ЛQDA0Т"мвёDAвёDA%вёDA-вёDA0х"╝млDAмлDA%млDA-млDA0х"ЭвёDAмлDA%млDA-вёDA0С"∙вёDAвёDA%вёDA-вёDA0З"≈вёDAвёDA%млDA-вёDA0╢)"≤0╩DA0╩DA%0╩DA-0╩DA0Х"АвёDAвёDA%вёDA-вёDA0d"ФмлDAмлDA%млDA-млDA0d"РмлDAмлDA%млDA-млDA0ю"г	млDAмлDA%млDA-млDA0d"К	млDA╦EA%╦EA-млDA0░

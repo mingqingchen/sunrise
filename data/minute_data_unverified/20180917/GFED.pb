@@ -1,0 +1,3 @@
+
+GFED╣ъо	"УмлбAмлбA%млбA-млбA0d"Ж33цA33цA%33цA-33цA0√"█ffбAffбA%ffбA-ffбA0╛"▒млдA33цA%млдA-33цA0╛"ЩffбAffбA%ffбA-ffбA0d"АffбAffбA%ffбA-ffбA0d"ВffбAffбA%ffбA-ffбA0d"ЧffбAffбA%ffбA-ffбA0╛"╡	ffбAffбA%ffбA-ffбA0d"╩	ffбAffбA%ffбA-ffбA0d"╬	ffбAffбA%ffбA-ffбA0d"е	{бA{бA%{бA-{бA0d"х	ffбAffбA%ffбA-ffбA0d"п	ffбA{бA%ffбA-{бA0╛"у	ffбAffбA%ffбA-ffбA0d"Ю	ffбAffбA%ffбA-ffбA0х"Б	ffбAffбA%ffбA-ffбA0d"И	ffбAffбA%ffбA-ffбA0х"К	ffбAffбA%ffбA-ffбA0х"■
+ffбAffбA%ffбA-ffбA0╠

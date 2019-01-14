@@ -1,0 +1,2 @@
+
+PRTячо	"ЬffzAffzA%ffzA-ffzA0а"ЭмлxAмлxA%млxA-млxA0Т"▒АzxAАzxA%АzxA-АzxA0х"бпуyAпуyA%пуyA-пуyA0х"дAЯyAAЯyA%AЯyA-AЯyA0Х"оJzAJzA%JzA-JzA0d"РyИzAyИzA%yИzA-yИzA0░"СЛQxAЛQxA%ЛQxA-ЛQxA0э"ц╙`zA╙`zA%╙`zA-╙`zA0Т"зцУxAЛQxA%цУxA-ЛQxA0ш"ЯпЁzAпЁzA%пЁzA-пЁzA0░"│AЯyAAЯyA%AЯyA-AЯyA0d"▐║gyA║gyA%║gyA-║gyA0э"уsxAsxA%sxA-sxA0м"чмлxAмлxA%млxA-млxA0Х"ХмлxAмлxA%млxA-млxA0┬"Й	d;yAd;yA%d;yA-d;yA0─

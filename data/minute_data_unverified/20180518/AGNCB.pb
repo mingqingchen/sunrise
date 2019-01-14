@@ -1,0 +1,2 @@
+
+AGNCB¦ÜÏ	"‡“)ÌA“)ÌA%“)ÌA-“)ÌA0¾"‹gDÌAgDÌA%gDÌA-gDÌA0–"¬££ÌA££ÌA%££ÌA-££ÌA0Å"Ò×£ÌAffÌA%×£ÌA-ffÌA0ø"¶„ÌA¶„ÌA%¶„ÌA-¶„ÌA0Ä"ô‚sÌA‚sÌA%‚sÌA-‚sÌA0¬"„	M„ÌAM„ÌA%M„ÌA-M„ÌA0–"³	øSÌAøSÌA%øSÌA-øSÌA0…"¾	ázÌAázÌA%ázÌA-ázÌA0"Ô	ý‡ÌAý‡ÌA%ý‡ÌA-ý‡ÌA0v"Ø	‚sÌA‚sÌA%‚sÌA-‚sÌA0

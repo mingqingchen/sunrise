@@ -1,0 +1,4 @@
+
+HCXZÆﬂœ	"‚∆A∆A%∆A-∆A0º"°Zd∆Aff∆A%ff∆A-Zd∆A0¯
+"¿q=∆Aff∆A%ff∆A-q=∆A0Ë"√ff∆Aff∆A%ff∆A-ff∆A0¨"ƒ·z∆A·z∆A%·z∆A-ff∆A0•"…·z∆Aff∆A%·z∆A-ff∆A0Ù" ·z∆Aff∆A%·z∆A-ff∆A0ê"ëÏQ∆AÏQ∆A%ÏQ∆A-ÏQ∆A0†"ñff∆Aff∆A%ff∆A-ff∆A0Ù"£ff∆A2f∆A%ff∆A-2f∆A0¿"ßff∆Aff∆A%ff∆A-ff∆A0ê"®ff∆Aff∆A%ff∆A-ff∆A0»"ØO∆AO∆A%O∆A-O∆A0à"˘ff∆Aff∆A%ff∆A-ff∆A0ê"à∆A∆A%∆A-∆A0é"¢ˆ(∆Aˆ(∆A%ˆ(∆A-ˆ(∆A0∞	"“ff∆A2f∆A%ff∆A-2f∆A0»"‘ff∆Aff∆A%ff∆A-ff∆A0˙"Í)\∆A)\∆A%)\∆A-)\∆A0ˆ"Úff∆Aff∆A%ff∆A-ff∆A0ê"Ûff∆Aff∆A%ff∆A-ff∆A0¯"‘	ÏQ∆AÏQ∆A%ÏQ∆A-ÏQ∆A0Ù"ù
+q=∆Aq=∆A%q=∆A-q=∆A0–(

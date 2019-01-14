@@ -1,0 +1,2 @@
+
+MCI•Ýฯ	"þjผqAjผqA%jผqA-jผqA0ศ"ฎGqAวKqA%วKqA-ฎGqA0ย"หzuA{rA%zuA-{rA0๔"ีw-sAw-sA%w-sA-w-sA0ห"Ý…sA…sA%…sA-…sA0"฿aรqAaรqA%aรqA-aรqA0๛"มสrAมสrA%มสrA-มสrA0	"ค:#sA:#sA%:#sA-:#sA0์"ฯsAsA%sA-sA0"…	…๋qA…๋qA%…๋qA-…๋qA0ุ"๋	)\sA)\sA%)\sA-)\sA0d

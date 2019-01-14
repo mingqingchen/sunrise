@@ -1,0 +1,3 @@
+
+BDXA─що	"ЖR╦qBR╦qB%R╦qB-R╦qB0З"Ы\▐pB\▐pB%\▐pB-\▐pB0d"▀R╦pBR╦pB%R╦pB-R╦pB0х"⌠АzpBffpB%АzpB-ffpB0╖"яR╦oBR╦oB%R╦oB-R╦oB0o"И┘КnB┘КnB%┘КnB-┘КnB0d"ЛD:nBD:nB%D:nB-D:nB0╞"▓ ≥nB ≥nB% ≥nB- ≥nB0d"╒\▐nB\▐nB%\▐nB-\▐nB0■#"СffnBffnB%ffnB-ffnB0d"╣	млnBмлnB%млnB-млnB0■
+"ц	пдnBпдnB%пдnB-пдnB0З"ф	млnBмлnB%млnB-млnB0▄"г	млnBмлnB%млnB-млnB0ь"х	млnBмлnB%млnB-млnB0Х"и	млnB{oB%{oB-млnB0╤"о	╦oB{oB%╦oB-{oB0х"ш	q=oBq=oB%q=oB-q=oB0ь7"щ	мLoBмLoB%мLoB-мLoB0Т"А	q=oB33oB%q=oB-33oB0к"Й	\▐oB)\oB%\▐oB-)\oB0ь"К	R╦oBмлoB%млoB-R╦oB0Д

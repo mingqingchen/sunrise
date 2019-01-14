@@ -1,0 +1,2 @@
+
+NXR⌠що	"ЖЛQhAЛQhA%ЛQhA-ЛQhA0м"┌ZhAZhA%ZhA-ZhA0Г"⌠вёhA┐юhA%┐юhA-╕⌡hA0Л"квёhAмлhA%млhA-вёhA0е"пЛQhAЛQhA%ЛQhA-ЛQhA0d"р╜ihA╜ihA%╜ihA-╜ihA0╟"зD▀hAD▀hA%D▀hA-D▀hA0г"КЛQhAЛQhA%ЛQhA-ЛQhA0d"╥млhAмлhA%млhA-млhA0d"╨млhAмлhA%млhA-млhA0d"╩млhAмлhA%млhA-млhA0х"╫вёhAвёhA%вёhA-вёhA0d"▀вёhAАzhA%млhA-АzhA0ь"└	⌠╘hAЛQhA%⌠╘hA-ЛQhA0°"┘	⌠╘hAЛQhA%⌠╘hA-ЛQhA0Щ"х	ЛQhAАzhA%АzhA-ЛQhA0Х"н	АzhAАzhA%АzhA-АzhA0к"т	╤└hAП╖hA%dлhA-ЛQhA0╬"Ц	вёhAвёhA%вёhA-вёhA0d"К	АzhAвёhA%вёhA-АzhA0х

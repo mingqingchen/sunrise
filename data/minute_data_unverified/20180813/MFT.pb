@@ -1,0 +1,2 @@
+
+MFTмчо	"Ж╝GQA╝GQA%╝GQA-╝GQA0╩"▒╝GQA╝GQA%╝GQA-╝GQA0d"ю╝GQA╝GQA%╝GQA-╝GQA0╡"м;ъPA;ъPA%;ъPA-;ъPA0╪"╒млPAмлPA%млPA-млPA0d"ЁмлPAмлPA%млPA-млPA0х"бмлPAмлPA%МQA-млPA0╖"⌠млPAмлPA%млPA-млPA0d"ь	╦QA╦QA%╦QA-╦QA0х"ы	╦QA╦QA%╦QA-╦QA0d"К	╝GQA╝GQA%╝GQA-╝GQA0┴

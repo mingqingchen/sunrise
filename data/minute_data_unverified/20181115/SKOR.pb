@@ -1,0 +1,4 @@
+
+SKORûàÏ	"ñ…ëAB
+×AB%…ëAB-
+×AB0¬"Ç	33BB33BB%33BB-33BB0ÐZ"Ë	®GBB®GBB%®GBB-®GBB0ë%

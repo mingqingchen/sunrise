@@ -1,0 +1,2 @@
+
+SKOR±ÜÏ	"Ã¤pDBázDB%ázDB-¤pDB0è"÷ázDBázDB%ázDB-ázDB0d"øázDBázDB%ázDB-ázDB0È"ùázDBázDB%ázDB-ázDB0d"ú‚bDBázDB%ázDB-‚bDB0ü"ûázDBázDB%ázDB-ázDB0d"üázDBázDB%ázDB-ázDB0d"ýázDBázDB%ázDB-ázDB0d"þázDBázDB%ázDB-ázDB0È"ÿázDBázDB%ázDB-ázDB0d"€	ázDBázDB%ázDB-ázDB0d"	ázDBázDB%ázDB-ázDB0d"‚	ázDBázDB%ázDB-ázDB0È"ƒ	ázDBázDB%ázDB-ázDB0d"„	ázDBázDB%ázDB-ázDB0d"…	ázDBázDB%ázDB-ázDB0È"†	ázDBázDB%ázDB-ázDB0d

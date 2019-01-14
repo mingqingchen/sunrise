@@ -1,0 +1,6 @@
+
+BFZ─що	"Ж╝GQA╝GQA%╝GQA-╝GQA0 "▐╦QA╦QA%╦QA-╦QA0х"а╦QA╦QA%╦QA-╦QA0d"фмлPAмлPA%млPA-млPA0╔"г≈ЪPA≈ЪPA%≈ЪPA-≈ЪPA0ь"хмлPAмлPA%млPA-млPA0╛"н╦QA╦QA%╦QA-╦QA0d"о5ОPAмлPA%5ОPA-млPA0╤"пмлPAмлPA%млPA-млPA0d"ямлPAмлPA%млPA-млPA0х"ч╦QAмлPA%╦QA-млPA0х"ФмлPAмлPA%млPA-млPA0d"Х╦QA╦QA%╦QA-╦QA0d"ОмлPAмлPA%млPA-млPA0d"ЯмлPAмлPA%млPA-млPA0d"РцУPAцУPA%цУPA-цУPA0d"╔╦QA╦QA%╦QA-╦QA0d"╞╦QAцУPA%╦QA-цУPA0х"╟млPAмлPA%млPA-млPA0d"╥млPAмлPA%млPA-млPA0d"╧╦QA╦QA%╦QA-╦QA0d"д╦QA╦QA%╦QA-╦QA0d"мцУPA╦QA%╝GQA-цУPA0ХJ"т=
+QA╦QA%╦QA-=
+QA0╕"ж╦QA╦QA%╦QA-╦QA0d"ь=
+QA╦QA%╦QA-=
+QA0Х"┬╝GQA╝GQA%╝GQA-╝GQA0d"░╦QA╦QA%╦QA-╦QA0└"▓33QA33QA%33QA-33QA0d"²╝GQA╝GQA%╝GQA-╝GQA0d"╔я"QA╦QA%+QA-╦QA0ю!"╗╝GQA╝GQA%╝GQA-╝GQA0d"╟╝GQA╝GQA%╝GQA-╝GQA0d"▀╝GQA╝GQA%╝GQA-╝GQA0═" ╝GQAd;QA%╝GQA-d;QA0Ь"·╝GQA╝GQA%╝GQA-╝GQA0З"я╓pQA╝GQA%╓pQA-╝GQA0╛"в▄JQA)\QA%)\QA-╝GQA0═"ХсMQAсMQA%сMQA-сMQA0╛"ИaQAaQA%aQA-aQA0л"Й╓pQA╓pQA%╓pQA-╓pQA0d"┤	╓pQA╓pQA%╓pQA-╓pQA0╛"╪	╪tQA╝GQA%╪tQA-╝GQA0┼7"р	∙eQA∙eQA%∙eQA-∙eQA0й"т	 ≥QA ≥QA% ≥QA- ≥QA0d"Б	vqQAvqQA%vqQA-vqQA0х"К	╝GQA ≥QA% ≥QA-╝GQA0╖

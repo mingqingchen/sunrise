@@ -1,0 +1,2 @@
+
+TAYDёбѕ	"фffJAffJA%ffJA-ffJA0ф"ЗЪЩIAЪЩIA%ЪЩIA-ЪЩIA0ф"О	IAL7IA%L7IA-„£HA0Д"њЪЩIAЪЩIA%ЪЩIA-ЪЩIA0ф"√ЌћHAffJA%ffJA-ЌћHA0ј"«етIAетIA%етIA-етIA0Љ"І„£HA„£HA%„£HA-„£HA0d"л	ffJAffJA%ffJA-ffJA0d

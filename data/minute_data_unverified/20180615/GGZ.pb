@@ -1,0 +1,2 @@
+
+GGZ┤що	"Ж╝CA╝CA%╝CA-╝CA0d"ЗЛQDA┐QDA%ЛQDA-┐QDA0╟	"Щ╕⌡DAвёDA%вёDA-╕⌡DA0°"ЧвёDAвёDA%вёDA-вёDA0Т"┐вёDAвёDA%вёDA-вёDA0Х"╪вёDAвёDA%вёDA-вёDA0y"п@╓DA@╓DA%@╓DA-@╓DA0╬"ЕвёDAвёDA%вёDA-вёDA0Х"ОвёDAвёDA%вёDA-вёDA0х"©вёDAвёDA%вёDA-вёDA0d"хhЁDAhЁDA%hЁDA-hЁDA0Ф	"│млDAмлDA%млDA-млDA0╕"²вёDAвёDA%aцDA-вёDA0х&"рJ{DA│∙DA%│∙DA-АzDA0п"┘	Й∙DAвёDA%вёDA-Й∙DA0ь"┤	J{DAJ{DA%J{DA-J{DA0Ж"Х	вёDAвёDA%вёDA-вёDA0d

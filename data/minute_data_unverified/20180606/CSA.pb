@@ -1,0 +1,2 @@
+
+CSA■▄╧	"єрнBBрнBB%рнBB-рнBB0╡"╕33BB33BB%33BB-33BB0о"┼VОBBЙBB%VОBB-ЙBB0╥"╞;pBB;pBB%;pBB-;pBB0Г"эR╕BB╫гBB%с║BB-╫гBB0■"╠ЯMCBЯMCB%ЯMCB-ЯMCB0Ї"фЕCBЪЩCB%ЪЩCB-ЕCB0м"┴	ЪЩCBЪЩCB%ЪЩCB-\ПCB0Р"╩	2fCB2fCB%2fCB-2fCB0n"█	╫гCBоCB%оCB-╫гCB0с"х	═╠CBЛ╜CB%═╠CB-Л╜CB0Р

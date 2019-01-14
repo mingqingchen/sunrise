@@ -1,0 +1,2 @@
+
+NNCъчо	"ЗвёDA@╓DA%@╓DA-вёDA0═"▄млDA0╩DA%млDA-0╩DA0Х"бмлDAмлDA%млDA-млDA0Ш"рвёDAвёDA%вёDA-вёDA0d"БвёDAвёDA%вёDA-вёDA0╪7"ЛвёDAвёDA%вёDA-вёDA0d"╩@╓DAвёDA%@╓DA-вёDA0║"мdлDAdлDA%dлDA-dлDA0х"т@╓DA@╓DA%@╓DA-@╓DA0Э"увёDAвёDA%вёDA-вёDA0d"║млDAмлDA%млDA-млDA0э"╙млDAцУDA%цУDA-млDA0© "В╦EA╦EA%╦EA-╦EA0Э	" ╦EA╦EA%╦EA-╦EA0∙"в╦EA╦EA%╦EA-╦EA0d"╤	╦EA╦EA%╦EA-╦EA0d"м	╦EA╦EA%d;EA-╦EA0Р"К	╦EA╦EA%╦EA-╦EA0║

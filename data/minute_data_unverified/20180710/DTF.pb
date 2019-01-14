@@ -1,0 +1,2 @@
+
+DTFжЭП	"ц®GUA®GUA%®GUA-®GUA0—"ПЏВUAЏВUA%ЏВUA-ЏВUA0Т"Т6НUA6НUA%6НUA-6НUA0…"ЭљUAљUA%ЧЈUA-љ™UA0Ъ/"оЏВUA…UA%ЏВUA-…UA0ђ"Ёљ™UAљ™UA%љ™UA-љ™UA0 "·љ™UA¤pUA%љ™UA-¤pUA0И"ЅЗKUAшSUA%шSUA-ЗKUA0ђ"‘{VAffVA%ЫЉWA-љ™UA0щ"¤олUAолUA%олUA-олUA0и"§q=VAq=VA%q=VA-q=VA0d"‚q=VAq=VA%q=VA-q=VA0d"ЉбzVAбzVA%бzVA-бzVA0И"СffVAffVA%ffVA-ffVA0d"щffVAffVA%ffVA-ffVA0d"»	RёVARёVA%RёVA-RёVA0И	"Х	џНVAџНVA%џНVA-џНVA0г"л	q=VAq=VA%q=VA-q=VA0И

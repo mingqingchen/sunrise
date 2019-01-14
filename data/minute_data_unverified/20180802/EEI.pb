@@ -1,0 +1,2 @@
+
+EEIбчо	"СмлXAмлXA%млXA-млXA0х"ЖмлXAмлXA%млXA-млXA0░"│ ≥YA ≥YA% ≥YA- ≥YA0d"кffZAffZA%ffZA-ffZA0└"вffZAffZA%ffZA-ffZA0╛"╪ffZAа╗ZA%а╗ZA-ffZA0░"╣	R╦ZAffZA%R╦ZA-ffZA0⌠"╤	ffZAffZA%ffZA-ffZA0ц"╨	ffZAffZA%ffZA-ffZA0d"х	ЕaZAЕaZA%ЕaZA-ЕaZA0═

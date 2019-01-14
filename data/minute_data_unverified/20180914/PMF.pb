@@ -1,0 +1,4 @@
+
+PMF╡ъо	"ЖмлTAмлTA%млTA-млTA0ё"ШмлTAмлTA%млTA-млTA0d"ЩмлTAмлTA%млTA-млTA0d"▀АzTAмлTA%млTA-АzTA0╨"амлTAмлTA%млTA-млTA0░"рмлTAФ╝TA%млTA-Ф╝TA0Н"ввёTAвёTA%вёTA-вёTA0═"ьвёTAвёTA%вёTA-вёTA0х"шмлTAмлTA%млTA-млTA0∙"ч@╓TA@╓TA%@╓TA-@╓TA0d"ВмлTAмлTA%млTA-млTA0d"═L╕TAL╕TA%L╕TA-L╕TA0i"╜млTAмлTA%млTA-млTA0╛"ммлTAмлTA%млTA-млTA0╛"┤вёTAвёTA%вёTA-вёTA0▐"·Ц╔TAЦ╔TA%Ц╔TA-Ц╔TA0d"╦вёTAЦ╔TA%Ц╔TA-вёTA0░"ЭJ{TAJ{TA%J{TA-J{TA0╟"┌АzTAАzTA%АzTA-АzTA0d"┘ЛQTA
+вSA%ЛQTA-
+вSA0└"▌EGTAEGTA%EGTA-EGTA0d"лАzTAвёTA%вёTA-АzTA0╗-"яЖ(TAЖ(TA%Ж(TA-Ж(TA0d"ЙАzTAxzTA%АzTA-xzTA0└"Ч°TA°TA%°TA-°TA0Р"─	АzTAАzTA%АzTA-АzTA0░"└	ХjTAХjTA%ХjTA-ХjTA0п"┤	Ж(TAЖ(TA%Ж(TA-Ж(TA0х"╫	÷<TA÷<TA%÷<TA-÷<TA0√"х	АzTAАzTA%АzTA-АzTA0░"и	Ж(TAЖ(TA%Ж(TA-Ж(TA0d"й	╬0TA╬0TA%╬0TA-╬0TA0ж"Г	вёTAвёTA%вёTA-вёTA0л

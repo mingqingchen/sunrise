@@ -1,0 +1,2 @@
+
+TANNLóÝÏ	"÷ÃõÀAÍÌÀA%ÃõÀA-ÍÌÀA0¼"¢]mÀA]mÀA%]mÀA-]mÀA0ò"ºffÀAffÀA%ffÀA-ffÀA0š"•ìQÀAìQÀA%ìQÀA-ìQÀA0¬"—¢EÀA¢EÀA%¢EÀA-¢EÀA0"¸ìQÀAìQÀA%ìQÀA-ìQÀA0¬"ºq=ÀAq=ÀA%q=ÀA-q=ÀA0¬"–-2ÀAF6ÀA%F6ÀA--2ÀA0 "˜{ÀA{ÀA%{ÀA-{ÀA0"™ÀAÀA%ÀA-ÀA0"œffÀAffÀA%ffÀA-ffÀA0ô"ÚìQÀAìQÀA%ìQÀA-ìQÀA0o"ýìQÀAffÀA%ffÀA-ìQÀA0È"€	ffÀAffÀA%ffÀA-ffÀA0d"º	ö(ÀAö(ÀA%ö(ÀA-ö(ÀA0È"»	(ÀA(ÀA%(ÀA-(ÀA0"¼	4ÀA4ÀA%4ÀA-4ÀA0"Ç	q=ÀAq=ÀA%q=ÀA-q=ÀA0d"Ò	…ë¿A…ë¿A%…ë¿A-…ë¿A0"Ó	…ë¿AÌÿ¿A%Ìÿ¿A-…ë¿A0"Ö	…ë¿A…ë¿A%…ë¿A-…ë¿A0“"Ù	ffÀAq=ÀA%ffÀA-q=ÀA0¼"à	ºë¿Aºë¿A%ºë¿A-ºë¿A0Ì"ä	ŒÊÀAŒÊÀA%ŒÊÀA-ŒÊÀA0d"ë	ázÀAázÀA%ázÀA-ázÀA0d

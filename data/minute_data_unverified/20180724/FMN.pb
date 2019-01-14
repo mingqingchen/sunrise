@@ -1,0 +1,3 @@
+
+FMNТщо	"Ж▐бYA▐бYA%▐бYA-▐бYA0█"▀▐бYA▐бYA%▐бYA-▐бYA0d"я╦YA╦YA%╦YA-╦YA0х"зцУXAцУXA%цУXA-млXA0Х"ЮцУXAцУXA%цУXA-цУXA0d"ДмлXAмлXA%млXA-млXA0d"МцУXAцУXA%цУXA-цУXA0d"╣цУXAцУXA%цУXA-цУXA0▒"нШкXAцУXA%цУXA-ШкXA0Ё"я╬XA╬XA%╬XA-╬XA0Д"╗вёXAцУXA%цУXA-вёXA0Л"░млXAмлXA%млXA-млXA0d"ХмлXAмлXA%млXA-млXA0Т"╣	АzXAмлXA%млXA-АzXA0▄"п	млXAмлXA%млXA-млXA0■
+"Г	ЛQXAЛQXA%ЛQXA-ЛQXA0и

@@ -1,0 +1,2 @@
+
+IBA⌡эо	"Ж ≥mB ≥mB% ≥mB- ≥mB0d"ЪыpBыpB%ыpB-ыpB0d"▄╦jB╦jB%╦jB-╦jB0d"▓╓pjBq=iB%╓pjB-q=iB0╛"⌠вёiBM3iB%вёiB-33iB0э"╪33iBNБhB%33iB-NБhB0Т"р\▐iB\▐iB%\▐iB-\▐iB0╒"с ≥iBАziB% ≥iB-АziB0⌡"╔ЛQnBЛQnB%ЛQnB-ЛQnB0d"┴ЛQnBЛQnB%ЛQnB-ЛQnB0d"┬ЛQnBЛQnB%ЛQnB-ЛQnB0d"Е╝GkB╝GkB%╝GkB-╝GkB0d"ЧR╦mBR╦mB%R╦mB-R╦mB0┤"Е	млnBмлnB%млnB-млnB0d"Ф	млmBмлmB%млmB-млmB0d"И	33mB.mB%33mB-.mB0ь"Й	┘nB┘nB%┘nB-┘nB0d"К	┘nBвёnB%вёnB-33mB0╛

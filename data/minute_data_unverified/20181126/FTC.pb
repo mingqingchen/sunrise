@@ -1,0 +1,6 @@
+
+FTCแฯ	"๖\nB\nB%\nB-\nB0 "๘nBnB%nB-nB0d"๛33oB33oB%33oB-33oB0d"ý)\oB)\oB%)\oB-)\oB0d"ffoBffoB%ffoB-ffoB0d"þิoB๛ÜoB%๛ÜoB-þิoB0"‘[qpB[qpB%[qpB-[qpB0ฑ"รjpBjpB%jpB-jpB0ง"ืฎoBฎoB%ฎoB-ฎoB0d"ุ}oB}oB%}oB-}oB0ึ"ูRธoBRธoB%RธoB-RธoB0ส	"โ[BpB[BpB%[BpB-[BpB0x"ไ{pB{pB%{pB-{pB0d" ๓_pB๓_pB%๓_pB-๓_pB0ฅ"ง…pB…pB%…pB-…pB0๙"รู}pBู}pB%ู}pB-ู}pB0ี"ส^KpB^KpB%^KpB-^KpB0ู"ฬ)\pB)\pB%)\pB-)\pB0ศ"าgpBgpB%gpB-gpB0"ี+6pBRpB%RpB-+6pB0ง"ฺ
+ืoB
+ืoB%
+ืoB-
+ืoB0น"ดoBดoB%ดoB-ดoB0ข"ฎoBฎoB%ฎoB-ฎoB0ศ"9…oB9…oB%9…oB-9…oB0ะ"voBvoB%voB-voB0ำ"RธoBRธoB%RธoB-RธoB0ศ"งนoBงนoB%งนoB-งนoB0๒"“@ไoBHแoB%@ไoB-HแoB0"”…๋oB…๋oB%…๋oB-…๋oB0d"—pBpB%pB-pB0ล"ÜpBÜpB%ÜpB-ÜpB0d"ก;๐oB;๐oB%;๐oB-;๐oB0d"ขHแoBHแoB%HแoB-HแoB0d"ทัoBัoB%ัoB-ัoB0ส	"ปoB…oB%oB-…oB0ศ"ผแzoBแzoB%แzoB-แzoB0d"พffoBffoB%ffoB-ffoB0v

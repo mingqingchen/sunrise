@@ -1,0 +1,2 @@
+
+PSCF√эо	"иП'WBП'WB%П'WB-П'WB0ё"я╝WBуxWB%╝WB-уxWB0▌"ыЖ╗WBЖ╗WB%Ж╗WB-Ж╗WB0≥"ЮuбWBuбWB%uбWB-uбWB0э"║)\WB)\WB%)\WB-)\WB0d"╜УJWBУJWB%УJWB-УJWB0Т"й┴WB┴WB%┴WB-┴WB0k"нИ╕WBИ╕WB%И╕WB-И╕WB0w"╥млWBмлWB%млWB-млWB0╘"Тё│WBё│WB%ё│WB-ё│WB0й"┼ъWBъWB%ъWB-ъWB0e"ы?вXB?вXB%?вXB-?вXB0ь"И┴аYB┴аYB%┴аYB-┴аYB0Ъ"Й╝YB╝YB%╝YB-╝YB0Х"К╝YB╝YB%R╦YB-╝YB0Б"ШЭYBЭYB%ЭYB-ЭYB0─"А	YZBYZB%YZB-YZB0ж"К	{ZB{ZB%{ZB-{ZB0к

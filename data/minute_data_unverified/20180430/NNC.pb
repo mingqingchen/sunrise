@@ -1,0 +1,2 @@
+
+NNCншо	"Ж{BA ≥AA%{BA- ≥AA0ю%"ЫHPBAHPBA%HPBA-HPBA0о"йq=BAq=BA%q=BA-q=BA0Т"Нв4BAв4BA%в4BA-в4BA0э"П{BA{BA%{BA-{BA0d"╜q=BAq=BA%q=BA-q=BA0х"╣q=BAq=BA%q=BA-q=BA0d"ыq=BAffBA%ffBA-q=BA0П"┤╙`BA╙`BA%╙`BA-╙`BA0d"╜q=BAq=BA%q=BA-q=BA0d"└╔,BA╔,BA%╔,BA-╔,BA0═"зq=BAq=BA%q=BA-q=BA0d"Л{BA{BA%{BA-{BA0d"Ьq=BAq=BA%q=BA-q=BA0d"│	q=BAq=BA%q=BA-q=BA0х"к	Ж(BAЖ(BA%Ж(BA-Ж(BA0░"И	q=BAq=BA%q=BA-q=BA0d

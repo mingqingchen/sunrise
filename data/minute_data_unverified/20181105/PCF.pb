@@ -1,0 +1,3 @@
+
+PCFסאֿ	"צ{A{A%{A-{A0¿"ֲלQAלQA%’\A-׃MA0פ"ֳ’\AW[A%’\A-׃MA0°	"ִ¥NA¥NA%¥NA-¥NA0d"ֹלQA¥NA%W[A-¥NA0„"£q=Aq=A%q=A-q=A0d"±½RA½RA%½RA-½RA0צ"µq=Aq=A%q=A-q=A0d"ֳq=Aq=A%q=A-q=A0d"Ûq=Aq=A%q=A-q=A0d"ü‰AAffA%ffA-‰AA0Ü"†q=AÙ=A%Ù=A-q=A0ּ!"־q=Aq=A%q=A-q=A0d"׀ִBAִBA%ִBA-ִBA0ג"ױq=Aq=A%q=A-q=A0d"נq=Aq=A%q=A-q=A0f"ףHPAHPA%HPA-HPA0ָ"־	q=Aq=A%q=A-q=A0"א	‰AAffA%ffA-q=A0ƒ"ד	q=Aq=A%q=A-q=A0d"כ	לQAffA%ffA-לQA0"–
+q=Aq=A%q=A-q=A0y

@@ -1,0 +1,2 @@
+
+NMSхчо	"ЖЛQTAЛQTA%ЛQTA-ЛQTA0Й"ВмлTAмлTA%млTA-млTA0▀#"┤ЛQTAЛQTA%ЛQTA-ЛQTA0Т"Нь│TAь│TA%ь│TA-ь│TA0у"зАzTAxzTA%АzTA-ЛQTA0р"м7┴TA7┴TA%7┴TA-7┴TA0Х"Ц	ЛQTAЛQTA%ЛQTA-ЛQTA0╛"К	ЛQTAЛQTA%ЛQTA-ЛQTA0d

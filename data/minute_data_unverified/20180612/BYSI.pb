@@ -1,0 +1,3 @@
+
+BYSI└що	"Щ2fзA2fзA%2fзA-2fзA0d"У∙тьA∙тьA%∙тьA-∙тьA0╛"ВмльAмльA%мльA-мльA0d"║ffжAffжA%ffжA-ffжA0d"гцУьAцУьA%цУьA-цУьA0d"твёьAвёьA%вёьA-вёьA0d"в33ыAffзA%ffзA-33ыA0■
+"ь33ыAАzжA%33ыA-АzжA0х"зV▌ыAffжA%V▌ыA-ffжA0л"░мльAffжA%мльA-ffжA0Ы"╩мльAWшыA%WшыA-мльA0░"│мльAмльA%мльA-мльA0х"└ffжAffжA%ffжA-ffжA0d"┤ffьAffьA%ffьA-ffьA0d"┬ffьAffьA%ffьA-ffьA0х"┌	vOвAffжA%vOвA-ffжA0х"И	ffжAffжA%ffжA-ffжA0d

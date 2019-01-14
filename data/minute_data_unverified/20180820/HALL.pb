@@ -1,0 +1,3 @@
+
+HALLÔÞÏ	"ö\*A\*A%\*A-\*A0°"†\*A\*A%\*A-\*A0È"óq=*Aq=*A%q=*A-q=*A0d"õ\*A…+A%ö(,A-\*A0"ö…+A…+A%…+A-…+A0d" …+A…+A%…+A-…+A0d"·¤p-A¤p-A%¤p-A-¤p-A0d"Îš™-Aš™-A%š™-A-š™-A0d"–š™-Aš™-A%š™-A-š™-A0d"·š™-Aš™-A%š™-A-š™-A0“"ƒ	ff.Aff.A%ff.A-ff.A0d"½	ì/-Aì/-A%ì/-A-ì/-A0„"Ä	q=.Aq=.A%q=.A-q=.A0d"Æ	ff.Aff.A%ff.A-ff.A0i"Î	ff.Aff.A%ff.A-ff.A0d"Û	ff.Aff.A%ff.A-ff.A0d"à	ff.Aff.A%ff.A-ff.A0d"å	ff.Aff.A%ff.A-ff.A0d"é	ff.Aff.A%ff.A-ff.A0d"ê	ff.Aff.A%ff.A-ff.A0d"ë	ff.Aff.A%ff.A-ff.A0”"”
+š™-Aš™-A%š™-A-š™-A0ã	

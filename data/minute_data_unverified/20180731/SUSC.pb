@@ -1,0 +1,2 @@
+
+SUSCШщо	"ЛffбAffбA%ffбA-ffбA0d"╣ffбAffбA%ffбA-ffбA0d"фffбAffбA%ffбA-ffбA0d"р2fбA2fбA%2fбA-2fбA0√"├ffбAffбA%ffбA-ffбA0d"·!бA!бA%!бA-!бA0©"╡ffбAffбA%ffбA-ffбA0d"╫АzбAАzбA%АzбA-АzбA0√"─АzбAАzбA%АzбA-АzбA0d"║АzбAФ?бA%АzбA-Ф?бA0┬"чАzбAАzбA%АzбA-АzбA0d"ЩffбAffбA%ffбA-ffбA0d"┌	ffбAбA%ffбA-бA0░"м	▓каA▐баA%▓каA-▐баA0ю

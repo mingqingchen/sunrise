@@ -1,0 +1,3 @@
+
+NXNüÜֿ	"צֳץPAֳץPA%ֳץPA-ֳץPA0‡"‚ּֽPAּֽPA%ּֽPA-ּֽPA0פ"‹לְPAלְPA%לְPA-לְPA0פ"½—RAּֽPA%—RA-ּֽPA0€"׃ּֽPAּֽPA%ּֽPA-ּֽPA0d"ןלQPAלQPA%לQPA-לQPA0d" ₪pQA₪pQA%₪pQA-₪pQA0d"¦ֳץPAֳץPA%ֳץPA-ֳץPA0d"»ֳץPAֳץPA%ֳץPA-ֳץPA0d"÷l	QAl	QA%l	QA-l	QA0ת"עלQPAQkPA%QkPA-לQPA0״"׳£PA׳£PA%׳£PA-׳£PA0d"Û׳£PA׳£PA%׳£PA-׳£PA0d"ל׳£PA׳£PA%׳£PA-׳£PA0d"û׳£PA׳£PA%׳£PA-׳£PA0d"‡	׳£PA׳£PA%׳£PA-׳£PA0d"ױ	ffNA33OA%33OA-q=NA0א"ײ	33OA33OA%33OA-33OA0´"ו	33OA33OA%33OA-33OA0ָ"ט	HבNAHבNA%HבNA-HבNA0ָ"–
+q=NAq=NA%q=NA-q=NA0d

@@ -1,0 +1,2 @@
+
+NMSЖщо	"ШцУTAмлTA%цУTA-млTA0Т"ЭмлTAмлTA%млTA-млTA0d"▀цУTAцУTA%цУTA-цУTA0о"рцУTAцУTA%цУTA-цУTA0d"ТцУTAцУTA%цУTA-ZУTA0⌠"оцУTAцУTA%цУTA-цУTA0d"╗млTAцУTA%цУTA-млTA0╜"й	▐ДTAцУTA%цУTA-▐ДTA0л"Х	млTAмлTA%млTA-млTA0ь"К	млTAмлTA%млTA-млTA0╛

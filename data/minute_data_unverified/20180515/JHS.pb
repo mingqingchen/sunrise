@@ -1,0 +1,3 @@
+
+JHSёэо	"ЖЖ(XAЖ(XA%Ж(XA-Ж(XA0ю"ц▀lXA▀lXA%▀lXA-▀lXA0╠"фш┼XAш┼XA%ш┼XA-ш┼XA0Ь"└вёXAвёXA%вёXA-вёXA0╛"┬П╖XAвёXA%П╖XA-вёXA0п"┼-╡XA-╡XA%-╡XA--╡XA0Х"■-╡XA-╡XA%-╡XA--╡XA0Т"∙Р╟XAвёXA%Р╟XA-вёXA0З"≤R╦XA┐юXA%┐юXA-R╦XA0Т"║П╖XAП╖XA%П╖XA-П╖XA0л"╩╬аXA╬аXA%╬аXA-╬аXA0Ъ"┘╦╞XA╦╞XA%╦╞XA-╦╞XA0╛"┼R╦XAмлXA%млXA-R╦XA0х"░C╜XA┼╟XA%┼╟XA-вёXA0ю"нвёXAвёXA%вёXA-вёXA0d"жвёXAвёXA%вёXA-вёXA0х"ъмлXAмлXA%млXA-млXA0х"ФвёXAвёXA%вёXA-вёXA0d"Ж[╠XA[╠XA%[╠XA-[╠XA0┘"й	млXAмлXA%млXA-млXA0╪"л	вёXAвёXA%вёXA-вёXA0d"ж	вёXAвёXA%вёXA-вёXA0У"К	вёXAвёXA%вёXA-вёXA0х"√
+АzXAАzXA%АzXA-АzXA0╓

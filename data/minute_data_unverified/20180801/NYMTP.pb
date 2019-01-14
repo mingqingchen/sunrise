@@ -1,0 +1,2 @@
+
+NYMTPачо	"ЖЛQбAЛQбA%ЛQбA-ЛQбA0d"шffбAffбA%ffбA-ffбA0к"ХZdбAZdбA%ZdбA-ZdбA0d"ыЬSбAЬSбA%ЬSбA-ЬSбA0╛"МffбAffбA%ffбA-ffбA0d"ЯZбAZбA%ZбA-ZбA0х"З RбAffбA%ffбA-ЛQбA0ь"ШffбA;pаA%ffбA-с^аA0б"И	ЛQаAЛQаA%ЛQаA-ЛQаA0░

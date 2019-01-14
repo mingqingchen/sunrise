@@ -1,0 +1,2 @@
+
+BSD›àÏ	"öq=>Aq=>A%q=>A-q=>A0Ÿ"€…ë=A…ë=A%…ë=A-…ë=A0¼"Ê…ë=A…ë=A%…ë=A-…ë=A0ã"ÏÂ=AÂ=A%Â=A-¤p=A0‚	"Ñ¤p=A¤p=A%¤p=A-¤p=A0´"Ò¤p=A¤p=A%¤p=A-¤p=A0q"Ô¤p=A¤p=A%¤p=A-¤p=A0d"Þ®G=A®G=A%®G=A-®G=A0°	"à¤p=A¤p=A%¤p=A-¤p=A0d"ï®G=A®G=A%H=A-¸=A0…"ò‹l=A¤p=A%¤p=A-‹l=A0²"¢š™=Aš™=A%š™=A-š™=A0d"¹Ôš=AÔš=A%Ôš=A-Ôš=A0¬"Ù¼=A¼=A%¼=A-¼=A0‚"÷Â=AÂ=A%Â=A-Â=A0d"øš™=Aš™=A%š™=A-š™=A0"²	Â=AÂ=A%Â=A-Â=A0d"È	Â=AÂ=A%Â=A-Â=A0d"ë	¸=A¸=A%š™=A-¸=A0Ö

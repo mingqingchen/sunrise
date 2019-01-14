@@ -1,0 +1,2 @@
+
+EMJнчо	"Ж┘КAA┘КAA%┘КAA-┘КAA0p"зq=BAq=BA%q=BA-q=BA0d"О\▐BA\▐BA%\▐BA-\▐BA0d"ПffBAffBA%ffBA-ffBA0х"╛q=BAq=BA%q=BA-q=BA0в	"у	xBAxBA%xBA-xBA0╩"э	ffBAffBA%ffBA-ffBA0d"К	HАBAHАBA%HАBA-HАBA0d

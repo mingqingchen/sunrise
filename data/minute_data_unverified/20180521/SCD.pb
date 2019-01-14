@@ -1,0 +1,3 @@
+
+SCDй▄╧	"ЎьQPAX9PA%ьQPA-X9PA0╦"°╬ИPA╬ИPA%╬ИPA-╬ИPA0Р"∙Ь3QAдpQA%дpQA-Ь3QA0╥"√оOAоOA%оOA-оOA0d"Л╕QA╕QA%оGQA-`хPA0Ш"Т├їPA├їPA%╕QA-ZїPA0О#"╞Й╥PAЙ╥PA%Й╥PA-Й╥PA0╪"╧╕QAдpQA%дpQA-╕QA0∙"пцоPAOпPA%OпPA-@дPA0д"С═╠PA═╠PA%═╠PA-═╠PA0Ў	"НоGQA}?QA%дpQA-}?QA0е"Ь`хPA`хPA%`хPA-`хPA0ы"б╕QA╕QA%╕QA-╕QA0d"ггQAгQA%гQA-гQA0▒"╬(QA(QA%(QA-(QA0п"щ;pQAдpQA%дpQA-оGQA0ш&"╛	╕QAя8QA%я8QA-╕QA0║"┐	Ч PAЧ PA%Ч PA-Ч PA0Ь"▐	ЗQAЗQA%ЗQA-ЗQA0З"▀	кёPAкёPA%кёPA-кёPA0╘"ъ	├їPA═╠PA%├їPA-═╠PA0Є"Ц
+оGQAоGQA%оGQA-оGQA0∙

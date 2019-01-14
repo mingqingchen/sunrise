@@ -1,0 +1,2 @@
+
+VMM▒▄╧	"ЎHсJAHсJA%HсJA-HсJA0О"ў·~JA·~JA%·~JA-·~JA0w"А\ПJA\ПJA%\ПJA-\ПJA0║"В\ПJA\ПJA%\ПJA-\ПJA0Ю"СРаJAРаJA%РаJA-РаJA0Х"╜R╕JA\ПJA%R╕JA-\ПJA0К"─┼ПJA┼ПJA%┼ПJA-┼ПJA0й"╩R╕JAR╕JA%R╕JA-R╕JA0╢"╠\ПJA╫гJA%╫гJA-\ПJA0╚"╘\ПJA\ПJA%\ПJA-\ПJA0╪"яU0JAU0JA%U0JA-U0JA0f"ёУJAУJA%УJA-УJA0√"к*:JA*:JA%*:JA-*:JA0╥"╚ffJA+ЗJA%\ПJA-5^JA0д"зn4JAn4JA%n4JA-n4JA0У"щфJA{JA%┼ JA-{JA0╗"╖	q=JAq=JA%q=JA-q=JA0Р"р	q=JAU0JA%q=JA-U0JA0╜"у	q=JAq=JA%q=JA-q=JA0╪
