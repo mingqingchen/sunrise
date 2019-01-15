@@ -1,5 +1,0 @@
-
-EXD╙ъо	"ЖffAffA%ffA-ffA0З"ШffAffA%ffA-ffA0Ъ"┬33A/A%33A-+A0Ь"┴$(A$(A%$(A-$(A0d"█млAмлA%млA-млA0Т"ф/щAЧтA%/щA-ЧтA0х"хffAffA%ffA-ffA0d"кffAffA%ffA-ffA0d"мffAffA%ffA-ffA0d"пffAffA%ffA-ffA0d"роfAоfA%оfA-оfA0╛"сffAffA%ffA-ffA0d"тffA4─A%4─A-ffA0Х "ьоfAоfA%оfA-оfA0▄"ыffAffA%ffA-ffA0d"ъffAffA%ffA-ffA0d"БffAffA%ffA-ffA0d"ЕffAffA%ffA-ffA0d"ИffAffA%ffA-ffA0d"ЛffAffA%ffA-ffA0d"ПffAffA%ffA-ffA0d"ТffAffA%ffA-ffA0d"ВffAffA%ffA-ffA0d"ёffAffA%ffA-ffA0d"╓/щAHАA%HАA-/щA0Л'"╚ffAffA%ffA-ffA0d"╜\▐A\▐A%\▐A-\▐A0ш1"╡\▐A\▐A%\▐A-\▐A0d"╢\▐A\▐A%\▐A-\▐A0d"╥\▐A\▐A%\▐A-\▐A0═"Э≥*A≥*A%≥*A-≥*A0╧"─й2Aй2A%й2A-й2A0Н
-"┘$(A$(A%$(A-$(A0d"о	7A33A%33A-7A0└"п	╕
-A33A%33A-╕
-A0╪"Ю	33A33A%33A-33A0н"Б	$(A$(A%$(A-$(A0d"Й	33A33A%33A-33A0d"К	HАA$(A%$(A-HАA0╕

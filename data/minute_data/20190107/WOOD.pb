@@ -1,4 +1,0 @@
-
-WOOD⌡╖п	"Ж╝GlB╝GlB%╝GlB-╝GlB0░"в╣fkB╣fkB%╣fkB-╣fkB0x"╓гKlBгKlB%гKlB-гKlB0┴"╟_GlB_GlB%_GlB-_GlB0d"╧┘КlB┘КlB%┘КlB-┘КlB0i"╫вmBвmB%вmB-вmB0╛"сАzmBАzmB%АzmB-АzmB0╛"ш┘КlB┘КlB%┘КlB-┘КlB0d"⌡╔,mB╔,mB%╔,mB-╔,mB0█"ёR╦mB┐юmB%млmB-ш┼mB0∙"╖C\mBC\mB%C\mB-C\mB0n"╗Н<mBН<mB%Н<mB-Н<mB0Е"╙┴mB┴mB%┴mB-┴mB0З"╢0mB0mB%0mB-0mB0Ф"╦вmBвmB%вmB-вmB0y"К╝mB╝mB%╝mB-╝mB0х"М5╞mB5╞mB%5╞mB-5╞mB0█"Р╕шmB╕шmB%╕шmB-╕шmB0х"С┤╖mB┤╖mB%┤╖mB-┤╖mB0и"≤╬ъmB╬ъmB%╬ъmB-╬ъmB0╛"Ы╥"mB╥"mB%╥"mB-╥"mB0╙"╩	▄ymB▄ymB%▄ymB-▄ymB0≥"©	ЛQmBЛQmB%ЛQmB-ЛQmB0√"б	_GmB_GmB%_GmB-_GmB0░"к	÷MmB÷MmB%÷MmB-÷MmB0}"К	=
-mB╝mB%╝mB-=
-mB0┼

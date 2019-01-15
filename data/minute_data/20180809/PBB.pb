@@ -1,2 +1,0 @@
-
-PBBйчо	"ЖffхAffхA%ffхA-ffхA0j"ЭffхAЛQхA%ffхA-ЛQхA0Щ"оёёхAёёхA%ёёхA-ёёхA0Т"иffхA\▐хA%вёхA-ffхA0Х"├ffхAffхA%АzхA-ffхA0л"█ffхAffхA%ffхA-ffхA0х"И\▐хA\▐хA%\▐хA-\▐хA0}"ВЬSхAиvхA%иvхA-ЬSхA0л"д	ЛQхAЛQхA%ЛQхA-ЛQхA0}

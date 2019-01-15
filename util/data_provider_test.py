@@ -72,11 +72,32 @@ def build_data_set():
 
 
 class TestDataProvider(unittest.TestCase):
-  def test_is_match(self):
-    dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
-    dp_daily = data_provider.DataProvider('./data/daily_data_temp', use_eligible_list=False)
+  def test_sort_data(self):
+    one_stock_data = add_one_stock_data('GOOGL', 20181230, 1)
+    # be careful, number starts with 0, e.g. 0601 is not decimal
+    add_one_time_slot_data(one_stock_data, 2359, 990.0, 991.0, 991.5, 989.5, 2000)
+    add_one_time_slot_data(one_stock_data, 602, 991.0, 992.0, 992.1, 990.9, 1000)
+    add_one_time_slot_data(one_stock_data, 603, 992.0, 1000.0, 1000.6, 991.8, 5000)
+    add_one_time_slot_data(one_stock_data, 601, 992.0, 1000.0, 1000.6, 991.8, 5000)
 
-    start_date = 20181226
+    sorted_data = data_provider.sort_data_based_on_time(one_stock_data)
+    self.assertEqual(sorted_data.symbol, 'GOOGL')
+    self.assertEqual(sorted_data.date, 20181230)
+    self.assertEqual(sorted_data.resolution, 1)
+    self.assertEqual(len(sorted_data.data), 4)
+
+    self.assertEqual(sorted_data.data[0].time_val, 601)
+    self.assertEqual(sorted_data.data[1].time_val, 602)
+    self.assertEqual(sorted_data.data[2].time_val, 603)
+    self.assertEqual(sorted_data.data[3].time_val, 2359)
+
+
+  def test_is_match(self):
+    return
+    dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
+    dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
+
+    start_date = 20181232
     end_date = 20181231
 
     dp_daily.load_one_day_data(2018)

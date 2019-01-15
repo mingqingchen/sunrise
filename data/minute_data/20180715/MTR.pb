@@ -1,2 +1,0 @@
-
-MTRЛщо	"├╦qA╦qA%╦qA-╦qA0х"┤jчnAjчnA%jчnA-jчnA0d"┬ ≥oA ≥oA% ≥oA- ≥oA0х"лС▌mAС▌mA%С▌mA-С▌mA0g"Е⌠mA⌠mA%⌠mA-⌠mA0х"ёайmAайmA%айmA-айmA0Т"╡(mA(mA%(mA-(mA0Т"┘╣mA╣mA%╣mA-╣mA0х"щ	млlAмлlA%млlA-млlA0╛"Й	zгlAzгlA%zгlA-zгlA0░

@@ -1,3 +1,0 @@
-
-BAFתאֿ	"צ₪pMA₪pMA%₪pMA-₪pMA0"‰׳£LA׳£LA%׳£LA-׳£LA0ˆ"ֳ_)LA_)LA%_)LA-_)LA0²"ֶצ(LAצ(LA%צ(LA-צ(LA0d"ךצ(LA9ELA%9ELA-צ(LA0”
-"כq=LAלQLA%לQLA-q=LA0ָ"צבzLAבzLA%בzLA-בzLA0d"¶בzLAבzLA%בzLA-בzLA0d"ֱ׳£LAײֵLA%ּֽLA-׳£LA0¨"׃HבLAֳץLA%ֳץLA-HבLA0´"³t$MAt$MA%t$MA-t$MA0d"ֳץLAֳץLA%ֳץLA-ֳץLA0d"‡ּֽLAּֽLA%ּֽLA-ּֽLA0“"½	MA¸MA%¸MA-MA0ָ"Ê	ֳץLAֳץLA%ֳץLA-ֳץLA0ש"ז	חMAחMA%חMA-חMA0ט"ט	ZץLAZץLA%ֳץLA-ZץLA0ט"ך	ּֽLAֳץLA%ֳץLA-ּֽLA0˜"כ	¸MA¸MA%¸MA-¸MA0ָ

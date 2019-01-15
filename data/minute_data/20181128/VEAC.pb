@@ -1,3 +1,0 @@
-
-VEAC┬Ао	"Тмл Aмл A%мл A-мл A0d"Ж╦!A╦!A%╦!A-╦!A0├"²Аz AАz A%Аz A-Аz A0Х"·Аz AАz A%Аz A-Аz A0│h"═Аz AАz A%Аz A-Аz A0х"ФАz AЛQ A%Аz A-ЛQ A0Лэe"ХАz AАz A%Аz A-Аz A0▐J"ИЛQ AЛQ A%ЛQ A-ЛQ A0╠п"МАz AЛQ A%Аz A-ЛQ A0═█"ПЛQ AЛQ A%ЛQ A-ЛQ A0ю "ЯЛQ AЛQ A%ЛQ A-ЛQ A0d"Жмл Aмл A%мл A-мл A0ь"╪	Аz AАz A%Аz A-Аz A0d"╬	Аz AАz A%Аz A-Аz A0х"ю	Аz AАz A%Аz A-Аz A0═©"ф	мл Aмл A%мл A-мл A0└"ж	Аz AАz A%Аz A-Аz A0х"щ	Аz AАz A%Аz A-Аz A0ь"ч	Аz AАz A%Аz A-Аz A0Д░"Е	Аz AАz A%Аz A-Аz A0п├"Г	Аz AАz A%Аz A-Аz A0d"К	мл Aмл A%мл A-мл A0└"■
-мл Aмл A%мл A-мл A0╬

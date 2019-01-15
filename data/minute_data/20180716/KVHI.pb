@@ -1,3 +1,0 @@
-
-KVHIМщо	"ЖмлLAмлLA%млLA-млLA0├"ШffNAffNA%ffNA-ffNA0d"ЭffNAffNA%ffNA-ffNA0х"гмлLAмлLA%млLA-млLA0х"ЕмлLAмлLA%млLA-млLA0х"╡ ≥MA ≥MA% ≥MA- ≥MA0d"╪M└LAM└LA%M└LA-M└LA0Х"╝ ≥MA ≥MA% ≥MA- ≥MA0d"╡ffNAffNA%ffNA-ffNA0d"╥rЫMArЫMA%rЫMA-rЫMA0|"╫ffLA ≥MA% ≥MA-ffLA0─"█ffNAffNA%ffNA-ffNA0d"х	 ≥MA ≥MA% ≥MA- ≥MA0d"й	млLAмлLA%млLA-млLA0d"Х	ffNAffNA%ffNA-ffNA0d"И	ffNAffNA%ffNA-ffNA0х"К	ffNA ≥MA%ffNA- ≥MA0Х"■
-ffNAffNA%ffNA-ffNA0ё

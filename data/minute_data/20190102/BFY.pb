@@ -1,2 +1,0 @@
-
-BFY√╖п	"Ж▐бEA▐бEA%▐бEA-▐бEA0Л"╪М·HAМ·HA%М·HA-М·HA0■"╬АzHAАzHA%АzHA-АzHA0d"йвёHAвёHA%вёHA-вёHA0d"╡Ж(HAЖ(HA%Ж(HA-Ж(HA0Э"ЁЖ(HAЖ(HA%Ж(HA-Ж(HA0х"╟АzHA┘HA%б├HA-АzHA0л"Рх≤HAвёHA%вёHA-х≤HA0═"СмлHAмлHA%млHA-млHA0▀"К	цУHA╦IA%╦IA-цУHA0Ь

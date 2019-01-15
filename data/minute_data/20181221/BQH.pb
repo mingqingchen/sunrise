@@ -1,6 +1,0 @@
-
-BQHåáÏ	"ö
-×GA
-×GA%
-×GA-
-×GA0Õ"úR¸JA33MA%33MA-R¸JA0È"‡eKAeKA%eKA-eKA0ô"ÆÎIAR¸JA%R¸JA-ÎIA0À"Ä®GIA®GIA%®GIA-®GIA0d"ÈÂIA\JA%R¸JA-ÂIA0°	"É\JA\JA%\JA-\JA0È"Õ\JA\JA%\JA-\JA0˜"¬33KA33KA%33KA-33KA0d"Ÿ33KA33KA%33KA-33KA0d"â	ÃõHAÃõHA%ÃõHA-ÃõHA0È

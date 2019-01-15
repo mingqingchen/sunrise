@@ -1,2 +1,0 @@
-
-HFBC╔Юо	"З┐/yA┐/yA%┐/yA-┐/yA0╝"Ш ≥yA ≥yA% ≥yA- ≥yA0d"лмлxAмлxA%млxA-млxA0З"╩%uxA%uxA%%uxA-%uxA0Т"╪╩╦xA╩╦xA%╩╦xA-╩╦xA0Т"ы▐бqA▐бqA%▐бqA-▐бqA0п"з{rA ≥qA%q=rA- ≥qA0Т"Ю▐бqA▐бqA%▐бqA-▐бqA0Х"╪	▐бqA▐бqA%▐бqA-▐бqA0В

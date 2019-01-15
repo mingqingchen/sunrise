@@ -1,2 +1,0 @@
-
-HBKщаП	"ц…лqA…лqA%…лqA-…лqA0d"ч33sA33sA%33sA-33sA0ф"ш33sA33sA%33sA-33sA0Ш"щ33sA33sA%33sA-33sA0¬"ъ33sA33sA%33sA-33sA0¬"ьffrAffrA%ffrA-ffrA0И"ЃffrAffrA%ffrA-ffrA0Ш"‚ffrA33sA%33sA-ffrA0ф"‹33sA33sA%33sA-33sA0И"Ѕ33sA33sA%33sA-33sA0d"Ы33sA33sA%33sA-33sA0d"Х33sA33sA%33sA-33sA0м'"Ъ33sA33sA%33sA-33sA0м'"Ы33sA33sA%33sA-33sA0Є‡

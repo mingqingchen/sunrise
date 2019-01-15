@@ -1,2 +1,0 @@
-
-VMM└що	"Ж╦IA╦IA%╦IA-╦IA0d"кмлHAмлHA%млHA-млHA0Ъ"═╓pIA╓pIA%╓pIA-╓pIA0П"║╓pIA╓pIA%╓pIA-╓pIA0d"╕╓pIA╓pIA%╓pIA-╓pIA0х"╚╓pIA╓pIA%╓pIA-╓pIA0х"╬╦IAмлHA%╦IA-млHA0╠"©млHAмлHA%млHA-млHA0d"═dлHAdлHA%dлHA-dлHA0д"└	R╦HAR╦HA%R╦HA-R╦HA0÷"э	вёHAАzHA%Ц╔HA-АzHA0╖"Е	АzHAАzHA%АzHA-АzHA0d"К	вёHAвёHA%вёHA-вёHA0d

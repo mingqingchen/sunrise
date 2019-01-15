@@ -1,33 +1,0 @@
-
-NUM›·œ	"ˆR∏FAR∏FA%R∏FA-R∏FA0«"˜H·FAÕÃFA%H·FA-R∏FA0‘%"ä=
-GA=
-GA%=
-GA-=
-GA0¨"å=
-GA=
-GA%=
-GA-=
-GA0¨"“=
-GA=
-GA%=
-GA-=
-GA0©"Æ=
-GA+GA%+GA-=
-GA0∆"ƒ∏GA¶
-GA%∏GA-=
-GA0¯"á=
-GA=
-GA%=
-GA-=
-GA0d"ñ@GA@GA%@GA-@GA0ø"¢ 2GA 2GA% 2GA- 2GA0∞	"§=
-GAáGA%áGA-=
-GA0Ë"Ú=
-GA=
-GA%=
-GA-=
-GA0ÙN"ï 2GA 2GA% 2GA- 2GA0à'"ˆ=
-GA=
-GA%=
-GA-=
-GA0»"¯∏GA33GA%33GA-∏GA0Ë"É	33GA33GA%33GA-33GA0ê"Ü	33GA33GA%33GA-33GA0ò"¥	33GA?5GA%?5GA-33GA0©"ÿ	ÆGGA)\GA%)\GA-ÆGGA0“"„	_GA_GA%_GA-_GA0g"Í	)\GA)\GA%)\GA-)\GA0«"Î	)\GA)\GA%)\GA-)\GA0å"ñ
-)\GA)\GA%)\GA-)\GA0˘

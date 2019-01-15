@@ -1,3 +1,0 @@
-
-INFU├що	"Ж33C@33C@%33C@-33C@0г"ЬffF@ffF@%ffF@-ffF@0х"Э33C@33C@%33C@-33C@0d"┬ffF@ffF@%ffF@-ffF@0d"▄ffF@ffF@%ffF@-ffF@0х"щffF@ffF@%ffF@-ffF@0d"АХыD@ХыD@%ХыD@-ХыD@0░"КffF@млD@%ffF@-млD@0╛"ЛмлD@млD@%млD@-млD@0d"┴ffF@млD@%ffF@-млD@0░"░ffF@млD@%ffF@-млD@0░"≥33C@33C@%33C@-33C@0d"╔ffF@ffF@%ffF@-ffF@0х"К33C@33C@%33C@-33C@0╪"┬─╥D@─╥D@%─╥D@-─╥D@0░"°в4C@в4C@%в4C@-в4C@0Й"ХffF@ffF@%ffF@-ffF@0d"ЭffF@ffF@%ffF@-ffF@0d"ЩмлD@млD@%млD@-млD@0d"├	ffF@ffF@%ffF@-ffF@0d"т	ffF@млD@%ffF@-млD@0╛"ж	млD@млD@%млD@-млD@0d"Ф	ffF@ffF@%ffF@-ffF@0х"Г	млD@млD@%млD@-млD@0╪"К	млD@млD@%млD@-млD@0d"■
-ffF@ffF@%ffF@-ffF@0я

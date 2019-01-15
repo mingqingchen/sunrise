@@ -1,2 +1,0 @@
-
-ALTYÈÞÏ	"Ùq=vAq=vA%q=vA-q=vA0È"ìeªuAeªuA%eªuA-eªuA0d"‚	¦›uA¦›uA%¦›uA-¦›uA0è"Ã	q=vAk+vA%q=vA-k+vA0„"Æ	q=vAk+vA%q=vA-k+vA0¢"Ó	ö(vAö(vA%ö(vA-ö(vA0d"Ø	#ÛuA#ÛuA%#ÛuA-#ÛuA0«

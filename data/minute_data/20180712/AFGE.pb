@@ -1,2 +1,0 @@
-
-AFGEкЭП	"ц)\СA)\СA%)\СA-)\СA0“"¬\ЏРAНМРA%НМРA-\ЏРA0И"ќHбРAHбРA%HбРA-HбРA0d"иHбРAHбРA%HбРA-HбРA0d"йшУРAНМРA%шУРA-НМРA0Ы"СмQРAмQРA%мQРA-мQРA0d"шЫyРAffРA%ЫyРA-ffРA0И"юffРAЫyРA%ЫyРA-ffРA0И"ябzРAбzРA%бzРA-бzРA0d"Ђ	мQРAмQРA%мQРA-мQРA0d"ѓ	бzРAmgРA%МРA-mgРA0”"„	ffРAI.РA%ffРA-I.РA0€"…	EGРAEGРA%EGРA-EGРA0‘"А	мQРAмQРA%мQРA-мQРA0И"Ъ	ц(РA{РA%ц(РA-{РA0ђ"й	ffРAмQРA%ffРA-мQРA0И

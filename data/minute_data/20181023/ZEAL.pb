@@ -1,2 +1,0 @@
-
-ZEALар╧	"М╫гLA╫гLA%╫гLA-╫гLA0d"╨╫гLA╫гLA%╫гLA-╫гLA0d"Б═╠LA═╠LA%═╠LA-═╠LA0d"╡	R╕JAсzHA%R╕JA-сzHA0Ї"╗	\ПJA\ПJA%\ПJA-\ПJA0d"ф	оGIAдpIA%дpIA-оGIA0╚"х	╕IA╕IA%╕IA-╕IA0d"ц	оGIAоGIA%оGIA-оGIA0d

@@ -1,2 +1,0 @@
-
-SKOR‘ﬁœ	"¯33EB33EB%33EB-33EB0d"ŒEBEB%EB-EB0ç"Ì®FEB"EB%®FEB-"EB0ç"∆q=EBq=EB%q=EB-q=EB0d"Üq=EBq=EB%q=EB-q=EB0d"Î	∏EB∏EB%∏EB-∏EB0d

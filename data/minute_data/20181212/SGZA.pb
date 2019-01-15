@@ -1,2 +1,0 @@
-
-SGZAэАо	"ЖмлбAмлбA%млбA-млбA0Й"Ъ┬cбA┬cбA%┬cбA-┬cбA0М"┬gуаAgуаA%gуаA-gуаA0А"Б┘КаAhбA%√CбA-┘КаA0э"КвёбAвёбA%вёбA-вёбA0d"еffбAffбA%ffбA-ffбA0d"рffбAffбA%ffбA-ffбA0d"═ЧCбAЧCбA%ЧCбA-ЧCбA0╥"║2fбAмLбA%2fбA-мLбA0ч"╥ЛQбAЛQбA%ЛQбA-ЛQбA0d"│-CбA-CбA%-CбA--CбA0Х"⌡ЛQбAЛQбA%ЛQбA-ЛQбA0d"ПЛQбAffбA%ffбA-ЛQбA0■	"э	)\бA2fбA%2fбA-)\бA0╛"Ц	ЛQбAЛQбA%ЛQбA-ЛQбA0Т"Г	ЛQбAЛQбA%ЛQбA-ЛQбA0░

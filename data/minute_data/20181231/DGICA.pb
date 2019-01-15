@@ -1,3 +1,0 @@
-
-DGICAОАо	"Ж╓pYA╓pYA%╓pYA-╓pYA0ы"З{^A{^A%{^A-{^A0Ж	"Э{`A{`A%{`A-{`A0х"е┘WA┘WA%┘WA-┘WA0d"т╝[A╝[A%╝[A-╝[A0d"е╓pYAHАZA%HАZA-√╡WA0е"йHАZAHАZA%HАZA-HАZA0╛"кHАZAHАZA%HАZA-HАZA0d"н╓p[A╓p[A%╓p[A-HАZA0╙"╢ ≥]A ≥]A% ≥]A- ≥]A0d"Мff^Aff^A%ff^A-ff^A0d"л{^A{^A%{^A-{^A0d"т{^A{^A%{^A-{^A0d"С┘К]A┘К]A%┘К]A-┘К]A0d"┤	╝G]A╝G]A%╝G]A-╝G]A0d"╫	╦]A╦]A%╦]A-╦]A0d"ц	Аz\A╢х\A%╢х\A-Аz\A0х"д	вё\Aай\A%ай\A-вё\A0х"г	цУ\AцУ\A%цУ\A-цУ\A0d"п	цУ\AцУ\A%цУ\A-цУ\A0d"в	мл\A ≥YA%мл\A- ≥YA0▐"э	млXAмлXA%млXA-млXA0d"Д	млXAмлXA%млXA-млXA0d"Г	вёXAвёXA%вёXA-вёXA0d"И	ЛQXAЛQXA%ЛQXA-ЛQXA0d"К	ffZAffZA%ffZA-ffZA0d"■
-ЛQZAЛQZA%ЛQZA-ЛQZA0я

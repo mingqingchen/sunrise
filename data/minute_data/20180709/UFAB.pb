@@ -1,19 +1,0 @@
-
-UFABæÝÏ	"½pÎApÎA%pÎA-pÎA0¾"Ê
-×	A
-×	A%
-×	A-
-×	A0d"Ñ¸	A¸	A%¸	A-¸	A0d"ÖÃõAÃõA%ÃõA-ÃõA0d"ŠìQAìQA%ìQA-ìQA0Æ"‹ÃõAÃõA%ÃõA-ÃõA0d"™=
-	A=
-	A%=
-	A-=
-	A0d"§=
-	A=
-	A%=
-	A-=
-	A0d"³ö(A…A%
-×A-ö(A0õ"¿=
-	AÍÌA%=
-	A-ÍÌA0¼"ô…ë	A…ë	A%…ë	A-…ë	A0d"ü…ë	A…ë	A%…ë	A-…ë	A0d"ÿš™	Aš™	A%š™	A-š™	A0d"Šš™	A¤p	A%š™	A-¤p	A0ì"–š™	Aš™	A%š™	A-š™	A0d" Â	AÂ	A%Â	A-Â	A0¸"Îš™	Aš™	A%š™	A-š™	A0d"Úf÷	Af÷	A%f÷	A-f÷	A0d"ÜÁ9
-AdÌ	A%Á9
-A-dÌ	A0È"ßš™	Aš™	A%š™	A-š™	A0d"îš™	Aš™	A%š™	A-š™	A0d"þš™	Aš™	A%š™	A-š™	A0d"¶	š™	Aš™	A%š™	A-š™	A0d"·	š™	Aš™	A%š™	A-š™	A0d"Ä	š™	Aš™	A%š™	A-š™	A0d"Ñ	¤p	A¤p	A%¤p	A-¤p	A0d"Ù	š™	Aš™	A%š™	A-š™	A0d"à	š™	Aš™	A%š™	A-š™	A0d"å	š™	Aš™	A%š™	A-š™	A0d

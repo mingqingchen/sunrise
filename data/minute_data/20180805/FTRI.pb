@@ -1,2 +1,0 @@
-
-FTRIÆÞÏ	"Ä	ÂIAÂIA%ÂIA-ÂIA0d

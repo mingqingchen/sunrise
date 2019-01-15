@@ -1,2 +1,0 @@
-
-NMS אֿ	"גּֽDA"DA%ּֽDA-"DA0ָ"זקהDAקהDA%קהDA-קהDA0Ü"צֳץDAZץDA%ֳץDA-ZץDA0°	"ֽ6ֽDAּֽDA%6ֽDA-ּֽDA0"´-DA-DA%-DA--DA0"ּֽDAּֽDA%ּֽDA-ּֽDA0d"£בzDAבzDA%בzDA-בzDA0d"מ)\DAלQDA%)\DA-לQDA0Ü

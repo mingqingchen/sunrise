@@ -1,3 +1,0 @@
-
-AUBNóÝÏ	"ö®GLB®GLB%®GLB-®GLB0ò"”
-…ëKB…ëKB%…ëKB-…ëKB0å

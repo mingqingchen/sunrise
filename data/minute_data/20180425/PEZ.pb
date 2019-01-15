@@ -1,2 +1,0 @@
-
-PEZкшо	"Ж ≥GB ≥GB% ≥GB- ≥GB0d"▒млHBмлHB%млHB-млHB0╛"аЖIBЖIB%ЖIB-ЖIB0©"оKjIBKjIB%KjIB-KjIB0r"ш▐бIB▐бIB%▐бIB-▐бIB0d"ь╥IB╥IB%╥IB-╥IB0П"┼HАIB┘КIB%┘КIB-HАIB0х"К	╦JB╦JB%╦JB-╦JB0d

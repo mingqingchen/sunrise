@@ -1,4 +1,0 @@
-
-HIEยÞฯ	"๖ืฃDAืฃDA%ืฃDA-ืฃDA0ื"‘ธEAธEA%ธEA-ธEA0๎"ผคpEAอ;EA%1EA-้DA0ห"ภ*EA*EA%*EA-*EA0"เฌEAฌEA%ฌEA-ฌEA0"ไหกEAหกEA%หกEA-หกEA0ี"กยEA'ยEA%ยEA-'ยEA0
-"ฉยEAยEA%ยEA-ยEA0ฐ	"ฐ๘ยEAยEA%จฦEA-ยEA0ู
-"ณยEAยEA%ยEA-ยEA0e"ตEAEA%ยEA-EA0ฤ"พ1EA\EA%1EA-\EA0ศ"ำJ{EAJ{EA%J{EA-J{EA0ๆ "EAEA%EA-EA0"EAEA%EA-EA0f"“VEAqEA%VEA-คpEA0ฮ""ฃคpEAคpEA%คpEA-คpEA0d"ซคpEAคpEA%คpEA-คpEA0ดK"๎)\EA)\EA%)\EA-)\EA0–"ฎGEAฎGEA%ฎGEA-ฎGEA0่"ึ•EA[BEA%•EA-[BEA0 "็Ý$EAÝ$EA%Ý$EA-Ý$EA0’"๛•EA๕JEA%•EA-๕JEA0þ"ด	•EA•EA%•EA-•EA0้"ไ	–CEA–CEA%–CEA-–CEA0่"๊	QEAEA%EA-QEA0ฌ"๋	EAEA%EA-EA0๒

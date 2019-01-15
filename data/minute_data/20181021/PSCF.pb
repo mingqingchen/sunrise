@@ -1,2 +1,0 @@
-
-PSCF·Юо	"└ffWBffWB%ffWB-ffWB0Щ"┤│уWB│уWB%│уWB-│уWB0d"╫счWBсчWB%счWB-счWB0┤"аЖ(XBЖ(XB%Ж(XB-Ж(XB0d"еуXBуXB%уXB-уXB0╙"╔	йWB	йWB%	йWB-	йWB0─"х\▐WB\▐WB%\▐WB-\▐WB0х"∙≥XB≥XB%≥XB-≥XB0Ь"⌡▒╬WB▒╬WB%▒╬WB-▒╬WB0√"╛BWBBWB%BWB-BWB0р"Х=⌡WB=⌡WB%=⌡WB-=⌡WB0у"ВЧCWBЧCWB%ЧCWB-ЧCWB0▀"ч	╛эVB╛эVB%╛эVB-╛эVB0s

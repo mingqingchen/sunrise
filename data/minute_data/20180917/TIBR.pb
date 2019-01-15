@@ -1,2 +1,0 @@
-
-TIBR·ßÏ	"Ë	q=Aq=A%q=A-q=A0€"Ñ	q=Aq=A%q=A-q=A0d"Ø	ffAffA%ffA-ffA0ä¯"Ù	q=Aq=A%q=A-q=A0d"ß	q=Aq=A%q=A-q=A0d"â	q=Aq=A%q=A-q=A0È"å	q=Aq=A%q=A-q=A0d"ç	q=Aq=A%q=A-q=A0d"é	q=Aq=A%q=A-q=A0d"ë	q=Aq=A%q=A-q=A0d

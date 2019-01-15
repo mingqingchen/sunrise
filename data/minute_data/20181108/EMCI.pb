@@ -1,3 +1,0 @@
-
-EMCIı‡œ	"ˆH·»AH·»A%H·»A-H·»A0è"êq= Aq= A%q= A-q= A0d"‘·z A·z A%·z A-·z A0d"àv‡ƒAv‡ƒA%v‡ƒA-v‡ƒA0—"Âff Aff A%ff A-ff A0d"ﬂ	q=∆Aq=∆A%q=∆A-q=∆A0d"‡	Ö…AÖ…A%Ö…A-Ö…A0d"·	q=∆Aq=∆A%q=∆A-q=∆A0d"„	q=∆Aq=∆A%q=∆A-q=∆A0d"Â	q=∆Aq=∆A%q=∆A-q=∆A0d"Ê	q=∆Aq=∆A%q=∆A-q=∆A0d"Á	q=∆Aq=∆A%q=∆A-q=∆A0d"Ë	q=∆AÖ…A%Ö…A-q=∆A0¨"È	{»A{»A%{»A-{»A0d"Í	Ö…Aq=∆A%è¬…A-q=∆A0¨"Î	H·«AR∏∆A%H·«A-q=∆A0Ù"î
-Ö…AÖ…A%Ö…A-Ö…A0ë

@@ -1,2 +1,0 @@
-
-PFDД▌╧	"ЎьQXAьQXA%ьQXA-ьQXA0∙"√аYAх╨XA%аYA-л╧XA0а"ЙеXAеXA%еXA-еXA0Р"┐ьQXAьQXA%ьQXA-ьQXA0Ї"╔А╖XAА╖XA%А╖XA-А╖XA0Ї"═ЁзXAЁзXA%ЁзXA-ЁзXA0ж"фйдXAйдXA%йдXA-йдXA0╨"к√╦XA√╦XA%√╦XA-√╦XA0·"─╫гXA╫гXA%╫гXA-╫гXA0d"е╫гXA╫гXA%╫гXA-╫гXA0╝"РJ{XAЎЧXA%ЎЧXA-J{XA0╝"бJ{XAJ{XA%J{XA-J{XA0╚"єЁЕXAЁЕXA%ЁЕXA-ЁЕXA0d"ЎV}XAffXA%V}XA-ьQXA0└"▐	√\XA√\XA%√\XA-√\XA0м"х	d╠XAd╠XA%d╠XA-d╠XA0▐

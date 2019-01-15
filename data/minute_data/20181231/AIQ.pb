@@ -1,2 +1,0 @@
-
-AIQןבֿ	"€DתOAûOA%ûOA-DתOA0±"צחûMAחûMA%חûMA-חûMA0ָ"¨ffNAffNA%ffNA-ffNA0ָ"ֲֲMAֲMA%ֲMA-ֲMA0ָ"ֳֲMAֲMA%ֲMA-ֲMA0"ֵֲMAֲMA%ֲMA-ֲMA0"ָ™MAֲMA%ֲMA-™MA0ˆ"¢ּֽNAּֽNA%ּֽNA-ּֽNA0¬"©33OA33OA%33OA-33OA0ָ"ּHבNAHבNA%HבNA-HבNA0ל"‡	R¸NAR¸NA%R¸NA-R¸NA0״"½	¨ֶMA¨ֶMA%¨ֶMA-¨ֶMA0״"ד	\NA\NA%\NA-\NA0ָ"ו	$NA$NA%$NA-$NA0ָ"י	ֲMAֲMA%ֲMA-ֲMA0ָ

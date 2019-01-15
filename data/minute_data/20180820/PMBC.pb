@@ -1,3 +1,0 @@
-
-PMBCтчо	"Ж ≥AffA%ffA- ≥A0Г"ЬffAffA%ffA-ffA0d"┐ ≥A ≥A% ≥A- ≥A0╝"╓ ≥A ≥A% ≥A- ≥A0d"╕ ≥A ≥A% ≥A- ≥A0d"КмлAffA%млA-ffA0х"ЛffAffA%ffA-ffA0d"▀млAмлA%млA-млA0d"÷ ≥A ≥A% ≥A- ≥A0х"мffAffA%ffA-ffA0d"ХffAffA%ffA-ffA0d"СffAffA%ffA-ffA0d"е	ffAffA%ffA-ffA0d"с	ffAffA%ffA-ffA0d"ъ	ffAffA%ffA-ffA0╛"Б	ffAffA%ffA-ffA0х"Х	ffAffA%ffA-ffA0d"И	ffAffA%ffA-ffA0d"К	ffAffA%ffA-ffA0ь"■
- ≥A ≥A% ≥A- ≥A0▐

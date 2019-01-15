@@ -1,2 +1,0 @@
-
-OVLYטבֿ	"צHבAHבA%HבA-HבA0•"¬ּֽAלQA%ּֽA-q=A0ִ"­q=Aq=A%לQA-q=A0ר:"®q=Aq=A%q=A-q=A0d"¯לQAff’A%ff’A-q=A0ף"£בzAבzA%בzA-בzA0d"¿בzAבzA%בzA-בzA0d"טq=Aq=A%q=A-q=A0 

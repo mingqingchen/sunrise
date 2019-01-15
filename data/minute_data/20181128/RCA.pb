@@ -1,6 +1,0 @@
-
-RCAˆáÏ	"×
-×ÇA
-×ÇA%
-×ÇA-
-×ÇA0È"»ffÉAffÉA%ffÉA-ffÉA0d

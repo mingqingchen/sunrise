@@ -1,2 +1,0 @@
-
-TKKSUычо	"Жвё Aвё A%вё A-вё A0░"├Аz AАz A%Аz A-Аz A0Ю┴"┤Аz AАz A%Аz A-Аz A0Э┬"┬Аz AАz A%Аz A-Аz A0х"┼\▐ A ≥ A%вё A-\▐ A0╦"╤Аz AАz A%Аz A-Аz A0┬'"лвё Aвё A%вё A-вё A0╗F"╜Аz AАz A%Аz A-Аz A0┬'"┤Аz AАz A%Аz A-Аz A0d"≈Аz AАz A%Аz A-Аz A0═"≤Аz AАz A%Аz A-Аz A0╪"╒Аz AАz A%Аz A-Аz A0ь6"лАz AАz A%Аz A-Аz A0d"ААz AАz A%Аz A-Аz A0d"ЫАz AАz A%Аz A-Аz A0d"╣	Аz AАz A%Аz A-Аz A0d"г	Аz AАz A%Аz A-Аz A0d"ы	Аz AАz A%Аz A-Аz A0 "К	ЛQ AАz A%Аz A-ЛQ A0ь

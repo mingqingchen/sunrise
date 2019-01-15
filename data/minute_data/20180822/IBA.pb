@@ -1,3 +1,0 @@
-
-IBAжчо	"бмлhBмлhB%млhB-млhB0d"емлhBмлhB%млhB-млhB0Щ"гмлhBмлhB%млhB-млhB0d"хмлhBгкhB%млhB-гкhB0х"и▐бhB▐бhB%▐бhB-▐бhB0d"ймлhBгкhB%млhB-гкhB0░"кмлhBЛQjB%ЛQjB-млhB0х"лмлjBмлjB%млjB-млjB0d"т┘КjBVнjB%┘КjB-VнjB0х"╤╓pkB╓pkB%╓pkB-╓pkB0d"П)\kB)\kB%)\kB-)\kB0d"ЧЛQkBЛQkB%ЛQkB-ЛQkB0d"│{iB{iB%{iB-{iB0╛"┴ ≥kB ≥kB% ≥kB- ≥kB0d"щ ≥kB ≥kB% ≥kB- ≥kB0d"р	33iB33iB%33iB-33iB0╛"с	{iBцУhB%{iB-цУhB0╪"т	цУhBцУhB%цУhB-цУhB0х"у	33iBFЖhB%33iB-FЖhB0▌"Ф	[1iB[1iB%[1iB-[1iB0э"Й	млgBмлgB%млgB-млgB0d"К	R╦gB ≥gB%
-WhB- ≥gB0░

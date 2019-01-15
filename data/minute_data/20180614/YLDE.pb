@@ -1,2 +1,0 @@
-
-YLDEŠÝÏ	"Ó¤pßA¤pßA%¤pßA-¤pßA0d"‡	ö(àAö(àA%ö(àA-ö(àA0È

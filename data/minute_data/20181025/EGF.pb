@@ -1,2 +1,0 @@
-
-EGF╒Юо	"▐млLAмлLA%млLA-млLA0d"КмлLAмлLA%млLA-млLA0d"гмлLAмлLA%млLA-млLA0d"┴млLAмлLA%млLA-млLA0d"ёмлLAмлLA%млLA-млLA0d"ЪмлLAмлLA%млLA-млLA0d"≥млLAмлLA%млLA-млLA0d"УмлLAмлLA%млLA-млLA0d"╥	млLAмлLA%млLA-млLA0d"я	млLAмлLA%млLA-млLA0х"К	млLAмлLA%млLA-млLA0к

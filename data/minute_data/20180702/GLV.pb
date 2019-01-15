@@ -1,2 +1,0 @@
-
-GLV▐▌╧	"ЎоGAоGA%оGA-оGA0т"√╦HA╦HA%╦HA-╦HA0╚"╜`хGA`хGA%`хGA-`хGA0·"╩ЕGAЕGA%ЕGA-ЕGA0Р"╒мнGAмнGA%мнGA-мнGA0А"нsGAsGA%sGA-sGA0─"оЕGAЕGA%ЕGA-ЕGA0м"╣ЪЩGAЪЩGA%ЪЩGA-ЪЩGA0╚"ЫФЗGAЕGA%ФЗGA-ЕGA0ъ"ЮB`GA;pGA%;pGA-B`GA0└"■С~GAС~GA%С~GA-С~GA0ш"щТ\GAТ\GA%Т\GA-Т\GA0╗"╤	)\GA)\GA%)\GA-)\GA0d"▌	)\GA33GA%)\GA-╕GA0Р"▀	)\GA)\GA%)\GA-)\GA0╚"х	)\GA)\GA%)\GA-)\GA0d"ы	33GA33GA%33GA-33GA0d

@@ -1,2 +1,0 @@
-
-JHYйчо	"Ж{A{A%{A-{A0d"░{A{A%{A-{A0┬'"Л·ОA·ОA%·ОA-·ОA0d"ЖЧeAЖ(A%ЧeA-Ж(A0э"╩ffAffA%ffA-ffA0Ч"СffAffA%ffA-ffA0d"в┼A┼A%┼A-┼A0Л"─	ffAffA%ffA-ffA0d"л	ffAffA%ffA-ffA0d"Б	ffAffA%ffA-ffA0d

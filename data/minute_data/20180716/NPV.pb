@@ -1,2 +1,0 @@
-
-NPVь▌╧	"╩ЕGAЕGA%ЕGA-ЕGA0Р"╦ЕGAЕGA%ЕGA-ЕGA0╚"уЕGAЕGA%ЕGA-ЕGA0м"чЄ╥GAЄ╥GA%Є╥GA-Є╥GA0╓"щоGAоGA%оGA-оGA0d"ЇЕGAЕGA%ЕGA-ЕGA0d"а№йGA№йGA%№йGA-№йGA0Н"╣№йGAЕGA%мнGA-ЕGA0¤"жhСGAЕGA%hСGA-ЕGA0■"юЪЩGAЪЩGA%ЪЩGA-ЪЩGA0d

@@ -1,2 +1,0 @@
-
-NMTÝฯ	"อฬHAืฃHA%อฬHA-ืฃHA0โ"\HAืฃHA%ืฃHA-\HA0๚"ÜหกHA' HA%ืฃHA-' HA0"ÝืฃHAืฃHA%ืฃHA-ืฃHA0ฌ"์ืฃHAืฃHA%ืฃHA-ืฃHA0ผ"๎แzHAืฃHA%ืฃHA-แzHA0ผ"พืฃHAืฃHA%ืฃHA-ืฃHA0Ý"มืฃHAืฃHA%ืฃHA-ืฃHA0d"ีืฃHAืฃHA%ืฃHA-ืฃHA0d"ืฃHAืฃHA%ืฃHA-ืฃHA0ศ"ืฃHAืฃHA%ืฃHA-ืฃHA0 "อฬHAอฬHA%อฬHA-อฬHA0d"า	ืฃHAืฃHA%ืฃHA-ืฃHA0d

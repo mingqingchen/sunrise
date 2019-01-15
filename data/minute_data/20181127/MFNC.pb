@@ -1,2 +1,0 @@
-
-MFNC┤Ао	"о┘КqA\▐rA%\▐rA-┘КqA0╛"ввёlAвёhA%вёlA-вёhA0Х "змлlAмлlA%млlA-млlA0х"шмлlA\▐rA%\▐rA-млlA0═"▄┘КiA┘КiA%┘КiA-┘КiA0d"╢	33kA33kA%33kA-33kA0х"╦	╬аlA╬аlA%╬аlA-╬аlA0d"о	jMlAjMlA%jMlA-jMlA0Т"п	млlAцУlA%цУlA-млlA0╪"я	млlAмлlA%млlA-млlA0d"с	млpAмлpA%млpA-млpA0d"ъ	{rA{rA%{rA-{rA0d

@@ -1,3 +1,0 @@
-
-MHD÷Юо	"Жq=jAq=jA%q=jA-q=jA0╪"┌√╡iA√╡iA%√╡iA-√╡iA0Ч"Ю ≥iA╓piA% ≥iA-╓piA0╫"ф╓piAq=jA%q=jA-╓piA0с"гq=jAq=jA%q=jA-q=jA0d"х\▐jA\▐jA%\▐jA-ffjA0╓"и\▐jA\▐jA%\▐jA-\▐jA0т"вb║iAb║iA%b║iA-b║iA0░"≤°дiA°дiA%°дiA-°дiA0╩"╖а╗iAа╗iA%а╗iA-а╗iA0д"╗╡²iA▐бiA%╗фiA-╡²iA0╗"ЛынhAынhA%ынhA-ынhA0║"ёцУhAХыhA% ≥iA-Ж(hA0╣F"╫	бiAбiA%бiA-бiA0Х"щ	млhAмлhA%млhA-млhA0d"Г	млhAмлhA%млhA-млhA0х"Х	АzhATRhA%АzhA-TRhA0░"К	вёhAАzhA%млhA-ЛQhA0ь"√
-Ж(hAЖ(hA%Ж(hA-Ж(hA0ш

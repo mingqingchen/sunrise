@@ -1,2 +1,0 @@
-
-MSVBычо	"смлDAмлDA% ≥EA-млDA0░"ОвёDAвёDA%вёDA-вёDA0d"з	млDA▐бEA%▐бEA-млDA0°"Е	 ≥EA ≥EA% ≥EA- ≥EA0d"Х	╓pEA ≥EA% ≥EA-╓pEA0Х"Й	 ≥EA ≥EA% ≥EA- ≥EA0ь"К	╓pEA╓pEA%╓pEA-╓pEA0d

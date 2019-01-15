@@ -1,2 +1,0 @@
-
-MGYRöÝÏ	"Š7‰MA7‰MA%7‰MA-7‰MA0"‹7‰MAö(LA%7‰MA-ö(LA0Õ

@@ -1,2 +1,0 @@
-
-RFEU√╖п	"Г╓ПOB╓ПOB%╓ПOB-╓ПOB0╛"ОЛQPBЛQPB%ЛQPB-ЛQPB0╛"╓╝GPBЛQPB%ЛQPB-╝GPB0░"╝млPBмлPB%млPB-млPB0d"╟\▐PBq=QB%q=QB-\▐PB0Т"т╝PB╝PB%╝PB-║╖PB0╝"И.PB.PB%.PB-.PB0╛"≤╓pPBАzPB%АzPB-╓pPB0х"К	╝PB╝PB%╝PB-╝PB0d

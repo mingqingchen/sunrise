@@ -1,2 +1,0 @@
-
-HFFGвАо	"Ж ≥IA ≥IA% ≥IA- ≥IA0Х"ЧмлDAмлDA%млDA-млDA0п"©ffFAffFA%ffFA-ffFA0═"ПвёDAвёDA%вёDA-вёDA0х"╟вёDAмлDA%млDA-вёDA0ю"╦вёDAёDA%вёDA-ёDA0╛"╨млDAмлDA%млDA-млDA0ь"╩ffFAffFA%ffFA-ffFA0d" ffFAffFA%ffFA-ffFA0d"ИffFAffFA%ffFA-ffFA0d"МffFAffFA%ffFA-ffFA0╟	"НffFAffFA%\▐FA-ffFA0╟"┘	\▐FA2ФFA%2ФFA-ffFA0╪"и	ЛQLAЛQLA%ЛQLA-ЛQLA0d"н	вёLAвёLA%вёLA-вёLA0d"Е	вёLAвёLA%вёLA-вёLA0d"К	млLAмлLA%млLA-млLA0и

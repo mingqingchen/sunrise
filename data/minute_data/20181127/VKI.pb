@@ -1,24 +1,0 @@
-
-VKI┤Ао	"Ж33A33A%33A-33A0Ш"ВмлAмлA%млA-млA0d"┌ffA33A%33A-ffA0Ч"┤\▐AffA%ъЮA-q=A0·<"▀╒╢A╒╢A%╒╢A-╒╢A0Ы"▄\▐AffA%\▐A-ffA0Х"█\▐A\▐A%\▐A-\▐A0d"▓R╦AR╦A%R╦A-R╦A0╙"ыR╦AR╦A%R╦A-R╦A0d"ъ1≥A1≥A%1≥A-1≥A0и	"АffAffA%ffA-ffA0░"МАzAАzA%АzA-АzA0а"С║gAffA%║gA-ffA0╤"ЖR╦AR╦A%R╦A-R╦A0Т"╚ffAHPA%\▐A-HPA0н&"╜ffAffA%С▌A-ffA0╟""╝ffAffA%ffA-ffA0d"╞╧█A╧█A%╧█A-╧█A0э"╤ffAffA%ffA-ffA0d"╥ы=Aq=A%ы=A-q=A0╘"╨q=Aq=A%q=A-q=A0d"╩ЧeAffA%ffA-▓\A0п"©q=A┴AA%ffA-q=A0Х"еq=Aq=A%q=A-q=A0d"йЛQAffA%ffA-ЛQA0═"мq=AffA%ffA-q=A0╛"жq=Aq=A%q=A-q=A0d"┬q=Aq=A%q=A-q=A0п"┴q=Aq=A%q=A-q=A0d"▓q=Aq=A%q=A-q=A0d"⌠ZAZA%ZA-ZA0Е"∙|aA|aA%|aA-|aA0╛"√q=Aq=A%q=A-q=A0d"╓ЛQAq=A%ЛQA-q=A0м("╟ЛQAЛQA%ЛQA-ЛQA0d"╢q=Aq=A%q=A-q=A0═"ЛffAffA%ffA-ffA0d"ВЛQAЛQA%ЛQA-ЛQA0d"Ыы=Aы=A%ы=A-ы=A0Ё"ЗffAffA%ffA-ffA0Х"┐ffAffA%ffA-ffA0Х"▄ffAffA%\▐A-ЛQA0╨"▌╖A╖A%╖A-╖A0Т"▐\▐A┴AA%\▐A-q=A0╟	"≤sAsA%sA-sA0╦"²ffA{A%ffA-{A0щ"═ы=Aы=A%ы=A-ы=A0│"п^KA^KA%^KA-^KA0╛"эЛQAЛQA%ffA-ЛQA0■<"чЛQAffA%ffA-ЛQA0ф#"КЧeAffA%ffA-ЛQA0А7"ПЛQAffA%ffA-ЛQA0░"ЧffAffA%ffA-ffA0d"┘	ЛQAЛQA%ffA-ИHA0Х9"╟	ffAffA%ffA-ffA0d"╣	ffAЧeA%ffA-ЧeA0п"╤	ffAffA%ffA-ffA0Л"ю	ffAffA%ffA-ffA0Э"и	ffAffA%ffA-ffA0╢"л	ffAffA%ffA-ffA0л"м	ffAffA%ffA-ffA0х"о	ffAffA%ffA-ffA0d"п	ffAffA%ffA-ffA0п"я	ffA\▐A%R╦A-ffA0с("с	R╦AR╦A%R╦A-R╦A0х"ж	R╦AмлA%млA-R╦A0■
-"з	HАAHАA%HАA-HАA0└"ш	HАAHАA%HАA-HАA0ь"щ	=
-A=
-A%=
-A-=
-A0Х"ч	=
-A=
-A%=
-A-=
-A0└"А	=
-A=
-A%=
-A-=
-A0э"Ц	=
-A=
-A%=
-A-=
-A0Х"Е	╠АA╠АA%╠АA-╠АA0п"Г	33A=
-A%33A-=
-A0л!"Х	=
-A`ЕA%=
-A-`ЕA0п"К	33AцУA%33A-цУA0╛"■
-33A33A%33A-33A0d

@@ -1,6 +1,0 @@
-
-PNF╙ъо	"Ж=
-GA=
-GA%=
-GA-=
-GA0╛"╪mVGAmVGA%mVGA-mVGA0А"ЕffFAffFA%ffFA-ffFA0═"╝{FA{FA%{FA-{FA0d"╡{FA┘КEA%{FA-┘КEA0ж"╪╓pEA╓pEA%╓pEA-╓pEA0d"╫╓pEA╓pEA%╓pEA-╓pEA0d"©▐бEA▐бEA%▐бEA-▐бEA0d"г╓pEA╓pEA%╓pEA-╓pEA0d"к╓pEA╓pEA%╓pEA-╓pEA0d"л▐бEA▐бEA%▐бEA- ≥EA0╛"ж╦EA╦EA%╦EA-╦EA0d"ш╦EA╦EA%╦EA-╦EA0х"└╦EA╦EA%╦EA-╦EA0d" ╦EA╦EA%╦EA-╦EA0d"╕╦EA╦EA%╦EA-╦EA0d"╗╦EA╦EA%╦EA-╦EA0d"╣╦EA╦EA%╦EA-╦EA0d"К╦EA╦EA%╦EA-╦EA0d"Ь╦EA╦EA%╦EA-╦EA0d"▐млDAмлDA%млDA-млDA0d"■╓pEA╓pEA%╓pEA-╓pEA0╛"омлDAмлDA%млDA-млDA0d"змлDAмлDA%млDA-млDA0d"ФмлDAмлDA%млDA-млDA0d"ГПDAПDA%ПDA-ПDA0х"ЯмлDAмлDA%млDA-млDA0d"ЖхEAхEA%хEA-хEA0х"ВмлDAмлDA%млDA-млDA0≈"ШцУDAцУDA%цУDA-цУDA0d"┘	млDAмлDA%млDA-млDA0d"╥	млDAмлDA%млDA-млDA0d"╦	▀lEA;pEA%;pEA-▀lEA0╔"╧	╦EA╦EA%╦EA-╦EA0d"а	млDAмлDA%млDA-млDA0d"и	млDAмлDA%млDA-млDA0d"я	млDAмлDA%млDA-млDA0d"в	млDAмлDA%млDA-млDA0d"э	млDAмлDA%млDA-млDA0d"Д	млDAмлDA%млDA-млDA0d"Ф	млDAмлDA%млDA-млDA0d"Х	млDA╝GEA%╝GEA-млDA0╚"И	╝GEA╝GEA%╝GEA-╝GEA0Х"К	млDAвёDA%млDA-вёDA0╚	

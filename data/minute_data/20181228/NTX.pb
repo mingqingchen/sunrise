@@ -1,3 +1,0 @@
-
-NTXьс╧	"юП┬EAП┬EA%П┬EA-'┬EA0╝"яЪЩEAЪЩEA%ЪЩEA-ЪЩEA0╠
-"доEAП┬EA%П┬EA-оEA0ь"жЪЩEAП┬EA%П┬EA-ЪЩEA0╪"╢'┬EAП┬EA%П┬EA-ЪЩEA0А"╟П┬EAП┬EA%П┬EA-П┬EA0├	"┘П┬EAП┬EA%П┬EA-ЪЩEA0ВB"РП┬EAП┬EA%П┬EA-П┬EA0─"ЪЪЩEAЪЩEA%ЪЩEA-ЪЩEA0d"ноEAоEA%оEA-оEA0Щ"░ЪЩEAП┬EA%П┬EA-ЪЩEA0а"╛П┬EA9┤EA%П┬EA-9┤EA0╚"єЪЩEAП┬EA%П┬EA-ЪЩEA0▓#"ЎЪЩEAЪEA%ЪEA-ЪЩEA0╝"°ЪЩEAП┬EA%П┬EA-ЪЩEA0╢"СЪЩEAП┬EA%П┬EA-ЪЩEA0▄"Ч╡EA╡EA%╡EA-╡EA0к"┘'┬EA'┬EA%'┬EA-'┬EA0s"ъП┬EAП┬EA%П┬EA-П┬EA0¤"єЪЩEAП┬EA%П┬EA-ЪЩEA0┌"√ЪЩEAЪЩEA%ЪЩEA-дpEA0Н"Ж	&SEA&SEA%&SEA-&SEA0Р"╩	оGEA°SEA%ЪЩEA-оGEA0└"ч	├їDA├їDA%├їDA-├їDA0а"ш	═╠DA═╠DA%═╠DA-═╠DA0░	

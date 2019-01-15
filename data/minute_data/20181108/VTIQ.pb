@@ -1,2 +1,0 @@
-
-VTIQхаѕ	"єП¬AП¬A%П¬A-П¬A0»"ЇffAffA%ffA-ffA0и"лЃGAЃGA%ЃGA-ЃGA0Р°"мffAffA%ffA-ffA0d"сЃGAЃGA%ЃGA-ЃGA0†Н"хffAffA%ffA-ffA0ф"цЕA§pA%ЪЩA-§pA0ч]"щffAffA%ffA-ffA0ф"∆	ffAffA%ffA-ffA0ж

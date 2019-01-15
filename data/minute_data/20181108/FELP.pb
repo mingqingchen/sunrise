@@ -1,2 +1,0 @@
-
-FELPхаѕ	"цffv@ffv@%ffv@-ffv@0d"£ш¬t@ш¬t@%ш¬t@-ш¬t@0d"¶ш¬t@ш¬t@%ш¬t@-ш¬t@0d"ІЄu@Єu@%П¬u@-/Ёt@0ф"йЄu@ffv@%ffv@-Єu@0№"Ч33s@Ъwt@%Ъwt@-33s@0»"”	Єu@Єu@%Єu@-Єu@0ф"Ў	ffv@ffv@%ffv@-ffv@0ћ"џ	ffv@ffv@%ffv@-ffv@0и"№	ffv@ffv@%ffv@-ffv@0и"Ё	ffv@ffv@%ffv@-ffv@0и"ё	ffv@ffv@%ffv@-ffv@0и"а	ffv@ffv@%ffv@-ffv@0и"в	ffv@ffv@%ffv@-ffv@0и"г	ffv@ffv@%ffv@-ffv@0х"л	ffv@√хx@%√хx@-ffv@0£

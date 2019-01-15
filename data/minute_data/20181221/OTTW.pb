@@ -1,3 +1,0 @@
-
-OTTWЕАо	"ьоfRAffRA%*╘RA-ffRA0ф"┼ffRAffRA%ffRA-ffRA0d"╘ffRAffRA%ffRA-ffRA0d"╫ffRAffRA%ffRA-ffRA0d"РffRAffRA%ffRA-ffRA0d"┴ffRAffRA%ffRA-ffRA0╛"▀ffRAffRA%ffRA-ffRA0т"▄ЛQPAЛQPA%ЛQPA-ЛQPA0d"▌ЛQPA4QA%4QA-ЛQPA0░"░;pQA;pQA%;pQA-;pQA0╛"∙ QA QA% QA- QA0╛"≤ЛQPAЛQPA%ЛQPA-ЛQPA0╛"²░═PA$╧PA%млPA-\▐PA0ь"ё'═PA'═PA%'═PA-'═PA0╛"ямлPA ≥QA% ≥QA-млPA0╛"тWЛPAWЛPA%WЛPA-WЛPA0╛"ыЧтPAЧтPA%ЧтPA-ЧтPA0╛"э∙тPA∙тPA%∙тPA-∙тPA0╛"КвёPAАzPA%вёPA-АzPA0Д"НвёPAвёPA%вёPA-вёPA0d"╟	ЛQPAЛQPA%ЛQPA-ЛQPA0d"э	ЛQPAЛQPA%ЛQPA-ЛQPA0d"Д	вёPA┬┘QA%Ф╝QA-АzPA0╗"■
-АzPAАzPA%АzPA-АzPA0t

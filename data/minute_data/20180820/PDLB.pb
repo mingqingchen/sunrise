@@ -1,3 +1,0 @@
-
-PDLBтчо	"Ж╝kA╝kA%╝kA-╝kA0Щ"ыЦ6lA╦mA%╦mA-Ц6lA0л"▌HАnAHАnA%HАnA-HАnA0d"■HАnAHАnA%HАnA-HАnA0d"© ≥mA ≥mA% ≥mA- ≥mA0┬"ЖмлlAмлlA%млlA-млlA0d"║млlAмлlA%млlA-млlA0d"╒млlAмлlA%млlA-млlA0╛"ямлlAмлlA%млlA-млlA0░"Б ≥mA ≥mA% ≥mA- ≥mA0d"а	QkmAQkmA%QkmA-QkmA0└"ф	╝GmA╝GmA%╝GmA-╝GmA0d"р	цУlAцУlA%цУlA-цУlA0d"Ц	цУlAцУlA%цУlA-цУlA0х"К	цУlAцУlA%цУlA-цУlA0╛"■
-млlAмлlA%млlA-млlA0╕

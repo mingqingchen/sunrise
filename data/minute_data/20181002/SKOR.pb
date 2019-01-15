@@ -1,6 +1,0 @@
-
-SKOR‹àÏ	"Ê®CBR¸CB%R¸CB-®CB0€H"ÌR¸CBR¸CB%R¸CB-®CB0ä"ÍR¸CBR¸CB%R¸CB-R¸CB0„"ÎÂCBÂCB%ÂCB-ÂCB0Ì"ÏÂCBÂCB%ÂCB-ÂCB0à"ÐÂCBÂCB%ÂCB-ÂCB0°	"æ	
-WCB
-WCB%
-WCB-
-WCB0d"ë	ÂCBÂCB%ÂCB-ÂCB0d

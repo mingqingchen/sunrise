@@ -1,6 +1,0 @@
-
-NRKßÞÏ	"öR¸BAR¸BA%R¸BA-R¸BA0Ï"ÿR¸BAHáBA%HáBA-R¸BA0ô "‚HáBAHáBA%HáBA-HáBA0¬"‰R¸BAR¸BA%R¸BA-R¸BA0d"‹R¸BAR¸BA%R¸BA-R¸BA0d"Œ\BA\BA%\BA-\BA0¶"F¶BAF¶BA%F¶BA-F¶BA0¬"“R¸BAR¸BA%R¸BA-R¸BA0d"½R¸BAR¸BA%R¸BA-R¸BA0d"¾®BAR¸BA%R¸BA-®BA0ˆ"ÂHáBA=
-CA%=
-CA-HáBA0Œ"ÎHáBAHáBA%HáBA-HáBA0u"ÞR¸BAR¸BA%R¸BA-R¸BA0‘	"àHáBAHáBA%HáBA-HáBA0¬"è«ÏBA«ÏBA%«ÏBA-«ÏBA0À"ëR¸BAR¸BA%R¸BA-R¸BA0d"©¨ÆBAHáBA%HáBA-¨ÆBA0î"·ÀBAÀBA%ÀBA-ÀBA0{"Û»¸BAR¸BA%»¸BA-R¸BA0Š "‡\BA\BA%\BA-\BA0d"Š\BA\BA%\BA-\BA0„"ŽÅBAÅBA%ÅBA-ÅBA0£6"R¸BA\BA%R¸BA-\BA0†0"¹ffBAq=BA%ÏfBA-q=BA0¼%"îffBAffBA%ffBA-ffBA0„"q=BAq=BA%q=BA-q=BA0‚ "Ì{BAq=BA%q=BA-BA0øk"Îö(BA{BA%ö(BA-{BA0¨"Ï{BAq=BA%q=BA-{BA0œc"Ðq=BAq=BA%q=BA-q=BA0/"ë“:BAq=BA%q=BA-X9BA0ä"ì«>BAq=BA%ffBA-q=BA0¨-"ûq=BAq=BA%q=BA-q=BA0 "†	7BAq=BA%q=BA-7BA0°""À	{BA{BA%{BA-{BA0d"Ç	R'BAq=BA%q=BA-R'BA0Û"Ê	{BA{BA%q=BA-{BA0´"Ë	ö(BA{BA%ö(BA-{BA0Ø"Ò	h"BA{BA%h"BA-{BA0
-"Þ	{BA{BA%{BA-{BA0ô"ä	q=BAö(BA%q=BA-ö(BA0È"ç	{BAq=BA%q=BA-{BA0¼"è	{BAÿ!BA%ƒ/BA-{BA0’"ê	{BA{BA%{BA-{BA0ä"ë	{BA{BA%q=BA-{BA0ö"–
-q=BAq=BA%q=BA-q=BA0³

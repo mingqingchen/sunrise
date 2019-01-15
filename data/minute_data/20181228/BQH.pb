@@ -1,2 +1,0 @@
-
-BQHьс╧	"Ў{JA{JA%{JA-{JA0▀"ёq=JAq=JA%q=JA-q=JA0╚"╧\ПJA\ПJA%\ПJA-\ПJA0╚"╒\ПJA\ПJA%\ПJA-\ПJA0╚"Д\ПJA\ПJA%\ПJA-\ПJA0╚"Й\ПJA\ПJA%\ПJA-\ПJA0╚"Ф\ПJA\ПJA%\ПJA-\ПJA0╚"╣\ПJA\ПJA%\ПJA-\ПJA0╚"ъ\ПJA\ПJA%\ПJA-\ПJA0д"ЪR╕JAR╕JA%R╕JA-R╕JA0d"░	R╕JAR╕JA%R╕JA-R╕JA0d

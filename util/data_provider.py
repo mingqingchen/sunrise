@@ -7,6 +7,27 @@ import stock_pb2
 k_eligible_file_name = 'eligible_list.txt'
 
 
+def sort_data_based_on_time(input):
+  """Sortinput ONeIntraDayData based on time_val.
+  Args:
+    input: OneIntraDayData
+  Returns:
+    output: OneIntraDayData with data sorted
+  """
+  time_data_map = {}
+  output = stock_pb2.OneIntraDayData()
+  output.symbol = input.symbol
+  output.date = input.date
+  output.resolution = input.resolution
+
+  for data in input.data:
+    time_data_map[data.time_val] = data
+  for item in sorted(time_data_map.items(), key=lambda s: s[0]):
+    one_time_data = output.data.add()
+    one_time_data.CopyFrom(item[1])
+  return output
+
+
 def if_two_float_close(a, b):
   if (a == 0.) and (b == 0.):
     return True

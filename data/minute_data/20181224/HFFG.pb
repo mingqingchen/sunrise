@@ -1,2 +1,0 @@
-
-HFFGХАо	"Ж┘gA┘gA%┘gA-┘gA0≤"хмлdA┘gA%┘gA-млdA0х"ьмлdAмлdA%млdA-млdA0d"█млdAмлdA%млdA-млdA0d"≈млdAмлdA%млdA-млdA0х"╔АzdAАzdA%АzdA-АzdA0d"╟ffdAffdA%ffdA-ffdA0d"╣ffdAffdA%ffdA-ffdA0d"╤ffdAffdA%ffdA-ffdA0d"╪ffdAffdA%ffdA-ffdA0d"Х┘gA┘gA%┘gA-┘gA0о

@@ -1,2 +1,0 @@
-
-GLADNêáÏ	"µq=ÆAq=ÆA%q=ÆA-q=ÆA0 "Ã™*ÆA™*ÆA%™*ÆA-™*ÆA0Í"Ô…ëÅA…ëÅA%…ëÅA-…ëÅA0È"¸…ëÅA…ëÅA%…ëÅA-…ëÅA0È"‚…ëÅA…ëÅA%…ëÅA-…ëÅA0Ø"œ…ëÅA…ëÅA%…ëÅA-…ëÅA0d"ž…ëÅA…ëÅA%…ëÅA-…ëÅA0°	

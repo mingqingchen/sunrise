@@ -1,2 +1,0 @@
-
-UAE▓що	"ЖЖ(xAЖ(xA%Ж(xA-Ж(xA0Х"┌,ewA,ewA%,ewA-,ewA0б"├33wA33wA%33wA-33wA0Т"юЧevAffvA%ffvA-ЧevA0░"▄ЧevAЧevA%ЧevA-ЧevA0╖" q=vAq=vA%q=vA-q=vA0Т"▄жеuAжеuA%жеuA-жеuA0х"╟	q=vAq=vA%q=vA-q=vA0└"в	\▐vA\▐vA%\▐vA-\▐vA0√

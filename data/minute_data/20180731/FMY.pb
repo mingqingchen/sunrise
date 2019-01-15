@@ -1,2 +1,0 @@
-
-FMYШщо	"ЖмлTAмлTA%млTA-млTA0Х"уиvTAиvTA%иvTA-иvTA0d"÷Ж(TAЖ(TA%Ж(TA-Ж(TA0В"тмлTAмлTA%млTA-млTA0╪"Юx°UAx°UA%x°UA-x°UA0Ы"ЫАzTAАzTA%АzTA-АzTA0d"ъ	╝GUAZUA%ZUA-╝GUA0х"К	 ≥UA ≥UA% ≥UA- ≥UA0╛

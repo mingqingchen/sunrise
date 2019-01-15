@@ -1,2 +1,0 @@
-
-GTYHมÞฯ	"•ย!Aย!A%ย!A-ย!A0ฌ" {"A{"A%{"A-{"A0จร"๊q="Aq="A%q="A-q="A0ศ”"๑ff"Aff"A%ff"A-ff"A0 "๒ff"Aff"A%ff"A-ff"A0ภ"๓ff"Aff"A%ff"A-ff"A0คq"๔์Q"Aff"A%ff"A-์Q"A0ฤ^"Cญ"ACญ"A%Cญ"A-Cญ"A0๔"ฮff"Aff"A%ff"A-ff"A0d"ำ	ff"Aff"A%ff"A-ff"A0 "๊	{"A{"A%{"A-{"A0d

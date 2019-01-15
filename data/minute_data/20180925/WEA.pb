@@ -1,4 +1,0 @@
-
-WEA╬ъо	"Ж{JA{JA%{JA-{JA0т"╬И&IA≈ЪHA% ≥IA-≈ЪHA0Л"© ≥IAмлHA%q=JA-млHA0░"ю╝GIA)\IA%╛╜IA-млHA0з"а╝GIAмлHA%нIA-млHA0⌠#"бмлHA;pIA%╓pIA-млHA0т#"░X╗IAX╗IA%X╗IA-X╗IA0Т"╓ IA
-вIA%
-вIA- IA0К"О┘КIA┘КIA%┘КIA-┘КIA0°"≥┘КIA┘КIA%┘КIA-┘КIA0└"з┘КIA┘КIA%┘КIA-┘КIA0└"ш┘КIA┘КIA%┘КIA-┘КIA0э"э┼╟IA┼╟IA%┼╟IA-┼╟IA0З"щ╣IA╣IA%╣IA-╣IA0░"Р▐бIA▐бIA%▐бIA-▐бIA0ь"Ч▐бIA▐бIA%▐бIA-▐бIA0ь"╥	┘КIA┘КIA%┘КIA-┘КIA0d"╬	┘КIA┘КIA%┘КIA-┘КIA0╪"г	┘КIA┘КIA%┘КIA-┘КIA0ю"х	┘КIA┘КIA%┘КIA-┘КIA0Х"в	w╬IA▐бIA%▐бIA-w╬IA0╪"А	▐бIA▐бIA%▐бIA-▐бIA0═"Д	▐бIA▐бIA%▐бIA-▐бIA0ъ	

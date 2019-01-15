@@ -1,2 +1,0 @@
-
-BFRA┴Ао	"└╠АJA╠АJA%╠АJA-╠АJA0≤"Р\▐NA┘КMA%\▐NA-┘КMA0п"С┘КMA┘КMA%┘КMA-┘КMA0Х"Т╓pMAмлLA%╓pMA-млLA0Х"ЪмлLA)\KA%млLA-)\KA0э"┌HАJAHАJA%HАJA-HАJA0Т"▄млLAмлLA%млLA-млLA0Т"═млLAмлLA%млLA-млLA0─

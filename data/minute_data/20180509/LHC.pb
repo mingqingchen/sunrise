@@ -1,5 +1,0 @@
-
-LHCžÜÏ	"§
-š™Aš™A%š™A-š™A0¡"­
-ffAffA%ffA-ffA0î“	"´
-ffAffA%ffA-ffA0ŠŽ

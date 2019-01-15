@@ -1,3 +1,0 @@
-
-ISDRнаѕ	"цЪЩqAЪЩqA%ЪЩqA-ЪЩqA0ъ"ИбzlA`vlA%бzlA-§plA0Љ"ЩPНgAPНgA%PНgA-PНgA0и"ЪѕffAaTiA%aTiA-ѕffA0Є"ГмQlAмQlA%мQlA-мQlA0ъ"П=
-iA33iA%ЃGiA-ЌћhA0А"РП¬iAП¬iA%П¬iA-П¬iA0x"№¬ЖkAjMlA%jMlA-¬ЖkA0ф"яB>gAЄlA%ЄlA-B>gA0и"юП¬iAП¬iA%П¬iA-П¬iA0d"ї	П¬iAП¬iA%П¬iA-П¬iA0»"Љ	П¬iAП¬iA%П¬iA-П¬iA0»"љ	П¬iAП¬iA%П¬iA-П¬iA0d"њ	ЕkAЕkA%ЕkA-ЕkA0ђ"÷	ЃmAЕkA%ЃmA-ЕkA0†"„	ffjAffjA%ffjA-ffjA0d"з	ЕkARЄjA%ЕkA-RЄjA0Р"й	§piA§piA%§piA-§piA0d"к	ЪЩiAЪЩiA%ЪЩiA-ЪЩiA0d

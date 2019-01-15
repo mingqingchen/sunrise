@@ -1,2 +1,0 @@
-
-IEUS Юо	"ЖмлOBмлOB%млOB-млOB0╢"┐│UOB│UOB%│UOB-│UOB0≥"юЖ(OBЖ(OB%Ж(OB-Ж(OB0┐"⌠млOBмлOB%млOB-млOB0d"°ЧCPBЖ(PB%яQPB-Ж(PB0╟	"²rJPB╝GPB%rJPB-╝GPB0╘"шZ$PBZ$PB%Z$PB-Z$PB0╟"╩	╧█OB\▐OB%\▐OB-╧█OB0°"г	TtOBTtOB%TtOB-TtOB0j"я	╣wOB╣wOB%╣wOB-╣wOB0d"К	{OB{OB%{OB-{OB0d

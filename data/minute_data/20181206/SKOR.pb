@@ -1,6 +1,0 @@
-
-SKOR×áÏ	"û
-×AB
-×AB%
-×AB-
-×AB0 "üÍÌABÍÌAB%ÍÌAB-ÍÌAB0À"¤)\BB)\BB%)\BB-)\BB0ŠP"’ö(BBö(BB%ö(BB-ö(BB0¾"„k«ABk«AB%k«AB-k«AB0È

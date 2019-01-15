@@ -1,4 +1,0 @@
-
-BOCHШщо	"Ж ≥IA ≥IA% ≥IA- ≥IA0Л"ВuIAuIA%uIA-uIA0d"▌33KA33KA%33KA-33KA0╛"кffJAffJA%ffJA-ffJA0В"оffJAffJA%ffJA-ffJA0Т"пffJAffJA%ffJA-ffJA0Т"яffJAffJA%ffJA-ffJA0Т"вffJAffJA%ffJA-ffJA0d"ГffJAffJA%ffJA-ffJA0d"ИffJAffJA%ffJA-ffJA0d"╛┘|JA┘|JA%┘|JA-┘|JA0╬"╜ffJAffJA%ffJA-ffJA0ь"╝ffJAffJA%ffJA-ffJA0d"╥й2KAй2KA%й2KA-й2KA0Х"дffJAffJA%ffJA-ffJA0d"еffJAffJA%ffJA-ffJA0┬"ы ≥IA ≥IA% ≥IA- ≥IA0d"█ffJAffJA%ffJA-ffJA0d"КffJAffJA%ffJA-ffJA0d"▒ffJAffJA%ffJA-ffJA0d" 33KA33KA%33KA-33KA0d"²33KA33KA%33KA-33KA0╪"у33KAй2KA%33KA-й2KA0╓"ъ ≥KA ≥KA% ≥KA- ≥KA0х"┘	 ≥KA ≥KA% ≥KA- ≥KA0d"├	≈ЪKA≈ЪKA%≈ЪKA-≈ЪKA0Т"╨	33KA33KA%33KA-33KA0╞"╩	 ≥KA ≥KA%≈ЪKA- ≥KA0Т"н	ffJAffJA%ffJA-ffJA0d"ъ	млJAмлJA%млJA-млJA0х"Х	млJAмлJA%млJA-млJA0d"И	млJAffJA%млJA-ffJA0х"К	ffJA ≥IA%ffJA- ≥IA0Х"■
- ≥IA ≥IA% ≥IA- ≥IA0Ю"а
- ≥IA ≥IA% ≥IA- ≥IA0с

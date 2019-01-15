@@ -1,2 +1,0 @@
-
-EVOочо	"юмлLAмлLA%млLA-млLA0╛"гКБLAКБLA%КБLA-КБLA0d"имлLAмлLA%млLA-млLA0х"рZУLAZУLA%ZУLA-ZУLA0░"вмлLAмлLA%млLA-млLA0d"КмлLAмлLA%млLA-млLA0╛"┼млLAмлLA%млLA-млLA0х

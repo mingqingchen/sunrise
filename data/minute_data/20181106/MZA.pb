@@ -1,2 +1,0 @@
-
-MZAףאֿ	"צ¸EAffFA%ffFA-¸EA0©"ר;FA;FA%;FA-;FA0פ"›ÞEAÞEA%ÞEA-ÞEA0ט"ֽEAֲEA%ֶÜEA-ֲEA0¬"״&FAffFA%ffFA-&FA0ְ"אffFAבzFA%בzFA-ffFA0ט"ןq=FAq=FA%q=FA-q=FA0k"‏q=FAq=FA%q=FA-q=FA0מ"³	FAFA%FA-FA0×"¸	<FA<FA%<FA-<FA0ג	"Ü	q=FAq=FA%q=FA-q=FA0d"ד	{FA{FA%{FA-{FA0פ"ו	¸EA¸EA%¸EA-¸EA0d

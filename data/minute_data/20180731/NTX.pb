@@ -1,3 +1,0 @@
-
-NTXШщо	"ЖмлLAмлLA%млLA-млLA0я"┼ЬSLAЬSLA%ЬSLA-ЬSLA0█"ъffLAffLA%xzLA-ffLA0л"ЙЛQLAАzLA%АzLA-ЛQLA0ь"ОЛQLAЛQLA%ЛQLA-ЛQLA0d"фЛQLAЛQLA%ЛQLA-ЛQLA0d"н┐QLAЛQLA%ЛQLA-┐QLA0Д"с_)LAq=LA%q=LA-_)LA0л"┬О8LAО8LA%О8LA-О8LA0d"╬АzLAАzLA%АzLA-АzLA0d"КАzLAвёLA%вёLA-z6LA0з"ЛвёLAАzLA%вёLA-АzLA0х"▄вёLAвёLA%вёLA-вёLA0d"звёLAвёLA%вёLA-вёLA0d"МвёLAвёLA%вёLA-вёLA0d"ЗвёLAвёLA%вёLA-вёLA0▄"├	│LAвёLA%вёLA-АzLA0л"ч	╜iLA╜iLA%╜iLA-╜iLA0░"√
-млLAмлLA%млLA-млLA0в

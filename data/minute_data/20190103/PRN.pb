@@ -1,2 +1,0 @@
-
-PRN≈╖п	"ЖHАHBHАHB%HАHB-HАHB0╢"╪Ж(HBЖ(HB%Ж(HB-Ж(HB0╪"╫┘КGB┘КGB%┘КGB-┘КGB0d"емлFBмлFB%млFB-млFB0╛"ГXhEBXhEB%XhEB-XhEB0≤"й{HB{HB%{HB-{HB0d"н╪╢EB╪╢EB%╪╢EB-╪╢EB0│"З╩ГEB╩ГEB%╩ГEB-╩ГEB0²"Э╬÷EB╬÷EB%╬÷EB-╬÷EB0╢

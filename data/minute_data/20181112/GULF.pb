@@ -1,2 +1,0 @@
-
-GULFùàÏ	"ö®G—A®G—A%®G—A-®G—A0é"Ó®G—A®G—A%®G—A-®G—A0È"¸—AÃõ–A%¸—A-Ãõ–A0è

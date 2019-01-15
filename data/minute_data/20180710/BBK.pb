@@ -1,3 +1,0 @@
-
-BBKФщо	"Ж ≥eA ≥eA% ≥eA- ≥eA0ж"Е─HeA─HeA%─HeA-─HeA0╛"═╝GeA╝GeA%╝GeA-╝GeA0d"║╝GeA╝GeA%╝GeA-╝GeA0╛"╔╦eAR'eA%╝GeA-╦eA0│"╕╦eA╦eA%╦eA-╦eA0в"╗╦eA╦eA%╦eA-╦eA0Т"≥╦eA╦eA%╦eA-OeA0■
-"╛╦eA╦eA%╦eA-╦eA0 "╨╦eAOeA%╦eA-OeA0ю"╪╦eA╦eA%╦eA-╦eA0╪"╬╦eA╦eA%╦eA-╦eA0э"И╦eA╦eA%╦eA-╦eA0d"▌цУdAмлdA%цУdA-млdA0╢"▒млdAмлdA%млdA-млdA0═"⌡млdAмлdA%млdA-млdA0d"т┐юdA┐юdA%┐юdA-┐юdA0о"Сw╬dAw╬dA%w╬dA-w╬dA0М"│	вёdAвёdA%вёdA-вёdA0х"у	млdAмлdA%млdA-млdA0d"К	млdAмлdA%млdA-млdA0╥

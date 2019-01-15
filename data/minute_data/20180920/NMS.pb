@@ -1,2 +1,0 @@
-
-NMS╦ъо	"╩С▌QAС▌QA%С▌QA-С▌QA0р"й√CQA√CQA%√CQA-√CQA0Э"╔╦QAвёPA%╦QA-вёPA0╝"╕а╗PAа╗PA%а╗PA-а╗PA0▒"╢nёPAnёPA%nёPA-nёPA0и"П\▐PAnёPA%nёPA-\▐PA0л"ВвёPAвёPA%вёPA-вёPA0═"─млPAмлPA%млPA-млPA0╦"┬вёPAвёPA%вёPA-вёPA0d"▀вёPAвёPA%вёPA-вёPA0Т"▌вёPAвёPA%вёPA-вёPA0d"Д	вёPAЖ(PA%вёPA-Ж(PA0Т

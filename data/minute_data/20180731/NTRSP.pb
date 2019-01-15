@@ -1,3 +1,0 @@
-
-NTRSPачо	"Ж{ьA{ьA%{ьA-{ьA0t"ё╝ьA╝ьA%╝ьA-╝ьA0█"╘jMьAjMьA%jMьA-jMьA0х"╪)\ьA)\ьA%)\ьA-)\ьA0Т"дffьA)\ьA%ffьA-)\ьA0х"ь9EьA9EьA%9EьA-9EьA0х"÷ffьAffьA%ffьA-ffьA0╪"═ffьAffьA%ffьA-ffьA0Э"║ffьAffьA%ffьA-ffьA0х"ЖffьAffьA%ffьA-Ш\ьA0Ю"ыЖ(ьAЖ(ьA%Ж(ьA-Ж(ьA0░"ЮиeьAиeьA%иeьA-иeьA0╚"╟	F6ьAF6ьA%F6ьA-F6ьA0х"б	ffьAffьA%ffьA-ffьA0═"ц	ffьAffьA%ffьA-6ьA0Ю"х	ffьAffьA%ffьA-bьA0°"у	6ьA6ьA%6ьA-6ьA0х"з	ffьAffьA%ffьA-bьA0═"Х	Ж(ьAЖ(ьA%Ж(ьA-Ж(ьA0d"И	ffьAffьA%ffьA-ffьA0э"К	Ж(ьAЖ(ьA%Ж(ьA-Ж(ьA0d"■
-q=ьAq=ьA%q=ьA-q=ьA0d

@@ -1,2 +1,0 @@
-
-NJVюр╧	"ЎЪЩIAЪЩIA%ЪЩIA-ЪЩIA0г"╜БХIAБХIA%БХIA-БХIA0Д"пK╚HAK╚HA%K╚HA-K╚HA0ш"╞	Т╦GAТ╦GA%Т╦GA-Т╦GA0▐"╓	РаHAРаHA%РаHA-РаHA0·"█	РаHAРаHA%РаHA-РаHA0╚"▐	РаHAРаHA%РаHA-РаHA0╚"т	сzHAсzHA%сzHA-сzHA0d

@@ -1,2 +1,0 @@
-
-BFY⌡╖п	"Ж╝KAмлLA%млLA-╝KA0ц"═вёLAт+LA%вёLA-т+LA0╦"╗вёLAвёLA%вёLA-вёLA0░"╞вёLAвёLA%вёLA-вёLA0d"╣вёLAвёLA%вёLA-вёLA0d"╩вёLAвёLA%вёLA-вёLA0d"фмлLAмлLA%млLA-млLA0d"смлLAмлLA%млLA-млLA0d"┴млLAмлLA%млLA-млLA0d"┼млLAмлLA%млLA-млLA0d"╪	╜iLA╜iLA%╜iLA-╜iLA0п

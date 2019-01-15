@@ -1,3 +1,0 @@
-
-AZREар╧	"Ў\ПBA\ПBA%\ПBA-\ПBA0Д"╧├ї@A├ї@A%├ї@A-├ї@A0d"╥╕AA├ї@A%╕AA-├ї@A0Ъ"Ё═╠@A═╠@A%═╠@A-═╠@A0d"ў═╠@A═╠@A%═╠@A-═╠@A0d"е═╠@A═╠@A%═╠@A-═╠@A0м"╡ЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"╪ЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"иП┬AAП┬AA%П┬AA-П┬AA0d"╙HсBAHсBA%HсBA-HсBA0d"щл>BA├ї@A%л>BA-├ї@A0┌"эHсBAHсBA%HсBA-HсBA0d"╖	HсBA33CA%33CA-HсBA0╚"┼	ИcCAИcCA%ИcCA-ИcCA0Ї"▌	░CA░CA%░CA-░CA0d"т	ЪЩAAЪЩAA%ЪЩAA-ЪЩAA0d"ы	V}AAЪЩAA%ЪЩAA-V}AA0╚"Ц
-сz@Aсz@A%сz@A-сz@A0є

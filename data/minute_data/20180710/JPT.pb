@@ -1,5 +1,0 @@
-
-JPTФщо	"ЬмлбAмлбA%млбA-млбA0▒"ЭffбAмлюA%ffбA-млюA0═"├сMаAсMаA%сMаA-сMаA0Т"фАzюAАzюA%АzюA-АzюA0├"ж╜ИюA╜ИюA%╜ИюA-╜ИюA0х"ХАzюA ≥©A%АzюA- ≥©A0╦"И┘©Aq=юA%q=юA-Аz©A0Щ"Эq=юAq=юA%q=юA-q=юA0d"Щq=юA=
-юA%q=юA-=
-юA0╛"█ЛQюAffюA%ffюA-ЛQюA0Ь
-"зЖ(юAffюA%ffюA-Ж(юA0░"А▒М©A▒М©A%▒М©A-▒М©A0Т"Ы\▐юA\▐юA%\▐юA-\▐юA0d"Ч\▐юA\▐юA%\▐юA-\▐юA0d"┌	АzюAАzюA%АzюA-АzюA0d"├	Ж(юAЖ(юA%Ж(юA-Ж(юA0d"╠	АzюAАzюA%АzюA-АzюA0d"╣	@юA@юA%@юA-@юA0╓"╧	ffюAffюA%ffюA-ffюA0d"╨	ZdюA2fюA%2fюA-ZdюA0═"╪	ffюAffюA%ffюA-ffюA0d"©	ffюAffюA%ffюA-ffюA0d"б	зюAзюA%зюA-зюA0э"ц	АzюAАzюA%АzюA-АzюA0d"ф	ffюAffюA%ffюA-ffюA0d"и	АzюAАzюA%АzюA-АzюA0d"л	АzюAАzюA%АzюA-АzюA0d"о	АzюAАzюA%АzюA-АzюA0d"я	АzюAАzюA%АzюA-АzюA0d"ж	АzюAАzюA%АzюA-АzюA0d"ь	АzюAАzюA%АzюA-АzюA0d"ш	АzюAАzюA%АzюA-АzюA0d"э	АzюAАzюA%АzюA-АzюA0d"ч	АzюAАzюA%АzюA-АzюA0d"ъ	АzюAАzюA%АzюA-АzюA0d"А	АzюAАzюA%АzюA-АzюA0d"Б	АzюAАzюA%АzюA-АzюA0d"Ц	АzюAАzюA%АzюA-АzюA0d"Е	АzюAАzюA%АzюA-АzюA0d"Ф	АzюAАzюA%АzюA-АzюA0d"Г	АzюAАzюA%АzюA-АzюA0d"Х	R╦юAR╦юA%R╦юA-R╦юA0d

@@ -1,3 +1,0 @@
-
-ACGLPã›œ	"ˆff¿Aff¿A%ff¿A-ff¿A0ƒ"˘ff¿Aff¿A%ff¿A-ff¿A0¨"ëq=¿Aˆ(¿A%q=¿A-ˆ(¿A0Ì"œR∏¿AR∏¿A%R∏¿A-R∏¿A0≠"—]m¿A]m¿A%]m¿A-]m¿A0Í"‚ÏQ¿AÏQ¿A%ÏQ¿A-ÏQ¿A0õ"°q=¿Aq=¿A%q=¿A-q=¿A0»"¶mg¿Amg¿A%mg¿A-mg¿A0s"í R¿A R¿A%¯S¿A- R¿A0¿"¢\è¿A\è¿A%\è¿A-\è¿A0d"™ff¿Aff¿A%ff¿A-ff¿A0ÿ"È2w¿A2w¿A%2w¿A-2w¿A0»"Ì\†¿A\†¿A%\†¿A-\†¿A0é"’.ê¿A.ê¿A%.ê¿A-.ê¿A0å"÷≤ù¿Aff¿A%≤ù¿A-ff¿A0‡"Ó§p¿A§p¿A%§p¿A-§p¿A0œ"⁄	ff¿Aff¿A%ff¿A-ff¿A0ê"›	ÏQ¿AÏQ¿A%ÏQ¿A-ÏQ¿A0º"ﬁ	ÏQ¿AÏQ¿A%ÏQ¿A-ÏQ¿A0»"‡	q=¿Aˆ(¿A%q=¿A-ˆ(¿A0å"Î	ff¿Aff¿A%ff¿A-ff¿A0d"î
-·z¿A·z¿A%·z¿A-·z¿A0Ñ
