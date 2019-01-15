@@ -1,0 +1,8 @@
+
+NEWTÉÛÏ	"ö¸A¸A%¸A-¸A0Ã"ÿ33AÍÌŽA%ÍLA-ÍÌŽA0¹
+"†\ŽA\ŽA%\ŽA-\ŽA0d"¿HáŽA×£ŽA%HáŽA-×£ŽA0Ì"ÁHáŽAHáŽA%HáŽA-HáŽA0d"ÉázŽAázŽA%ázŽA-ázŽA0Ø"ÊffŽAffŽA%ffŽA-ffŽA0d"ËffŽAö(ŽA%ffŽA-ö(ŽA0È"Í{ŽA5^A%{ŽA-)\A0ð."ÖÞqA…ëA%…ëA-ÞqA0ä"æffŽAe™ŽA%e™ŽA-ffŽA0”
+"çffŽAffŽA%ffŽA-ffŽA0¢*"èq=ŽA×£ŽA%×£ŽA-q=ŽA0¬"®\ŽA\ŽA%\ŽA-\ŽA0È"²Ë¡ŽAË¡ŽA%Ë¡ŽA-Ë¡ŽA0á"¸ázŽAffŽA%ázŽA-ffŽA0˜"¹ffŽAffŽA%ázŽA-ffŽA0Ô"¼ìQŽA…ŽA%…ŽA-ìQŽA0‘O"¾HáŽAHáŽA%HáŽA-HáŽA0d"ÁÆÜŽAÆÜŽA%ÆÜŽA-ÆÜŽA0d"Ä\ŽA×£ŽA%=
+A-\ŽA0ô"Å\ŽA\ŽA%\ŽA-\ŽA0ô"ÈÍÌŽAÍÌŽA%ÍÌŽA-ÍÌŽA0È"ÕffŽAffŽA%ffŽA-ffŽA0d"…×£ŽA×£ŽA%×£ŽA-×£ŽA0d"‹\ŽA\ŽA%\ŽA-\ŽA0d"\ŽA\ŽA%\ŽA-\ŽA0d" \ŽA\ŽA%\ŽA-\ŽA0È"¨\ŽA\ŽA%\ŽA-\ŽA0¬"³xzŽAxzŽA%xzŽA-xzŽA0d"¶ffŽAffŽA%ffŽA-ffŽA0§"·ö(ŽAö(ŽA%ö(ŽA-ö(ŽA0d"îö(ŽAö(ŽA%ö(ŽA-ö(ŽA0½"ïÙ=ŽAÙ=ŽA%Ù=ŽA-Ù=ŽA0™"ƒö(ŽAö(ŽA%ö(ŽA-ö(ŽA0d"™ffŽAázŽA%ázŽA-ffŽA0¬"Þ\ŽA\ŽA%\ŽA-\ŽA0d"áffŽAffŽA%ffŽA-ffŽA0¿"âffŽAffŽA%ffŽA-ffŽA0ˆ'"æ×£ŽA×£ŽA%×£ŽA-×£ŽA0d"ëffŽAffŽA%ázŽA-ffŽA0ðG"ìffŽAìQŽA%ffŽA-ìQŽA0¬"î®GŽA®GŽA%®GŽA-®GŽA0k"ï×£ŽA×£ŽA%×£ŽA-×£ŽA0d"ó\ŽA\ŽA%\ŽA-\ŽA0È"ô\ŽA\ŽA%\ŽA-\ŽA0È"ö×£ŽAffŽA%×£ŽA-ffŽA0Ø"÷×£ŽAázŽA%×£ŽA-¤pŽA0„"ú\ŽAázŽA%\ŽA-ázŽA0˜"°	…ŽAázŽA%…ŽA-ázŽA0ô"²	š™ŽAš™ŽA%š™ŽA-š™ŽA0d"µ	ázŽAázŽA%ázŽA-ázŽA0d"¶	\ŽAázŽA%\ŽA-ázŽA0 "·	…ŽA…ŽA%…ŽA-…ŽA0Ö"¼	ázŽAázŽA%ázŽA-ázŽA0d"¾	ÏfŽAÏfŽA%ÏfŽA-ÏfŽA0–"¿	)\ŽA)\ŽA%)\ŽA-)\ŽA0Ë
+"Î	¤pŽAázŽA%ázŽA-ffŽA0¥"Ï	R¸ŽAR¸ŽA%ÍÌŽA-×£ŽA0„"Ð	ffŽAffŽA%ffŽA-ffŽA0È"Ñ	ffŽAffŽA%ffŽA-ìQŽA0„"Õ	ö(ŽAö(ŽA%ö(ŽA-ö(ŽA0d"Ö	®GŽA®GŽA%®GŽA-®GŽA0d"×	ìQŽAìQŽA%ìQŽA-ìQŽA0d"Ø	ázŽAyXŽA%ázŽA-yXŽA0Â"Û	ffŽAffŽA%ffŽA-ffŽA0–"Ü	‡ŽA‡ŽA%‡ŽA-‡ŽA0ú"Ý	ìQŽAìQŽA%ìQŽA-ìQŽA0ó"ß	ö(ŽAö(ŽA%ö(ŽA-ö(ŽA0d"à	ö(ŽAö(ŽA%ö(ŽA-ö(ŽA0"å	q=ŽAq=ŽA%q=ŽA-q=ŽA0–"æ	ìQŽAq=ŽA%ìQŽA-q=ŽA0ô"ç	¸ŽA¸ŽA%¸ŽA-¸ŽA0¯"è	ö(ŽAö(ŽA%ö(ŽA-ö(ŽA0¬"é	ö(ŽAö(ŽA%ö(ŽA-ö(ŽA0"ê	q=ŽAq=ŽA%q=ŽA-q=ŽA0d"ë	ffŽAq=ŽA%ffŽA-q=ŽA0ø
+"”
+ö(ŽA…ëA%q=ŽA-…ëA0è0

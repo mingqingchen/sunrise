@@ -1,0 +1,2 @@
+
+MTRЩэо	"ЖмлtAмлtA%млtA-млtA0╝"ВмлtAмлtA%млtA-млtA0d"п╦uA╦uA%╦uA-╦uA0╟"ымлtAмлtA%млtA-млtA0х"╪млtA33uA%33uA-млtA0░"ИHАtAHАtA%HАtA-HАtA0х"Ш#JuA#JuA%#JuA-#JuA0х"А	млtAмлtA%млtA-млtA0╛"К	млtAмлtA%млtA-млtA0Э

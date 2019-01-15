@@ -1,0 +1,5 @@
+
+BBK╔Юо	"ЖЛQTAЛQTA%ЛQTA-ЛQTA0╣"ЭШ\UAШ\UA%Ш\UA-Ш\UA0²"│╦UA╦UA%╦UA-╦UA0В"░VTAVTA%VTA-VTA0╪"▒VTAVTA%VTA-VTA0х"ммлTAмлTA%млTA-млTA0d"з~▄TA~▄TA%~▄TA-~▄TA0═"ъвёTAмлTA%млTA-вёTA0╦"ДмлTAмлTA%млTA-млTA0d"╕╦UA╦UA%╦UA-╦UA0Ф"╝╦UA╦UA%╦UA-╦UA0d"Ё╦UA╦UA%╦UA-╦UA0╞"┤млTAмлTA%млTA-млTA0Э!"▌gуTAgуTA%gуTA-gуTA0d"≤Ы1UAЫ1UA%Ы1UA-Ы1UA0Т" ЕпTAмлTA%ЕпTA-млTA0ю"°.ЪTA.ЪTA%.ЪTA-.ЪTA0═"╖F%UA╝GUA%╝GUA-F%UA0Х"╞-UA-UA%-UA--UA0╛"╣qUAмлTA%qUA-млTA0ь"Я┴рTAЕпTA%┴рTA-ЕпTA0л"РмлTAмлTA%млTA-млTA0═"▄цУTAцУTA%цУTA-цУTA0х"²млTAмлTA%млTA-млTA0х"·млTAмлTA%млTA-млTA0╛"о
+вTAыTA%ыTA-млTA0ъ
+"пмлTAмлTA%млTA-млTA0d"ОЕпTA6мTA%ЕпTA-млTA0п"ЭмлTAмлTA%млTA-млTA0d"Й	млTAмлTA%млTA-млTA0d"К	млTAмлTA%млTA-млTA0ц"√
+млTAмлTA%млTA-млTA0╩

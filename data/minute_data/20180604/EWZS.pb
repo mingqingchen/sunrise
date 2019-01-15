@@ -1,0 +1,3 @@
+
+EWZSЩэо	"ЖЛQdAЛQdA%ЛQdA-ЛQdA0Я"┴╝cA╝cA%╝cA-╝cA0═"█┘КcA┘КcA%┘КcA-┘КcA0Т"РЖ(dAЖ(dA%Ж(dA-Ж(dA0d"СЛQdAИHdA%ЛQdA-ИHdA0Х"╗ cdA cdA% cdA- cdA0Т"╝cdAcdA%cdA-cdA0ы"╤вёdAвёdA%вёdA-вёdA0d"┘:#dA:#dA%:#dA-:#dA0═"▀млdAHАdA%HАdA-млdA0╢"█ZУdAZУdA%ZУdA-ZУdA0╦"▐млdAмлdA%млdA-млdA0┬'"╨╦eA╦eA%╦eA-╦eA0ч"ПАzdAЖ(dA%АzdA-Ж(dA0й│"─°дdA°дdA%°дdA-°дdA0е"▌eAeA%eA-eA0└"щHPeAHPeA%HPeA-HPeA0П"Ж╦eA╦eA%╦eA-╦eA0х"ЫHАdAЕРdA%ЕРdA-HАdA0п"п	┐QeA┐QeA%┐QeA-┐QeA0d"р	╥beA╥beA%╥beA-╥beA0г"Г	▐бeA▐бeA%▐бeA-▐бeA0ь"■
+q=fAq=fA%q=fA-q=fA0х

@@ -1,0 +1,3 @@
+
+NTX⌡эо	"ЖЖ(PAЖ(PA%Ж(PA-Ж(PA0Э"ЭЛQPAЛQPA%ЛQPA-ЛQPA0ю"┤АzPAмлPA%млPA-АzPA0■
+"╬вёPAвёPA%вёPA-вёPA0╛"пмлPAмлPA%млPA-млPA0d"эвёPAвёPA%вёPA-вёPA0╠	"ЦвёPAвёPA%вёPA-вёPA0Ю"КмлPAмлPA%млPA-млPA0d"ЩвёPAмлPA%млPA-вёPA0═"СП╖PAвёPA%П╖PA-вёPA0░"╫	млPAмлPA%млPA-млPA0╠"д	R╦PAR╦PA%R╦PA-R╦PA0d"А	вёPAвёPA%вёPA-вёPA0└"Ц	вёPAвёPA%вёPA-вёPA0═"Ф	вёPAмлPA%млPA-вёPA0═"Х	вёPAвёPA%вёPA-вёPA0d

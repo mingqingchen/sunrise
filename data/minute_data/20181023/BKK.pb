@@ -1,0 +1,3 @@
+
+BKK÷Юо	"©/nmA/nmA%/nmA-/nmA0d"▌цУlAЖ≈mA%{nA-цУlA0Э"÷╓pmA╓pmA%╓pmA-╓pmA0╪"║млlAмлlA%млlA-млlA0d"ёмлlA╦mA%╦mA-млlA0╪"█ЕпlAмлlA%ЕпlA-млlA0цe"▌млlAgуlA%┌БlA-млlA0Жh"▒АzlAЩ┤lA%Щ┤lA-АzlA0╡"ывёlAвёlA%вёlA-вёlA0д"шАzlAАzlA%вёlA-АzlA0х"Г\▐lA\▐lA%\▐lA-\▐lA0d"╧	вёlAвёlA%вёlA-АzlA0ь"х	nёlAnёlA%nёlA-nёlA0Х"ы	АzlAАzlA%АzlA-АzlA0ь"К	АzlAАzlA%АzlA-ЛQlA0═"√
+ЛQlAЛQlA%ЛQlA-ЛQlA0х

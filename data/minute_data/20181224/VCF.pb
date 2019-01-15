@@ -1,0 +1,2 @@
+
+VCFêáÏ	"ö)\KA)\KA%)\KA-)\KA0ô"÷¹KA¹KA%¹KA-¹KA0è"ý®KA®KA%®KA-®KA0d"Î KA KA% KA- KA0d"×ÂIAÂIA%ÂIA-ÂIA0d"Ú¤pIA¤pIA%¤pIA-¤pIA0È"æš™IAš™IA%š™IA-š™IA0è"é)\IA)\IA%)\IA-)\IA0d"íD‹IAD‹IA%D‹IA-D‹IA0¬"¿{JA{JA%{JA-{JA0d"ÉÂIAÂIA%ÂIA-ÂIA0d"Îš™IAš™IA%š™IA-š™IA0è"Ôj¼IAÂIA%ÂIA-š™IA0°	"ÙÂIAÂIA%ÂIA-ÂIA0È"ÚÂIAÂIA%ÂIA-ÂIA0ô"œÂIAÂIA%ÂIA-ÂIA0ô"ž…ëIA…ëIA%…ëIA-…ëIA0è"¡›æIA›æIA%›æIA-›æIA0è"¥çIA…ëIA%…ëIA-ÂIA0¤"¦³êIA³êIA%³êIA-³êIA0è"®…ëIA…ëIA%q=JA-…ëIA0è "±šIAÔšIA%ÔšIA-š™IA0¤"²š™IA¤pIA%š™IA-¤pIA0"¶¤pIA¤pIA%¤pIA-¤pIA0®"¿¤pIA;pIA%¤pIA-;pIA0è

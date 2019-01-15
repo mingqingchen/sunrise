@@ -1,0 +1,2 @@
+
+PYS·Юо	"К╝G{A╝G{A%╝G{A-╝G{A0Т"┤R╦zA\▐zA%R╦zA-\▐zA0х"▐╦{AЖ({A%╡.{A-╦{A0Т"■ffzAffzA%ffzA-ffzA0╝"┴Ы═zAЫ═zA%Ы═zA-Ы═zA0х"∙ffzA{zA%уxzA-{zA0┌"≤q=zAffzA%ffzA-q=zA0╛"АffzAffzA%ffzA-W[zA0░"БJyAмлxA%JyA-млxA0Т"ДмлxAHАxA%HАxA-млxA0Ф"Еq=zA)\zA%)\zA-q=zA0╛"ХffzAffzA%ffzA-ffzA0d"Кq=zAq=zA%q=zA-q=zA0х"Нq=zAq=zA%q=zA-q=zA0х"П)\zA)\zA%)\zA-)\zA0d"С ≥yAW[zA%ffzA- ≥yA0╛"ЖffzAмлxA%ffzA-млxA0Х"Ыq=zAq=zA%q=zA-q=zA0х"К	 ≥yA ≥yA% ≥yA- ≥yA0d

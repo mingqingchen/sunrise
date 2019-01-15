@@ -1,0 +1,2 @@
+
+ACER‡ÝÏ	"ø33›A33›A%33›A-33›A0N"‹ffžAffžA%ffžA-ffžA0d"ÅffžAffžA%ffžA-ffžA0È"Ì33A33A%33A-33A0d"×…A…A%…A-…A0È"îAqœAAqœA%AqœA-AqœA0ñ"33A33A%33A-33A0d"ÕèYœA…›A%èYœA-…›A0ú"á33A33A%33A-33A0È"ñèê›Aèê›A%èê›A-èê›A0"ó33A33A%33A-33A0d"ã	Ï›AÏ›A%Ï›A-Ï›A0–

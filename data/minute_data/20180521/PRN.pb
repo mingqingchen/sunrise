@@ -1,0 +1,2 @@
+
+PRN╘эо	"▒2sB2sB%2sB-2sB0g"╣opsBopsB%opsB-opsB0П"М(▐sB(▐sB%(▐sB-(▐sB0▄"Щ·ОsB·ОsB%·ОsB-·ОsB0²"└	#шsB#шsB%#шsB-#шsB0е"╪	ffsBffsB%ffsB-ffsB0░"з	┐╞sB┐╞sB%┐╞sB-┐╞sB0√"Х	млsBмлsB%млsB-млsB0╩

@@ -1,0 +1,2 @@
+
+DRIVЧэо	"ЖмлxAмлxA%млxA-млxA0Д"┤млxAцУxA%цУxA-млxA0≤"⌠ЛQxAЛQxA%ЛQxA-ЛQxA0d"ьвёxAвёxA%вёxA-вёxA0d"шцУxAцУxA%цУxA-цУxA0д"╞сMxAсMxA%сMxA-сMxA0Ъ"с{xA{xA%{xA-{xA0А"·Ж(xAЖ(xA%Ж(xA-Ж(xA0Ь"╕т+xAт+xA%т+xA-т+xA0d"╬	млxAмлxA%млxA-млxA0х"©	млxAмлxA%млxA-млxA0╛"ю	млxAмлxA%млxA-млxA0d"ш	dлxAdлxA%dлxA-dлxA0х"К	╦yA╦yA%╦yA-╦yA0e

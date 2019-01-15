@@ -1,0 +1,2 @@
+
+JPTªÜÏ	"»ö(¾AF6¾A%–C¾A-{¾A0°	"ÐH¾AH¾A%H¾A-H¾A0¬"³{¾A‡¾A%33¾A-{¾A0Ø"œ{¾A®½A%{¾A-®½A0"£š™½AHá¼A%š™½A-Há¼A0Ð"Ïš™½Aš™½A%š™½A-š™½A0È"€	®X½A®X½A%®X½A-®X½A0©"¶	q=¾Aq=¾A%q=¾A-q=¾A0È"¾	q=¾AQ¾A%Q¾A-q=¾A0ƒ"Û	q=¾Aq=¾A%q=¾A-q=¾A0d"ã	®½AÎ™½A%®½A-Î™½A0¼"è	¸¾A¸¾A%¸¾A-¸¾A0d

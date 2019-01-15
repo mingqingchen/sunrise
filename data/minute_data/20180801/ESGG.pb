@@ -1,0 +1,2 @@
+
+ESGGачо	"ЬffцBffцB%ffцB-ffцB0d"╫мLцBмLцB%мLцB-мLцB0d"┼R╦цBR╦цB%R╦цB-R╦цB0d"у╓pцB╓pцB%╓pцB-╓pцB0d"╟	╓pцB╓pцB%╓pцB-╓pцB0╫"ц	⌠:цB⌠:цB%⌠:цB-⌠:цB0√"д	▐BцB▐BцB%▐BцB-▐BцB0o

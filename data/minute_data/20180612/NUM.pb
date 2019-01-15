@@ -1,0 +1,4 @@
+
+NUMД▌╧	"Ў)\KA)\KA%)\KA-)\KA0ь"╝)\KA)\KA%)\KA-)\KA0d"┼)\KA)\KA%)\KA-)\KA0d"╬ёcKAёcKA%ёcKA-ёcKA0o"адpKA)\KA%дpKA-)\KA0а"вБKAБKA%БKA-БKA0╝"едpKAБKA%БKA-дpKA0ш"идpKAЕKA%ЕKA-дpKA0ш"н)\KA)\KA%)\KA-)\KA0d"░дpKAБKA%БKA-дpKA0ш"┘дpKA)\KA%ЕKA-)\KA0╠"█)\KA)\KA%)\KA-)\KA0╝"п33KA33KA%33KA-33KA0d"эXKA)\KA%)\KA-▀OKA0╨"є)\KA)\KA%)\KA-)\KA0Р"Л)\KA)\KA%)\KA-)\KA0d"╤ЕKAЕKA%ЕKA-ЕKA0Р"Є@дKA@дKA%@дKA-@дKA0У"╖	№йKA№йKA%№йKA-№йKA0ш"┼	№йKA№йKA%№йKA-№йKA0╚"╥	)\KA)\KA%)\KA-)\KA0d"р	мнKA)\KA%мнKA-)\KA0°"ц	)\KA)\KA%)\KA-)\KA0Ш"ч	оKAоKA%оKA-оKA0d"ы	=
+KA33KA%33KA-=
+KA0╠

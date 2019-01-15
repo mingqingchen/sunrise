@@ -1,0 +1,2 @@
+
+NXCףאֿ	"צ®GYA®GYA%®GYA-®GYA0‚"ק®GYA®GYA%®GYA-®GYA0׳"ֿrYArYA%rYA-rYA0ֿ"¼®GYA®GYA%®GYA-®GYA0"כV}WA4€WA%4€WA-TtWA0 "שבzXAבzXA%בzXA-בzXA0d"³	…WA	WA%¸¯WA-	WA0‡)"ֳ	ש1WAש1WA%ש1WA-ש1WA0״"ט	ffVAffVA%ffVA-ffVA0"ך	ffVAffVA%ffVA-ffVA0ָ"כ	q=VAq=VA%q=VA-q=VA0¼

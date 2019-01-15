@@ -1,0 +1,2 @@
+
+PSCFต฿ฯ	"ย\mBแzmB%\mB-แzmB0ุ"ฤ\mBVmB%\mB-VmB0่"ุแ๚lB๋"mB%๋"mB-แ๚lB0ศ"Ü…lB…lB%…lB-…lB0d"็[lB[lB%[lB-[lB0ย"ฎงนlBงนlB%งนlB-งนlB0i"ข…lBข…lB%ข…lB-ข…lB0k"ejlBejlB%ejlB-ejlB0…"ก=,lB=,lB%=,lB-=,lB0๚"ฌTาkBTาkB%TาkB-TาkB0ศ"นHalBHalB%HalB-HalB0ศ"ฝÝ$lB.lB%.lB-Ý$lB0ฌ"๓lBlB%lB-lB0i"๘'เkB'เkB%'เkB-'เkB0v"“lB“lB%“lB-“lB0d"ีe๊kBe๊kB%e๊kB-e๊kB0y"ห	็ฬkB็ฬkB%็ฬkB-็ฬkB0d

@@ -1,0 +1,2 @@
+
+EMJЧэо	"ё33=A33=A%33=A-33=A0g"Ёмл<AЛQ<A%мл<A-ЛQ<A0╢"╨ЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"╪ЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"╫ЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"ёЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"╦ЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"┴ЛQ<AАz<A%Аz<A-ЛQ<A0х"зЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"└	ЛQ<AЛQ<A%ЛQ<A-ЛQ<A0d"ю	ЛQ<AАz<A%Аz<A-ЛQ<A0х"у	Аz<AАz<A%Аz<A-Аz<A0d"И	ЛQ<AЛQ<A%ЛQ<A-ЛQ<A0╛

@@ -1,0 +1,2 @@
+
+EGIFú‹œ	"ˆ\èrA\èrA%\èrA-\èrA0ú"ÍÖsAÖsA%ÖsA-ÖsA0d"Ó)\sA)\sA%)\sA-)\sA0d"Ò)\sA)\sA%)\sA-)\sA0d"ı)\sAz6sA%)\sA-z6sA0»"∑)\sA)\sA%)\sA-)\sA0»"◊)\sA)\sA%)\sA-)\sA0»"ô)\sA)\sA%)\sA-)\sA0†"¥)\sA)\sA%)\sA-)\sA0d"ø	¨≠sA¨≠sA%¨≠sA-¨≠sA0˚	

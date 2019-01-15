@@ -1,0 +1,3 @@
+
+ITCBвр╧	"ц\ПbA{bA%\ПbA-{bA0а"ч{bA{bA%{bA-{bA0Р"ї{bA{bA%{bA-{bA0В"Ў{bA{bA%{bA-{bA0Е"╡\ПfA\ПfA%\ПfA-\ПfA0Ї"╖\ПfA\ПfA%\ПfA-\ПfA0d"╣\ПfA\ПfA%\ПfA-\ПfA0°
+"╛\ПfA\ПfA%\ПfA-\ПfA0d"─\ПfAыdA%\ПfA-ыdA0Ї"╚ьQ\A├їdA%├їdA-ьQ\A0Ь"╤═╠`A═╠`A%═╠`A-═╠`A0d"Л╫г`AHсbA%HсbA-\П^A0И"О\П^AHсbA%HсbA-\П^A0ш"нffbAffbA%ffbA-ffbA0И'"ЮffbAffbA%ffbA-ffbA0d"г╕]A╕]A%╕]A-╕]A0d"ЁоaAоaA%оaA-оaA0d" П┬aAП┬aA%П┬aA-П┬aA0З"└	╦^A╦^A%╦^A-╦^A0Н"ш	ffbAffbA%ffbA-ffbA0л

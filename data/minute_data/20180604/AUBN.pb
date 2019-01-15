@@ -1,0 +1,2 @@
+
+AUBNЩэо	"Хмл2Bмл2B%мл2B-мл2B0d"ЗАz7BАz7B%Аz7B-Аz7B0d"ц	ff7Bff7B%ff7B-ff7B0d"т	ff7Bff7B%ff7B-ff7B0d"Д	ff3Bff3B%ff3B-ff3B0d"Х	Аz7BАz7B%Аz7B-Аz7B0d"К	 ≥7BHА6B% ≥7B-HА6B0╛

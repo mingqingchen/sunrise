@@ -1,0 +1,2 @@
+
+MTRйчо	"лq=gAq=gA%q=gA-q=gA0d"≈млdAмлdA%млdA-млdA0х"· ≥eA ≥eA% ≥eA- ≥eA0╛"÷B`eAB`eA%B`eA-B`eA0╧"╢млdAмлdA%млdA-млdA0d"╣млdAмлdA%млdA-млdA0╛"╢	╦gA╦gA%╦gA-╦gA0Х"╥	╦gA╦gA%╦gA-╦gA0Х"Г	 ≥eA ≥eA% ≥eA- ≥eA0х"Й	 ≥eAk eA%k eA- ≥eA0Т

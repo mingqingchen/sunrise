@@ -1,0 +1,3 @@
+
+MVC≈эо	"ЖЖ( AЖ( A%Ж( A-Ж( A0d"фРрA÷╚A%РрA-÷╚A0Х"явёA\▐A%вёA-\▐A0х"╒ffAffA%ffA-ffA0х"©\▐A\▐A%\▐A-\▐A0х"рffAffA%ffA-ffA0х"▀\▐A\▐A%\▐A-\▐A0d"≥\▐A\▐A%\▐A-\▐A0х"Ё\▐A\▐A%\▐A-\▐A0х"Ь\▐A\▐A%\▐A-\▐A0х"┬\▐A\▐A%\▐A-\▐A0х"√\▐A\▐A%\▐A-\▐A0d"н\▐A\▐A%\▐A-\▐A0х"ГffAffA%ffA-ffA0╬"РffAffA%ffA-ffA0░"┐	=
+AffA%33A-ffA0└"╫	млAмлA%млA-млA0Т"ф	ffAffA%ffA-ffA0х"п	ffAffA%ffA-ffA0d"з	ffAffA%ffA-ffA0─"ч	П╖AП╖A%П╖A-П╖A0═"Е	ffAffA%ffA-ffA0х"Й	ffAffA%ffA-ffA0d"К	ffA\▐A%R╦A-ffA0╛

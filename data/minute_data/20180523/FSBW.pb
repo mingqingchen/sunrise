@@ -1,0 +1,7 @@
+
+FSBW╚эо	"╪┘gB╦gB%млgB-╦gB0Г"юмлgB{gB%млgB-{gB0Б"йЖ(gBЖ(gB%Ж(gB-Ж(gB0d"кR╦gB╦gB%R╦gB-╦gB0х"омлgBмлgB%млgB-млgB0d"яЖ(gBЖ(gB%Ж(gB-Ж(gB0d"р╦gB╦gB%╦gB-╦gB0d"ЕмлgBмлgB%млgB-млgB0d"Л╗≈gB╗≈gB%╗≈gB-╗≈gB0х"М33gB33gB%33gB-33gB0d"НмлgB33gB%млgB-33gB0░"Я▐бgB▐бgB%▐бgB-▐бgB0d"В╝GgB╝GgB%╝GgB-╝GgB0d"╔▐бgB▐бgB%▐бgB-▐бgB0d"╗ЛQgBЛQgB%ЛQgB-ЛQgB0d"╢с|gBЛQgB%с|gB-ЛQgB0ъ"╣▐бgB▐бgB%▐бgB-▐бgB0d"╩RgBRgB%RgB-RgB0d"╪млgB\▐gB%млgB-\▐gB0▄"©млgB╝gB%млgB-вёgB0╓"ю ≥gB ≥gB% ≥gB- ≥gB0а"ймлgBмлgB%млgB-млgB0╛"кмлgBмлgB%млgB-млgB0d"┘млgBмлgB%млgB-млgB0Т"├млgBмлgB%млgB-млgB0d"┬▐бgB▐бgB%▐бgB-▐бgB0d"▀▐бgBмлgB%млgB-▐бgB0х"▓млgBмлgB%млgB-млgB0d"∙млgBмлgB%млgB-млgB0х"╛млgBмлgB%млgB-млgB0d"Э ≥gB ≥gB% ≥gB- ≥gB0х"└М·gBМ·gB%М·gB-М·gB0h"▌млgBмлgB%млgB-млgB0d"≤┘gBАzgB%┘gB-АzgB0ь"≥▐бgB▐бgB%▐бgB-▐бgB0х"вмлgBмлgB%млgB-млgB0╛"ИмлgBмлgB%млgB-млgB0d"│	млgBмлgB%млgB-млgB0d"┌	млgBмлgB%млgB-млgB0d"й	{■gB{■gB%{■gB-{■gB0d"э	млgBмлgB%млgB-млgB0d"ъ	млgBмлgB%млgB-млgB0┤"Ц	млgBмлgB%млgB-млgB0╦"Ф	╝гgB╝гgB%╝гgB-╝гgB0d"Й	=
+gB=
+gB%=
+gB-=
+gB0х"■
+млgBмлgB%млgB-млgB0Д

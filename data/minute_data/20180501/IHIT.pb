@@ -1,0 +1,5 @@
+
+IHIT•Üֿ	"צ
+׳AםA%
+׳A-םA0ֿ"ק!A!A%!A-!A0"תR¸AR¸A%R¸A-R¸A0d"Ê\AR¸A%R¸A-\A0ט"־9´A9´A%9´A-9´A0g"צ»¸A»¸A%»¸A-»¸A0פ"ÿR¸AR¸A%R¸A-R¸A0"‘S–A•A%S–A-•A0¦"—q=Aq=A%q=A-q=A0ָ"¢{A{A%{A-{A0P"ײרֲAֲA%רֲA-ֲA0¼"„	…כA™A%…כA-™A0 "¸	³ךA³ךA%³ךA-³ךA0 "ֶ	MAMA%MA-MA0׀"ָ	‡A‡A%‡A-‡A0¶"ֿ	ְלAְלA%ְלA-ְלA0¿"ײ	X9AX9A%X9A-X9A0פ"׳	{A{A%{A-{A0v"״	q=Aq=A%q=A-q=A0d"Ú	ffAffA%ffA-ffA0d"Û	ffA A%ffA-…כA0ל'"Ü	ffAffA%ffA-ffA0ָ"Ý	ffAffA%ffA-ffA0d"Þ	U0ANbA%NbA-U0A0₪&"ß	k+AffA%ffA-k+A0´"א	ffAffA%ffA-ffA0ָ"ב	ffAffA%ffA-ffA0d"ג	ffAffA%ffA-ffA0¬"ד	ffAffA%ffA-ffA0ָ"ה	ffAffA%ffA-ffA0ָ"ו	ffAָA%ffA-ָA0°	"ז	ffAffA%ffA-ffA0ָ"ח	ffAffA%ffA-ffA0¬"ט	ffAffA%ffA-ffA0¬"י	ffAffA%ffA-ffA0¬"ך	ffA\A%\A-ffA0פ"כ	\AffA%\A-ffA0ּ"–
+33A33A%33A-33A0ֽ

@@ -1,0 +1,2 @@
+
+FBZачо	"Ж╓pIA╓pIA%╓pIA-╓pIA0П"ш`vGA`vGA%`vGA-`vGA0d"╟Ж(HA█(HA%Ж(HA-█(HA0х"╦█(HA█(HA%█(HA-█(HA0d"╚цУHAZУHA%цУHA-ZУHA0ю"╢ГIAГIA%ГIA-ГIA0d"ВмлHAмлHA%млHA-млHA0d"├млHAмлHA%ZУHA-млHA0Х"█млHAмлHA%млHA-млHA0d" млHAмлHA%млHA-млHA0d"·млHAмлHA%млHA-млHA0d"пмлHAмлHA%цУHA-млHA0╤"ьzHAzHA%zHA-zHA0╙"ымлHAмлHA%млHA-млHA0╛"я	)\GA)\GA%)\GA-)\GA0d"у	сMHAсMHA%сMHA-сMHA0Х

@@ -45,7 +45,7 @@ def main():
       for try_match_date in [date_val, date_val - 1]:
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, try_match_date)
         if result == 0 or result == 1:
-          if data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True):
+          if data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False):
             matched_date = one_day_summary_data.time_val
             day_folder = 'data/minute_data/%d' % matched_date
             if not os.path.isdir(day_folder):
@@ -54,9 +54,7 @@ def main():
             src_file_path = './data/minute_data_unverified/%d/%s.pb' % (date_val, symbol)
             dst_file_path = './data/minute_data/%d/%s.pb' % (matched_date, symbol)
             if not os.path.isfile(dst_file_path):
-              shutil.move(src_file_path, dst_file_path)
-            else:
-              os.remove(src_file_path)
+              shutil.copyfile(src_file_path, dst_file_path)
             break
 
 

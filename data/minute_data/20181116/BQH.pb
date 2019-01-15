@@ -1,0 +1,2 @@
+
+BQHЭЮо	"гмлHAмлHA%млHA-млHA0d"лмлHAцУHA%+IA-млHA0Х"пцУHAцУHA%цУHA-цУHA0ч"тмлHAмлHA%млHA-млHA0d"шмлHAмлHA%млHA-млHA0d"РмлHAмлHA%млHA-млHA0d"╓цУHAцУHA%цУHA-цУHA0d"жмлHAмлHA%млHA-млHA0х"╨млHAмлHA%млHA-млHA0Т"с▐бIA▐бIA%▐бIA-▐бIA0d"ФцУHAцУHA%цУHA-млHA0╟+"ы	цУHAцУHA%цУHA-цУHA0░"Х	цУHAцУHA%цУHA-цУHA0═

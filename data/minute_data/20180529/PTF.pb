@@ -1,0 +1,2 @@
+
+PTF▒▄╧	"Ўq=pBq=pB%q=pB-q=pB0Я"Вq=qBq=qB%q=qB-q=qB0Д"ДЕ+qBЕ+qB%Е+qB-Е+qB0Ь"Р33rB33rB%33rB-33rB0s"УffrBffrB%ffrB-ffrB0╚"окрqBкрqB%крqB-крqB0k"в╫гqB╫гqB%╫гqB-╫гqB0d"пЪrBN"rB%N"rB-ЪrB0я"┐╫#rBЁ'rB%Ё'rB-╫#rB0╚"шЎ(rBЎ(rB%Ў(rB-Ў(rB0ї"є╫гqB╫гqB%╫гqB-╫гqB0d"р	ffqBffqB%ffqB-ffqB0d

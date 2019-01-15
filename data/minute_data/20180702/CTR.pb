@@ -1,0 +1,16 @@
+
+CTRЮЭП	"цHб2A333A%Йv3A-Hб2A0я"чИ2AИ2A%И2A-И2A0о"щq=2Aq=2A%q=2A-ЁЖ1A0и "ъЏВ1A±P1A%oр1A-+ц0A0…$"ы®G1AЪ1A%®G1A-НМ0A0ґ"…ц(2ARё2A%Rё2A-ц(2A0¬"€Rё2ARё2A%Rё2A-Rё2A0d"ЊRё2ARё2A%Rё2A-Rё2A0И"“Rё2ARё2A%Rё2A-Rё2A0¬"Б\Џ2A\Џ2A%\Џ2A-\Џ2A0¬"ГмQ2AмQ2A%мQ2A-мQ2A0d"ЗD‹2AD‹2A%D‹2A-D‹2A0 "ИмQ2AмQ2A%мQ2A-мQ2A0d"Йff2A{2A%ff2A-{2A0§"К…л1A…л1A%…л1A-…л1A0d"М…л1A…л1A%…л1A-…л1A0И"НЏВ1AЏВ1A%ЏВ1A-ЏВ1A0d"У…л1Aа1A%…л1A-ЏВ1A0ј"ЮІќ1A…л1A%…л1A-Іќ1A0¬"ЯЁЖ1A{2A%{2A-ЁЖ1A0¬"гц(2Aц(2A%ц(2A-ц(2A0d"д…л1A…л1A%…л1A-…л1A0d"лff2Aff2A%ff2A-ff2A0¬"фff2Aff2A%ff2A-ff2A0¬"хh"2Ah"2A%h"2A-h"2A0„"¤ff2Aff2A%ff2A-ff2A0¬"§ff2Aff2A%ff2A-ff2A0d"Ёff2Aff2A%ff2A-ff2A0d"©q=2Aq=2A%q=2A-q=2A0d"Єбz2Aбz2A%бz2A-бz2A0d"­\Џ2Aq2A%\Џ2A-ff2A0Ц"±ff2Aff2A%ff2A-ff2A0И"Іff2Aff2A%ff2A-ff2A0И"ё\Џ2A\Џ2A%\Џ2A-\Џ2A0d"Ѕ\Џ2A\Џ2A%\Џ2A-\Џ2A0d"їq=2Aq=2A%q=2A-q=2A0d"Дff2Aq=2A%ff2A-{2A0Ц"Лц(2Aц(2A%ц(2A-ц(2A0d"Чц(2Aц(2A%ц(2A-ц(2A0d"ЩV2AV2A%V2A-V2A0ґ"Ыq=2Aq=2A%q=2A-q=2A0d"…ff2Aff2A%ff2A-ff2A0d"‰ff2Aff2A%ff2A-ff2A0d"Ћff2Aff2A%ff2A-ff2A0d"‘{2A{2A%{2A-{2A0d"”ff2Aff2A%ff2A-ff2A0d"ff2Aff2A%ff2A-ff2A0И"™ћп1A	2A%ff2A-ћп1A0В"љц(2Aц(2A%ц(2A-ц(2A0d"›ц(2Aff2A%ff2A-…л1A0Ц"џff2Aff2A%ff2A-ff2A0d"¤ff2Aff2A%ff2A-ff2A0d"Єff2Aff2A%ff2A-ff2A0d"Їff2Aff2A%ff2A-ff2A0d"Іол1Aол1A%ол1A-ол1A0ф"ґff2Aff2A%ff2A-ff2A0d"·ff2Aq=2A%ff2A-q=2A0ъ"єff2Aff2A%ff2A-ff2A0d"їff2Aff2A%ff2A-ff2A0ђ"†Hб2A\Џ2A%Hб2A-\Џ2A0И"€=
+3A=
+3A%=
+3A-=
+3A0Ъ"ЌRё2ARё2A%Rё2A-Rё2A0d"ЋRё2ARё2A%Rё2A-Rё2A0d"’\Џ2AЂ·2A%XК2A-\Џ2A0м"“Rё2ARё2A%Rё2A-Rё2A0л"”=
+3A¦
+3A%¦
+3A-=
+3A0ќ"У333A=
+3A%333A-Hб2A0‘"Ч333A333A%333A-333A0d"Ы333A333A%333A-333A0d"ЬHб2AHб2A%=
+3A-Hб2A0Б"г333A333A%333A-333A0d"ж333A333A%333A-333A0d"кHб2A333A%333A-Hб2A0И"о333A333A%333A-333A0d"пHб2AHб2A%Hб2A-Hб2A0И"сHб2A333A%333A-Hб2A0И"тHб2AHб2A%Hб2A-Hб2A0d"уHб2AHб2A%Hб2A-Hб2A0d"щHб2AHб2A%Hб2A-Hб2A0d"ьHб2AHб2A%Hб2A-Hб2A0d"Ђ	Hб2A\Џ2A%Hб2A-\Џ2A0”
+"‡	Hб2AHб2A%Hб2A-Hб2A0d"°	Hб2AHб2A%Hб2A-Hб2A0d"і	Hб2AHб2A%Hб2A-Hб2A0d"ґ	Hб2AHб2A%Hб2A-Hб2A0d"¶	Hб2AHб2A%Hб2A-Hб2A0d"·	Hб2AHб2A%Hб2A-Hб2A0d"№	Hб2AHб2A%Hб2A-Hб2A0d"є	Hб2AHб2A%Hб2A-Hб2A0d"ј	Hб2AHб2A%Hб2A-Hб2A0d"Ѕ	Hб2AHб2A%Hб2A-Hб2A0d"ѕ	Rё2ARё2A%Rё2A-Rё2A0d"А	Hб2AHб2A%Hб2A-Hб2A0d"Б	Hб2AHб2A%Hб2A-Hб2A0d"В	Hб2AHб2A%Hб2A-Hб2A0d"Д	Hб2AHб2A%Hб2A-Hб2A0d"Е	Hб2AHб2A%Hб2A-Hб2A0d"Ж	Hб2AHб2A%Hб2A-Hб2A0d"З	Hб2AHб2A%Hб2A-Hб2A0d"И	Hб2AHб2A%Hб2A-Hб2A0d"К	Hб2AHб2A%Hб2A-Hб2A0d"Л	Hб2AHб2A%Hб2A-Hб2A0d"М	Hб2AHб2A%Hб2A-Hб2A0d"Н	Hб2AHб2A%Hб2A-Hб2A0И"О	Hб2AHб2A%Hб2A-Hб2A0d"П	Hб2A=
+3A%333A-Hб2A0И"У	yй2Ayй2A%yй2A-yй2A0ј
+"Ч	й2Aй2A%й2A-й2A0ћ"Щ	Rё2ARё2A%Rё2A-Rё2A0d"Ы	Rё2ARё2A%Rё2A-Rё2A0ђ"Ь	Hб2AHб2A%Hб2A-Hб2A0d"г	Hб2AHб2A%Hб2A-Hб2A0d"д	yй2Ayй2A%yй2A-yй2A0Г"з	Hб2AHб2A%Hб2A-Hб2A0б"и	Rё2AHб2A%Hб2A-Rё2A0њ"й	Hб2AHб2A%Hб2A-Hб2A0м"к	Hб2AHб2A%Hб2A-Hб2A0ђ"л	Hб2ARё2A%Hб2A-Rё2A0‰"”
+J{2AJ{2A%J{2A-J{2A0є…

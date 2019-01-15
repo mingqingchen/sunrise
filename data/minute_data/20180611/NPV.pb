@@ -1,0 +1,3 @@
+
+NPV┐що	"ЗмлDAмлDA%млDA-млDA0Э"ШмлDAмлDA%млDA-млDA0х"┘вёDAайDA%айDA-вёDA0╪"┼АzDAАzDA%АzDA-АzDA0░"двёDAвёDA%млDA-вёDA0≤"нмлDAмлDA%млDA-млDA0х"ымлDAмлDA%млDA-млDA0х"ЦмлDAмлDA%млDA-млDA0d"ДмлDAмлDA%млDA-млDA0х"ОмлDAмлDA%млDA-млDA0х"УП╖DAП╖DA%П╖DA-П╖DA0ф
+"╒млDAмлDA%млDA-млDA0х"╜млDAмлDA%млDA-млDA0х"╣вёDAвёDA%вёDA-вёDA0d"╥млDAмлDA%млDA-млDA0х"бмлDAмлDA%млDA-млDA0х"дмлDAмлDA%млDA-млDA0п"╗ъЮDAъЮDA%ъЮDA-ъЮDA0п"╢млDAмлDA%млDA-млDA0d"╨╦EA╦EA%╦EA-╦EA0Ю"╪╝GEA╝GEA%╝GEA-╝GEA0└"Ч╓pEA╓pEA%╓pEA-╓pEA0d"⌠╝GEAмлDA%╝GEA-млDA0╖"≥╓pEA;pEA%╓pEA-;pEA0Х"═я"EAцУDA%я"EA-цУDA0╓"ж╦EA▐бEA%▐бEA-╦EA0Л'"К	╓pEA╓pEA%╓pEA-╓pEA0d

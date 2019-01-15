@@ -1,0 +1,2 @@
+
+MNI±ßÏ	"ö×£A×£A%×£A-×£A0Þ"Ö8gA8gA%8gA-8gA0"±¤pA¤pA%¤pA-¤pA0‰"ªR¸AHáA%HáA-R¸A0ô"·R¸AR¸A%R¸A-R¸A0¦"úR¸AR¸A%R¸A-R¸A0d"š™Aš™A%š™A-š™A0À"ŒHáAHáA%HáA-HáA0×"Þ¿A¿A%¿A-¿A0e"áÂAÂA%ÂA-ÂA0d"ûÂAøÂA%øÂA-ÂA0¬"°	ÂAÂA%ÂA-ÂA0d"Þ	…ëA…ëA%…ëA-…ëA0Õ"à	×£A×£A%×£A-×£A0d"â	š™Aš™A%š™A-š™A0d"ç	š™Aš™A%š™A-š™A0d

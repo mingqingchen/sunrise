@@ -1,0 +1,3 @@
+
+BSEхчо	"ЖАzHAЖ(LA%Ж(LA-АzHA0≈"с╖yIA╖yIA%╖yIA-╖yIA0∙"з⌠╘HAРHA%РHA-АzHA0Ь#"ХвёHAвёHA%вёHA-вёHA0х"╘млHAмлHA%млHA-млHA0d"тмлHAмлHA%млHA-млHA0╟	"увёHAвёHA%вёHA-вёHA0d"▄nёHAмлHA%млHA-\▐HA0Ю"█млHAмлHA%млHA-млHA0х"ПвёHAмлHA%млHA-вёHA0█"ЯАzHAАzHA%АzHA-АzHA0х"ЬdлHAdлHA%dлHA-dлHA0б"ЫмлHAмлHA%млHA-млHA0х"вdлHAмлHA%млHA-вёHA0├	"ЛUаHAмлHA%млHA-UаHA0р"└	вёHAмлHA%млHA-вёHA0⌡"©	вёHAвёHA%вёHA-вёHA0d"в	вёHAвёHA%вёHA-вёHA0╪"Г	вёHAвёHA%вёHA-вёHA0═"К	вёHAвёHA%вёHA-вёHA0d"√
+вёHAвёHA%вёHA-вёHA0У

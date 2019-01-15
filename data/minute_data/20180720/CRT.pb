@@ -1,0 +1,3 @@
+
+CRTПщо	"шмлlAмлlA%млlA-млlA0░"ЖмлlAмлlA%млlA-млlA0d"ЫмлlAмлlA%млlA-млlA0d"БмлlAмлlA%млlA-млlA0Х"ДffnAffnA%ffnA-ffnA0─"РмлlAмлlA%млlA-млlA0╩"╔ ≥mA╔mA%╔mA- ≥mA0═"╖ ≥mA ≥mA% ≥mA- ≥mA0═"╦╚оlA╚оlA%╚оlA-╚оlA0┤"╓=nA=nA%=nA-=nA0ь"╝\ mA\ mA%\ mA-\ mA0ч"ЬOmAOmA%OmA-OmA0х"п▐бmA▐бmA%▐бmA-▐бmA0Т"ы	x°mAx°mA%x°mA-x°mA0х"√
+ ≥mA ≥mA% ≥mA- ≥mA0Щ

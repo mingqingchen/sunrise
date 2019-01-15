@@ -1,0 +1,2 @@
+
+MMV╓эо	"▄mеEA▐бEA%mеEA-▐бEA0═"▓╦EA╦EA%╦EA-╦EA0d"т@EA@EA%@EA-@EA0╙"К6мEA6мEA%6мEA-6мEA0▄"М wEA wEA% wEA- wEA0╛"ю	млDAмлDA%млDA-млDA0╪"Б	вёDAвёDA%вёDA-вёDA0╢"Ц	вёDAвёDA%вёDA-вёDA0Х"Й	вёDAnёDA%вёDA-nёDA0ф"К	╓pEA╓pEA%╓pEA-╓pEA0х

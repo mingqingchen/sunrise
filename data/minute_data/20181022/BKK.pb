@@ -1,0 +1,2 @@
+
+BKK·Юо	"ЖмлlAмлlA%млlA-млlA0└"Ф+ЖlA+ЖlA%+ЖlA-+ЖlA0═"СцУlAmA%╦mA-млlA0└ "фцУlAцУlA%mA-цУlA0≥"омлlAмлlA%млlA-млlA0║"умлlAмлlA%млlA-млlA0░"∙ИlAИlA%ИlA-ИlA0x"ёZУlAZУlA%ZУlA-ZУlA0Х"╥млlAAЯlA%AЯlA-млlA0ю"╨млlA≤щlA%≤щlA-млlA0С"ЩмлlA#шlA%#шlA-млlA0╢"⌠цУlA╦mA%╦mA-цУlA0ь"■÷<mA÷<mA%÷<mA-÷<mA0Б	"∙╦mA╦mA%ы=mA-╦mA0П"║╦mA╦mA%╦mA-╦mA0d"Д33mA▐бmA%▐бmA-33mA0≤4"Щ⌠:mA⌠:mA%⌠:mA-⌠:mA0Т"╬	╦mA╝GmA%╓pmA-╦mA0ь"ш	n4mAn4mA%n4mA-n4mA0═"Е	╝GmA{nA%{nA-╝GmA0ы

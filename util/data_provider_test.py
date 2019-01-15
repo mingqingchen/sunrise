@@ -93,11 +93,10 @@ class TestDataProvider(unittest.TestCase):
 
 
   def test_is_match(self):
-    return
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20181232
+    start_date = 20180101
     end_date = 20181231
 
     dp_daily.load_one_day_data(2018)
@@ -118,6 +117,8 @@ class TestDataProvider(unittest.TestCase):
         self.assertTrue(dp_daily.load_one_symbol_data(2018, symbol))
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, date_val)
         if result > 0:
+          import pdb
+          pdb.set_trace()
           continue
         result_without_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False)
         result_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True)

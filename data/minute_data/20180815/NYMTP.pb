@@ -1,0 +1,2 @@
+
+NYMTPочо	"ЖffбAffбA%ffбA-ffбA0х"ГffбA╕⌡аA%ffбA-╕⌡аA0ь"ИffбA╕⌡аA%ffбA- ≥аA0┬"ЙffбA╕⌡аA%ffбA-╕⌡аA0ь"ОffбA ≥аA%ffбA-│аA0╟	"ПffбA ≥аA%ffбA- ≥аA0Р"ЯffбA2fбA%ffбA-2fбA0б"╒ffбA╝аA%ffбA-╝аA0└"НffбA{бA%ffбA-{бA0Ч"└	╨kаA╨kаA%╨kаA-╨kаA0}

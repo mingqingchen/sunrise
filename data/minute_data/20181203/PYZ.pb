@@ -1,0 +1,2 @@
+
+PYZтАо	"ЖмлsBмлsB%млsB-млsB0v"Э{wB{wB%{wB-{wB0╪"Ъ{wB{wB%{wB-{wB0d"хЖ(vBЖ(vB%Ж(vB-Ж(vB0ь"нР╟uBР╟uB%Р╟uB-Р╟uB0╛"╚▐бsB▐бsB%▐бsB-▐бsB0d"в}rB}rB%}rB-}rB0Т"з╝GrB╝GrB%╝GrB-╝GrB0х"ё ≥sB ≥sB% ≥sB- ≥sB0х"╓ ≥sB ≥sB% ≥sB- ≥sB0d"┘ltBltB%ltB-ltB0s"жsBsB%sB-sB0d"р	айtBshtB%айtB-shtB0П

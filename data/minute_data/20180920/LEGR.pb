@@ -1,0 +1,2 @@
+
+LEGR¸ßÏ	"éÍÌòAÍÌòA%ÍÌòA-ÍÌòA0°"êÍÌòAÍÌòA%ÍÌòA-ÍÌòA0d"§½òA½òA%½òA-½òA0’"­˜ÌòA˜ÌòA%˜ÌòA-˜ÌòA0¥"ÃÙ½òAÙ½òA%Ù½òA-Ù½òA0­"„ÍÌòAÍÌòA%ÍÌòA-ÍÌòA0"…R¸òAR¸òA%R¸òA-R¸òA0d"‰R¸òAûËòA%ÍÌòA-\òA0*"ŠÍÌòAÍÌòA%ÍÌòA-u“òA0¼-"‹ØóA2wóA%®óA-j¼òA0ý'"Œ¹óAÂóA%ÂóA-¹óA0Ô"’(óA(óA%(óA-(óA0¹"”,ÔóA,ÔóA%,ÔóA-,ÔóA0q"—-!óA-!óA%-!óA--!óA0¦"˜O@óAO@óA%O@óA-O@óA0Æ"™VóAVóA%VóA-VóA0ä"›ÖÖóAÖÖóA%ÖÖóA-ÖÖóA0â"œÂóAopóA%ÂóA-opóA0"ÇKóAÇKóA%ÇKóA-ÇKóA0k"Ÿ…óA…óA%…óA-…óA0q"¡§èóA§èóA%§èóA-§èóA0À"‡;óA;óA%;óA-;óA0Ë"Ã	shóAshóA%shóA-shóA0—"×	ÕgóAÕgóA%ÕgóA-ÕgóA0ô"Ü	š™óAš™óA%š™óA-š™óA0d"ë	š™óA{ôA%{ôA-š™óA0×

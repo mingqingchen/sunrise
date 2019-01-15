@@ -1,0 +1,3 @@
+
+MLABёёѕ	"ьциMCциMC%циMC-циMC0d"√= NCNJC%= NC-NJC0»"‘ЌмKCЌмKC%ЌмKC-ЌмKC0d"кЪYLCЪYLC%ЪYLC-ЪYLC0d"¶П"MCП"MC%П"MC-П"MC0d"≤H°MCH°MC%H°MC-H°MC0d"АnMCnMC%nMC-nMC0d"ЖциKCциKC%циKC-циKC0d"∞	√хNC√хNC%√хNC-√хNC0d"Є	\oMC\oMC%\oMC-\oMC0d"—	3≥MC3≥MC%3≥MC-3≥MC0d"‘	циLCциLC%циLC-циLC0d"Ё	3”MC3”MC%3”MC-3”MC0d"в	еLC{‘MC%{‘MC-еLC0»"г	ЃзLCЌLMC%м—MC-=КLC0§"е	33MC33MC%33MC-33MC0d"ж	Е+LCЕ+LC%Е+LC-ц(LC0ђ"з	q}KCq}KC%q}KC-q}KC0d"и	HСKC\OKC%HСKC-\OKC0»"й	бzJCRЄKC%RЄKC-бzJC0ђ"к	{4LC{4LC%{4LC-{4LC0d"л	)<LCбЇLC%бЇLC-)<LC0ф"Ф
+)ЬLC)ЬLC%)ЬLC-)ЬLC0є

@@ -1,0 +1,2 @@
+
+SQLVичо	"═Ж(РAЖ(РA%Ж(РA-Ж(РA0Х"б	KYРAKYРA%KYРA-KYРA0d"и	АzРAАzРA%АzРA-АzРA0d"л	ffРAffРA%ffРA-ffРA0х"н	АzРAАzРA%АzРA-АzРA0d"с	АzРAАzРA%АzРA-АzРA0х"у	ffРAffРA%ffРA-ffРA0d"ж	ffРAffРA%ffРA-ffРA0d"з	ЛQРAЛQРA%ЛQРA-ЛQРA0х"э	ЛQРAЛQРA%ЛQРA-ЛQРA0d"щ	ЛQРAЛQРA%ЛQРA-ЛQРA0d

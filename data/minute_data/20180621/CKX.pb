@@ -1,0 +1,2 @@
+
+CKX█що	"бff.Aff.A%ff.A-ff.A0х"д4,Aff*A%4,A-ff*A0╛"еff*Aff*A%ff*A-ff*A0d"фe*A ≥)A%e*A- ≥)A0╗"иff*Aмл,A%мл,A-ff*A0х"яff*Aff*A%ff*A-ff*A0d"─с╪)Aс╪)A%с╪)A-с╪)A0З"┐j(Aj(A%j(A-j(A0З"к	╪√(A╪√(A%╪√(A-╪√(A0d"в	ff*Aff*A%ff*A-ff*A0х

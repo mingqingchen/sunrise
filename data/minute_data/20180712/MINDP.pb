@@ -1,0 +1,2 @@
+
+MINDPèÝÏ	"ö33½A33½A%33½A-33½A0ô"Ä¸½A¸½A%¸½A-¸½A0È"¹Ãõ¼AY¼A%Ãõ¼A-Y¼A0È"Ã¼A¼A%¼A-¼A0ô"Ïæ®¼Aö(¼A%æ®¼A-ö(¼A0"Ð¼A¼A%¼A-¼A0È"ÑŽu¼AŽu¼A%Žu¼A-Žu¼A0È"Òu¼Au¼A%u¼A-u¼A0"ÏBÏ¼ABÏ¼A%BÏ¼A-BÏ¼A0d"€	ff¼Aff¼A%ff¼A-ff¼A0ô"‡	ö(¼Aff¼A%ff¼A-ö(¼A0ô"â	¹¼A¹¼A%¹¼A-¹¼A0d"ä	Ûy¼AÛy¼A%Ûy¼A-Ûy¼A0ô

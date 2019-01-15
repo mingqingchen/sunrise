@@ -1,0 +1,2 @@
+
+JHS⌠що	"Ж┘КUA┘КUA%┘КUA-┘КUA0т"░пЁUAпЁUA%пЁUA-пЁUA0▐"▒╣UA╣UA%╣UA-╣UA0≤"б ≥UA ≥UA% ≥UA- ≥UA0d"ч┘КUA ≥UA%┘КUA- ≥UA0├"У ≥UA ≥UA% ≥UA-╓pUA0ы)"Ж╝GUAмлTA%╝GUA-млTA0Щ╝"╡═UA═UA%═UA-═UA0Х"с═UA═UA%═UA-млTA0Т"┴чUA╦UA%╦UA-чUA0л"√mГTAmГTA%mГTA-mГTA0┤"КKЙTAKЙTA%KЙTA-KЙTA0х"змлTA╦UA%╦UA-Р╟TA0ь"─	млTAмлTA%млTA-млTA0d"│	вёTAaцTA%aцTA-вёTA0┬"╥	млTAмлTA%млTA-┤╖TA0М"ъ	╘╓TA╘╓TA%╘╓TA-╘╓TA0w"Б	╢хTA╢хTA%╢хTA-╢хTA0╛"К	АzTAАzTA%АzTA-АzTA0t

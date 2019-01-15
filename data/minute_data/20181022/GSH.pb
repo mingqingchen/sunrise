@@ -1,0 +1,2 @@
+
+GSHŸàÏ	"öq= Aq= A%q= A-q= A0Œ"ŒÂŸAóŽ A%óŽ A-ÂŸA0È"ÎR¸ AR¸ A%R¸ A-R¸ A0d"Ýff Aff A%ff A-ff A0d"ì×£ A×£ A%×£ A-×£ A0d"–R8 AR8 A%R8 A-R8 A0d"§ö( Aö( A%ö( A-ö( A0d"©ö( Aö( A%ö( A-ö( A0d"¬ù1 Aù1 A%ù1 A-ù1 A0ì"€Év AÉv A%Év A-Év A0¬"‡¸ A¸ A%¸ A-¸ A0Ã"Ò–2 A–2 A%–2 A-–2 A0´"á‚b A‚b A%‚b A-‚b A0ä"À	°ƒ A°ƒ A%°ƒ A-°ƒ A0ò"×	ÍÌ A… A%ÍÌ A-… A0È

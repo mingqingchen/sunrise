@@ -1,0 +1,53 @@
+
+LAZY•‹œ	"åÉQAÉQA%ÉQA-ÉQA0d"ëÖA\è
+A%ÖA-\è
+A0Ã"œff
+A{
+A%ff
+A-{
+A0í
+"–ff
+Aff
+A%ff
+A-{
+A0‘4"—ff
+Aff
+A%ff
+A-ff
+A0†"‘ff
+Aff
+A%ff
+A-ff
+A0d"’ff
+Aff
+A%ff
+A-ff
+A0d"÷ff
+Aff
+A%ff
+A-ff
+A0d"◊ff
+Aff
+A%ff
+A-ff
+A0¨"Ÿff
+Aff
+A%ff
+A-ff
+A0»"‹ff
+Aff
+A%ff
+A-ff
+A0ê"›ff
+Aff
+A%ff
+A-ff
+A0d"ﬁff
+Aff
+A%ff
+A-ff
+A0d"„è¬	Aè¬	A%è¬	A-è¬	A0d"Ó=
+A=
+A%=
+A-=
+A0d"∫	rä	Arä	A%rä	A-rä	A0¨"«	òn	A◊£A%òn	A-◊£A0ñ"À	h≥	Ah≥	A%h≥	A-h≥	A0¨"Œ	MÑ	AMÑ	A%MÑ	A-MÑ	A0¥"◊	Ö	A◊£A%Ö	A-◊£A0ê

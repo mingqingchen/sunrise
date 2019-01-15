@@ -1,0 +1,2 @@
+
+BNYачо	"ЖЛQHAЛQHA%ЛQHA-ЛQHA0Ё	"┬╬аHA╬аHA%╬аHA-╬аHA0Х"╪цУHAцУHA%цУHA-цУHA0d"дцУHAцУHA%цУHA-цУHA0ь"ъ'бHA'бHA%'бHA-'бHA0√"ЙмлHAмлHA%млHA-млHA0ь"╨ю[HAю[HA%ю[HA-ю[HA0п"╫млHAмлHA%млHA-млHA0х"├:▓HA:▓HA%:▓HA-:▓HA0⌠"·╢хHA╢хHA%╢хHA-╢хHA0d"ёЛQHAЛQHA%ЛQHA-ЛQHA0d"ЫмлHAмлHA%млHA-млHA0х"√вёHAЛQHA%вёHA-ЛQHA0Т"твёHATRHA%вёHA-ЛQHA0щ"ю	АzHAЛQHA%АzHA-ЛQHA0Ж"г	вёHAвёHA%вёHA-вёHA0х"Б	млHAмлHA%млHA-млHA0d"Г	╖HA╖HA%╖HA-╖HA0╔"К	млHAмлHA%млHA-млHA0d

@@ -1,0 +1,2 @@
+
+CWBC└що	"▌ff:Aff:A%ff:A-ff:A0d"╘ff:Aff:A%ff:A-ff:A0╛"цff:Aff:A%ff:A-ff:A0d"я	ff:Aff:A%ff:A-ff:A0≥"с	ff:Aff:A%ff:A-ff:A0ю"т	Щ┤9AЩ┤9A%Щ┤9A-Щ┤9A0└"Ю	%9A%9A%%9A-%9A0╟	"Х	н9A ≥9A%н9A- ≥9A0░"И	HА8AHА8A%HА8A-HА8A0▄"К	69A▒9A%69A-мл8A0■

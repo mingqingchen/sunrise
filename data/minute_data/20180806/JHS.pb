@@ -1,0 +1,2 @@
+
+JHSфчо	"ЖмлXAмлXA%млXA-млXA0С"▄≤nXA≤nXA%≤nXA-≤nXA0┼"╞ ≥YA ≥YA% ≥YA- ≥YA0d"╠▐бYA▐бYA%▐бYA-▐бYA0d"Ё▐бYA▐бYA%▐бYA-▐бYA0d"╢▐бYA▐бYA%▐бYA-▐бYA0d"╫млXAмлXA%млXA-млXA0х"кмлXAмлXA%млXA-млXA0╛"рмлXAмлXA%млXA-млXA0Т"ы|XA|XA%|XA-|XA0ь"┼млXAмлXA%млXA-млXA0d"╔млXAмлXA%млXA-млXA0о"└q=XAмлXA%млXA-q=XA0Х"Ь(XA(XA%(XA-(XA0·"е	8XA8XA%8XA-8XA0░

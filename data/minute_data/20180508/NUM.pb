@@ -1,0 +1,3 @@
+
+NUMњЬП	"цљ™IAљ™IA%љ™IA-љ™IA0«
+"їолIAолIA%олIA-олIA0ј"АолIAолIA%олIA-олIA0Ї"гћпIA…лIA%ћпIA-…лIA0ґ"йЛJAЛJA%ЛJA-ЛJA0Д"лKИIAKИIA%KИIA-KИIA0d"рKИIAKИIA%KИIA-KИIA0d"хЙIAЙIA%ЙIA-ЙIA0Ј"·ЏВIAЏВIA%ЏВIA-ЏВIA0ђ"ќлIA{JA%{JA-лIA0н"и{JA{JA%{JA-{JA0d"уGJAGJA%GJA-GJA0¬"ъИJAИJA%ИJA-ИJA0Ь"Ђ{JA{JA%{JA-{JA0Т"q=JAq=JA%q=JA-q=JA0d"лц(JA'1JA%'1JA-дJA0и"О	q=JA=JA%q=JA-=JA0ђ"й	q=JAq=JA%q=JA-q=JA0ђ"к	q=JAq=JA%q=JA-q=JA0¬"л	{JA{JA%{JA-{JA0d

@@ -1,0 +1,2 @@
+
+ALTYЛАо	"в▐бUA▐бUA%▐бUA-▐бUA0Х"Б═┴UA═┴UA%═┴UA-═┴UA0╛"ЯI.VAI.VA%I.VA-I.VA0└"└еVAеVA%еVA-еVA0х"≤{VA'═VA%'═VA-{VA0х"╗ffVAffVA%ffVA-ffVA0d"╡ДVAДVA%ДVA-ДVA0d"╨)кVA)кVA%)кVA-)кVA0Х"≥ffVAffVA%ffVA-ffVA0d"Гб├VAб├VA%б├VA-б├VA0Щ""СR╦VAHАVA%HАVA-R╦VA0ь"В╝ьWA╝ьWA%╝ьWA-╝ьWA0ш"н	NяVANяVA%NяVA-NяVA0═"Ю	жеWAжеWA%жеWA-жеWA0}"К	ffVAffVA%ffVA-ffVA0─
