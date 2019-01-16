@@ -7,8 +7,8 @@ k_data_folder = './data/minute_data/'
 
 def analyze_data_quality_through_time(argv):
   """Analyze crawled data through time. Print stats for number of symbols that have more than 50 data points. """
-  start_date = 20180101
-  end_date = 20190111
+  start_date = 20190101
+  end_date = 20190130
   dp = data_provider.DataProvider(FLAGS.data_folder, False)
   all_sub_folders = dp.get_all_available_dates()
   for sub_folder in all_sub_folders:

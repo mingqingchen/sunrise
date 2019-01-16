@@ -11,7 +11,7 @@ def main():
   all_dates = dp_minute.get_all_available_dates()
 
   if False:
-    for year in [2018, 2019]:
+    for year in [2019]:
       symbol_list = dp_daily.get_symbol_list_for_a_day(year)
       dp_daily.load_one_day_data(year)
       for symbol in symbol_list:
@@ -23,13 +23,15 @@ def main():
         fid.write(one_symbol.SerializeToString())
         fid.close()
 
-  symbol_list = dp_daily.get_symbol_list_for_a_day(2018)
+  symbol_list = dp_daily.get_symbol_list_for_a_day(2019)
   symbol_list_set = set()
   for symbol in symbol_list:
     symbol_list_set.add(symbol)
 
   for date_val in all_dates:
     date_val = int(date_val)
+    if date_val < 20190101:
+      continue
     dp_minute.load_one_day_data(date_val)
     all_symbols = dp_minute.get_symbol_list_for_a_day(date_val)
 
@@ -39,7 +41,7 @@ def main():
         continue
       if not dp_minute.load_one_symbol_data(date_val, symbol):
         continue
-      if not dp_daily.load_one_symbol_data(2018, symbol):
+      if not dp_daily.load_one_symbol_data(2019, symbol):
         continue
       one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
       for try_match_date in [date_val, date_val - 1]:

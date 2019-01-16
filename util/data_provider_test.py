@@ -96,10 +96,10 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20180101
-    end_date = 20181231
+    start_date = 20190101
+    end_date = 20191231
 
-    dp_daily.load_one_day_data(2018)
+    dp_daily.load_one_day_data(2019)
 
     for date_val in dp_minute.get_all_available_dates():
       date_val = int(date_val)
@@ -114,17 +114,11 @@ class TestDataProvider(unittest.TestCase):
         if len(one_day_minute_data.data) < 20:
           continue
         print('Checking symbol %s on %d' % (symbol, date_val))
-        self.assertTrue(dp_daily.load_one_symbol_data(2018, symbol))
+        self.assertTrue(dp_daily.load_one_symbol_data(2019, symbol))
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, date_val)
-        if result > 0:
-          import pdb
-          pdb.set_trace()
-          continue
+        self.assertEqual(result, 0)
         result_without_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False)
         result_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True)
-        if (result_without_include == False and result_include == False):
-          import pdb
-          pdb.set_trace()
         self.assertTrue(result_without_include or result_include)
         print('Good match for %s on day %d' % (symbol, date_val))
 
