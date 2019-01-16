@@ -11,7 +11,7 @@ import proto.nn_train_param_pb2 as nn_train_param_pb2
 
 import train.model_manager as model_manager
 
-k_data_folder = './data/intra_day/'
+k_data_folder = './data/minute_data/'
 k_distribution_bin_size = 0.001
 k_price_drop_watch_time = 30
 k_drop_threshold = -0.02
@@ -49,25 +49,6 @@ def analyze_distribution():
     img_path = os.path.join(k_png_temp_folder, '{0}_{1}_{2}_eod'.format(subfolder, k_price_drop_watch_time, k_drop_threshold) + '.png')
     da3.export_distribution_to_png(img_path)
   return
-
-def analyze_data_quality_through_time():
-  """Analyze crawled data through time. Print stats for number of symbols that have more than 50 data points. """
-  start_date = 20180101
-  end_date = 20190111
-  dp = data_provider.DataProvider(FLAGS.data_folder, False)
-  all_sub_folders = dp.get_all_available_dates()
-  for sub_folder in all_sub_folders:
-    if int(sub_folder) < start_date or int(sub_folder) > end_date:
-      continue
-    dp.load_one_day_data(sub_folder)
-    one_day_list = dp.get_symbol_list_for_a_day(sub_folder)
-    num_valid = 0
-    for symbol in one_day_list:
-      one_symbol_data = dp.get_one_symbol_data(symbol)
-      if len(one_symbol_data.data) > 20:
-        num_valid += 1
-    print('Date: %s, number of symbols: %d, valid ones: %d' % (sub_folder, len(one_day_list), num_valid))
-
 
 def compare_two_crawl_result():
   """ Compare two crawled folder and print number of timepoints for each stock. """
@@ -225,9 +206,8 @@ def load_model():
 
 def run_through_analysis_functions(_):
   # compare_two_crawl_result()
-  # run_and_display_classifier_prob()
+  run_and_display_classifier_prob()
   # update_eligible_list()
-  analyze_data_quality_through_time()
 
 
 if __name__=="__main__":
