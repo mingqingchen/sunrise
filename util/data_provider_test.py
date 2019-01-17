@@ -96,7 +96,7 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20180101
+    start_date = 20180719
     end_date = 20191231
 
     year_loaded_map = {2018: False, 2019: False}
@@ -113,8 +113,7 @@ class TestDataProvider(unittest.TestCase):
 
       dp_minute.load_one_day_data(date_val)
       for symbol in dp_minute.get_available_symbol_list():
-        if symbol not in dp_daily.get_available_symbol_list():
-          continue
+        self.assertTrue(symbol in dp_daily.get_available_symbol_list())
         self.assertTrue(dp_minute.load_one_symbol_data(date_val, symbol))
         one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
         if len(one_day_minute_data.data) < 20:
