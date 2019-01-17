@@ -2,10 +2,9 @@
 """
 Retrieve stock data from TD Ameritrade.
 For 10 day minute-level query, run
-  python crawler.py --data_folder=data/daily_data --period=10 --period_type=daily --frequency_type=minute
+  python crawler.py --data_folder=data/minute_data --period=10 --period_type=day --frequency_type=minute
 For 1 year daily-level query, run
-  python crawler.py --data_folder=data/daily_data --period=1 --period_type=year --frequency_type=daily
-  python crawler.py --data_folder=data/daily_data_temp --period=1 --period_type=year --frequency_type=daily --use_yahoo_source=True
+  python crawler.py --data_folder=data/daily_data --period=1 --period_type=year --frequency_type=daily --use_yahoo_source=True
 """
 
 import csv
@@ -21,6 +20,7 @@ import time
 import json
 
 import os, sys
+import util.data_provider as data_provider
 import util.stock_pb2 as stock_pb2
 import live_trade.trade_api as trade_api
 
@@ -55,8 +55,8 @@ class IntraDayCrawler:
     Returns
       dict : a dict maps from date integer to OneIntraDayData
     """
-    start_time = 1515744000  # Jan 12, 2018
-    end_time = 1547280000  # Jan 12, 2019
+    start_time = 1546329600  # Jan 1, 2019
+    end_time = 1547625600  # Jan 16, 2019
     result = {}
 
     uri = 'https://finance.yahoo.com/quote/{symbol}/history?period1={start_time}' \
@@ -71,7 +71,7 @@ class IntraDayCrawler:
     price_content = split_content[1].split("}],")[0] + "}]}"
     try:
       price_json = json.loads(price_content)
-    except _:
+    except ValueError:
       return False, result
 
     for one_time_slot_data_json in price_json['prices']:
@@ -100,11 +100,6 @@ class IntraDayCrawler:
     return True, result
 
   def crawl_and_export_one_symbol(self, symbol):
-    ### temp:
-    symbol_file = os.path.join(FLAGS.data_folder, '2018/', symbol + '.pb')
-    if os.path.isfile(symbol_file):
-      return False
-
     crawl_result, result = self.crawl_one_symbol(symbol, FLAGS.period, FLAGS.period_type, FLAGS.frequency_type)
     if not crawl_result:
       return False
@@ -115,8 +110,21 @@ class IntraDayCrawler:
         os.makedirs(day_folder)
 
       output_file_path = os.path.join(day_folder, symbol + '.pb')
+
+      merged_data = result[day]
+      if os.path.isfile(output_file_path):
+        fid = open(output_file_path)
+        content = fid.read()
+        fid.close()
+        previous_data = stock_pb2.OneIntraDayData()
+        previous_data.ParseFromString(content)
+
+        merge_result, merged_data = data_provider.merge_one_intra_day_data(previous_data, merged_data)
+        if not merge_result:
+          return False
+
       fid = open(output_file_path, 'w')
-      fid.write(result[day].SerializeToString())
+      fid.write(merged_data.SerializeToString())
       fid.close()
       print('Export %s succesfully to day %d.' % (symbol, day))
     return True
@@ -164,7 +172,6 @@ class IntraDayCrawlerTD(IntraDayCrawler):
   
   def crawl_one_symbol(self, symbol, period=1, period_type='day', frequency_type='minute'):
     result, response = self.live_trade_api_.query_data(symbol, period, period_type, frequency_type)
-    
     # For the first time, it could be due to expired access token.
     if 'error' in response or (not result):
       self.live_trade_api_.get_new_access_token()
@@ -256,7 +263,7 @@ if __name__=='__main__':
   parser.add_argument(
     '--period_type',
     type=str,
-    default='daily',
+    default='day',
     help='Period type to crawl'
   )
   parser.add_argument(
