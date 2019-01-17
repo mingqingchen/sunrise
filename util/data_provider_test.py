@@ -96,25 +96,30 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20190101
+    start_date = 20180101
     end_date = 20191231
 
-    dp_daily.load_one_day_data(2019)
+    year_loaded_map = {2018: False, 2019: False}
 
     for date_val in dp_minute.get_all_available_dates():
       date_val = int(date_val)
       if date_val < start_date or date_val > end_date:
         continue
+
+      year = date_val / 10000
+      if not year_loaded_map[year]:
+        dp_daily.load_one_day_data(year)
+        year_loaded_map[year] = True
+
       dp_minute.load_one_day_data(date_val)
       for symbol in dp_minute.get_available_symbol_list():
-        if symbol not in dp_daily.get_available_symbol_list() or symbol in {'LASR', 'SPR'}:
+        if symbol not in dp_daily.get_available_symbol_list():
           continue
         self.assertTrue(dp_minute.load_one_symbol_data(date_val, symbol))
         one_day_minute_data = dp_minute.get_one_symbol_data(symbol)
         if len(one_day_minute_data.data) < 20:
           continue
         print('Checking symbol %s on %d' % (symbol, date_val))
-        self.assertTrue(dp_daily.load_one_symbol_data(2019, symbol))
         result, one_day_summary_data = dp_daily.get_symbol_minute_data(symbol, date_val)
         self.assertEqual(result, 0)
         result_without_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False)

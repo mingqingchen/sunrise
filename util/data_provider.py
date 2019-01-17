@@ -241,6 +241,7 @@ class DataProvider:
     """
     self.symbol_list_ = self.get_symbol_list_for_a_day(date_int_val)
     self.one_day_data_.clear()
+    self.clear_symbol_index()
     for symbol in self.symbol_list_:
       if self.use_eligible_list_:
         if symbol in self.eligible_list_:
