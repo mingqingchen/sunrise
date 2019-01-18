@@ -1,0 +1,2 @@
+
+LDRI§׀	"½ִּֽAִּֽA%ִּֽA-ִּֽA0€"ֶHבִAHבִA%HבִA-HבִA0ת"Ýq=ִAq=ִA%q=ִA-q=ִA0d"בshִAq=ִA%shִA-q=ִA0"זq=ִAq=ִA%q=ִA-q=ִA0d"ךq=ִAq=ִA%q=ִA-q=ִA0d"ןq=ִAq=ִA%q=ִA-q=ִA0d"פq=ִAq=ִA%q=ִA-q=ִA0d" q=ִAq=ִA%q=ִA-q=ִA0d"¥q=ִAq=ִA%q=ִA-q=ִA0d"×q=ִAq=ִA%q=ִA-q=ִA0d"®q=ִAq=ִA%q=ִA-q=ִA0d"³q=ִAq=ִA%q=ִA-q=ִA0ָ"´q=ִAq=ִA%q=ִA-q=ִA0s"Ü	ּÿִAּÿִA%ּÿִA-ּÿִA0ָ

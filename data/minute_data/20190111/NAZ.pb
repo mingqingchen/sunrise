@@ -1,0 +1,2 @@
+
+NAZ§׀	"צ¸EA¸EA%¸EA-¸EA0d"ב·DA·DA%·DA-·DA0ׂ"‹¨ֶDA¨ֶDA%¨ֶDA-¨ֶDA0"ˆפDAˆפDA%ˆפDA-ˆפDA0‰"¨ֳץDAֳץDA%ֳץDA-ֳץDA0 "®¸EA¸EA%¸EA-¸EA0פ"üֽDAֳץDA%ֳץDA-ֽDA0„"‰ֳץDA³ךDA%ֳץDA-³ךDA0"¸	ֳץDAתםDA%ֳץDA-תםDA0ט"ט	ּֽDAּֽDA%ּֽDA-ּֽDA0ָ"כ	HבDAֳץDA%ֳץDA-HבDA0פ

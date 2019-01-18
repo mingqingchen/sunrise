@@ -1,0 +1,2 @@
+
+BAF÷╖п	"ЖмлTAмлTA%млTA-млTA0Ъ,"▓{VAR╦VA%R╦VA-{VA0╤"╪5ОTA5ОTA%5ОTA-5ОTA0d"уW[UA╓pUA%╓pUA-млTA0╟	"в╫ЦTA╫ЦTA%╫ЦTA-╫ЦTA0d"ЦАUA)\UA%)\UA-АUA0Ю"╣млTAмлTA%млTA-млTA0d"┘й2UAй2UA%й2UA-й2UA0d"┬╝GUAмлTA%▐бUA-млTA0Т"Р╝GUAВuUA%▐бUA-млTA0╢"Ъ33UA*:VA%*:VA-33UA0ю"лцУTAцУTA%цУTA-цУTA0d"К┘UA┘UA%┘UA-┘UA0d"К	{VA{VA%{VA-┘UA0║

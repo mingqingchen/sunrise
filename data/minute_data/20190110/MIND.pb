@@ -1,0 +1,3 @@
+
+MINDž§Ð	"öš™y@š™y@%š™y@-š™y@0¬"ïš™y@š™y@%š™y@-š™y@0È"ªÃõx@Ãõx@%Ãõx@-Ãõx@0È"Âš™y@š™y@%š™y@-š™y@0ô"ÚÃõx@Ãõx@%Ãõx@-Ãõx@0d"Ûš™y@š™y@%š™y@-š™y@0d"…š™y@š™y@%š™y@-š™y@0¬"‹Ãõx@š™y@%š™y@-Ãõx@0¬"š™y@š™y@%š™y@-š™y@0è"‘Ãõx@š™y@%š™y@-Ãõx@0È"“š™y@š™y@%š™y@-š™y@0È"”š™y@ffv@%š™y@-ffv@0Ì"Ÿffv@ffv@%ffv@-ffv@0d" ffv@ffv@%ffv@-ffv@0Ü"£ffv@ffv@%ffv@-ffv@0Ì"¬Âu@Âu@%Âu@-Âu@0d"èffv@ffv@%ffv@-ffv@0d"óÂu@Âu@%Âu@-Âu@0d"É	ffv@ffv@%ffv@-ffv@0d"Ó	¸u@¸u@%¸u@-¸u@0d"×	ffv@ffv@%ffv@-ffv@0d"Û	Âu@ázt@%Âu@-33s@0è"ß	)\o@)\o@%)\o@-)\o@0d"à	×£p@ƒp@%×£p@-ƒp@0ô"á	×£p@\r@%\r@-“p@0¼"ä	$¹p@$¹p@%$¹p@-$¹p@0–"ç	×£p@×£p@%×£p@-×£p@0d"ê	…ëq@Ãõx@%Ãõx@-…ëq@0«"ë	Ãõx@Ãõx@%Ãõx@-Ãõx@0È"”
+š™y@š™y@%š™y@-š™y@0Ø

@@ -1,0 +1,3 @@
+
+PLPC÷╖п	"Ж ≥jB ≥jB% ≥jB- ≥jB0░"П÷КeB÷КeB%÷КeB-÷КeB0╡"н{fB{fB%{fB-{fB0d"вФnhBФnhB%ФnhB-ФnhB0d"╩33fB33fB%33fB-33fB0d"≤ЛQgBЛQgB%ЛQgB-ЛQgB0d"ГЛQgBмлgB%млgB-ЛQgB0х"┌	Ж(hBЛQgB%Ж(hB-ЛQgB0х"ф	ЛQgBЛQgB%ЛQgB-ЛQgB0d"й	ЛQgBЛQgB%ЛQgB-ЛQgB0d"л	ЛQgBЛQgB%ЛQgB-ЛQgB0╛"н	ujBujB%ujB-ujB0≈"ж	┘dB┘dB%┘dB-┘dB0d"Ю	R╦iBR╦iB%R╦iB-R╦iB0d"Е	 ≥gB ≥gB% ≥gB- ≥gB0d"Г	)\cB)\cB%)\cB-)\cB0d"К	)\cB)\cB%)\cB-)\cB0d"■
+33eB33eB%33eB-33eB0┤

@@ -1,0 +1,2 @@
+
+GSAH÷╖п	"Ж ≥A ≥A% ≥A- ≥A0d"┐млAмлA%млA-млA0d"└млA ≥A% ≥A-млA0╓q"┼ЛQAЛQA%ЛQA-ЛQA0d"▀╓pA╓pA%╓pA-╓pA0х"ПмлAмлA%млA-млA0d"╒╝GA╝GA%╝GA-╝GA0d"╘╦A╝GA%╝GA-╦A0╢)"╙╓pA╓pA%╓pA-╓pA0╟	"р╓pA╓pA%╓pA-╓pA0d"▄╓pA╓pA%╓pA-╓pA0d"▌╓pA╓pA%╓pA-╓pA0д,"≥млAмлA%млA-млA0╞"ВмлA╓pA%╓pA-млA0═8

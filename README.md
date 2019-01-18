@@ -2,7 +2,8 @@
 Sunrise is the time when the sun shines its light to the entire world.
 
 TODO:
-1. add logic to see if a given day is actually market-day;
+1. make data clean and correct
+    1.1 is split normalized?
 2. simulation unit test;
 3. add high level api to prepare train/test
 4. use this api to train cnn

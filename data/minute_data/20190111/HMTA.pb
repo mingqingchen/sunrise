@@ -1,0 +1,2 @@
+
+HMTA÷╖п	"хмлLAмлLA%млLA-млLA0Т"║┘QA┘QA%┘QA-┘QA0┬"нR╦RAR╦RA%R╦RA-R╦RA0░"ОR╦RAR╦RA%R╦RA-R╦RA0d"ъ	R╦RAR╦RA%R╦RA-R╦RA0х"Г	вёTAвёTA%вёTA-вёTA0d"К	вёTAвёTA%вёTA-вёTA0⌠

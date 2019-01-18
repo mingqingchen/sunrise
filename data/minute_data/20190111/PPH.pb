@@ -1,0 +1,5 @@
+
+PPH÷╖п	"▄
+вcB
+вcB%
+вcB-млcB0╦"⌠╦dBЖ(dB%Ж(dB-╦dB0╛"╫33dB33dB%33dB-33dB0d"©)\dB)\dB%)\dB-)\dB0Т"ю╝GdB╝GdB%ЛQdB-╝GdB0░"ц)\dB╝GdB%)\dB-╝GdB0х"еАzdB╓pdB%АzdB-╓pdB0х"ф╝dBR╦dB%R╦dB-╝dB0▌"зHАcB▐бcB%HАcB-▐бcB0х"шHАcB┘КcB%┘КcB-HАcB0т"э┘КcB┘КcB%┘КcB-┘КcB0d"Юq=dBq=dB%q=dB-q=dB0Т"║млdBмлdB%млdB-млdB0d"Ё╓pdBffdB%╓pdB-ffdB0░"а╓pdB╓pdB%╓pdB-╓pdB0Т"┬млdBмлdB%млdB-млdB0ь"▓╓pdBffdB%╓pdB-ffdB0°"╠4beB4beB%4beB-4beB0s"Щ ≥dB ≥dB% ≥dB- ≥dB0d"├╝dB╝dB%╝dB-╝dB0d"▄╝dB╝dB%╝dB-╝dB0Т"тaeB└eB%aeB-└eB0·	"│	Ж(eBЖ(eB%Ж(eB-Ж(eB0э"┌	Ж(eBЖ(eB%33eB-Ж(eB0≤"╥	Ж(eB!eB%Ж(eB-!eB0┬"╬	Ж(eBЖ(eB%Ж(eB-Ж(eB0d"©	Ж(eBЖ(eB%Ж(eB-Ж(eB0≤*"ю	Ж(eBЖ(eB%Ж(eB-Ж(eB0Т"у	9┘eB9┘eB%9┘eB-9┘eB0┌"ч	R╦eBR╦eB%R╦eB-R╦eB0┴"Ю	R╦eBR╦eB%R╦eB-R╦eB0d"Ф	R╦eBR╦eB%R╦eB-R╦eB0d"И	▐бeB▐бeB%▐бeB-▐бeB0d"Й	R╦eBR╦eB%R╦eB-R╦eB0╚

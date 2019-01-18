@@ -1,0 +1,2 @@
+
+NJVџ§Р	"цНМLAНМLA%НМLA-НМLA0ф"ИГхLAГхLA%ГхLA-ГхLA0d"зГхLAГхLA%ГхLA-ГхLA0d"ЄЯаVAЯаVA%ЯаVA-ЯаVA0И"°ёMAёMA%ёMA-ёMA0d"ЛГхLAtµMA%tµMA-ГхLA0ј"ФГхLAГхLA%ГхLA-ГхLA0d"¦¤pMA¤pMA%¤pMA-¤pMA0d"ьГхLAГхLA%ГхLA-ГхLA0d"РГхLAГхLA%ГхLA-ГхLA0d"щГхLAГхLA%ГхLA-ГхLA0d"Е	ёMAёMA%ёMA-ёMA0d"Ч	ёMAёMA%ёMA-ёMA0d"в	ёMAёMA%ёMA-ёMA0d"и	ГхLAГхLA%ГхLA-ГхLA0d

@@ -128,7 +128,7 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20190103
+    start_date = 20190110
     end_date = 20191231
 
     year_loaded_map = {2018: False, 2019: False}
@@ -168,7 +168,7 @@ class TestDataProvider(unittest.TestCase):
         # daily data is not correct, probably due to missing data
         if one_day_summary_data.volume == 0:
           continue
-          
+
         result_without_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, False)
         result_include = data_provider.is_one_day_a_match(one_day_minute_data, one_day_summary_data, True)
         self.assertTrue(result_without_include or result_include)
