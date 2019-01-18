@@ -1,0 +1,2 @@
+
+NANё╖п	"ЖвёHAвёHA%вёHA-вёHA0╝"ч╦IAцУHA%k+IA-цУHA0╗F"ъцУHAвёHA%цУHA-вёHA0─	"╕чIAмлHA%чIA-млHA0║"╙млHAмлHA%млHA-млHA0d"╣млHAмлHA%млHA-млHA0d"╫млHAмлHA%млHA-млHA0d"д╦IA╦IA%╦IA-╦IA0║" >ХHA>ХHA%>ХHA->ХHA0И"²OIAOIA%OIA-OIA0Н="╚OIA╦IA%╦IA-OIA0ь"⌠╝GIA╝GIA%╝GIA-╝GIA0п"Ж√!IA√!IA%√!IA-√!IA0⌡"л	+ЖHA+ЖHA%╦IA-+ЖHA0·/"щ	╦IA╦IA%╦IA-╦IA0d"Ф	цУHAцУHA%цУHA-цУHA0d

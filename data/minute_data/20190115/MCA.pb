@@ -1,0 +1,5 @@
+
+MCA£§׀	"צֳץPAֳץPA%ֳץPA-ֳץPA0ױ"ֲֳץPAֳץPA%ֳץPA-ֳץPA0¬"ֳּֽPAּֽPA%ּֽPA-ּֽPA0־"ׁ¶ףPA¶ףPA%¶ףPA-¶ףPA0°	"ׂֳץPAןPA%ֳץPA-ןPA0"״ֳץPAֳץPA%ֳץPA-ֳץPA0d"נ¸QA¸QA%¸QA-¸QA0d"ֳ¸QA¸QA%¸QA-¸QA0d"ֶ¸QAֳץPA%¸QA-ֳץPA0»"״=
+QA¸QA%¸QA-ּֽPA0«0"¸QAֳץPA%¸QA-ֳץPA0ָ"’¸QA¸QA%¸QA-¸QA0d"¸QA¸QA%¸QA-¸QA0d"₪¸QAגיPA%¸QA-גיPA0ק*"®ÙPAQÚPA%QÚPA-6ֽPA0”
+"¯9ײPA9ײPA%9ײPA-9ײPA0±
+"²ֳץPAֳץPA%ֳץPA-ֳץPA0d"³ֳץPAֳץPA%ֳץPA-ֳץPA0d"¶ֳץPAֳץPA%ֳץPA-ֳץPA0d"·ּֽPAּֽPA%ּֽPA-ּֽPA0‰"ÿֳץPAֳץPA%ֳץPA-ֳץPA0d"ֳץPAֳץPA%ֳץPA-ֳץPA0d"—vאPAvאPA%vאPA-vאPA0¬" ÙPAÙPA%ÙPA-ÙPA0–"£ֳץPAֳץPA%ֳץPA-ֳץPA0d"ׁנPAנPA%נPA-נPA0ט"ÚֳץPAֳץPA%ֳץPA-ֳץPA0d"כֳץPAֳץPA%ֳץPA-ֳץPA0d"רֳץPAֳץPA%ֳץPA-ֳץPA0d"°	ו׀PA]ÜPA%]ÜPA-ו׀PA0­"±	ּֽPAֳץPA%ֳץPA-ּֽPA0ָ"½	ֳץPAֳץPA%ֳץPA-ֳץPA0d"Ê	ֳץPAֳץPA%ֳץPA-ֳץPA0d"ׂ	ֳץPAֳץPA%ֳץPA-ֳץPA0d"׳	ֳץPA¸QA%¸QA-ֳץPA0€"א	ֳץPAֳץPA%ֳץPA-ֳץPA0d"ו	¸QA¸QA%¸QA-¸QA0d"ט	¸QA¸QA%¸QA-¸QA0d

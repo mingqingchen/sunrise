@@ -1,0 +1,2 @@
+
+TPGHвз╨	"ЎьQ AьQ A%ьQ A-ьQ A0╚"╛╫г A╫г A%╫г A-╫г A0м"р═╠ A├ї A%├ї A-═╠ A0─"Ьсz Aсz A%сz A-сz A0d"╜═╠ A├ї A%├ї A-═╠ A0М"═сz Aсz A%сz A-сz A0d"ясz Aсz A%сz A-сz A0d"З	сz Aсz A%сz A-сz A0d"┬	сz Aсz A%сz A-сz A0d"╥	сz Aсz A%сz A-сz A0d"▀	ьQ AьQ A%ьQ A-ьQ A0d"ц	ьQ AьQ A%ьQ A-ьQ A0s

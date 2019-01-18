@@ -1,0 +1,2 @@
+
+BCTF²╖п	"ЖffnAffnA%ffnA-ffnA0х"бffnAffnA%ffnA-ffnA0Х"хffnAffnA%ffnA-ffnA0Х"кffnAffnA%ffnA-ffnA0Х"лffnAffnA%ffnA-ffnA0в"УмлlAмлlA%млlA-млlA0═"ЖмлlAмлlA%млlA-млlA0ь"┌	млlAмлlA%млlA-млlA0х"╪	цУlAцУlA%цУlA-цУlA0d"й	млlAмлlA%млlA-млlA0Т"э	млlAмлlA%млlA-млlA0d

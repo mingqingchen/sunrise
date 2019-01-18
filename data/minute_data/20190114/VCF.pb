@@ -1,0 +1,2 @@
+
+VCFвз╨	"ЎьQXAьQXA%ьQXA-ьQXA0Ї"СЖZYAZYA%ыYA-ZYA0╒"ы^║YA^║YA%^║YA-^║YA0╚"ядpYAдpYA%дpYA-дpYA0▓"ё╨│YA╨│YA%╨│YA-╨│YA0ш"ЖгYAгYA%гYA-гYA0Є"╠ЪЩYAдpYA%ЪЩYA-дpYA0·"╫	П┬YAдpYA%П┬YA-дpYA0╚"ы	дpYAдpYA%дpYA-дpYA0d

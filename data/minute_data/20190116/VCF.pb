@@ -1,0 +1,3 @@
+
+VCF¤§Ð	"öázXAázXA%ázXA-ázXA0ô"Ç1™YAš™YA%š™YA-1™YA0Ú
+"Ýq=ZAq=ZA%q=ZA-q=ZA0d"éÓ¼ZAÓ¼ZA%Ó¼ZA-Ó¼ZA0¾"ðÍÌZAyéZA%33[A-ÍÌZA0¬"¢q=ZAq=ZA%q=ZA-q=ZA0ä"¥c[Ac[A%c[A-c[A0ô"©c[Ac[A%c[A-c[A0ô"µÊ2[AÊ2[A%Ê2[A-Ê2[A0è"·q=ZAq=ZA%q=ZA-q=ZA0d"õ33[A33[A%33[A-33[A0d"ú33[A33[A%33[A-33[A0d"´	ºÚ[A®[A%×£\A-á[A0ð"Ò	áz\Aáz\A%áz\A-áz\A0o"â	HáZAHáZA%HáZA-HáZA0¿"ë	R¸ZAR¸ZA%R¸ZA-R¸ZA0d

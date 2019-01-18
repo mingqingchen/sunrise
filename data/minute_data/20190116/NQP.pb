@@ -1,0 +1,4 @@
+
+NQP╓╖п	"ЖЖ(HAЖ(HA%Ж(HA-Ж(HA0Ф	"ЧмлHAмлHA%млHA-млHA0░"┐цУHAцУHA%цУHA-цУHA0░"Ц⌠IA⌠IA%⌠IA-⌠IA0х"Д+ЖHA+ЖHA%+ЖHA-+ЖHA0п"Й╦IA╦IA%╦IA-╦IA0d"Т7IA7IA%7IA-7IA0≤="╧цУHAцУHA%цУHA-цУHA0╓"уцУHAынHA%цУHA-ынHA0▒
+"╞цУHAцУHA%цУHA-цУHA0░"©цУHAцУHA%цУHA-цУHA0│"В·ОHA·ОHA%·ОHA-·ОHA0═"ЗHАHAHАHA%HАHA-HАHA0d"═HАHAмлHA%HАHA-млHA0т"╒вёHAвёHA%вёHA-вёHA0└"ёвёHAвёHA%вёHA-\▐HA0═"┌	dлHAdлHA%dлHA-dлHA0╚	"╠	R╦HAмлHA%млHA-R╦HA0ё"Ц	млHAмлHA%млHA-млHA0╬"Х	млHA╗фHA%млHA-╗фHA0╙"К	млHAмлHA%млHA-млHA0Т"√
+вёHAвёHA%вёHA-вёHA0▒

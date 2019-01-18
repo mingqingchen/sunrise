@@ -1,0 +1,3 @@
+
+FMN╓╖п	"Ж╝GMA╝GMA%╝GMA-╝GMA0©"Ш╝GMA╝GMA%╝GMA-╝GMA0d"┐33MA33MA%33MA-33MA0d"▌╦MAшЫLA%╦MA-шЫLA0х"╪EьLAEьLA%EьLA-EьLA0х"йцУLAцУLA%цУLA-цУLA0d"кЕпLAмлLA%ЕпLA-млLA0э"нмлLAмлLA%млLA-млLA0 "╠млLAjчLA%jчLA-млLA0╗-"╨вёLAвёLA%вёLA-вёLA0╔"├вёLAвёLA%вёLA-вёLA0х"∙!╟LAвёLA%!╟LA-вёLA0└"ПdлLAdлLA%dлLA-dлLA0й"ьмлLAвёLA%млLA-вёLA0╟	"шdлLAвёLA%dлLA-вёLA0╝"А	млLAмлLA%╦MA-'бLA0┘"Г	вёLAвёLA%вёLA-вёLA0х"К	млLAвёLA%млLA-вёLA0▓"√
+млLAмлLA%млLA-млLA0ы

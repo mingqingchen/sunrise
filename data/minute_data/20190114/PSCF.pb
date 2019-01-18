@@ -1,0 +1,2 @@
+
+PSCFвз╨	"Ў╕HB╕HB%╕HB-╕HB0с"╟ДJBДJB%ДJB-ДJB0▐"ў5oJB5oJB%5oJB-5oJB0Ь"░Ж8JBЖ8JB%Ж8JB-Ж8JB0Д"╢цоIBцоIB%цоIB-цоIB0ї"Ц)\JB)\JB%)\JB-)\JB0d"╜yШJByШJB%yШJB-yШJB0з"Н▓▌JB▓▌JB%▓▌JB-▓▌JB0}"┘2жJB2жJB%2жJB-2жJB0t"х?uJB?uJB%?uJB-?uJB0У"ъБfJBБfJB%БfJB-БfJB0└%"ё▒JB▒JB%▒JB-▒JB0╓"╛	оGJBоGJB%оGJB-оGJB0d"▌	бJBбJB%бJB-бJB0d

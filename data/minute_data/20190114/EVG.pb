@@ -1,0 +1,3 @@
+
+EVG¢§׀	"צ\JA#ÛJA%#ÛJA-\JA0«,"קחKAKA%33KA-KA0N"‹R¸JAR¸JA%R¸JA-R¸JA0ָ"“R¸JAR¸JA%R¸JA-R¸JA0א"½R¸JAR¸JA%R¸JA-R¸JA0פ"ִR¸JAR¸JA%R¸JA-R¸JA0ָ"ָHבJAHבJA%HבJA-HבJA0"כR¸JAHבJA%HבJA-R¸JA0¼"ץR¸JA׃¼JA%׃¼JA-R¸JA0"£ßאJAßאJA%=
+KA-ßאJA0´"ִ׃¼JAHבJA%HבJA-׃¼JA0€"'ֲJAHבJA%HבJA-'ֲJA0§"ּמכJAמכJA%מכJA-מכJA0ט"־HבJAHבJA%HבJA-HבJA0¬"ׁ	ßאJAּֽJA%HבJA-ּֽJA0ֶ+"ב	ו׀JAו׀JA%ו׀JA-ו׀JA0פ"ג	j¼JAj¼JA%j¼JA-ז®JA0ְ"ד	ffJAffJA%ffJA-ffJA0d"ך	R¸JAR¸JA%R¸JA-R¸JA0

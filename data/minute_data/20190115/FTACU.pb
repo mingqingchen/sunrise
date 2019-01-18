@@ -1,0 +1,2 @@
+
+FTACUё╖п	"▐Аz AАz A%Аz A-Аz A0═"квё Aвё A%вё A-вё A0d"нАz AАz A%Аz A-Аz A0≤*"я A A% A- A0╛"жАz AАz A%Аz A-Аz A0х"вАz AАz A%Аz A-Аz A0х"└Аz AАz A%Аz A-Аz A0d"┘ A A% A- A0d"├Аz AАz A%Аz A-Аz A0d"┴Аz AАz A%Аz A-Аz A0d"▌Аz AАz A%Аz A-Аz A0d"⌠Аz AАz A%Аz A-Аz A0d"≤Аz AАz A%Аz A-Аz A0х"²ЛQ AЛQ A%ЛQ A-ЛQ A0d"╒ЛQ AЛQ A%ЛQ A-ЛQ A0d"╖ЛQ AЛQ A%ЛQ A-ЛQ A0d"╛ЛQ AЛQ A%ЛQ A-ЛQ A0d"╠ЛQ AЛQ A%ЛQ A-ЛQ A0d"╢ЛQ Aмл A%мл A-ЛQ A0└"м	е▐ Aе▐ A%е▐ A-е▐ A0d

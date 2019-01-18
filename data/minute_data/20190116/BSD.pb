@@ -1,0 +1,2 @@
+
+BSD╓╖п	"ЖАzHAАzHA%АzHA-АzHA0Л"▓O╞HAO╞HA%O╞HA-O╞HA0╛"кАzHAАzHA%АzHA-АzHA0d"пАzHAАzHA%АzHA-АzHA0░"яАzHAАzHA%АzHA-АzHA0d"сАzHAАzHA%АzHA-АzHA0░"╘АzHAАzHA%АzHA-АzHA0d"╝DiHAЛQHA%млHA-Ж(HA0ы("╩ЛQHAЛQHA%ЛQHA-ЛQHA0р"пЖ(HAЖ(HA%Ж(HA-Ж(HA0d"⌠Ж(HAЖ(HA%Ж(HA-Ж(HA0d"╓xzHAЛQHA%АzHA-ЛQHA0╪"╝xzHAАzHA%АzHA-xzHA0╛"НЛQHAЛQHA%ЛQHA-ЛQHA0х"┐Ж(HAЖ(HA%Ж(HA-Ж(HA0d"║ffHAЛQHA%ffHA-ЛQHA0░"ВЖ(HAЖ(HA%Ж(HA-Ж(HA0d"Х	в4HAв4HA%в4HA-в4HA0 "К	Ж(HAЖ(HA%Ж(HA-Ж(HA0d
