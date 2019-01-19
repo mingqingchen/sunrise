@@ -38,8 +38,8 @@ def analyze_data_quality_through_time(argv):
 
   for iter in sorted(count_dict.items(), key=operator.itemgetter(1)):
     symbol = iter[0]
-    print('Symbol: %s\tStart Date: %d\tEnd Date: %d\tNumber: %d\tValid number: %d' % (symbol, start_date_dict[symbol],
-        end_date_dict[symbol], count_dict[symbol], valid_count_dict[symbol]))
+    print('%s %d %d %d %d' % (symbol, start_date_dict[symbol], end_date_dict[symbol], count_dict[symbol],
+                              valid_count_dict[symbol]))
 
 
 
