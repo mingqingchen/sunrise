@@ -1,0 +1,3 @@
+
+IPOA╕╖п	"нвё Aвё A%вё A-вё A0х"Емл Aмл A%мл A-мл A0╛"Ёмл Aмл A%мл A-мл A0d"ивё Aвё A%вё A-вё A0d"звё Aвё A%вё A-вё A0d"⌠вё AАz A%вё A-ЛQ A0э$"╒ЛQ AЛQ A%ЛQ A-ЛQ A0d"╜Аz Aмл A%мл A-Аz A0Д2"Звё Aвё A%вё A-вё A0d"■вё Aвё A%вё A-вё A0d"мАz AАz A%Аz A-Аz A0d"ААz AАz A%Аz A-Аz A0d"ЯАz Aвё A%вё A-Аz A0░"┌	ЛQ AЛQ A%ЛQ A-ЛQ A0d"╧	ЛQ AЛQ A%ЛQ A-ЛQ A0d"ф	ЛQ AЛQ A%ЛQ A-ЛQ A0d"х	Аz Aмл A%мл A-Аz A0юW"т	вё Aвё A%вё A-вё A0d"ы	Аz AАz A%Аz A-Аz A0d"з	Аz AАz A%Аz A-Аz A0х"щ	Аz AАz A%Аz A-Аz A0d"Б	вё Aвё A%вё A-вё A0═█"Х	ЛQ AЛQ A%ЛQ A-ЛQ A0d"И	ЛQ AЛQ A%ЛQ A-ЛQ A0d"К	ЛQ AцУ A%цУ A-ЛQ A0╓"√
+цУ AцУ A%цУ A-цУ A0ь

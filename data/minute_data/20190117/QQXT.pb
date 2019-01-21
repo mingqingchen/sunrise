@@ -1,0 +1,2 @@
+
+QQXT¥§׀	"ƒCBCB%CB-CB0״"ֹ{DBצ(DB%צ(DB-{DB0„"ּצ(DBצ(DB%צ(DB-צ(DB0d"ֹלQDBRDB%RDB-לQDB0ָ"ע₪pDBבzDB%בzDB-₪pDB0ּ"ף®DB®DB%®DB-®DB0"„	יזDBיזDB%יזDB-יזDB0’"´	²DB²DB%²DB-²DB0ֻ"כ	33EB33EB%33EB-33EB0d

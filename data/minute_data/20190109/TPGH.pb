@@ -1,0 +1,2 @@
+
+TPGH²╖п	"Ьмл Aмл A%мл A-мл A0╓"Ымл Aмл A%мл A-мл A0░"Змл Aмл A%мл A-вё A0°"Шмл Aмл A%мл A-мл A0╟	"√ЛQ AЛQ A%ЛQ A-ЛQ A0d"≥ЛQ AЛQ A%ЛQ A-ЛQ A0d"эмл Aмл A%мл A-вё A0Ж┤"╢	ЛQ AЛQ A%ЛQ A-ЛQ A0d"д	ЛQ AЛQ A%ЛQ A-ЛQ A0d"р	ЛQ AЛQ A%ЛQ A-ЛQ A0d"ъ	ЛQ AЛQ A%ЛQ A-ЛQ A0d"Г	ЛQ AЛQ A%ЛQ A-ЛQ A0s"Й	ЛQ AЛQ A%ЛQ A-ЛQ A0d

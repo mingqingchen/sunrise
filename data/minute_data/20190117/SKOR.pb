@@ -1,0 +1,2 @@
+
+SKOR•ß–	"ˆffDBffDB%§pDB-ffDB0Á"ºffDB◊cDB%ffDB-C\DB0ﬁ"ﬂ‡\DB‡\DB%‡\DB-‡\DB0ì"·HaDB)\DB%ffDB-)\DB0ÿ6"ùffDBffDB%ffDB-ffDB0Ñ"ÆffDBffDB%ffDB-ffDB0"ÄæpDBæpDB%æpDB-æpDB0È"û·zDB·zDB%·zDB-·zDB0d"„ÖDB§pDB%ÖDB-§pDB0ñ"Ç	ffDBffDB%ffDB-ffDB0ê"Î	·zDB·zDB%·zDB-·zDB0d

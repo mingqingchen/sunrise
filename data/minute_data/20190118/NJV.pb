@@ -1,0 +1,2 @@
+
+NJV╕╖п	"Ж\▐JA\▐JA%\▐JA-\▐JA0d"Дq=NAffNA%ffNA-млLA0Т"аHАJAHАJA%HАJA-HАJA0d"█HАJAHАJA%HАJA-HАJA0d"╣HАJAHАJA%HАJA-HАJA0d"┤HАJAHАJA%HАJA-HАJA0d"вHАJAHАJA%HАJA-HАJA0d"ШHАJAHАJA%HАJA-HАJA0d"е	HАJAHАJA%HАJA-HАJA0d"з	HАJAHАJA%HАJA-HАJA0d"Ф	HАJAHАJA%HАJA-HАJA0d"К	HАJAHАJA%HАJA-HАJA0р

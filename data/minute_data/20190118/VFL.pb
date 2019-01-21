@@ -1,0 +1,2 @@
+
+VFL¦§׀	"½®GEA®GEA%®GEA-®GEA0d"׃®GEA®GEA%®GEA-®GEA0d"ל¸EA¸EA%¸EA-¸EA0d"¬ֳץDAֳץDA%¸EA-ֳץDA0‚"‹ֳץDAֳץDA%ֳץDA-ֳץDA0"×ֹוDAֹוDA%ֹוDA-ֹוDA0ט"דֳץDAֳץDA%ֳץDA-ֳץDA0d"‡	ֳץDAֳץDA%ֳץDA-ֳץDA0d"כ	ּֽDAּֽDA%ּֽDA-ּֽDA0d

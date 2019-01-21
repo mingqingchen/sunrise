@@ -1,10 +1,7 @@
 
-BSE⌡╖п	"Ж┘CAмлDA%млDA-┘CA0х"х/CAVCA%33CA-\▐BA0╗-"╘╠PBA╠PBA%╠PBA-╠PBA0э"╥q=BAq=BA%q=BA-q=BA0}"≤R╦BAR╦BA%R╦BA-R╦BA0╛"·=
-CA=
-CA%=
-CA-=
-CA0┬"Г)\CA)\CA%)\CA-)\CA0░"К
+BSE⌡╖п	"Ж╝GEA┘КEA%┘КEA-╝GEA0ч"х╓pEAЙ∙EA%S√EA-╝GEA0З
+"и╦EA╦EA%╦EA-╦EA0d"й╦EA╦EA%╦EA-╦EA0d"Е╦EA╦EA%╦EA-╦EA0d"Х╦EA╦EA%╦EA-╦EA0х"Л33EA33EA%33EA-33EA0d"ё╝GEA√CEA%╝GEA-√CEA0Ш"╜╝GEA╝GEA%╝GEA-╝GEA0А"╥┴AEA╝GEA%╝GEA-33EA0░"х/CAVCA%33CA-\▐BA0╗-"╘╠PBA╠PBA%╠PBA-╠PBA0э"╥q=BAq=BA%q=BA-q=BA0}"Ж┘КEA┘КEA%┘КEA-┘КEA0И"≤R╦BAR╦BA%R╦BA-R╦BA0╛"·нFAнFA%нFA-нFA0Х"п┘КEA┘КEA%┘КEA-┘КEA0о"сFAFA%FA-┘КEA0└ "Г)\CA)\CA%)\CA-)\CA0░"К
 вCA
 вCA%
 вCA-
-вCA0ы"К	ЛQDAЛQDA%ЛQDA-ЛQDA0▒
+вCA0ы"К	┘КEA\▐FA%\▐FA-┘КEA0▀

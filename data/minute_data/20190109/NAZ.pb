@@ -1,0 +1,4 @@
+
+NAZ²╖п	"жЛQDAЛQDA%ЛQDA-ЛQDA0я"вЛQDAЛQDA%ЛQDA-ЛQDA0И8"┬ЛQDAЛQDA%ffDA-ЛQDA0Б*"┴ЛQDAЛQDA%ЛQDA-ЛQDA0Л"┼ЛQDAЛQDA%ЛQDA-ЛQDA0═"▀ЛQDAЛQDA%ЛQDA-ЛQDA0Т"▄ЛQDAЛQDA%ЛQDA-ЛQDA0╓"█ЛQDAЛQDA%ЛQDA-ЛQDA0░"▌ЛQDAЛQDA%ЛQDA-ЛQDA0ь"▐ЛQDAЛQDA%ЛQDA-ЛQDA0ь"░ЛQDAЛQDA%ЛQDA-ЛQDA0░"▒ЛQDAЛQDA%ЛQDA-ЛQDA0Т"▓ЛQDAЛQDA%ЛQDA-ЛQDA0ь"⌠ЛQDAЛQDA%ЛQDA-ЛQDA0░"■ЛQDAЛQDA%ЛQDA-ЛQDA0Т"∙ЛQDAЛQDA%ЛQDA-ЛQDA0░"√ЛQDAЛQDA%ЛQDA-ЛQDA0х"╗ЛQDAЛQDA%ЛQDA-ЛQDA0■
+"ОАzDA°дDA%°дDA-АzDA0Д"ТмлDA╝GEA%╝GEA-млDA0╟	"ЭмлDAмлDA%млDA-млDA0Э"щвёDAвёDA%вёDA-вёDA0э"ИвёDAАzDA%вёDA-АzDA0┬"╨	1≥DA1≥DA%1≥DA-1≥DA0╪"╬	S√DAS√DA%S√DA-S√DA0░"б	=⌡DA=⌡DA%=⌡DA-=⌡DA0х"э	│DAАzDA%┘DA-АzDA0Ь
+"К	АzDAАzDA%АzDA-АzDA0ь

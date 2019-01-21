@@ -1,0 +1,2 @@
+
+ALTY╕╖п	"Жq=fAq=fA%q=fA-q=fA0ы"╞TteATteA%TteA-TteA0х"╝╓peA╓peA%╓peA-╓peA0ц"┌╦eA╦eA%╦eA-╦eA0А"ФЛюeAЛюeA%ЛюeA-ЛюeA0╛"Я╝GeA╝GeA%╝GeA-╝GeA0х"│	млdAмлdA%млdA-млdA0Т"┘	млdAмлdA%млdA-млdA0Е"Б	млdAмлdA%млdA-млdA0╩

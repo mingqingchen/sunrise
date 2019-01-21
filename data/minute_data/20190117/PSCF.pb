@@ -1,0 +1,2 @@
+
+PSCF╔╖п	"┐/╝MB/╝MB%/╝MB-/╝MB0┌"└еONBеONB%еONB-еONB0░"уБ╘MBБ╘MB%Б╘MB-Б╘MB0Т"Д╞eNB╞eNB%╞eNB-╞eNB0▌"ЕмлMBмлMB%млMB-млMB0d"Н▌УMB▌УMB%▌УMB-▌УMB0d"█+гNB+гNB%+гNB-+гNB0█"ь33NB33NB%33NB-33NB0Х"ВHАNBHАNB%HАNB-HАNB0╛"ю	XhNBXhNB%XhNB-XhNB0╘"Ю	Я#OBЯ#OB%Я#OB-Я#OB0d"К	вёNBвёOB%вёOB-вёNB0х

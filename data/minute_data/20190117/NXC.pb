@@ -1,0 +1,2 @@
+
+NXC•І–	"цЪЩYAЪЩYA%ЪЩYA-ЪЩYA0С"ыолYAй&[A%й&[A-олYA0Л"ћ√хXAЌћXA%√хXA-ЌћXA0Љ"Г	мQXAмQXA%мQXA-мQXA0Ў"±	мQXA„£XA%„£XA-мQXA0Љ"ї	ц(XAц(XA%ц(XA-ц(XA0d"г	мQXAц(XA%мQXA-ц(XA0ћ"ж	ц(XAц(XA%ц(XA-ц(XA0d"з	ц(XAц(XA%ц(XA-ц(XA0d"и	ц(XA-XA%-XA-ц(XA0ђ"к	мQXAмQXA%мQXA-мQXA0d

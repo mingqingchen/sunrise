@@ -1,0 +1,2 @@
+
+NMS²╖п	"Ь╓pIA╓pIA%╓pIA-╓pIA0═"З╓pIA╓pIA%╓pIA-╓pIA0╛"ЁКIAКIA%КIA-КIA0Х"╣▐бIAzгIA%zгIA-▐бIA0п"╛╝GIA╝GIA%╝GIA-╝GIA0├"К╓pIA╓pIA%╓pIA-╓pIA0d"И╝GIA╝GIA%╝GIA-╝GIA0Ё"ПШHAШHA%ШHA-ШHA0┘"СмлHAмлHA%млHA-млHA0d"ЗмлHAмлHA%млHA-млHA0d"щ	33IAэFIA%эFIA-33IA0х"К	╝GIA╦IA%╝GIA-╦IA0░

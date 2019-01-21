@@ -1,0 +1,2 @@
+
+DTVез╨	"Ў═╠QB═╠QB%═╠QB-═╠QB0╚" оRBоRB%оRB-оRB0Ї"РоGRBоGRB%оGRB-оGRB0м"─ЪЩRBЪЩRB%ЪЩRB-ЪЩRB0}"ч├їRB├їRB%├їRB-├їRB0p"╦)\SB\OSB%)\SB-\OSB0╚"їЕSBЕSB%ЕSB-ЕSB0Р"∙оSBоSB%оSB-оSB0d"Г	дpSBдpSB%дpSB-дpSB0d"│	ьQSBьQSB%ьQSB-ьQSB0м"└	33SB33SB%33SB-33SB0d"╥	дpSBдpSB%дpSB-дpSB0м"╓	ffSBffSB%ffSB-ffSB0d"ъ	\ПSB╫гSB%╫гSB-\ПSB0╚

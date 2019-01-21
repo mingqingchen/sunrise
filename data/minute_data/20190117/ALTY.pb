@@ -1,0 +1,2 @@
+
+ALTYез╨	"Ў╕eA═╠dA%╕eA-═╠dA0м"А╫гdA┌dA%╫гdA-┌dA0╨("иЎ(dAЎ(dA%Ў(dA-Ў(dA0Р"╕йdAйdA%йdA-йdA0Р"ж█∙cA█∙cA%█∙cA-█∙cA0Р"ь%dA%dA%%dA-%dA0Ъ"єьQdAьQdA%ьQdA-ьQdA0d"∙ьQdAьQdA%ьQdA-ьQdA0d"╤	╕eA╕eA%╕eA-╕eA0щ

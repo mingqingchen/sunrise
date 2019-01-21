@@ -54,7 +54,7 @@ class DataProviderPngExporter:
 
     # symbol_list = self.get_symbol_list_for_a_day(day_int_val)
     # use the following one to get quick look on major stocks:
-    symbol_list = ['IHG'] # 'MSFT', 'GOOG', 'AMZN', 'ISRG', 'TQQQ', 'BGNE', 'ETSY', 'NVDA', 'QQQ']
+    symbol_list = FLAGS.output_symbols.split(';')
     print ('Output to png folder %s.' % FLAGS.output_png_dir)
     for symbol in symbol_list:
       print('Processing {0}'.format(symbol))
@@ -92,6 +92,12 @@ if __name__=="__main__":
     type=str,
     default=k_png_temp_folder,
     help='Temp png folder output'
+  )
+  parser.add_argument(
+    '--output_symbols',
+    type=str,
+    default='AMZN',
+    help='symbols split by ;'
   )
   parser.add_argument(
     '--extract_date',

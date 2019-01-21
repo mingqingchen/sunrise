@@ -1,4 +1,5 @@
 
 NXPЦ"√╖п	╝cA┘КeA%
 вgA-33cA0Д╕"≈╖п	{fA{fA%\▐fA-ЛQdA0╢ё"≤╖п	{fA╝GeA%{fA-АzdA0ьЁ"⌡╖п	 ≥eA╓peA%33gA-╓peA0╦У"°╖п	┘КeA╦eA%33gA-╦eA0▄щ"²╖п	┘КeA┘КeA%{fA-╝GeA0Д╞"·╖п	┘КeA▐бeA%┘КeA-╝GeA0░g"÷╖п	▐бeA┘КeA%{fA-╦eA0─╞"ё╖п	╦eAвёdA%╝GeA-АzdA0ь│"╒╖п	R╦fAАzdA%R╦fA-ЛQdA0Э▌"÷╖п	▐бeA┘КeA%{fA-╦eA0─╞"·╖п	┘КeA▐бeA%┘КeA-╝GeA0░g"²╖п	┘КeA┘КeA%{fA-╝GeA0Д╞"°╖п	┘КeA╦eA%33gA-╦eA0▄щ"⌡╖п	 ≥eA╓peA%33gA-╓peA0╦У"≤╖п	{fA╝GeA%{fA-АzdA0ьЁ"≈╖п	{fA{fA%\▐fA-ЛQdA0╢ё"√╖п	╝cA┘КeA%
+вgA-33cA0Д╕"╓╖п	млdA╓peA%╓peA-млdA0■n"ё╖п	╦eAвёdA%╝GeA-АzdA0ь│"╒╖п	R╦fAАzdA%R╦fA-ЛQdA0Э▌"÷╖п	▐бeA┘КeA%{fA-╦eA0─╞"·╖п	┘КeA▐бeA%┘КeA-╝GeA0░g"²╖п	┘КeA┘КeA%{fA-╝GeA0Д╞"°╖п	┘КeA╦eA%33gA-╦eA0▄щ"⌡╖п	 ≥eA╓peA%33gA-╓peA0╦У"≤╖п	{fA╝GeA%{fA-АzdA0ьЁ"≈╖п	{fA{fA%\▐fA-ЛQdA0╢ё"√╖п	╝cA┘КeA%
 вgA-33cA0Д╕

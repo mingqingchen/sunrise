@@ -1,0 +1,3 @@
+
+NXQез╨	"Ўq=ZAq=ZA%q=ZA-q=ZA0╞"СЙAZAq=ZA%ЙAZA-q=ZA0Ї"ыq=ZAq=ZA%q=ZA-q=ZA0d"з{ZA{ZA%{ZA-{ZA0Ъ"┤{ZA{ZA%{ZA-{ZA0d"═,╘YA,╘YA%,╘YA-,╘YA0ю"О4вYA4вYA%4вYA-4вYA0h"ПЪЩYAЪЩYA%ЪЩYA-ЪЩYA0м"б>yYA>yYA%>yYA->yYA0h"йв┤YAв┤YA%в┤YA-в┤YA0▌"·FФYAFФYA%FФYA-FФYA0▄"╬оYAоYA%оYA-оYA0▄"х	КYA	КYA%	КYA-	КYA0й"№ЪЩYAЪЩYA%ЪЩYA-ЪЩYA0╚"┘	─▒YA─▒YA%─▒YA-─▒YA0ь"▌	ЪЩYAЪЩYA%ЪЩYA-ЪЩYA0р"▀	=ЫYAП┬YA%П┬YA-=ЫYA0Ф#"щ	ЪЩYAЪЩYA%ЪЩYA-ЪЩYA0d"ы	HPYAП┬YA%П┬YA-оGYA0░"Ц
+╕YA╕YA%╕YA-╕YA0┘
