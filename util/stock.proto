@@ -87,39 +87,6 @@ message OneIntraDayData {
   repeated OneTimeSlotData data = 4;
 }
 
-// Data structure to store stock portfolio
-message Portfolio {
-  message OneStockPortfolio {
-    required int32 volume = 1;
-    required float purchase_cost = 2;
-    required float current_price = 3;
-  }
-  // available cash that can be used to buy new stocks
-  required float available_cash = 1;
-  // All the balance of the portfolio,
-  // Equal to available_cash + all the stock asset
-  required float balance = 2;
-  // Map stock name to one stock portfolio data
-  map<string, OneStockPortfolio> data = 3;
-}
-
-message Transaction {
-  enum Type {
-    BUY = 0;
-    SELL = 1;
-  }
-  required Type type = 1;
-  required string symbol = 2;
-  required int32 amount = 3;
-  required float price = 4;
-  required float commission_fee = 5;
-  required int32 date = 6;
-  
-  // for intra-day trading
-  required int32 time = 7;
-}
-
-
 message ServingCrawledData {
   message OneCrawledData {
     required int32 time_val = 1;

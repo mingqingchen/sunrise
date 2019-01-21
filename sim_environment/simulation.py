@@ -1,5 +1,5 @@
 import util.datetime_util as datetime_util
-import sim_environment.portfolio as portfolio
+import portfolio
 
 # corresponds to NY time 9:30
 k_open_time = 630
@@ -51,7 +51,7 @@ class Simulation():
     self.balances_ = []
 
     while cur_day <= self.end_date_:
-      self.trade_strategy_.update_date(cur_day, self.data_manager_, cur_day==self.end_date_)
+      self.trade_strategy_.update_date(cur_day, self.data_manager_)
       self.data_manager_.clear_symbol_index()
       cur_time = k_open_time
       while cur_time <= k_close_time:

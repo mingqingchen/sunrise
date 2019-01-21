@@ -1,8 +1,8 @@
-import proto.stock_pb2 as stock_pb2
+import simulation_pb2
 
 class PortfolioManager:
   def __init__(self):
-    self.portfolio_ = stock_pb2.Portfolio()
+    self.portfolio_ = simulation_pb2.Portfolio()
     self.portfolio_.available_cash = 0
     self.portfolio_.balance = 0
 
@@ -18,6 +18,7 @@ class PortfolioManager:
   
   def update_balance(self, daily_all_stock_data):
     """Update the balance given current daily stock info based on close price.
+       Note that it is possible that some of the stocks are not updated, if it doesn't exist in daily_all_stock_data.
     Args:
       daily_all_stock_data is a map of stock symbol to OneDayData
     """
@@ -25,7 +26,7 @@ class PortfolioManager:
     updated_balance = self.portfolio_.available_cash
     for stock_name in self.portfolio_.data.keys():
       if stock_name in daily_all_stock_data.keys():
-        self.portfolio_.data[stock_name].current_price = daily_all_stock_data[stock_name].close
+        self.portfolio_.data[stock_name].current_price = daily_all_stock_data[stock_name].open
       updated_balance += self.portfolio_.data[stock_name].current_price * self.portfolio_.data[stock_name].volume
     self.portfolio_.balance = updated_balance
   
@@ -48,6 +49,9 @@ class PortfolioManager:
     Return True for successful buy, 
     False may due to insufficient money
     """
+    if transaction.type == simulation_pb2.Transaction.SELL:
+      return False
+
     if transaction.amount==0:
       return True
     
@@ -63,6 +67,7 @@ class PortfolioManager:
       print('Available cash: {0}'.format(self.portfolio_.available_cash))
       return False
     self.portfolio_.available_cash -= required_money
+    self.portfolio_.balance -= transaction.commission_fee
     symbol = transaction.symbol
     if symbol in self.portfolio_.data.keys():
       self.portfolio_.data[symbol].volume += transaction.amount
@@ -82,6 +87,9 @@ class PortfolioManager:
     if transaction.amount == 0:
       return True
 
+    if transaction.type == simulation_pb2.Transaction.BUY:
+      return False
+
     if transaction.amount < 0:
       print('Amount is smaller than zero. ')
       return False
@@ -98,7 +106,9 @@ class PortfolioManager:
     cur_amount = self.portfolio_.data[symbol].volume
     self.portfolio_.data[transaction.symbol].purchase_cost *= ((cur_amount - transaction.amount) / float(cur_amount))
     self.portfolio_.data[transaction.symbol].volume -= transaction.amount
-    self.portfolio_.available_cash += (transaction.amount * transaction.price)
+    self.portfolio_.available_cash += (transaction.amount * transaction.price - transaction.commission_fee)
+    price_diff = (transaction.price - self.portfolio_.data[transaction.symbol].current_price)
+    self.portfolio_.balance += (price_diff * transaction.amount - transaction.commission_fee)
     if self.portfolio_.data[transaction.symbol].volume == 0:
       del self.portfolio_.data[transaction.symbol]
     print('Successfully sell ', transaction)
