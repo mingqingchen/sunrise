@@ -63,10 +63,15 @@ class IntraDayCrawler:
       '&period2={end_time}&interval=1d&filter=history&frequency=1d'.format(symbol=symbol,
                                                                            start_time=start_time,
                                                                            end_time=end_time)
-    try:
-      page = requests.get(uri)
-    except ValueError:
-      return False, result
+    good_request = False
+    while True:
+      try:
+        page = requests.get(uri)
+        good_request = True
+      except:
+        time.sleep(1)
+      if good_request:
+        break
 
     split_content = page.content.split('"HistoricalPriceStore":')
     if(not len(split_content) == 2):
