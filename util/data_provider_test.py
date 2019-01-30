@@ -96,7 +96,7 @@ class TestDataProvider(unittest.TestCase):
     dp_minute = data_provider.DataProvider('./data/minute_data', use_eligible_list=False)
     dp_daily = data_provider.DataProvider('./data/daily_data', use_eligible_list=False)
 
-    start_date = 20180101
+    start_date = 20190101
     end_date = 20181231
 
     year_loaded_map = {2018: False, 2019: False}
@@ -134,14 +134,16 @@ class TestDataProvider(unittest.TestCase):
     black_dict = {
       'ZTS': {20190108},  # looks correct, a sudden low line in the middle
       'EMP': {'everyday'},  # Sudden change on stock price, looks like a stock split happen
-      'ELC': {'everyday'},  # minute data is on the range of ~$20, but daily data is ~$7000
-      'STNG': {'everyday'},  # minute data is ~$20.0 but daily data is $2.0
+      'ELC': {'everyday'},  # scale-level difference
+      'STNG': {'everyday'},  # scale-level difference
+      'BPTH': {'everyday'}, # scale-level difference
+      'CHDN': {'everyday'}, # scale-level difference
+      'NAO': {'everyday'}, # scale-level difference
       'PGLC': {20190108},  # data looks correct, just the lowest price in daily data is a little bit too low
       'CGIX': {20190109},  # looks correct, just due to price is too small (~$0.40) or cutoff time is not that accurate
       'AWX': {20190109},  # looks correct, just the data is a little sparse
       'KBH': {20190109},  # looks correct, just a sudden jump at the end, maybe some inaccuracies in cutoff time
       'TEF': {20190116},  # looks correct, just a sudden jump at the end, maybe some inaccuracies in cutoff time
-      'BPTH': {20190116},  # minute data is ~$0.10 but daily data is ~$2.6
       'O': {20190116},  # looks correct, a sudden low line in the middle
     }
 

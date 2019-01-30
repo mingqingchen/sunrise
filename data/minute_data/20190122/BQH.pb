@@ -1,0 +1,2 @@
+
+BQH╙╖п	"ЖвёTAвёTA%вёTA-вёTA0√"░@╓TA@╓TA%@╓TA-@╓TA0й"квёTAвёTA%вёTA-вёTA0х"ЙвёTAвёTA%вёTA-вёTA0d"╣вёTAвёTA%вёTA-вёTA0Х"╦\▐TAdлTA%млTA-\▐TA0у"УЛQTAЛQTA%ЛQTA-ЛQTA0d"о	ЛQTAЛQTA%ЛQTA-ЛQTA0d

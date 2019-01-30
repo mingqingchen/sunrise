@@ -1,0 +1,2 @@
+
+BSE╛╖п	"Ж{JA{JA%{JA-{JA0р"╪▐бIA▐бIA%▐бIA-▐бIA0х"У▐бIAq=JA%q=JA- ≥IA0Ы"В ≥IA ≥IA%млIA- ≥IA0╓"╗ ≥IAмлHA%q=JA-млHA0╥"╬млHAмлHA%╚оHA-млHA0П"К	╦IA╦IA%╦IA-╦IA0d

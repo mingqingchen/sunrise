@@ -1,0 +1,2 @@
+
+GNMA¬§Ð	"ö¸CB¸CB%¸CB-¸CB0–"®ö(CBq=CB%¨FCB-xCB0Ô"½Õ8CBÕ8CB%Õ8CB-Õ8CB0š"¢®GCBõ9CB%®GCB-õ9CB0È"¨®GCB®GCB%®GCB-®GCB0È"¶ð'CBð'CB%ð'CB-ð'CB0}"üª1CBª1CB%ª1CB-ª1CB0 "ÍLCBÍLCB%ÍLCB-ÍLCB0È"Ž8'CB8'CB%8'CB-8'CB0ô"Ÿé&CBé&CB%é&CB-é&CB0}"ÏD)CBD)CB%D)CB-D)CB0È"ð{CBH!CB%H!CB-{CB0¬"ë	ö(CB33CB%33CB-ö(CB0¬

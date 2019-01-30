@@ -1,0 +1,3 @@
+
+GNMA«§Ð	"Õ¼ôBB×ãBB%¼ôBB-×ãBB0"ÚÃõBBfæBB%ÃõBB-fæBB0¦"†ÎCBjCB%ÎCB-jCB0ò"ŠCB)íBB%CB-$×BB0¸"…ëBB…ëBB%…ëBB-…ëBB0È"£HáBB)ÜBB%HáBB-)ÜBB0È"¥aCBaCB%aCB-aCB0º"¨{CB{CB%{CB-{CB0Ð"ªÃõBBÃõBB%–CB-
+×BB0þ	"¬…ëBB…ëBB%…ëBB-…ëBB0Ç"¯ÃõBBÃõBB%ÃõBB-ÃõBB0œ"ˆÍÌBBdÝBB%dÝBB-ÍÌBB0ª	"Ï:ÒBB:ÒBB%:ÒBB-:ÒBB0ð"åš™BBš™BB%š™BB-š™BB0È"êRÉBBRÉBB%RÉBB-RÉBB0›"ðÂBB³ÌBB%ÍÌBB-ÂBB0ˆ"ûÍÌBBˆÅBB%ÍÌBB-mÅBB0Á"ƒ	 ÁBB ÁBB% ÁBB- ÁBB0¬"¾	ÍÌBBuÂBB%ÍÌBB-uÂBB0 "À	ÍÌBBuÂBB%ÍÌBB-uÂBB0Ø"Æ	ýÇBBðÖBB%ðÖBB-ýÇBB0Ì"Ç	ðÖBBðÖBB%ðÖBB-uÂBB0 

@@ -1,0 +1,2 @@
+
+VLT╚╖п	"Ж┘КYA┘КYA%┘КYA-┘КYA0Х"ВмлXAмлXA%млXA-млXA0d"┤{ZA{ZA%{ZA-{ZA0d"┬╝YA╝YA%╝YA-╝YA0х"п╝YA╝YA%╝YA-╝YA0d"╔{ZA{ZA%{ZA-{ZA0d"╫{ZA{ZA%{ZA-{ZA0х"▌╓pYA╓pYA%╓pYA-╓pYA0d"  ≥YA╓pYA% ≥YA-╓pYA0╛"ЩgуYAgуYA%gуYA-gуYA0У"─	\▐ZA\▐ZA%\▐ZA-\▐ZA0d"│	┘КYA┘КYA%┘КYA-┘КYA0d"└	ffZA▐бYA%\▐ZA-▐бYA0≤"╟	\▐ZA\▐ZA%\▐ZA-\▐ZA0d"ю	ЭZAЭZA%ЭZA-ЭZA0л"д	\▐ZA\▐ZA%\▐ZA-\▐ZA0d"к	{ZA┘КYA%{ZA-┘КYA0х"Г	┘КYA┘КYA%┘КYA-┘КYA0d"К	┘КYA┘КYA%┘КYA-┘КYA0х

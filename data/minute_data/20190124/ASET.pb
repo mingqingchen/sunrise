@@ -1,0 +1,2 @@
+
+ASET¬§Р	"цffШAffШA%ffШA-ffШA0Ь"ШffШAffШA%ffШA-ffШA0„"ЩffШAffШA%ffШA-ffШA0¬"чffШAffШA%ffШA-ffШA0¬"¤ffШAffШA%ffШA-ffШA0¬"ЄffШAffШA%ffШA-ffШA0¬"ІffШAffШA%ffШA-ffШA0¬"СffШAffШA%ffШA-ffШA0°	"дRёЧARёЧA%RёЧA-RёЧA0µ

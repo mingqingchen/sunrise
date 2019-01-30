@@ -1,0 +1,3 @@
+
+GOODM­§Ð	"ö…ëÉA…ëÉA%…ëÉA-…ëÉA0d"ÊÍÌÈAÍÌÈA%ÍÌÈA-ÍÌÈA0ë„"ËÃõÈAÃõÈA%ÃõÈA-ÃõÈA0è„"Î	ØpÉAØpÉA%ØpÉA-ØpÉA0È"”
+R¸ÈAR¸ÈA%R¸ÈA-R¸ÈA0d
