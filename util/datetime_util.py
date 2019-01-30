@@ -108,6 +108,18 @@ def int_to_date(input_date_val):
   day = input_date_val
   return datetime.datetime(year, month, day)
 
+def int_to_datetime(input_date_val, input_time_val):
+  """Given a 8-digit int value of date and 4 digit time, returns its datetime. """
+  year = int(input_date_val / 10000)
+  input_date_val -= year * 10000
+  month = int(input_date_val / 100)
+  input_date_val -= month * 100
+  day = input_date_val
+
+  hour = (input_time_val / 100)
+  minute = input_time_val - hour * 100
+  return datetime.datetime(year, month, day, hour, minute, 0)
+
 def is_week_day(input_date_val):
   """Given a 8-digit int value of date, returns whether it's a weekday. """
   weekday = int_to_date(input_date_val).weekday()

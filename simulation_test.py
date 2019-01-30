@@ -3,6 +3,7 @@ import sim_environment.simulation_pb2 as simulation_pb2
 import sim_environment.trade_strategy_buy_and_hold_one_stock as trade_strategy_buy_and_hold_one_stock
 import sim_environment.trade_strategy_buy_and_sell_one_stock_eod as trade_strategy_buy_and_sell_one_stock_eod
 import util.data_provider as data_provider
+import util.sim_html_report as sim_html_report
 import unittest
 
 
@@ -27,6 +28,10 @@ class TestSimulation(unittest.TestCase):
     self.assertEqual(transactions[0].date, 20180417)
 
     self.assertEqual(len(date_time_list), len(balances))
+
+    report = sim_html_report.SimulationHtmlReport(
+      'Basic buy and hold', transactions, date_time_list, balances, skip_details=False)
+    report.export('./report', dp)
 
   def _check_transaction_correct(self, initial_deposit, transactions):
     """A function that checks transactions are correct. This can be used to test all trade strategies.

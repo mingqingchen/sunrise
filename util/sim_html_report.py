@@ -1,10 +1,9 @@
 import os
 import matplotlib.pyplot as plt
-import util.data_provider as data_provider
-import proto.stock_pb2 as stock_pb2
+import data_provider_png_exporter
+import sim_environment.simulation_pb2 as simulation_pb2
 import numpy as np
 
-k_data_folder = './data/intra_day/'
 class SimulationHtmlReport:
   def __init__(self, sim_name, transactions, datetime_list, balances, skip_details=True):
     self.sim_name_ = sim_name
@@ -14,21 +13,20 @@ class SimulationHtmlReport:
     self.skip_details_ = skip_details
     self.highlight_revenue_threshold_ = 500
   
-  def __export_balance_figure(self, imgpath):
-    fig = plt.figure()
+  def _export_balance_figure(self, imgpath):
+    fig = plt.figure(figsize=[8, 4])
     ax = fig.add_subplot(1, 1, 1)
-
     ax.plot(self.datetime_list_, self.balances_)
     min_date = np.min(self.datetime_list_)
     max_date = np.max(self.datetime_list_)
-    step = max(1, int((max_date - min_date) / 10))
-    ax.set_xticks(np.arange(np.min(self.datetime_list_), np.max(self.datetime_list_), step))
+    # step = max(1, int((max_date - min_date) / 10))
+    # ax.set_xticks(np.arange(np.min(self.datetime_list_), np.max(self.datetime_list_), step))
     ax.grid()
     plt.savefig(imgpath)
     plt.clf()
 
 
-  def __export_to_html(self, file_path, day_symbol_transaction_index_dict):
+  def _export_to_html(self, file_path, day_symbol_transaction_index_dict):
     fid = open(file_path, 'w')
     
     fid.write('<!DOCTYPE html>\n')
@@ -63,7 +61,7 @@ class SimulationHtmlReport:
               '<th>buydate</th><th>selldate</th><th>buytime</th><th>selltime</th>'
               '<th>revenue</th></tr>\n')
     for transaction in self.transactions_:
-      if transaction.type == stock_pb2.Transaction.BUY:
+      if transaction.type == simulation_pb2.Transaction.BUY:
          transaction_dict[transaction.symbol] = transaction
       else:
         buy_trans = transaction_dict[transaction.symbol]
@@ -98,7 +96,7 @@ class SimulationHtmlReport:
       for symbol in day_symbol_transaction_index_dict[date_val].keys():
         fid.write('Trade on {0} for {1}</br>\n'.format(date_val, symbol))
         for transaction in day_symbol_transaction_index_dict[date_val][symbol]:
-          if transaction.type == stock_pb2.Transaction.BUY:
+          if transaction.type == simulation_pb2.Transaction.BUY:
             fid.write('Buy {0} volumes at {1} {2} on price {3} </br>\n'.format(transaction.amount, transaction.date,
                                                                                transaction.time,
                                                                                round(transaction.price, 2)))
@@ -112,19 +110,19 @@ class SimulationHtmlReport:
     fid.write('</html>\n')
     fid.close()
 
-  def export(self, folder):
-    if not os.path.isdir(folder):
-      os.makedirs(folder)
-    img_folder = os.path.join(folder, 'img/')
+  def export(self, output_folder, dp):
+    if not os.path.isdir(output_folder):
+      os.makedirs(output_folder)
+    img_folder = os.path.join(output_folder, 'img/')
     if not os.path.isdir(img_folder):
       os.makedirs(img_folder)
     
     # export balance figure
     balance_change_fig_path = os.path.join(img_folder, 'balance.png')
-    self.__export_balance_figure(balance_change_fig_path)
+    self._export_balance_figure(balance_change_fig_path)
 
     # export HTML
-    html_path = os.path.join(folder, 'index.html')
+    html_path = os.path.join(output_folder, 'index.html')
     day_symbol_transaction_index_dict = dict()
 
     # go through all transactions
@@ -135,19 +133,19 @@ class SimulationHtmlReport:
         if transaction.symbol not in day_symbol_transaction_index_dict[transaction.date]:
           day_symbol_transaction_index_dict[transaction.date][transaction.symbol] = []
         day_symbol_transaction_index_dict[transaction.date][transaction.symbol].append(transaction)
-    self.__export_to_html(html_path, day_symbol_transaction_index_dict)
+    self._export_to_html(html_path, day_symbol_transaction_index_dict)
 
     if self.skip_details_:
       return
 
     # export figures
-    dp = data_provider.DataProvider(k_data_folder, False)
+    png_exporter = data_provider_png_exporter.DataProviderPngExporter()
     for date_val in day_symbol_transaction_index_dict.keys():
       for symbol in day_symbol_transaction_index_dict[date_val].keys():
         img_path = os.path.join(img_folder, '{0}_{1}.png'.format(date_val, symbol))
         dp.load_one_symbol_data(date_val, symbol)
         one_stock_data = dp.get_one_symbol_data(symbol)
-        dp.export_one_symbol_one_day(symbol, one_stock_data, img_path, transactions = day_symbol_transaction_index_dict[date_val][symbol])
+        png_exporter.export_one_symbol_one_day(symbol, one_stock_data, img_path) # transactions=day_symbol_transaction_index_dict[date_val][symbol])
 
 
 
