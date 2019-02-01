@@ -2,6 +2,7 @@ import argparse
 import datetime_util
 import matplotlib.pyplot as plt
 import os, sys
+import sim_environment.simulation_pb2 as simulation_pb2
 import tensorflow as tf
 
 import data_provider
@@ -24,25 +25,33 @@ class DataProviderPngExporter:
       low_list.append(one_slot_data.low)
     return time_list, open_list, close_list, high_list, low_list
 
-  def _prepare_display_one_symbol_one_day(self, symbol, one_stock_data):
+  def _prepare_display_one_symbol_one_day(self, symbol, one_stock_data, transactions):
     time_list, open_list, close_list, high_list, low_list = self._prepare_one_stock_data_list(one_stock_data)
     k_open_close_line_width = 3
     k_min_max_line_width = 1
     k_epsilon = 0.01
     for k in range(len(time_list)):
-      plt.vlines(time_list[k], low_list[k], high_list[k], 'k', linewidth = k_min_max_line_width)
+      plt.vlines(time_list[k], low_list[k], high_list[k], 'k', linewidth=k_min_max_line_width)
       if open_list[k] < close_list[k]:
-        plt.vlines(time_list[k], open_list[k], close_list[k], 'g', linewidth = k_open_close_line_width)
+        plt.vlines(time_list[k], open_list[k], close_list[k], 'g', linewidth=k_open_close_line_width)
       elif open_list[k] > close_list[k]:
-        plt.vlines(time_list[k], open_list[k], close_list[k], 'r', linewidth = k_open_close_line_width)
+        plt.vlines(time_list[k], open_list[k], close_list[k], 'r', linewidth=k_open_close_line_width)
       else:
-        plt.vlines(time_list[k], open_list[k], open_list[k] + k_epsilon, 'g', linewidth = k_open_close_line_width)
+        plt.vlines(time_list[k], open_list[k], open_list[k] + k_epsilon, 'g', linewidth=k_open_close_line_width)
+
+    for transaction in transactions:
+      transaction_time = datetime_util.int_to_time(transaction.time)
+      vline_color = 'r'
+      if transaction.type == simulation_pb2.Transaction.SELL:
+        vline_color = 'b'
+      plt.axvline(x=transaction_time, color=vline_color)
+
 
     plt.grid()
     plt.title(symbol)
 
-  def export_one_symbol_one_day(self, symbol, one_stock_data, img_path):
-    self._prepare_display_one_symbol_one_day(symbol, one_stock_data)
+  def export_one_symbol_one_day(self, symbol, one_stock_data, img_path, transactions):
+    self._prepare_display_one_symbol_one_day(symbol, one_stock_data, transactions)
     plt.savefig(img_path)
     plt.clf()
 

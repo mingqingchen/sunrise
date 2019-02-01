@@ -176,9 +176,8 @@ class DataProvider:
       return int(self.subfolder_list_[0])
     num_days = len(self.subfolder_list_)
     for i in range(num_days):
-      if self.subfolder_list_[i] == str(input_day_val):
-        if i < num_days - 1:
-          return int(self.subfolder_list_[i + 1])
+      if self.subfolder_list_[i] > str(input_day_val):
+        return int(self.subfolder_list_[i])
     return -1
 
   def deserialize_one_symbol(self, date_int_val, symbol):

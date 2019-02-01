@@ -2,6 +2,7 @@ import os
 import matplotlib.pyplot as plt
 import data_provider_png_exporter
 import sim_environment.simulation_pb2 as simulation_pb2
+import datetime_util
 import numpy as np
 
 class SimulationHtmlReport:
@@ -53,41 +54,29 @@ class SimulationHtmlReport:
 
     fid.write('<p>Total number of transactions: {0}</p>\n'.format(len(self.transactions_)))
 
-    transaction_dict = dict()
-    total_revenue = 0
     fid.write('<p><table>\n')
     fid.write('<caption> All transactions </caption>\n')
-    fid.write('<tr><th>Symbol</th><th>buyvolume</th><th>sellvolume</th><th>buyprice</th><th>sellprice</th>'
-              '<th>buydate</th><th>selldate</th><th>buytime</th><th>selltime</th>'
-              '<th>revenue</th></tr>\n')
+    fid.write('<tr><th>Symbol</th><th>volume</th><th>price</th>'
+              '<th>date</th><th>time</th><th>Balance</th>'
+              '</tr>\n')
+
+    balance_index = 0
     for transaction in self.transactions_:
-      if transaction.type == simulation_pb2.Transaction.BUY:
-         transaction_dict[transaction.symbol] = transaction
-      else:
-        buy_trans = transaction_dict[transaction.symbol]
-        revenue = (transaction.price - buy_trans.price) * transaction.amount - buy_trans.commission_fee - \
-                  transaction.commission_fee
-        total_revenue += revenue
+      table_row_tmpl = '<tr><td style="background-color:{0}">{1}</td><td>{2}</td><td>{3}</td><td>{4}</td><td>{5}</td><td>{6}</td></tr>'
+      tr_color = 'red'
+      if transaction.type == simulation_pb2.Transaction.SELL:
+        tr_color = 'blue'
 
-        table_row_tmpl = '<tr><td>{0}</td><td>{1}</td><td>{2}</td><td>{3}</td><td>{4}</td><td>{5}</td><td>\
-          {6}</td><td>{7}</td><td>{8}</td>'
+      transaction_time = datetime_util.int_to_datetime(transaction.date, transaction.time)
+      while self.datetime_list_[balance_index] < transaction_time:
+        balance_index+=1
+      current_balance = self.balances_[balance_index]
 
-        if revenue > self.highlight_revenue_threshold_:
-          table_row_tmpl+='<td bgcolor=green>{9}</td></tr>\n'
-        elif revenue < -self.highlight_revenue_threshold_:
-          table_row_tmpl += '<td bgcolor=red>{9}</td></tr>\n'
-        else:
-          table_row_tmpl += '<td>{9}</td></tr>\n'
-        fid.write(table_row_tmpl.format(
-          transaction.symbol, buy_trans.amount, transaction.amount, round(buy_trans.price, 2),
-          round(transaction.price, 2),
-          buy_trans.date, transaction.date, buy_trans.time, transaction.time, round(revenue, 2)
-        ))
-        transaction_dict[transaction.symbol].amount -= transaction.amount
-        if transaction_dict[transaction.symbol].amount == 0:
-          del transaction_dict[transaction.symbol]
+      fid.write(table_row_tmpl.format(tr_color,
+        transaction.symbol, transaction.amount, round(transaction.price, 2),
+        transaction.date, transaction.time, current_balance
+      ))
     fid.write('</table></p>\n')
-    fid.write('Total revenue: {0}\n'.format(total_revenue))
 
     if self.skip_details_:
       return
@@ -145,7 +134,7 @@ class SimulationHtmlReport:
         img_path = os.path.join(img_folder, '{0}_{1}.png'.format(date_val, symbol))
         dp.load_one_symbol_data(date_val, symbol)
         one_stock_data = dp.get_one_symbol_data(symbol)
-        png_exporter.export_one_symbol_one_day(symbol, one_stock_data, img_path) # transactions=day_symbol_transaction_index_dict[date_val][symbol])
+        png_exporter.export_one_symbol_one_day(symbol, one_stock_data, img_path, transactions=day_symbol_transaction_index_dict[date_val][symbol])
 
 
 

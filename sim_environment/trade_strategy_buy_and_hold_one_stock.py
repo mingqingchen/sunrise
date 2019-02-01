@@ -12,11 +12,12 @@ class BuyAndHoldOneStockTradeStrategy(trade_strategy.TradeStrategy):
         For buy and hold one stock strategy, we just need to deserialize one stock
     """
     self.date_int_val_ = date_int_val
-    data_manager.load_one_symbol_data(date_int_val, self.symbol_)
+    self.cur_day_load_result_ = data_manager.load_one_symbol_data(date_int_val, self.symbol_)
     return
 
   def run_minute_trade_strategy(self, data_manager, cur_time, portfolio):
-    transactions = []
+    if not self.cur_day_load_result_:
+      return []
 
     available_cash = portfolio.get_available_cash()
     transaction = simulation_pb2.Transaction()
@@ -42,6 +43,7 @@ class BuyAndHoldOneStockTradeStrategy(trade_strategy.TradeStrategy):
 
     print transaction
 
+    transactions = []
     if portfolio.buy_stock(transaction):
       transactions.append(transaction)
 

@@ -31,7 +31,7 @@ class TestSimulation(unittest.TestCase):
 
     report = sim_html_report.SimulationHtmlReport(
       'Basic buy and hold', transactions, date_time_list, balances, skip_details=False)
-    report.export('./report', dp)
+    report.export('./report_buy_and_hold_amzn', dp)
 
   def _check_transaction_correct(self, initial_deposit, transactions):
     """A function that checks transactions are correct. This can be used to test all trade strategies.
@@ -58,7 +58,7 @@ class TestSimulation(unittest.TestCase):
 
     initial_deposit = 100000  # 100K
 
-    sim.set_start_date(20180417)
+    sim.set_start_date(20190101)
     sim.set_end_date(20190117)
     sim.set_data_manager(dp)
     sim.deposit_fund(initial_deposit)
@@ -68,7 +68,6 @@ class TestSimulation(unittest.TestCase):
 
     transactions, datetime_list, balances = sim.get_simulation_run_result()
 
-    self.assertTrue(len(transactions), 372)  # this number is dependent on number of available days of the crawl
     self.assertEqual(len(datetime_list), len(balances))
 
     # each day should only have one sell action
@@ -80,6 +79,10 @@ class TestSimulation(unittest.TestCase):
 
     amount = self._check_transaction_correct(initial_deposit, transactions)
     self.assertAlmostEqual(amount, balances[-1], delta=0.1)
+
+    report = sim_html_report.SimulationHtmlReport(
+      'Basic buy and sell EOD', transactions, datetime_list, balances, skip_details=False)
+    report.export('./report_buy_and_sell_amzn', dp)
 
 
 

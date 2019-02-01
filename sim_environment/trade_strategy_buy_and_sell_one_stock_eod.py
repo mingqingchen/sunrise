@@ -6,6 +6,8 @@ class BuyAndSellOneStockEODTradeStrategy(trade_strategy_buy_and_hold_one_stock.B
   """ Trade strategy of buying one stock and sell it at EOD. """
 
   def run_minute_trade_strategy(self, data_manager, cur_time, portfolio):
+    if not self.cur_day_load_result_:
+      return []
     k_eod_time_threshold = 1255
 
     if cur_time < k_eod_time_threshold:
