@@ -1,0 +1,2 @@
+
+BSDі§Р	"ц¤pIA¤pIA%¤pIA-¤pIA0і"В{JA{JA%{JA-{JA0И"Х{JA{JA%{JA-{JA0И"Ю{JA{JA%{JA-{JA0¶"ч{JA{JA%{JA-{JA0И"їffJAffJA%ffJA-ffJA0d"ПffJAffJA%ffJA-ffJA0И"™ffJA…лIA%ffJA-…лIA0ђ"љffJAffJA%ffJA-ffJA0ђ"єffJAffJA%ffJA-ffJA0И"щ“:JA“:JA%“:JA-“:JA0ќ"‚ffJAffJA%ffJA-ffJA0d"‹ffJAffJA%ffJA-ffJA0d"њffJAffJA%ffJA-ffJA0d"Ј\ЏJA\ЏJA%\ЏJA-\ЏJA0ї"ызыIAзыIA%зыIA-зыIA0o"Р	–!JA–!JA%–!JA-–!JA0э"в	ffJAffJA%ffJA-ffJA0И"з	{JA{JA%{JA-{JA0И"л	\ЏJARёJA%RёJA-\ЏJA0ќ

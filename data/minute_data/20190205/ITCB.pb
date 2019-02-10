@@ -1,0 +1,2 @@
+
+ITCBЩ╖п	"ымлtAмлtA%млtA-млtA0d"╔╝GuA╝GuA%╝GuA-╝GuA0d"╡\▐nA\▐nA%\▐nA-\▐nA0d"╣ЛQtAЛQtA%ЛQtA-ЛQtA0х"╤млtAмлtA%млtA-млtA0d"о	млtAмлtA%млtA-млtA0d"Й	÷мqA÷мqA%÷мqA-÷мqA0²"К	╝{A╝{A%╝{A-╝{A0d

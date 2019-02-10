@@ -1,0 +1,2 @@
+
+MPVЪ╖п	"В ≥uA ≥uA% ≥uA- ≥uA0v"н6мtA6мtA% ≥uA-6мtA0═"З│&uAP█uA%P█uA-│&uA0Х"оФ╝uAS√uA%Ф╝uA-√CuA0┼"Нн┬uAн┬uA%н┬uA-н┬uA0╟	"╠	млtAмлtA%млtA-млtA0d"х	╓puA╓puA%╓puA-╓puA0х"н	млtAмлtA%млtA-млtA0d"Ю	млtAмлtA%млtA-млtA0d"Х	млtAмлtA%млtA-млtA0d"К	)\sA)\sA%)\sA-)\sA0d

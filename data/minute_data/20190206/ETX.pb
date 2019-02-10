@@ -1,0 +1,2 @@
+
+ETX‏§׀	"צ¸A¸A%¸A-¸A0d"י&A¸A%י&A-¸A0G"ךמכAמכA%מכA-מכA0ט"µHבAHבA%HבA-HבA0¬"¿¸A¸A%¸A-¸A0כ"°ּֽAּֽA%ּֽA-ּֽA0˜"½ּֽAּֽA%ּֽA-ּֽA0ל"נw¾Aw¾A%w¾A-w¾A0ְ"ש\A\A%\A-\A0d"׃	ffAffA%ffA-ffA0d"ב	ffAffA%ffA-ffA0d"ד	בzAבzA%בzA-בzA0"ח	q=Aq=A%q=A-q=A0d"כ	צ(Aצ(A%צ(A-צ(A0¶

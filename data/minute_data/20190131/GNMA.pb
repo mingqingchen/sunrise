@@ -1,0 +1,3 @@
+
+GNMA³§Ð	"öHáCBHáCB%HáCB-HáCB0­"q=DBìQDB%ìQDB-q=DB0”"é]>DB]>DB%]>DB-]>DB0ˆ"¥JLDBdLDB%dLDB-JLDB0œ"¯q=DBq=DB%q=DB-q=DB0°	"· IDB IDB% IDB- IDB0Ó"ŠƒQDBƒQDB%ƒQDB-ƒQDB0¬"ñ·QDB·QDB%·QDB-·QDB0d"˜)\DBLfDB%LfDB-)\DB0ø"îìQDBìQDB%ìQDB-ìQDB0•"ñ#[DB)\DB%`eDB-dLDB0Õ
+"ýÝdDBÝdDB%ÝdDB-ÝdDB0¥"‚	÷dDB÷dDB%÷dDB-÷dDB0d"Â	ffDB…DB%…DB-ffDB0´"è	®XDB®XDB%®XDB-®XDB0È"ë	ázDBázDB%ázDB-ázDB0d

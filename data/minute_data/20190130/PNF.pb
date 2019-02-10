@@ -1,0 +1,2 @@
+
+PNF╡╖п	"Ж ≥IA ≥IA% ≥IA- ≥IA0А	"█╝GIA╓pIA%╓pIA-╝GIA0░"Й ≥IA┌sIA% ≥IA-┌sIA0з"≤┘IA┘IA%┘IA-┘IA0d"нцУHAцУHA%цУHA-цУHA0d"эHАHAHАHA%HАHA-HАHA0d"ЙHАHAHАHA%HАHA-HАHA0d"ЬHАHAHАHA%HАHA-HАHA0d"└	HАHAHАHA%HАHA-HАHA0d"╥	млHAмлHA%млHA-млHA0d"б	млHAмлHA%млHA-млHA0d"м	млHAмлHA%млHA-млHA0d"ж	млHAмлHA%млHA-млHA0d"щ	млHAмлHA%млHA-млHA0d"А	млHAмлHA%млHA-млHA0d"Ф	млHAмлHA%млHA-млHA0d"Х	млHAмлHA%млHA-млHA0d"Й	цУHAцУHA%цУHA-цУHA0d

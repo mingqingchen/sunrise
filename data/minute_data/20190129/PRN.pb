@@ -1,0 +1,2 @@
+
+PRN±§Р	"ДтрYBтрYB%трYB-трYB0ђ"Л33ZB33ZB%33ZB-33ZB0d"ЧЗzZBЗzZB%ЗzZB-ЗzZB0Њ"ЏЗzZBEGZB%ЗzZB-EGZB0Й"¶!pZB!pZB%!pZB-!pZB0ъ"ј*:ZB*:ZB%*:ZB-*:ZB0З"Њ9ZB9ZB%9ZB-9ZB0‘"“)\ZB)\ZB%)\ZB-)\ZB0И"Щ	‰AZB‰AZB%‰AZB-‰AZB0Й

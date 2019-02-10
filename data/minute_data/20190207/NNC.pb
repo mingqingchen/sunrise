@@ -1,0 +1,2 @@
+
+NNCЪ╖п	"ЧЖ(DAЖ(DA%Ж(DA-Ж(DA0√"┴D▀DAD▀DA%D▀DA-D▀DA0Ь"еZdDAZdDA%ZdDA-ZdDA0{"╖БXDAБXDA%БXDA-БXDA0d"жЛQDAЛQDA%ЛQDA-ЛQDA0░"ы:▓DA:▓DA%:▓DA-:▓DA0Т"╢АzDAАzDA%АzDA-АzDA0d"≈ wDA wDA% wDA- wDA0м"овёDAн┬DA%вёDA-ЛQDA0л"ьвёDA+┤DA%вёDA-+┤DA0Б"├	Ж≈DAЖ≈DA%Ж≈DA-Ж≈DA0╔"╡	АzDAАzDA%АzDA-АzDA0х"м	млDAмлDA%млDA-млDA0п"н	млDAмлDA%млDA-вёDA0°"К	╝GEA╝GEA%╝GEA-╝GEA0d

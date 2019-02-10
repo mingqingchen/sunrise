@@ -1,0 +1,3 @@
+
+CEZЪ╖п	"юГ²нAГ²нA%Г²нA-Г²нA0А"г╚нA╚нA%╚нA-╚нA0d"┌┘мA┘мA%┘мA-┘мA0d"▐┘мA┘мA%┘мA-┘мA0d"лffнAffнA%ffнA-ffнA0х"оffнAffнA%ffнA-ffнA0╛"сffнAffнA%ffнA-ffнA0╛"у{нA{нA%{нA-{нA0d"ыq=нAq=нA%q=нA-q=нA0╛"щq=нAq=нA%q=нA-q=нA0╛"АЖ(нAЖ(нA%Ж(нA-Ж(нA0d"Бq=нAq=нA%q=нA-q=нA0╪"ХffнAffнA%ffнA-ffнA0х"│	АzнAАzнA%АzнA-АzнA0╓"м	АzнAАzнA%АzнA-АzнA0ь"з	АzнAАzнA%АzнA-АzнA0░"ъ	mенAmенA%mенA-mенA0├"Й	АzнAАzнA%АzнA-АzнA0├"■
+ffнAffнA%ffнA-ffнA0х

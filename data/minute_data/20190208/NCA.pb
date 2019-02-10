@@ -1,0 +1,2 @@
+
+NCA─╗п	"Жq=Aq=A%q=A-q=A0л"е⌠A⌠A%⌠A-⌠A0└"гКAКA%КA-КA0Г	"йq=Aq=A%q=A-q=A0d"Тq=Aq=A%ffA-┘КA0бk"УffA╥A%╥A-ffA0З:"ЖR╦AмлA%млA-R╦A0х"═33A33A%33A-33A0d"╪ffAffA%ffA-ffA0╨."╬NbAq=A%ffA-q=A0╢B"©NbANbA%NbA-NbA0⌠"СRIARIA%RIA-RIA0т"─q=Aе A%╝GA-е A0▌"─	q=AffA%ffA-q=A0х"│	NbANbA%NbA-ZA0■#"о	ffAq=A%ffA-q=A0┌*"я	ЛQAШ\A%ffA-ЛQA0²8"р	ffAq=A%ffA-q=A0л"з	\▐AlxA%\▐A-xA0▓"Ю	║gA║gA%║gA-║gA0н

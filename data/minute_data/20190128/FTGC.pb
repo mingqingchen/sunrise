@@ -1,0 +1,4 @@
+
+FTGC°§Ð	"öHá”AHá”A%Há”A-Há”A0Å."ûÓ¼”AÓ¼”A%Ó¼”A-Ó¼”A0ž"ÇÖÖ”AÖÖ”A%ÖÖ”A-ÖÖ”A0œ"ÈR¸”AR¸”A%R¸”A-R¸”A0"óÿ²”Aÿ²”A%ÿ²”A-ÿ²”A0È"­«”A«”A%«”A-«”A0É"¸®”A®”A%®”A-®”A0ë"Åš™”Aš™”A%š™”A-š™”A0"Ùê•”Aê•”A%ê•”A-ê•”A0‡"‰…”A…”A%…”A-…”A0¶
+"˜\”A\”A%\”A-\”A0š"¥££”A££”A%££”A-££”A0ä"¹×£”A×£”A%×£”A-×£”A0¾="ìáz”Aáz”A%áz”A-áz”A0ž"ï„”A„”A%„”A-„”A0®"÷££”A££”A%££”A-££”A0Š"ú×£”A×£”A%×£”A-×£”A0’R"ý~”A~”A%~”A-~”A0Ô"‰¹”Ax‹”A%¹”A-x‹”A0œ"££”Aff”A%££”A-ff”A0Þ"˜…”AJ{”A%÷†”A-J{”A0Û"›\”A\”A%\”A-\”A0‰"ž…”A…”A%…”A-…”A0"Ú\”A\”A%\”A-\”A0è"Ý ‰”A ‰”A% ‰”A- ‰”A0d"ê££”A££”A%££”A-££”A0š"ó””A””A%””A-””A0ç
+"ûš™”Aš™”A%š™”A-š™”A0÷"…	Î™”AÎ™”A%Î™”A-Î™”A0}"±	¬œ”A¬œ”A%¬œ”A-¬œ”A0·"²	”A”A%”A-”A0®"µ	×£”A££”A%×£”A-££”A0"º	7š”A7š”A%7š”A-7š”A0–"Ñ	\”A\”A%\”A-\”A0ð"Õ	×£”A\”A%×£”A-\”A0ù"ê	Cœ”ACœ”A%Cœ”A-Cœ”A0ô"ë	×£”Aq›”A%×£”A-q›”A0„

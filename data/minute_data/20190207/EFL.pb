@@ -1,0 +1,5 @@
+
+EFLЪ╖п	"Ж┘КA┘КA%┘КA-┘КA0Х"ъ{A{A%{A-{A0d"╕{A ≥A%{A- ≥A0э7"©w╬A ≥A%w╬A- ≥A0ц"з
+вA{A%{A-
+вA0л:"╝]ЧA]ЧA%]ЧA-]ЧA0Х"╟3дA3дA%3дA-3дA0п"РffAffA%ffA-ffA0d"ЖYAYA%YA-YA0┬"ЪffAffA%ffA-ffA0d"┘ffAffA%ffA-ffA0d"▀ffAffA%ffA-ffA0d"█ЧeAЧeA%ЧeA-ЧeA0█"░ffAffA%ffA-33A0·"∙ffAffA%ffA-ffA0d"≥ffAffA%ffA-ffA0d"°ffAffA%ffA-ffA0d"²!╟A!╟A%!╟A-!╟A0ъ
+"║ffAffA%ffA-ffA0d"оffAffA%ffA-ffA0d"уffAffA%ffA-ffA0d"щffAffA%ffA-ffA0d"ДffAffA%ffA-ffA0d"ЕffAffA%ffA-ffA0d"Я{A{A%{A-{A0═"ЪынAынA%ынA-ынA0░"│	HАAHАA%HАA-HАA0d"╟	HАAHАA%HАA-HАA0d"╦	HАAHАA%HАA-HАA0d"а	HАAHАA%HАA-HАA0d"и	HАAHАA%HАA-HАA0d"м	\▐A\▐A%\▐A-\▐A0d"о	HАAHАA%HАA-HАA0d"р	\▐A\▐A%\▐A-\▐A0╛"т	HАAHАA%HАA-HАA0d"ы	HАAHАA%HАA-HАA0d"щ	\▐AHАA%HАA-\▐A0╛"А	R╦AR╦A%R╦A-R╦A0d"Ф	HАA\▐A%HАA-\▐A0х"Х	HАAHАA%HАA-HАA0d"Й	HАAHАA%HАA-HАA0d"К	HАAHАA%HАA-HАA0ё

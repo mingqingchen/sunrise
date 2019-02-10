@@ -1,0 +1,2 @@
+
+MNE╠╖п	"Жq=NAq=NA%q=NA-q=NA0d"░ЛQLAЖ(LA%ЛQLA-Ж(LA0х"█ЛQLAЛQLA%ЛQLA-ЛQLA0d"ЙАzLAАzLA%АzLA-АzLA0d"▀АzLAАzLA%АzLA-АzLA0d"÷вёLAвёLA%вёLA-вёLA0d"БвёLAвёLA%вёLA-вёLA0╛"СвёLAвёLA%вёLA-вёLA0╛"ЬвёLAвёLA%вёLA-вёLA0d"│	вёLAвёLA%вёLA-вёLA0х"Ё	≤nMA≤nMA%≤nMA-≤nMA0├"ш	вёLAвёLA%вёLA-вёLA0d"щ	вёLAвёLA%вёLA-вёLA0d"Б	вёLAвёLA%вёLA-вёLA0d"Ф	вёLAвёLA%вёLA-вёLA0х"Г	вёLAвёLA%вёLA-вёLA0╛"И	вёLAвёLA%вёLA-вёLA0d"К	вёLAмлLA%млLA-вёLA0Т

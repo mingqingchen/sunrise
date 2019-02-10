@@ -1,0 +1,2 @@
+
+DTFЧ╖п	"ЖвёPAвёPA%вёPA-вёPA0Щ"┼ЛQPAЛQPA%ЛQPA-ЛQPA0d"тЖ(PAЖ(PA%Ж(PA-Ж(PA0х"вffPAffPA%ffPA-ffPA0d"ьвёPAвёPA%вёPA-вёPA0d"шjPAjPA%jPA-jPA0┼"╙млPAмлPA%млPA-млPA0d"╚млPAмлPA%млPA-млPA0d"├ЛQPAЛQPA%ЛQPA-ЛQPA0ь"НмлPAмлPA%млPA-млPA0л"╧	млPAмлPA%млPA-вёPA0└"ъ	цУPAцУPA%цУPA-цУPA0d

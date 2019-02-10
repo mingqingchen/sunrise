@@ -1,0 +1,6 @@
+
+RZAüงะ	"๖์QาA์QาA%์QาA-์QาA0ข"þ๖(าA์@าA%์@าA-{าA0฿
+"ส{าA{าA%{าA-{าA0d"ั{าA{าA%าA-{าA0ุ"็\าA\าA%\าA-\าA0ํ"ํ(~าA(~าA%(~าA-(~าA0d"๕FฅาA์QาA%FฅาA-์QาA0"ฃใฅาAใฅาA%ใฅาA-ใฅาA0บ"ฆญาAญาA%ญาA-ญาA0i"งffาAffาA%ffาA-ffาA0ศ"ฉ\าAffาA%อฬาA-ffาA0"ว์QาA์QาA%์QาA-์QาA0d"Û๋sาA๋sาA%๋sาA-๋sาA0g"์QาA์QาA%์QาA-์QาA0d"๘SาA์QาA%๘SาA-์QาA0โ"ฝ์QาA์QาA%์QาA-์QาA0"่ffาAffาA%ffาA-ffาA0d"๏ffาA์QาA%ffาA-์QาA0"þ)\าA)\าA%)\าA-)\าA0ั"€์QาA์QาA%์QาA-์QาA0๛"ffาAffาA%ffาA-2fาA0Ü"แzาAaาA%\าA-q=าA0฿"หกาAหกาA%หกาA-หกาA0"4€าA4€าA%4€าA-4€าA0"กแzาAแzาA%แzาA-แzาA0ฯ"ะ—าAแzาA%—าA-แzาA0ฮ"าแzาAแzาA%แzาA-แzาA0d"ูffาAffาA%ffาA-ffาA0”
+"ÛffาAffาA%ffาA-ffาA0d"ÝffาAffาA%ffาA-ffาA0d"฿ffาAffาA%ffาA-ffาA0d"๙ฆาAฆาA%ฆาA-ฆาA0"๛ffาAffาA%ffาA-ffาA0d"ฑ	ชาAชาA%ชาA-ชาA0ง"ถ	ืฃาARธาA%RธาA-OาA0์"ท	สฒาARธาA%RธาA-สฒาA0ศ"น	แzาAแzาA%แzาA-แzาA0d"ป	ffาAffาA%ffาA-ffาA0d"ผ	ffาAffาA%ffาA-ffาA0ญ"อ	ffาAffาA%ffาA-ffาA0d"ฯ	าAาA%าA-าA0ฌ"ุ	ffาAญzาA%ญzาA-ffาA0þ"Þ	แzาAแzาA%แzาA-แzาA0๔"๊	}PาA}PาA%}PาA-}PาA0๐"๋	ffาAq=าA%ffาA-q=าA0"•
+ffาAffาA%ffาA-ffาA0ุ"ซ
+๖(าA๖(าA%๖(าA-๖(าA0ü

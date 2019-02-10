@@ -1,0 +1,2 @@
+
+DDFЪ╖п	"Ж ≥MA ≥MA% ≥MA- ≥MA0╚"Э{NA{NA%{NA-╝GMA0═"п╝GMAshMA%P█MA-╝GMA0п"╘5^MA5^MA%5^MA-5^MA0х"╤╦MA╦MA%╦MA-╦MA0d"╥┌sMA┌sMA%┌sMA-┌sMA0┌"д)\MA)\MA%)\MA-q=MA0╢"┤)\MA╦MA%)\MA-╦MA0╟	"║╓pMA╓pMA%╓pMA-)\MA0╪"Ж╗WMA╗WMA%╗WMA-╗WMA0Э"│	╦MA ≥MA% ≥MA-цУLA0Б"╢	млLAмлLA%млLA-млLA0х"ю	млLA33MA%33MA-млLA0х"б	млLAмлLA%млLA-млLA0d"р	2ULA2ULA%2ULA-2ULA0Х"ш	млLAмлLA%млLA-млLA0ъ"К	АzLAмлLA%млLA-АzLA0▀	

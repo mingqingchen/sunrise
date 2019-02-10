@@ -1,0 +1,3 @@
+
+PFD∙з╨	"ЎR╕RAR╕RA%R╕RA-R╕RA0Ю"ДR╕RAR╕RA%R╕RA-R╕RA0Ш"╝РаRAРаRA%РаRA-РаRA0Є"╚╬QA╬QA%╬QA-╬QA0d"╨ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0Ї"╥ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0Ї"╪ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0Д"▐\ПRA\ПRA%\ПRA-\ПRA0ю"р(RA(RA%(RA-(RA0┌"с░rRA░rRA%░rRA-░rRA0┼"у\ПRA\ПRA%\ПRA-\ПRA0▄"ш9╓QA9╓QA%9╓QA-9╓QA0ш"▒╡QA╡QA%╡QA-╡QA0°"└кёQAкёQA%кёQA-кёQA0Щ"МЪЩQAЪЩQA%ЪЩQA-ЪЩQA0Д"и)\QAЪЩQA%ЪЩQA-)\QA0▐"╗єQAєQA%єQA-єQA0ш"ОЪЩQAЪЩQA%ЪЩQA-ЪЩQA0╪"┤	!QA!QA%!QA-!QA0╓"╢	ЪЩQAЪЩQA%ЪЩQA-ЪЩQA0▄"╗	╕QA╕QA%╕QA-╕QA0╚"┬	ОuQAОuQA%ОuQA-ОuQA0·"├	)\QAдpQA%дpQA-)\QA0╚"╦	╤"QA╕QA%оGQA-╕QA0д"ы	╫гPA33OA%╫гPA-33OA0Р"Ц
+сzPAсzPA%сzPA-сzPA0═

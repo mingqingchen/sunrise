@@ -1,0 +1,7 @@
+
+BLW€จะ	"๖fffAfffA%fffA-fffA0ด"๗\fA\fA%\fA-\fA0’"üfAfA%fA-fA0ๆ
+"’RธfARธfA%RธfA-RธfA0d"ผืฃfAืฃfA%ืฃfA-ืฃfA0"ฝ\fA\fA%\fA-\fA0่"พ€fA€fA%€fA-€fA0ฐ	"ฤแzfAณ{fA%๓fA-แzfA0๘
+"สfffAfffA%fffA-fffA0 "ืfffAfffA%fffA-fffA0ฏ"ฺ…fA…fA%…fA-…fA0ศ"๋ฐrfAฐrfA%ฐrfA-ฐrfA0ฆ"๑fffAfffA%fffA-fffA0ๆ"ฎþefA์QfA%fffA-์QfA0ภ"ฏู=fAAfA%บIfA-ู=fA0ค"รNbfAq=fA%NbfA-q=fA0"ูๅafAๅafA%ๅafA-ๅafA0ศ"…fffAfffA%fffA-fffA0"fffAfffA%fffA-fffA0ฬ"fffAfffA%fffA-fffA0๔"ึVfAึVfA%ึVfA-ึVfA0Þ"”รdfAรdfA%รdfA-รdfA0ป"•q=fAq=fA%q=fA-q=fA0"UfAUfA%UfA-UfA0ภ"fffAfffA%\fA-fffA0ไ"")\fA)\fA%)\fA-)\fA0"ง^fA^fA%^fA-^fA0ถ"ฌfffAQfA%fffA-QfA0ฅ"่ZfAfffA%fffA-ZfA0๘
+"๗^KfA^KfA%^KfA-^KfA0๚"๛q=fAq=fA%q=fA-q=fA0น"q=fAq=fA%q=fA-q=fA0ฐ"–QfAQfA%QfA-QfA0๘" จWfAจWfA%จWfA-จWfA0"ฬfffAq=fA%fffA-q=fA0ฬ"อู=fAู=fA%ู=fA-ู=fA0แ*"ฮq=fAþefA%fffA-q=fA0ภ"โ์QfAq=fA%์QfA-q=fA0
+"๓)\fAๅafA%ๅafA-)\fA0ฌ"€	þefAfffA%fffA-þefA0ฌ"	ZfAZfA%ZfA-ZfA0ฌ"ฐ	q=fAq=fA%q=fA-q=fA0d"น	UfAUfA%UfA-q=fA0ป"พ	รdfAรdfA%รdfA-รdfA0แ"ย	fffAfffA%fffA-fffA0ศ"ฦ	fffAfffA%fffA-q=fA0þ!"ื	์QfAq=fA%์QfA-q=fA0Û"ู	fffAfffA%fffA-fffA0ช"Ý	DfADfA%DfA-DfA0d"๊	ฦmfAฦmfA%ฦmfA-ฦmfA0โ	"๋	fffAq=fA%fffA-q=fA0Ü"–
+q=fAq=fA%q=fA-q=fA0 

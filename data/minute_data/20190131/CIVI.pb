@@ -1,0 +1,15 @@
+
+CIVI³§Ð	"ö®GA®GA%®GA-®GA0ºE"÷š™A®GA%š™A-33A0çX"ø®GA¤pA%¤pA-®GA0Ô"ù¤pA¤pA%¤pA-¤pA0¬"û®GA®GA%®GA-33A0Ÿr"ü33A®GA%®GA-33A0°""ý®GA)\A%)\A-®GA0œ•"þ®GAìQA%ìQA-®GA0´"ÿ®GA®GA%®GA-®GA0°	"€®GAq=A%®GA-33A0„"®GA®GA%®GA-®GA0Ü"‚®GA®GA%®GA-33A0°	"ƒ®GA®GA%®GA-®GA0d"†®GA®GA%®GA-®GA0d"‡®GA®GA%®GA-®GA0È"ˆq=Aq=A%q=A-q=A0È"‰q=Aq=A%q=A-q=A0x"q=A®GA%®GA-33A0ô"®GA®GA%®GA-®GA0È"‘q=Aq=A%q=A-q=A0d"È33A33A%q=A-33A0ƒ"Ì®GA®GA%®GA-®GA0d"Í®GA®GA%®GA-33A0ô"Ó®GA®GA%®GA-®GA0ô"Ô®GA®GA%®GA-®GA0"Õ®GA33A%®GA-33A0Ü"×®GA®GA%®GA-®GA0ô"Ø®GA®GA%®GA-33A0¼"Ù®GA®GA%®GA-®GA0d"Ú®GA®GA%®GA-®GA0ô"Û®GA®GA%®GA-®GA0ç"Þ®GA®GA%®GA-®GA0¬"áìQAìQA%ìQA-ìQA0d"âìQAìQA%ìQA-ìQA0È"å®GAìQA%ìQA-®GA0È"ë®GA®GA%®GA-®GA0²"ì®GA®GA%®GA-®GA0d"ïq=A33A%q=A-33A0Ì"ñq=A33A%q=A-33A0È"óq=Aq=A%q=A-q=A0d" 33A33A%33A-33A0d"£®GA®GA%®GA-®GA0¬4"¥)\A)\A%)\A-)\A0È"§)\A®GA%)\A-®GA0"¨ìQAìQA%ìQA-ìQA0d"ª®GA®GA%®GA-®GA0d"¯®GA®GA%®GA-®GA0 "±®GA®GA%®GA-®GA0d"²®GA®GA%®GA-®GA0d"³®GA®GA%®GA-®GA0"´®GA®GA%)\A-®GA0Ì"µ)\A)\A%)\A-)\A0”"¶®GA®GA%®GA-®GA0…"»®GA®GA%®GA-®GA0¼"½®GA®GA%®GA-®GA0Ø"¾®GA®GA%®GA-®GA0È"Á)\A)\A%)\A-)\A0d"Ä®GA®GA%®GA-®GA0"Å®GA®GA%®GA-®GA0È"Ç)\A®GA%)\A-®GA0¼"Ê®GA®GA%®GA-®GA0"Ì®GA®GA%®GA-®GA0d"Ð®GA®GA%®GA-®GA0¬"ÒìQAìQA%ìQA-ìQA0d"Ó®GA®GA%®GA-®GA0ô"×®GA®GA%®GA-®GA0„"Ø®GA®GA%®GA-®GA0„"„ìQA®GA%)\A-®GA0í"‰®GA®GA%®GA-®GA0È"‹®GA®GA%®GA-®GA0d"Œ)\A®GA%)\A-®GA0Ä,"Ž®GA®GA%®GA-®GA0d"‘)\A)\A%)\A-®GA0¬"’®GA®GA%®GA-®GA0ø
+"œìQA®GA%ìQA-®GA0¬"®GA®GA%®GA-®GA0d"žìQAìQA%ìQA-ìQA0d" ®GA®GA%®GA-®GA0d"¡®GA®GA%®GA-®GA0¿"°®GA®GA%®GA-®GA0Ô"±®GA)\A%)\A-®GA0„ß"»¤pA¤pA%¤pA-ffA0¬"¼ffAffA%ffA-ffA0d"¿)\A)\A%)\A-)\A0ˆ"îffAffA%¤pA-ffA0ô"ï¤pA)\A%¤pA-)\A0¤&"öffAffA%ffA-ffA0È"ü¤pA¤pA%¤pA-¤pA0d"ýffA)\A%ffA-)\A0¬"þ)\A)\A%)\A-)\A0ð"ÿ)\A)\A%)\A-)\A0È"‚)\A)\A%)\A-)\A0ÌT"„)\A)\A%)\A-)\A0¸0"…)\A)\A%)\A-)\A0d"‰¤pA¤pA%¤pA-¤pA0È"Œ)\A)\A%)\A-)\A0ð"Ž)\A)\A%)\A-)\A0È"¤pA)\A%¤pA-)\A0¬"’¤pA)\A%¤pA-)\A0ô"—)\A)\A%)\A-)\A0d"™)\A®GA%)\A-33A0¯e"œ®GA33A%®GA-33A0ùu"®GA33A%®GA-33A0è"¡33A33A%33A-33A0d"¢®GA)\A%)\A-®GA0È"Ì33A33A%33A-33A0d"Ñ?5A33A%?5A-33A0‡"Ó)\A)\A%)\A-)\A0È"Ô®GA33A%®GA-33A0È"Ö)\A33A%)\A-33A0¬"×h3A33A%h3A-33A0©"Û33A33A%®GA-33A0@"Ýq=Aq=A%q=A-q=A0d"Þq=Aq=A%q=A-q=A0È"à33A33A%33A-33A0ÔH"â33A33A%33A-33A0¨‘"æ33Aq=A%q=A-33A0Ø"ç33A33A%33A-33A0Ø6"è33A33A%33A-33A0åE"é33A33A%33A-33A0È"í33A33A%33A-33A0¬"óq=A®GA%®GA-q=A0¬"öq=Aq=A%q=A-q=A0d"ü33A33A%33A-33A0ˆ@"þq=Aq=A%q=A-q=A0d"€	33A33A%33A-33A0È"	q=Aq=A%q=A-q=A0d"†	q=A33A%q=A-33A0Ø"°	q=A)\A%)\A-q=A0õ›"±	)\A)\A%)\A-)\A0Ø"³	)\A)\A%)\A-)\A0ÀM"¸	ffA¤pA%¤pA-ffA0°	"¾	¤pA)\A%¤pA-)\A0È"¿	)\AffA%ffA-)\A0„"À	¤pA¤pA%¤pA-ffA0à"Ä	ázAázA%ázA-ázA0ô"Å	ázA…A%…A-ázA0ô"Ë	…A…A%…A-…A0d"Î	…A…A%…A-…A0"Ï	…A…A%…A-…A0ô"Ñ	…A…A%…A-…A0Ü"Ô	…A…A%…A-…A0¬"Õ	ázA…A%…A-¤pA0ü"×	ázAázA%ázA-ázA0x"Ø	¤pA¤pA%¤pA-¤pA0¼"Ù	¤pA¤pA%¤pA-¤pA0"Ú	¤pA¤pA%¤pA-¤pA0d"Ü	ázAázA%ázA-ázA0È"Ý	¤pA¤pA%¤pA-¤pA0¬"à	¤pA¤pA%¤pA-¤pA0¬"á	ázAázA%…A-ázA0"ã	ázA…A%…A-ázA0è"å	…A¤pA%…A-¤pA0¬"æ	¤pA¤pA%¤pA-¤pA0d"ç	…A…A%…A-…A0 "è	…A\A%š™A-…A0 "é	š™Aš™A%š™A-š™A0"ê	š™AÂA%ÂA-š™A0é
+"ë	ÂA®A%
+×A-®A0ë"–
+
+×A
+×A%
+×A-
+×A0¹ "˜
+
+×A
+×A%
+×A-
+×A0‘

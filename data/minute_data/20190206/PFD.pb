@@ -1,0 +1,2 @@
+
+PFDЧ╖п	"Ж╓pQA╓pQA%╓pQA-╓pQA0в"▓млPAмлPA%млPA-млPA0d"р╙`OA╙`OA%╙`OA-╙`OA0Х"ъмлPAмлPA%млPA-млPA0п"╬ЛQPAЛQPA%ЛQPA-ЛQPA0х"хАzPAАzPA%АzPA-АzPA0═"╞(PA(PA%(PA-(PA0И"┤ЛQPA╗WPA%▓\PA-ЛQPA0░"⌡ЛQPAАzPA%АzPA-ЛQPA0ь"°ЛQPA2UPA%2UPA-ЛQPA0▓"│	О8OAО8OA%О8OA-О8OA0Т"╥	БOAБOA%БOA-БOA0═"п	0╩OA0╩OA%0╩OA-0╩OA0х

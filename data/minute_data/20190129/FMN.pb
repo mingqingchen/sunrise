@@ -1,0 +1,2 @@
+
+FMN╠╖п	"ЖмлPAмлPA%млPA-млPA0З"░Ж(PAЖ(PA%Ж(PA-Ж(PA0░"╬ЛQPAЛQPA%ЛQPA-ЛQPA0х"бЖ(PAЖ(PA%Ж(PA-Ж(PA0░"еЮ°PAЮ°PA%Ю°PA-Ю°PA0З"г-PA-PA%-PA--PA0Ь"УмлPAмлPA%млPA-млPA0d"═╥bPA╥bPA%╥bPA-╥bPA0ч"╖АzPAАzPA%АzPA-АzPA0d"имлPAмлPA%млPA-млPA0d"▀млPAмлPA%млPA-млPA0d"╗млPAмлPA%млPA-млPA0╓"ВЛQPAЛQPA%ЛQPA-ЛQPA0░"щ	b║PAb║PA%b║PA-b║PA0╒"К	ЛQPAЛQPA%ЛQPA-ЛQPA0х

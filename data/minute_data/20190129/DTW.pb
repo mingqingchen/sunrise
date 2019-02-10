@@ -1,0 +1,3 @@
+
+DTW±§Ð	"öHá¾AHá¾A%Há¾A-Há¾A0º"Ø×£¾A;ß¾A%;ß¾A-×£¾A0ƒ"ÚHá¾AÃõ¾A%Ãõ¾A-Há¾A0Ø"êÃõ¾AÃõ¾A%Ãõ¾A-Há¾A0ô"ëÃõ¾AÃõ¾A%Ãõ¾A-Ãõ¾A0È"íHá¾AÍ¾A%Ãõ¾A-ÍÌ¾A0ˆ'"îÍÌ¾AÍÌ¾A%ÍÌ¾A-ÍÌ¾A0È"²(¾A(¾A%(¾A-(¾A0è"¶ö(¾Aö(¾A%ö(¾A-ö(¾A0d"¿ö(¾Aö(¾A%ö(¾A-ö(¾A0"Å–¾A–¾A%–¾A-–¾A0¼"ÇÍÌ¾AÍÌ¾A%ÍÌ¾A-ÍÌ¾A0d"ÑR¸¾A‘¾A%ÍÌ¾A-‘¾A0°"ž¹¾A¹¾A%¹¾A-¹¾A0è"©33¾A33¾A%33¾A-33¾A0È"­áz¾Aáz¾A%áz¾A-áz¾A0d"“áz¾Aáz¾A%áz¾A-áz¾A0È"”áz¾Aáz¾A%áz¾A-áz¾A0d"–áz¾Aáz¾A%áz¾A-áz¾A0d"áz¾Aáz¾A%áz¾A-áz¾A0Þ"žÍÌ¾AÍÌ¾A%ÍÌ¾A-ÍÌ¾A0È"¡ÍÌ¾AÕx¾A%ÍÌ¾A-Õx¾A0¼"ëF”¾A\¾A%F”¾A-\¾A0ô"î˜Ì¾A˜Ì¾A%˜Ì¾A-˜Ì¾A0"óff¾Aff¾A%ff¾A-ff¾A0d"ýx¾Ax¾A%x¾A-x¾A0Š"ÿff¾Aff¾A%ff¾A-ff¾A0d"€	R¸¾A\¾A%R¸¾A-\¾A0Ø"‚	\¾A\¾A%\¾A-\¾A0d"¶	ff¾Aff¾A%ff¾A-ff¾A0d"¿	ff¾Aff¾A%R¸¾A-ff¾A0ø
+"Á	ff¾Ash¾A%sh¾A-ff¾A0¯"Ç	ff¾Aff¾A%ff¾A-ff¾A0d"Õ	ff¾Aff¾A%ff¾A-ff¾A0d"Ý	áz¾Aff¾A%áz¾A-ff¾A0ì"ß	R¸¾AR¸¾A%R¸¾A-R¸¾A0ô"à	ff¾Aff¾A%ff¾A-ff¾A0d"å	R¸¾AR¸¾A%R¸¾A-R¸¾A0È"é	R¸¾Aff¾A%R¸¾A-ff¾A0È

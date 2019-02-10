@@ -1,0 +1,11 @@
+
+LAKE±§Ð	"ø¸5A¸5A%¸5A-¸5A0d"ü¸5A®G1A%¸5A-®G1A0«"þÍÌ0A¤p1A%¤p1A-ÍÌ0A0°	"ÿ®G1A¤p1A%¤p1A-®G1A0È"¤p1A¤p1A%¤p1A-¤p1A0d"“®G1A®G1A%®G1A-®G1A0d"À®G1A®G1A%®G1A-®G1A0d"Ã®G1A®G1A%®G1A-®G1A0d"Å®G1A®G1A%®G1A-®G1A0d"É®G1A®G1A%®G1A-®G1A0d"Ï®G1A®G1A%®G1A-®G1A0d"Õ®G1A®G1A%®G1A-®G1A0d"Ü®G1A®G1A%®G1A-®G1A0d"ä®G1A®G1A%®G1A-®G1A0d"ë®G1A®G1A%®G1A-®G1A0d"ðR¸0AÍÌ0A%ÍÌ0A-ìQ0A0ô"§Ãõ0AÃõ0A%Ãõ0A-Ãõ0A0d"¯®G1A®G1A%®G1A-®G1A0d"‰Há2AHá2A%Há2A-Há2A0È"Há2A\2A%Há2A-\2A0 " R¸2AR¸2A%R¸2A-R¸2A0d"Õ=
+3A=
+3A%=
+3A-=
+3A0Ë"ä=
+3A=
+3A%=
+3A-=
+3A0–"é\2A\2A%\2A-\2A0d"…	Há2A\2A%Há2A-\2A0¼"Û	ÍÌ2AÍÌ2A%ÍÌ2A-ÍÌ2A0d"â	\2A\2A%\2A-\2A0d"ä	\2AÂ1A%\2A-Â1A0ƒ"ë	R¸2AR¸2A%R¸2A-R¸2A0d"”
+×£0A×£0A%×£0A-×£0A0°
