@@ -1,0 +1,27 @@
+syntax = "proto2";
+
+package tutorial;
+
+// Buy drop strategy param
+message BuyDropStrategyParam {
+  required int32 num_slot = 1;
+
+  // if the number of time points of one daily symbol in the simulation is below this threshold, the symbol will not be considered as buy
+  required int32 minimal_timepoint = 2;
+
+  // if the price of one time point of a symbol is below this threshold, will not considered as buy
+  required float minimal_price = 3;
+
+  // if the price drop vs. open price is below this threshold, this symbol will be considered as buy candidate.
+  // typically a negative value.
+  required float drop_threshold = 4;
+
+  // Maixmal allowed number of buy within one day for a symbol
+  required int32 num_buy_time = 5;
+
+  // If the price increased ratio (compared to buy price) is larger than this, sell
+  required float rebound_sell_threshold = 6;
+
+  // if the price increased ratio (compared to buy price) is smaller than this, sell (this value is typically negative)
+  required float stop_loss_sell_threshold = 7;
+}

@@ -36,6 +36,8 @@ class Simulation():
   def __update_portfolio(self, time_int_val):
     symbol_timeslot_map = dict()
     for symbol in self.portfolio_.get_current_hold_symbol_list():
+      if not self.data_manager_.is_symbol_available(symbol):
+        continue
       result, one_slot_data = self.data_manager_.get_symbol_minute_data(symbol, time_int_val)
       if result == 2:
         continue

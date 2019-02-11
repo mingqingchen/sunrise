@@ -211,6 +211,9 @@ class DataProvider:
     self.one_day_data_[symbol] = one_stock_data
     return True
 
+  def is_symbol_available(self, symbol):
+    return symbol in self.one_day_data_
+
   def get_one_symbol_data(self, symbol):
     return self.one_day_data_[symbol]
 

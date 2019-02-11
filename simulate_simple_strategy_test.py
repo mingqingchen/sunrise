@@ -4,6 +4,7 @@ import sim_environment.trade_strategy_buy_and_hold_one_stock as trade_strategy_b
 import sim_environment.trade_strategy_buy_and_sell_one_stock_eod as trade_strategy_buy_and_sell_one_stock_eod
 import util.data_provider as data_provider
 import util.sim_html_report as sim_html_report
+import common_test_util
 import unittest
 
 
@@ -33,23 +34,6 @@ class TestSimulation(unittest.TestCase):
       'Basic buy and hold', transactions, date_time_list, balances, skip_details=False)
     report.export('./report_buy_and_hold_amzn', dp)
 
-  def _check_transaction_correct(self, initial_deposit, transactions):
-    """A function that checks transactions are correct. This can be used to test all trade strategies.
-      Returns:
-        remaining balance
-    """
-    amount = initial_deposit
-    for transaction in transactions:
-      if transaction.type == simulation_pb2.Transaction.BUY:
-        amount = amount - transaction.amount * transaction.price - transaction.commission_fee
-        print amount
-        self.assertTrue(amount > 0)
-      elif transaction.type == simulation_pb2.Transaction.SELL:
-        amount = amount + transaction.amount * transaction.price - transaction.commission_fee
-        print amount
-        self.assertTrue(amount > 0)
-    return amount
-
   def test_buy_and_sell_eod_strategy(self):
     sim = simulation.Simulation('basic simulation')
     dp = data_provider.DataProvider('./data/minute_data/', use_eligible_list=False)
@@ -77,14 +61,13 @@ class TestSimulation(unittest.TestCase):
         self.assertFalse(transaction.date in sell_date_set)
         sell_date_set.add(transaction.date)
 
-    amount = self._check_transaction_correct(initial_deposit, transactions)
+    amount = common_test_util.check_transaction_correct(initial_deposit, transactions)
+    self.assertGreaterEqual(amount, 0)
     self.assertAlmostEqual(amount, balances[-1], delta=0.1)
 
     report = sim_html_report.SimulationHtmlReport(
       'Basic buy and sell EOD', transactions, datetime_list, balances, skip_details=False)
     report.export('./report_buy_and_sell_amzn', dp)
-
-
 
 
 if __name__ == "__main__":

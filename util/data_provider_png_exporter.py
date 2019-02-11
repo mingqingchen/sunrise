@@ -2,7 +2,6 @@ import argparse
 import datetime_util
 import matplotlib.pyplot as plt
 import os, sys
-import sim_environment.simulation_pb2 as simulation_pb2
 import tensorflow as tf
 
 import data_provider
@@ -39,12 +38,14 @@ class DataProviderPngExporter:
       else:
         plt.vlines(time_list[k], open_list[k], open_list[k] + k_epsilon, 'g', linewidth=k_open_close_line_width)
 
-    for transaction in transactions:
-      transaction_time = datetime_util.int_to_time(transaction.time)
-      vline_color = 'r'
-      if transaction.type == simulation_pb2.Transaction.SELL:
-        vline_color = 'b'
-      plt.axvline(x=transaction_time, color=vline_color)
+    if transactions:
+      import sim_environment.simulation_pb2 as simulation_pb2
+      for transaction in transactions:
+        transaction_time = datetime_util.int_to_time(transaction.time)
+        vline_color = 'r'
+        if transaction.type == simulation_pb2.Transaction.SELL:
+          vline_color = 'b'
+        plt.axvline(x=transaction_time, color=vline_color)
 
 
     plt.grid()
@@ -72,7 +73,7 @@ class DataProviderPngExporter:
         print('Not able to deserialize symbol {0}'.format(symbol))
         continue
       png_file_path = os.path.join(FLAGS.output_png_dir, symbol + '.png')
-      self.export_one_symbol_one_day(symbol, one_stock_data, png_file_path)
+      self.export_one_symbol_one_day(symbol, one_stock_data, png_file_path, transactions=None)
 
       print('Start Time: {0}'.format(one_stock_data.data[0].time_val))
       print('End Time: {0}'.format(one_stock_data.data[-1].time_val))
